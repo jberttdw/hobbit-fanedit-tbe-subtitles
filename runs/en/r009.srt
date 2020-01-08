@@ -1,0 +1,207 @@
+﻿1
+00:28:54,594 --> 00:28:59,594
+Hello?
+
+2
+00:29:06,481 --> 00:29:08,148
+Yes.
+
+3
+00:29:08,149 --> 00:29:13,149
+Yes.
+
+4
+00:30:22,098 --> 00:30:23,265
+Here...
+
+5
+00:30:23,266 --> 00:30:25,184
+...Mr. Bilbo, where are you off to?
+
+6
+00:30:25,185 --> 00:30:27,770
+- Can't stop, I'm already late!
+- Late for what?
+
+7
+00:30:27,771 --> 00:30:32,771
+I'm going on an adventure!
+
+8
+00:30:36,279 --> 00:30:39,907
+I said it. Didn't I say it?
+Coming here was a waste of time.
+
+9
+00:30:39,908 --> 00:30:41,658
+That's true enough.
+
+10
+00:30:41,659 --> 00:30:44,703
+Ridiculous notion. Use a Hobbit?
+A Halfling?
+
+11
+00:30:44,704 --> 00:30:46,288
+Whose idea was it anyway?
+
+12
+00:30:46,289 --> 00:30:48,165
+Wait!
+
+13
+00:30:48,166 --> 00:30:49,416
+Wait!
+
+14
+00:30:49,417 --> 00:30:51,168
+Whoa, whoa.
+
+15
+00:30:52,670 --> 00:30:57,670
+Whoa, whoa.
+
+16
+00:31:00,428 --> 00:31:03,722
+I signed it.
+
+17
+00:31:03,723 --> 00:31:08,723
+Here.
+
+18
+00:31:14,150 --> 00:31:15,442
+Everything appears...
+
+19
+00:31:15,443 --> 00:31:17,069
+...to be in order.
+
+20
+00:31:17,070 --> 00:31:20,030
+Welcome, Master Baggins...
+
+21
+00:31:20,031 --> 00:31:23,867
+...to the company of Thorin Oakenshield.
+
+22
+00:31:28,998 --> 00:31:30,624
+Give him a pony.
+
+23
+00:31:30,625 --> 00:31:32,417
+No, no, that won't be necessary.
+
+24
+00:31:32,418 --> 00:31:34,795
+Thank you. I'm sure I can keep up on foot.
+
+25
+00:31:34,796 --> 00:31:37,548
+I've done my fair share of walking holidays,
+you know?
+
+26
+00:31:37,549 --> 00:31:42,549
+Even got as far as Frogmorton once. Aah!
+
+27
+00:31:53,481 --> 00:31:57,359
+Come on, Nori. Pay up.
+
+28
+00:31:57,360 --> 00:31:59,611
+One more.
+Thanks, lad.
+
+29
+00:31:59,612 --> 00:32:01,363
+What's that about?
+
+30
+00:32:01,364 --> 00:32:06,076
+Oh, they took wagers
+on whether or not you'd turn up.
+
+31
+00:32:06,077 --> 00:32:10,247
+Most of them bet that you wouldn't.
+
+32
+00:32:10,248 --> 00:32:12,040
+And what did you think?
+
+33
+00:32:12,041 --> 00:32:16,628
+Well...
+
+34
+00:32:16,629 --> 00:32:21,629
+My dear fellow,
+I never doubted you for a second.
+
+35
+00:32:26,097 --> 00:32:30,267
+It's horse hair. Having a reaction.
+
+36
+00:32:31,644 --> 00:32:33,896
+No, wait, wait, stop.
+
+37
+00:32:33,897 --> 00:32:36,315
+Stop! We have to turn around.
+
+38
+00:32:36,316 --> 00:32:37,482
+What on earth...
+
+39
+00:32:37,483 --> 00:32:38,525
+...is the matter?
+
+40
+00:32:38,526 --> 00:32:42,321
+- I forgot my handkerchief.
+Here.
+
+41
+00:32:42,322 --> 00:32:46,283
+Use this.
+
+42
+00:32:47,785 --> 00:32:52,785
+Move on.
+
+43
+00:32:56,461 --> 00:32:59,463
+<i>You'll have to manage
+without pocket handkerchiefs. ..</i>
+
+44
+00:32:59,464 --> 00:33:01,965
+<i>...and a good many other things,
+Bilbo Baggins...</i>
+
+45
+00:33:01,966 --> 00:33:05,928
+<i>...before we reach our journey's end.</i>
+
+46
+00:33:05,929 --> 00:33:06,929
+<i>You were born...</i>
+
+47
+00:33:06,930 --> 00:33:11,930
+<i>...to the rolling hills
+and little rivers of the Shire.</i>
+
+48
+00:33:12,352 --> 00:33:15,437
+<i>But home is now behind you.</i>
+
+49
+00:33:15,438 --> 00:33:20,438
+<i>The world is ahead.</i>
+

@@ -1,0 +1,66 @@
+﻿1
+01:19:14,563 --> 01:19:16,439
+<i>GREAT GOBLIN
+Bones will be shattered</i>
+
+2
+01:19:16,440 --> 01:19:17,940
+<i>Necks will be wrung</i>
+
+3
+01:19:17,941 --> 01:19:19,275
+<i>You'll be beaten</i>
+
+4
+01:19:19,276 --> 01:19:21,694
+<i>And battered
+From racks you'll be hung</i>
+
+5
+01:19:21,695 --> 01:19:23,613
+<i>You will die down here</i>
+
+6
+01:19:23,614 --> 01:19:25,156
+<i>And never be</i>
+
+7
+01:19:25,157 --> 01:19:26,074
+<i>Found</i>
+
+8
+01:19:26,075 --> 01:19:27,825
+<i>Down in the deep</i>
+
+9
+01:19:27,826 --> 01:19:32,826
+<i>Of Goblin-town</i>
+
+10
+01:19:33,123 --> 01:19:35,083
+I know that sword!
+
+11
+01:19:35,084 --> 01:19:37,710
+It is the Goblin-cleaver!
+
+12
+01:19:37,711 --> 01:19:40,129
+The Biter!
+
+13
+01:19:40,130 --> 01:19:41,672
+The blade that sliced...
+
+14
+01:19:41,673 --> 01:19:44,717
+...a thousand necks! Slash them!
+
+15
+01:19:44,718 --> 01:19:47,011
+Beat them! Kill them!
+
+16
+01:19:47,012 --> 01:19:48,888
+Kill them all!
+

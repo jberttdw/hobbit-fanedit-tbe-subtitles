@@ -1,0 +1,50 @@
+﻿1
+03:46:56,971 --> 03:46:59,180
+My children! Where are my children?
+
+2
+03:46:59,433 --> 03:47:02,350
+I saw them!
+They were down in the old market!
+
+3
+03:47:02,601 --> 03:47:03,810
+The market?
+
+4
+03:47:04,312 --> 03:47:05,729
+Where are they now?
+
+5
+03:47:05,980 --> 03:47:07,564
+Tilda! Sigrid!
+
+6
+03:47:07,815 --> 03:47:10,483
+Bard! Orcs are storming over the causeway!
+
+7
+03:47:11,403 --> 03:47:14,738
+Get the bowmen to the eastern parapet.
+Hold them off as long as you can.
+
+8
+03:47:14,989 --> 03:47:16,991
+Archers! This way!
+
+9
+03:47:17,242 --> 03:47:19,452
+The Orcs have taken Stone Street!
+
+10
+03:47:19,702 --> 03:47:21,412
+The market's overrun!
+
+11
+03:47:24,707 --> 03:47:26,250
+The rest of you...
+
+12
+03:47:26,501 --> 03:47:27,835
+...follow me!
+

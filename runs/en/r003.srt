@@ -1,0 +1,16 @@
+﻿1
+00:02:23,641 --> 00:02:27,269
+<i>In those days, I was always on time.</i>
+
+2
+00:02:27,270 --> 00:02:31,356
+<i>I was entirely respectable.</i>
+
+3
+00:02:31,357 --> 00:02:35,569
+<i>And nothing unexpected...</i>
+
+4
+00:02:35,570 --> 00:02:40,570
+<i>...ever happened.</i>
+

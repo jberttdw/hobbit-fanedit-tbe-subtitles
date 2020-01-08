@@ -1,0 +1,248 @@
+﻿1
+02:12:24,000 --> 02:12:25,160
+- Again!
+- Leave it!
+
+2
+02:12:25,840 --> 02:12:27,251
+There's no way out!
+
+3
+02:12:27,480 --> 02:12:29,482
+This is no Orc dungeon.
+
+4
+02:12:29,760 --> 02:12:32,240
+These are the Halls
+of the Woodland Realm.
+
+5
+02:12:32,520 --> 02:12:36,320
+No one leaves here
+but by the king's consent.
+
+6
+02:12:41,000 --> 02:12:44,561
+Some may imagine
+that a noble quest is at hand.
+
+7
+02:12:45,200 --> 02:12:48,044
+A quest to reclaim a homeland...
+
+8
+02:12:48,320 --> 02:12:50,049
+and slay a dragon.
+
+9
+02:12:51,440 --> 02:12:55,445
+I myself suspect a more prosaic motive.
+
+10
+02:12:56,320 --> 02:12:57,970
+Attempted burglary.
+
+11
+02:12:58,720 --> 02:13:01,007
+Or something of that ilk.
+
+12
+02:13:04,160 --> 02:13:06,161
+You have found... a way in.
+
+13
+02:13:06,400 --> 02:13:07,575
+You seek that which would...
+
+14
+02:13:07,600 --> 02:13:10,604
+bestow upon you the right to rule.
+
+15
+02:13:11,280 --> 02:13:13,169
+The King's Jewel.
+
+16
+02:13:14,080 --> 02:13:15,570
+The Arkenstone.
+
+17
+02:13:17,840 --> 02:13:21,162
+It is precious to you beyond measure.
+
+18
+02:13:22,160 --> 02:13:23,889
+I understand that.
+
+19
+02:13:24,840 --> 02:13:28,481
+There are gems in the mountain
+that I too desire.
+
+20
+02:13:29,800 --> 02:13:33,088
+White gems... of
+pure starlight.
+
+21
+02:13:34,120 --> 02:13:36,407
+I offer you my help.
+
+22
+02:13:39,600 --> 02:13:40,965
+I am listening.
+
+23
+02:13:41,240 --> 02:13:42,844
+I will let you go...
+
+24
+02:13:43,840 --> 02:13:46,525
+if you but return what is mine.
+
+25
+02:13:49,720 --> 02:13:51,051
+A favor for a favor.
+
+26
+02:13:51,280 --> 02:13:52,400
+You have my word.
+
+27
+02:13:53,640 --> 02:13:56,166
+One king to another.
+
+28
+02:14:00,320 --> 02:14:03,563
+I would not trust Thranduil...
+
+29
+02:14:04,600 --> 02:14:05,567
+the great king...
+
+30
+02:14:05,800 --> 02:14:06,961
+to honor his word...
+
+31
+02:14:07,200 --> 02:14:09,726
+should the end of all days
+be upon us!
+
+32
+02:14:10,360 --> 02:14:10,929
+You...
+
+33
+02:14:11,440 --> 02:14:13,641
+who lack all... honor!
+
+34
+02:14:14,720 --> 02:14:16,768
+I have seen how you treat your friends.
+
+35
+02:14:17,440 --> 02:14:21,081
+We came to you once,
+starving, homeless...
+
+36
+02:14:21,320 --> 02:14:22,765
+seeking your help.
+
+37
+02:14:23,320 --> 02:14:25,687
+But you turned your back!
+
+38
+02:14:26,000 --> 02:14:29,607
+You turned away from
+the suffering of my people...
+
+39
+02:14:29,880 --> 02:14:31,848
+and the inferno that destroyed us.
+
+40
+02:14:34,360 --> 02:14:36,522
+Do not talk to me of dragon fire.
+
+41
+02:14:37,000 --> 02:14:37,569
+I know...
+
+42
+02:14:37,840 --> 02:14:40,081
+its wrath and ruin.
+
+43
+02:14:44,240 --> 02:14:45,446
+I have faced...
+
+44
+02:14:45,720 --> 02:14:48,485
+the great serpents of the North.
+
+45
+02:14:50,720 --> 02:14:51,360
+I warned your...
+
+46
+02:14:51,560 --> 02:14:54,848
+grandfather of what his greed
+would summon.
+
+47
+02:14:56,400 --> 02:14:58,323
+But he would not listen.
+
+48
+02:15:02,880 --> 02:15:04,928
+You are just like him.
+
+49
+02:15:07,400 --> 02:15:10,970
+Stay here if you will...
+...and rot.
+
+50
+02:15:11,200 --> 02:15:13,123
+A hundred years is a mere blink...
+
+51
+02:15:13,360 --> 02:15:15,362
+in the life of an Elf.
+
+52
+02:15:15,600 --> 02:15:17,284
+I'm patient.
+
+53
+02:15:18,320 --> 02:15:20,322
+I can wait.
+
+54
+02:15:27,800 --> 02:15:28,881
+Did he offer you a deal?
+
+55
+02:15:29,120 --> 02:15:30,281
+He did.
+
+56
+02:15:32,000 --> 02:15:34,367
+I told him he could go
+<i>îsh kakhfê ai-'d dûr-rugnu!</i>
+
+57
+02:15:36,120 --> 02:15:36,928
+Him and all his kin!
+
+58
+02:15:38,960 --> 02:15:40,724
+Well, that's that, then.
+
+59
+02:15:42,440 --> 02:15:44,920
+A deal was our only hope.
+

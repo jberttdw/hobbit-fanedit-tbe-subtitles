@@ -1,0 +1,283 @@
+﻿1
+00:33:59,190 --> 00:34:04,190
+Hello, girl. Who's a good girl?
+
+2
+00:34:06,155 --> 00:34:08,282
+It's our little secret, Myrtle.
+
+3
+00:34:08,283 --> 00:34:10,450
+You must tell no one. Shh, shh.
+
+4
+00:34:14,956 --> 00:34:17,374
+What was that?
+
+5
+00:34:17,375 --> 00:34:19,126
+<i>Orcs.</i>
+
+6
+00:34:19,127 --> 00:34:21,837
+Orcs?
+
+7
+00:34:21,838 --> 00:34:22,879
+Throat-cutters.
+
+8
+00:34:22,880 --> 00:34:24,965
+There'll be dozens of them out there.
+
+9
+00:34:24,966 --> 00:34:26,008
+The lone-lands...
+
+10
+00:34:26,009 --> 00:34:28,176
+...are crawling with them.
+KILI: They strike...
+
+11
+00:34:28,177 --> 00:34:32,222
+...in the wee small hours when everyone's
+asleep. Quick and quiet, no screams.
+
+12
+00:34:32,223 --> 00:34:36,768
+Just lots of blood.
+
+13
+00:34:38,062 --> 00:34:41,606
+You think that's funny?
+
+14
+00:34:41,607 --> 00:34:44,776
+You think a night raid by Orcs is a joke?
+
+15
+00:34:44,777 --> 00:34:47,404
+We didn't mean anything by it.
+
+16
+00:34:47,405 --> 00:34:49,489
+No, you didn't.
+
+17
+00:34:49,490 --> 00:34:53,452
+You know nothing of the world.
+
+18
+00:34:53,453 --> 00:34:55,871
+Don't mind him, laddie.
+
+19
+00:34:55,872 --> 00:35:00,872
+Thorin has more cause than most
+to hate Orcs.
+
+20
+00:35:05,214 --> 00:35:08,633
+After the dragon took the Lonely Mountain...
+
+21
+00:35:08,634 --> 00:35:09,926
+...King Thror...
+
+22
+00:35:09,927 --> 00:35:14,927
+...tried to reclaim
+the ancient Dwarf kingdom of Moria.
+
+23
+00:35:16,309 --> 00:35:21,309
+<i>But our enemy had got there first.</i>
+
+24
+00:35:31,908 --> 00:35:36,661
+<i>Moria had been taken by legions of Ores...</i>
+
+25
+00:35:36,662 --> 00:35:38,747
+<i>...led by the most vile...</i>
+
+26
+00:35:38,748 --> 00:35:41,333
+<i>...of all their race:</i>
+
+27
+00:35:41,334 --> 00:35:43,752
+<i>Azog...</i>
+
+28
+00:35:43,753 --> 00:35:46,755
+<i>...the Defiler.</i>
+
+29
+00:35:46,756 --> 00:35:49,925
+<i>The giant Gundabad Orc...</i>
+
+30
+00:35:49,926 --> 00:35:54,926
+...had sworn to wipe out the line of Durin.
+
+31
+00:35:59,102 --> 00:36:01,937
+He began...
+
+32
+00:36:01,938 --> 00:36:04,022
+...by beheading the king.
+
+33
+00:36:15,201 --> 00:36:19,287
+No!
+
+34
+00:36:19,288 --> 00:36:21,540
+Thrain, Thorin's father...
+
+35
+00:36:21,541 --> 00:36:24,334
+...was driven mad by grief.
+
+36
+00:36:24,335 --> 00:36:27,546
+He went missing. Taken prisoner or killed...
+
+37
+00:36:27,547 --> 00:36:30,465
+...we did not know.
+
+38
+00:36:30,466 --> 00:36:32,717
+We were leaderless.
+
+39
+00:36:32,718 --> 00:36:36,471
+<i>Defeat and death...</i>
+
+40
+00:36:36,472 --> 00:36:41,226
+<i>...were upon us.</i>
+
+41
+00:36:41,227 --> 00:36:46,227
+That is when I saw him.
+
+42
+00:36:47,316 --> 00:36:49,985
+A young Dwarf prince...
+
+43
+00:36:49,986 --> 00:36:51,611
+<i>...facing down...</i>
+
+44
+00:36:51,612 --> 00:36:56,612
+<i>...the pale Orc.</i>
+
+45
+00:36:57,869 --> 00:36:59,411
+<i>He stood alone...</i>
+
+46
+00:36:59,412 --> 00:37:01,705
+<i>...against this terrible foe.</i>
+
+47
+00:37:11,215 --> 00:37:13,049
+<i>His armor rent...</i>
+
+48
+00:37:13,050 --> 00:37:14,009
+...wielding nothing...
+
+49
+00:37:14,010 --> 00:37:15,760
+<i>...but an oaken branch...</i>
+
+50
+00:37:15,761 --> 00:37:20,761
+<i>...as a shield.</i>
+
+51
+00:37:29,567 --> 00:37:30,567
+<i>Azog...</i>
+
+52
+00:37:30,568 --> 00:37:34,821
+<i>...the Defiler learned that day...</i>
+
+53
+00:37:34,822 --> 00:37:39,822
+...that the line of Durin
+would not be so easily broken.
+
+54
+00:38:07,104 --> 00:38:10,524
+<i>Our forces rallied...</i>
+
+55
+00:38:10,525 --> 00:38:14,194
+<i>...and drove the Orcs back.</i>
+
+56
+00:38:14,195 --> 00:38:16,321
+<i>And our enemy...</i>
+
+57
+00:38:16,322 --> 00:38:19,783
+<i>...had been defeated.</i>
+
+58
+00:38:19,784 --> 00:38:22,827
+But there was no feast...
+
+59
+00:38:22,828 --> 00:38:25,789
+...nor song that night...
+
+60
+00:38:25,790 --> 00:38:30,790
+<i>...for our dead
+were beyond the count of grief.</i>
+
+61
+00:38:31,629 --> 00:38:36,629
+<i>We few had survived.</i>
+
+62
+00:38:42,139 --> 00:38:47,139
+<i>And I thought to myself then...</i>
+
+63
+00:38:47,812 --> 00:38:52,812
+<i>...there is one who I could follow.</i>
+
+64
+00:38:54,318 --> 00:38:57,195
+There is one...
+
+65
+00:38:57,196 --> 00:39:02,196
+...I could call king.
+
+66
+00:39:18,134 --> 00:39:21,845
+And the pale Orc?
+
+67
+00:39:21,846 --> 00:39:23,513
+What happened to him?
+
+68
+00:39:23,514 --> 00:39:27,475
+He slunk back into the hole
+whence he came.
+
+69
+00:39:27,476 --> 00:39:32,476
+That filth died of his wounds long ago.
+

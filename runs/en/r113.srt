@@ -1,0 +1,292 @@
+﻿1
+03:20:21,078 --> 03:20:23,538
+...why should I honor such terms?
+
+2
+03:20:25,709 --> 03:20:27,667
+Because you gave us your word.
+
+3
+03:20:31,923 --> 03:20:34,091
+Does that mean nothing?
+
+4
+03:20:48,647 --> 03:20:49,814
+Be gone!
+
+5
+03:20:50,691 --> 03:20:51,691
+Ere our arrows...
+
+6
+03:20:51,817 --> 03:20:52,942
+...fly!
+
+7
+03:21:10,962 --> 03:21:12,254
+What are you doing?
+
+8
+03:21:13,798 --> 03:21:16,466
+You cannot go to war.
+
+9
+03:21:17,636 --> 03:21:19,928
+- This does not concern you.
+- Excuse me...
+
+10
+03:21:20,180 --> 03:21:23,640
+...but in case you haven't noticed,
+there is an army of Elves out there.
+
+11
+03:21:23,892 --> 03:21:26,685
+Not to mention several hundred
+angry fishermen.
+
+12
+03:21:27,562 --> 03:21:29,020
+We are, in fact, outnumbered.
+
+13
+03:21:31,691 --> 03:21:32,899
+Not for much longer.
+
+14
+03:21:34,694 --> 03:21:35,694
+What does that mean?
+
+15
+03:21:35,946 --> 03:21:37,696
+It means, Master Baggins...
+
+16
+03:21:40,741 --> 03:21:43,077
+...you should never underestimate Dwarves.
+
+17
+03:21:46,790 --> 03:21:48,582
+We have reclaimed Erebor.
+
+18
+03:21:49,834 --> 03:21:51,084
+Now...
+
+19
+03:21:51,336 --> 03:21:52,919
+...we defend it.
+
+20
+03:22:10,772 --> 03:22:12,606
+He will give us nothing.
+
+21
+03:22:14,024 --> 03:22:15,234
+Such a pity.
+
+22
+03:22:15,484 --> 03:22:16,109
+Still...
+
+23
+03:22:16,361 --> 03:22:18,861
+- ...you tried.
+- I do not understand.
+
+24
+03:22:20,073 --> 03:22:21,156
+Why?
+
+25
+03:22:21,908 --> 03:22:23,408
+Why would he risk war?
+
+26
+03:22:36,839 --> 03:22:39,133
+It is fruitless to reason with them.
+
+27
+03:22:39,383 --> 03:22:40,383
+They understand...
+
+28
+03:22:40,634 --> 03:22:41,968
+...only one thing.
+
+29
+03:22:45,932 --> 03:22:47,140
+We attack at dawn.
+
+30
+03:22:50,352 --> 03:22:51,854
+Are you with us?
+
+31
+03:23:23,636 --> 03:23:24,636
+Aye.
+
+32
+03:23:28,515 --> 03:23:30,933
+Master Baggins, come here.
+
+33
+03:23:48,160 --> 03:23:49,870
+You're going to need this.
+
+34
+03:23:51,372 --> 03:23:52,622
+Put it on.
+
+35
+03:23:57,629 --> 03:24:00,381
+This vest is made of silver steel.
+
+36
+03:24:02,883 --> 03:24:04,258
+Mithril...
+
+37
+03:24:04,511 --> 03:24:06,678
+...it was called by my forebears.
+
+38
+03:24:09,808 --> 03:24:11,892
+No blade can pierce it.
+
+39
+03:24:23,196 --> 03:24:24,196
+I look absurd.
+
+40
+03:24:24,446 --> 03:24:26,448
+I'm not a warrior, I'm a Hobbit.
+
+41
+03:24:26,698 --> 03:24:28,158
+It is a gift.
+
+42
+03:24:29,702 --> 03:24:31,245
+A token of our friendship.
+
+43
+03:24:34,624 --> 03:24:36,999
+True friends are hard to come by.
+
+44
+03:24:38,669 --> 03:24:40,337
+I have been blind...
+
+45
+03:24:40,587 --> 03:24:42,464
+...but now I begin to see.
+
+46
+03:24:43,841 --> 03:24:45,341
+I am betrayed.
+
+47
+03:24:46,678 --> 03:24:48,053
+Betrayed?
+
+48
+03:24:48,595 --> 03:24:50,430
+The Arkenstone.
+
+49
+03:24:59,899 --> 03:25:01,399
+One of them has taken it.
+
+50
+03:25:08,658 --> 03:25:11,535
+One of them is false.
+
+51
+03:25:12,578 --> 03:25:13,745
+Thorin...
+
+52
+03:25:14,580 --> 03:25:17,749
+...the Quest is fulfilled,
+you've won the Mountain.
+
+53
+03:25:18,000 --> 03:25:19,209
+Is that not enough?
+
+54
+03:25:19,461 --> 03:25:21,962
+- Betrayed by my own kin.
+- Now, uh...
+
+55
+03:25:22,629 --> 03:25:26,299
+...you made a promise
+to the people of Lake-town.
+
+56
+03:25:26,551 --> 03:25:27,801
+Now, is this treasure...
+
+57
+03:25:28,051 --> 03:25:30,553
+...truly worth more than your honor?
+
+58
+03:25:30,805 --> 03:25:33,223
+Our honor, Thorin. I was also there.
+I gave my word.
+
+59
+03:25:33,892 --> 03:25:35,725
+For that, I am grateful.
+
+60
+03:25:35,977 --> 03:25:37,810
+It was nobly done, but the treasure...
+
+61
+03:25:38,062 --> 03:25:39,729
+...does not belong to the people...
+
+62
+03:25:39,981 --> 03:25:41,231
+...of Lake-town.
+
+63
+03:25:41,482 --> 03:25:42,482
+This gold...
+
+64
+03:25:46,528 --> 03:25:48,071
+...is ours.
+
+65
+03:25:51,241 --> 03:25:52,493
+And ours alone.
+
+66
+03:25:55,997 --> 03:25:57,580
+By my life...
+
+67
+03:25:58,499 --> 03:26:01,417
+...I will not part...
+
+68
+03:26:02,169 --> 03:26:05,464
+...with a single coin.
+
+69
+03:26:07,133 --> 03:26:08,758
+Not...
+
+70
+03:26:09,761 --> 03:26:11,261
+...one...
+
+71
+03:26:11,845 --> 03:26:13,846
+...piece of it.
+

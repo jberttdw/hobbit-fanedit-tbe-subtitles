@@ -1,0 +1,79 @@
+﻿1
+04:02:31,192 --> 04:02:32,736
+Recall your company.
+
+2
+04:02:38,868 --> 04:02:40,701
+My lord, dispatch this force...
+
+3
+04:02:40,953 --> 04:02:42,745
+...to Ravenhill.
+The Dwarves are about...
+
+4
+04:02:42,996 --> 04:02:43,996
+...to be overrun.
+
+5
+04:02:44,039 --> 04:02:45,039
+Thorin must be warned.
+
+6
+04:02:45,124 --> 04:02:47,374
+By all means, warn him.
+
+7
+04:02:47,625 --> 04:02:49,960
+I have spent enough Elvish blood
+in defense...
+
+8
+04:02:50,212 --> 04:02:51,629
+...of this accursed land. No more.
+
+9
+04:02:51,880 --> 04:02:53,338
+Thranduil?
+
+10
+04:02:54,340 --> 04:02:55,340
+I'll go.
+
+11
+04:02:56,218 --> 04:02:57,302
+Don't be ridiculous.
+
+12
+04:02:57,553 --> 04:02:58,969
+You'll never make it.
+
+13
+04:02:59,221 --> 04:03:00,221
+Why not?
+
+14
+04:03:00,764 --> 04:03:03,307
+Because they will see you coming
+and kill you.
+
+15
+04:03:04,185 --> 04:03:05,517
+No, they won't.
+
+16
+04:03:07,062 --> 04:03:08,062
+They won't see me.
+
+17
+04:03:09,397 --> 04:03:11,065
+It's out of the question.
+
+18
+04:03:12,066 --> 04:03:13,066
+I won't allow it.
+
+19
+04:03:14,069 --> 04:03:16,487
+I'm not asking you to allow it, Gandalf.
+

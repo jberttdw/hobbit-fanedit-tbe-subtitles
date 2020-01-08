@@ -1,0 +1,9 @@
+﻿1
+01:54:23,829 --> 01:54:26,514
+There is an alliance
+between the Orcs of Moria...
+
+2
+01:54:26,789 --> 01:54:28,791
+and the sorcerer in Dol Guldur.
+
