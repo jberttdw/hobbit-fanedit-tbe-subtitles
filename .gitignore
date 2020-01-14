@@ -1,5 +1,6 @@
 mov*/
-test*.srt
+debug-*.srt
+output-*.srt
 # Ignore copied folders (quick backups)
 runs-*/
 # Ignore LibreOffice lock file
