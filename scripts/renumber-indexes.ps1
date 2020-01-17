@@ -1,5 +1,11 @@
 ﻿# Picks up all srt files in the current directory, opens each one and rnumbers all
 # subtitles so the numbering in each file starts from 1
+[CmdletBinding()]
+param (
+    # Patterns of files to look for - can be used to give just a handful of filenames
+    [parameter()]
+    [string[]] $patterns = "*.srt"
+)
 
 function Convert-SubRipFile {
     param (
@@ -23,6 +29,6 @@ function Convert-SubRipFile {
     }
 }
 
-$subtitleFiles = Get-ChildItem "*.srt"
+$subtitleFiles = Get-ChildItem $patterns
 
 $subtitleFiles | % { Convert-SubRipFile $_ | Set-Content -Encoding UTF8 $_ ; Write-Host "Updated file $_" }
