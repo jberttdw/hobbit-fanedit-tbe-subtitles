@@ -1,0 +1,189 @@
+﻿1
+02:20:40,132 --> 02:20:41,050
+BARD:
+Do it again...
+
+2
+02:20:41,842 --> 02:20:42,927
+...and you're dead.
+
+3
+02:20:45,638 --> 02:20:46,847
+BALIN:
+Excuse me...
+
+4
+02:20:47,098 --> 02:20:50,226
+...but you're from Lake-town,
+if I'm not mistaken.
+
+5
+02:20:51,185 --> 02:20:53,688
+That barge over there...
+
+6
+02:20:53,938 --> 02:20:57,233
+...it wouldn't be available for hire,
+by any chance?
+
+7
+02:20:58,901 --> 02:21:00,986
+What makes you think I would help you?
+
+8
+02:21:01,237 --> 02:21:03,072
+Those boots have seen better days.
+
+9
+02:21:03,656 --> 02:21:05,199
+As has that coat.
+
+10
+02:21:06,283 --> 02:21:08,244
+No doubt you have
+some hungry mouths to feed.
+
+11
+02:21:09,370 --> 02:21:10,788
+How many bairns?
+
+12
+02:21:11,706 --> 02:21:13,332
+A boy and two girls.
+
+13
+02:21:14,333 --> 02:21:16,877
+And your wife, I imagine she's a beauty.
+
+14
+02:21:18,170 --> 02:21:19,255
+BARD:
+Aye.
+
+15
+02:21:19,714 --> 02:21:20,756
+She was.
+
+16
+02:21:24,009 --> 02:21:25,511
+I'm sorry. I didn't mean to--
+
+17
+02:21:25,761 --> 02:21:27,596
+Oh, come on, come on.
+Enough of the niceties.
+
+18
+02:21:29,306 --> 02:21:30,433
+What's your hurry?
+
+19
+02:21:30,683 --> 02:21:31,892
+What's it to you?
+
+20
+02:21:32,226 --> 02:21:33,811
+I would like to know who you are...
+
+21
+02:21:35,062 --> 02:21:36,147
+...and what you are doing in these lands.
+
+22
+02:21:36,814 --> 02:21:39,316
+We are simple merchants
+from the Blue Mountains...
+
+23
+02:21:39,692 --> 02:21:41,152
+...journeying to see our kin...
+
+24
+02:21:41,402 --> 02:21:42,987
+...in the Iron Hills.
+
+25
+02:21:44,363 --> 02:21:46,323
+Simple merchants, you say?
+
+26
+02:21:46,574 --> 02:21:47,908
+We need food...
+
+27
+02:21:48,159 --> 02:21:50,119
+...supplies, weapons.
+
+28
+02:21:50,369 --> 02:21:51,537
+Can you help us?
+
+29
+02:21:56,041 --> 02:21:56,709
+BARD:
+I know where these...
+
+30
+02:21:56,959 --> 02:21:58,335
+...barrels came from.
+
+31
+02:21:59,086 --> 02:22:00,337
+What of it'?
+
+32
+02:22:00,588 --> 02:22:03,007
+I don't know what business you had
+with the Elves...
+
+33
+02:22:03,549 --> 02:22:05,259
+...but I don't think it ended well.
+
+34
+02:22:06,927 --> 02:22:07,595
+No one enters Lake-town...
+
+35
+02:22:07,845 --> 02:22:09,805
+...but by leave of the Master.
+
+36
+02:22:10,514 --> 02:22:13,225
+All his wealth comes from trade
+with the Woodland Realm.
+
+37
+02:22:13,476 --> 02:22:16,270
+He would see you in irons before
+risking the wrath of King Thranduil.
+
+38
+02:22:18,189 --> 02:22:19,148
+Offer him more.
+
+39
+02:22:22,067 --> 02:22:22,735
+BALIN:
+I'll wager there are...
+
+40
+02:22:22,985 --> 02:22:24,904
+...ways to enter that town unseen.
+
+41
+02:22:25,780 --> 02:22:26,864
+Aye.
+
+42
+02:22:28,199 --> 02:22:29,450
+But for that...
+
+43
+02:22:30,659 --> 02:22:32,036
+...you would need a smuggler.
+
+44
+02:22:32,286 --> 02:22:34,205
+For which we would pay double.
+
