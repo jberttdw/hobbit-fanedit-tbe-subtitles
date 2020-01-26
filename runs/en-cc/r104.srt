@@ -1,0 +1,93 @@
+﻿1
+03:26:48,946 --> 03:26:51,866
+GANDALF: You must set aside
+your petty grievances with the Dwarves.
+
+2
+03:26:52,116 --> 03:26:53,159
+War is coming!
+
+3
+03:26:53,409 --> 03:26:54,535
+The cesspits...
+
+4
+03:26:54,785 --> 03:26:56,162
+...of Dol Guldur have been...
+
+5
+03:26:56,412 --> 03:26:57,205
+...emptied.
+
+6
+03:26:57,455 --> 03:26:58,164
+You're all...
+
+7
+03:26:58,414 --> 03:26:59,499
+...in mortal danger.
+
+8
+03:26:59,749 --> 03:27:01,042
+What are you talking about?
+
+9
+03:27:02,293 --> 03:27:03,377
+You know nothing...
+
+10
+03:27:03,628 --> 03:27:04,879
+...of Wizards.
+
+11
+03:27:05,129 --> 03:27:07,381
+They are like winter thunder
+on a wild wind...
+
+12
+03:27:07,632 --> 03:27:11,135
+...rolling in from a distance,
+breaking hard in alarm.
+
+13
+03:27:12,845 --> 03:27:14,931
+But sometimes a storm...
+
+14
+03:27:15,181 --> 03:27:16,807
+...is just a storm.
+
+15
+03:27:17,058 --> 03:27:18,559
+Not this time.
+
+16
+03:27:18,809 --> 03:27:21,270
+Armies of Orcs are on the move.
+
+17
+03:27:21,521 --> 03:27:23,856
+These are fighters.
+They have been bred for war.
+
+18
+03:27:24,106 --> 03:27:26,734
+Our enemy has summoned his full strength.
+
+19
+03:27:26,984 --> 03:27:28,528
+Why show his hand now?
+
+20
+03:27:28,778 --> 03:27:30,029
+Because we forced him.
+
+21
+03:27:30,279 --> 03:27:33,449
+We forced him when the Company of Thorin
+set out to reclaim...
+
+22
+03:27:33,699 --> 03:27:35,076
+...their homeland.
+

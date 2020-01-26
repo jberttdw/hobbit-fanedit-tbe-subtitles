@@ -1,0 +1,303 @@
+﻿1
+03:29:09,201 --> 03:29:12,621
+GANDALF: Since when has my counsel
+counted for so little?
+
+2
+03:29:12,871 --> 03:29:14,539
+What do you think I'm trying to do?
+
+3
+03:29:14,790 --> 03:29:17,334
+Save your Dwarvish friends,
+and I admire...
+
+4
+03:29:17,584 --> 03:29:19,795
+...your loyalty to them.
+
+5
+03:29:20,045 --> 03:29:22,798
+But it does not dissuade me
+from my course.
+
+6
+03:29:23,590 --> 03:29:25,967
+You started this, Mithrandir.
+
+7
+03:29:26,551 --> 03:29:29,513
+You will forgive me if I finish it.
+
+8
+03:29:29,763 --> 03:29:31,473
+Are the archers in position?
+
+9
+03:29:32,349 --> 03:29:34,559
+FEREN: Yes, my lord.
+- Give the order.
+
+10
+03:29:35,185 --> 03:29:37,437
+If anything moves on that Mountain...
+
+11
+03:29:37,688 --> 03:29:38,772
+...kill it.
+
+12
+03:29:41,775 --> 03:29:44,069
+The Dwarves are out of time.
+
+13
+03:30:10,971 --> 03:30:11,763
+You, Bowman!
+
+14
+03:30:13,223 --> 03:30:14,224
+Do you agree?
+
+15
+03:30:14,474 --> 03:30:16,768
+Is gold so important to you?
+
+16
+03:30:17,561 --> 03:30:20,063
+Would you buy it
+with the blood of Dwarves?
+
+17
+03:30:20,772 --> 03:30:21,815
+It won't come to that.
+
+18
+03:30:22,065 --> 03:30:24,818
+- This is a fight they cannot win.
+BILBO: That won't stop them.
+
+19
+03:30:25,068 --> 03:30:27,988
+You think the Dwarves will surrender?
+They won't.
+
+20
+03:30:28,238 --> 03:30:30,031
+They will fight to the death.
+
+21
+03:30:30,282 --> 03:30:31,742
+Bilbo Baggins.
+
+22
+03:30:32,284 --> 03:30:33,535
+THRANDUIL:
+If I'm not mistaken...
+
+23
+03:30:33,785 --> 03:30:36,204
+...this is the Halfling who stole the keys...
+
+24
+03:30:36,455 --> 03:30:38,081
+...to my dungeons from under...
+
+25
+03:30:38,331 --> 03:30:40,167
+...the nose of my guards.
+
+26
+03:30:42,669 --> 03:30:43,754
+Yes.
+
+27
+03:30:44,755 --> 03:30:45,505
+Sorry...
+
+28
+03:30:45,756 --> 03:30:46,923
+...about that.
+
+29
+03:30:47,466 --> 03:30:48,300
+I came...
+
+30
+03:30:50,218 --> 03:30:51,219
+...to give you...
+
+31
+03:30:51,470 --> 03:30:52,471
+...this.
+
+32
+03:30:57,225 --> 03:30:59,102
+The Heart of the Mountain.
+
+33
+03:31:01,021 --> 03:31:02,355
+The King's Jewel.
+
+34
+03:31:03,815 --> 03:31:05,817
+And worth a king's ransom.
+
+35
+03:31:07,736 --> 03:31:08,487
+How is this...
+
+36
+03:31:08,737 --> 03:31:09,863
+...yours to give?
+
+37
+03:31:10,113 --> 03:31:12,115
+I took it as my 14th share
+of the treasure.
+
+38
+03:31:13,742 --> 03:31:14,868
+BARD:
+Why would you do this?
+
+39
+03:31:15,118 --> 03:31:16,369
+You owe us no loyalty.
+
+40
+03:31:16,620 --> 03:31:18,330
+I'm not doing it for you.
+
+41
+03:31:20,165 --> 03:31:22,417
+I know that Dwarves can be obstinate...
+
+42
+03:31:22,918 --> 03:31:24,211
+...and pigheaded...
+
+43
+03:31:24,920 --> 03:31:26,046
+...and difficult.
+
+44
+03:31:26,296 --> 03:31:28,089
+They're suspicious and secretive...
+
+45
+03:31:28,340 --> 03:31:29,883
+...with the worst manners...
+
+46
+03:31:30,133 --> 03:31:32,177
+...imaginable,
+but they are also brave...
+
+47
+03:31:32,427 --> 03:31:33,678
+...and kind...
+
+48
+03:31:35,263 --> 03:31:36,598
+...and loyal to a fault.
+
+49
+03:31:37,766 --> 03:31:38,600
+I've grown...
+
+50
+03:31:38,850 --> 03:31:41,561
+...very fond of them,
+and I would save them if I can.
+
+51
+03:31:42,395 --> 03:31:43,438
+Now, Thorin...
+
+52
+03:31:43,688 --> 03:31:45,941
+...values this stone above all else.
+
+53
+03:31:46,191 --> 03:31:48,568
+In exchange for its return,
+he will give you...
+
+54
+03:31:48,819 --> 03:31:49,903
+...what you are owed.
+
+55
+03:31:50,153 --> 03:31:51,112
+There will be no need...
+
+56
+03:31:51,363 --> 03:31:52,280
+...for war.
+
+57
+03:31:57,786 --> 03:31:58,787
+GANDALF:
+<i>Rest up tonight.</i>
+
+58
+03:31:59,037 --> 03:32:01,706
+- You must leave on the morrow.
+- What?
+
+59
+03:32:01,957 --> 03:32:04,876
+- Get as far away from here as possible.
+- I'm not leaving.
+
+60
+03:32:05,126 --> 03:32:07,879
+You picked me as the 14th man.
+I'm not leaving the Company.
+
+61
+03:32:08,129 --> 03:32:10,131
+There is no Company. Not anymore.
+
+62
+03:32:10,382 --> 03:32:12,843
+Imagine what Thorin will do
+when he finds out what you've done.
+
+63
+03:32:13,093 --> 03:32:14,678
+I'm not afraid of Thorin.
+
+64
+03:32:14,928 --> 03:32:16,221
+Well, you should be.
+
+65
+03:32:16,805 --> 03:32:17,806
+Don't underestimate...
+
+66
+03:32:18,056 --> 03:32:19,975
+...the evil of gold.
+
+67
+03:32:20,225 --> 03:32:21,226
+Gold over which...
+
+68
+03:32:21,476 --> 03:32:23,562
+...a serpent has long brooded.
+
+69
+03:32:23,812 --> 03:32:26,356
+Dragon-sickness seeps
+into the hearts of all...
+
+70
+03:32:26,606 --> 03:32:28,275
+...who come near this Mountain.
+
+71
+03:32:29,901 --> 03:32:30,902
+Almost all. Heh.
+
