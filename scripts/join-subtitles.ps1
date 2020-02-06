@@ -56,9 +56,9 @@ function Process-SubRipFile {
     foreach ($line in $lines)
     {
         if ([string]::IsNullOrWhiteSpace($line)) {
-            $outputStream.WriteLine($line)
             $nextRealLineIsNumber = $true
         } elseif ($nextRealLineIsNumber) {
+            $outputStream.WriteLine()
             $number++
             $sequenceId = $sequenceFormat -f $number, $fileId
             $outputStream.WriteLine($sequenceId)
