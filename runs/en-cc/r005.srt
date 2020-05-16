@@ -523,7 +523,7 @@ I'm a burglar-- Uh, Hobbit.
 
 120
 00:47:02,257 --> 00:47:04,341
-A burglar Hobbit?
+A burglarobbit?
 
 121
 00:47:04,509 --> 00:47:06,135
@@ -543,7 +543,7 @@ Not when he's skinned and boned.
 
 125
 00:47:16,855 --> 00:47:19,857
-Perhaps there's more burglar Hobbits
+Perhaps there's more burglarobbits
 around these parts.
 
 126
