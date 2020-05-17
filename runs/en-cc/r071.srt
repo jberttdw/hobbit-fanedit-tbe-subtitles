@@ -43,14 +43,10 @@ Gandalf said to meet him here.
 - Do you see him?
 
 11
-02:35:18,545 --> 02:35:19,212
-We have no time...
+02:35:18,545 --> 02:35:20,839
+We have no time to wait upon the Wizard.
 
 12
-02:35:19,463 --> 02:35:20,839
-...to wait upon the Wizard.
-
-13
 02:35:21,131 --> 02:35:22,883
 We're on our own. Come!
 
