@@ -86,7 +86,7 @@ What's it to you?
 I would like to know who you are...
 
 21
-02:21:35,062 --> 02:21:36,147
+02:21:35,062 --> 02:21:36,608
 ...and what you are doing in these lands.
 
 22
@@ -95,95 +95,81 @@ We are simple merchants
 from the Blue Mountains...
 
 23
-02:21:39,692 --> 02:21:41,152
-...journeying to see our kin...
+02:21:39,692 --> 02:21:42,987
+...journeying to see our kin
+in the Iron Hills.
 
 24
-02:21:41,402 --> 02:21:42,987
-...in the Iron Hills.
-
-25
 02:21:44,363 --> 02:21:46,323
 Simple merchants, you say?
 
-26
+25
 02:21:46,574 --> 02:21:47,908
 We need food...
 
-27
+26
 02:21:48,159 --> 02:21:50,119
 ...supplies, weapons.
 
-28
+27
 02:21:50,369 --> 02:21:51,537
 Can you help us?
 
+28
+02:21:56,041 --> 02:21:58,335
+BARD: I know where
+these barrels came from.
+
 29
-02:21:56,041 --> 02:21:56,709
-BARD:
-I know where these...
-
-30
-02:21:56,959 --> 02:21:58,335
-...barrels came from.
-
-31
 02:21:59,086 --> 02:22:00,337
 What of it'?
 
-32
+30
 02:22:00,588 --> 02:22:03,007
 I don't know what business you had
 with the Elves...
 
-33
+31
 02:22:03,549 --> 02:22:05,259
 ...but I don't think it ended well.
 
-34
-02:22:06,927 --> 02:22:07,595
-No one enters Lake-town...
+32
+02:22:06,927 --> 02:22:09,805
+No one enters Lake-town
+but by leave of the Master.
 
-35
-02:22:07,845 --> 02:22:09,805
-...but by leave of the Master.
-
-36
+33
 02:22:10,514 --> 02:22:13,225
 All his wealth comes from trade
 with the Woodland Realm.
 
-37
+34
 02:22:13,476 --> 02:22:16,270
 He would see you in irons before
 risking the wrath of King Thranduil.
 
-38
+35
 02:22:18,189 --> 02:22:19,148
 Offer him more.
 
-39
-02:22:22,067 --> 02:22:22,735
-BALIN:
-I'll wager there are...
+36
+02:22:22,589 --> 02:22:24,904
+BALIN: I'll wager there are
+ways to enter that town unseen.
 
-40
-02:22:22,985 --> 02:22:24,904
-...ways to enter that town unseen.
-
-41
+37
 02:22:25,780 --> 02:22:26,864
 Aye.
 
-42
+38
 02:22:28,199 --> 02:22:29,450
 But for that...
 
-43
+39
 02:22:30,659 --> 02:22:32,036
 ...you would need a smuggler.
 
-44
+40
 02:22:32,286 --> 02:22:34,205
 For which we would pay double.
 

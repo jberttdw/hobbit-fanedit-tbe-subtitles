@@ -3,262 +3,225 @@
 Watch out!
 
 2
-02:23:03,173 --> 02:23:03,799
-THORIN:
-What are you trying...
+02:23:03,900 --> 02:23:05,718
+What are you trying to do, drown us?
 
 3
-02:23:04,049 --> 02:23:05,718
-...to do, drown us?
-
-4
 02:23:05,968 --> 02:23:08,554
 I was born and bred on these waters,
 Master Dwarf.
 
-5
+4
 02:23:08,804 --> 02:23:10,180
 If I wanted to drown you...
 
-6
+5
 02:23:10,431 --> 02:23:12,016
 ...I would not do it here.
 
-7
+6
 02:23:14,101 --> 02:23:16,520
 Oh, I've had enough of this lippy Lakeman.
 
-8
+7
 02:23:16,770 --> 02:23:19,523
 I say we throw him over the side
 and be done with it.
 
-9
+8
 02:23:19,773 --> 02:23:22,234
 - Bard, his name's Bard.
 BOFUR: How do you know?
 
-10
+9
 02:23:22,818 --> 02:23:24,236
 Uh, I asked him.
 
-11
+10
 02:23:24,486 --> 02:23:27,072
 I don't care what he calls himself.
 I don't like him.
 
-12
+11
 02:23:27,322 --> 02:23:28,866
 BALIN:
 We do not have to like him.
 
-13
+12
 02:23:29,116 --> 02:23:30,743
 We simply have to pay him.
 
+13
+02:23:31,076 --> 02:23:33,996
+Come on now, lads.
+Turn out your pockets.
+
 14
-02:23:31,076 --> 02:23:32,786
-Come on now, lads. Turn out...
-
-15
-02:23:33,036 --> 02:23:33,996
-...your pockets.
-
-16
 02:23:35,247 --> 02:23:36,832
 How do we know he won't betray us?
 
-17
+15
 02:23:37,082 --> 02:23:38,292
 We don't.
 
-18
-02:23:39,251 --> 02:23:39,835
-BALIN:
-There's...
+16
+02:23:39,251 --> 02:23:41,336
+BALIN: There's um...
+just a wee problem.
 
-19
-02:23:40,377 --> 02:23:41,336
-...just a wee problem.
-
-20
+17
 02:23:42,588 --> 02:23:44,006
 We're 10 coins short.
 
-21
-02:23:46,175 --> 02:23:46,842
+18
+02:23:46,175 --> 02:23:47,242
 Gloin.
 
-22
-02:23:48,469 --> 02:23:49,053
-Come on.
-
-23
-02:23:49,303 --> 02:23:51,430
-- Give us what you have.
+19
+02:23:48,469 --> 02:23:51,430
+- Come on. Give us what you have.
 - Don't look to me.
 
-24
-02:23:52,514 --> 02:23:54,850
-I have been bled dry...
+20
+02:23:52,514 --> 02:23:56,185
+I have been bled dry by this venture.
 
-25
-02:23:55,100 --> 02:23:56,185
-...by this venture.
+21
+02:23:56,518 --> 02:23:59,021
+What have I seen for my investment?
 
-26
-02:23:56,518 --> 02:23:57,478
-What have I seen...
+22
+02:23:59,855 --> 02:24:02,733
+Naught but misery and grief and--
 
-27
-02:23:57,728 --> 02:23:59,021
-...for my investment?
-
-28
-02:23:59,855 --> 02:24:01,607
-Naught but misery and...
-
-29
-02:24:01,857 --> 02:24:02,733
-...grief and--
-
-30
+23
 02:24:11,116 --> 02:24:13,076
 GLOIN:
 Bless my beard.
 
-31
+24
 02:24:13,911 --> 02:24:15,079
 Take it.
 
-32
+25
 02:24:16,205 --> 02:24:17,581
 - Take all of it.
 - Ahem.
 
-33
-02:24:21,418 --> 02:24:22,544
+26
+02:24:21,290 --> 02:24:22,618
 The money, quick. Give it to me.
 
-34
-02:24:22,795 --> 02:24:23,504
-THORIN:
-We will pay you when we...
+27
+02:24:22,795 --> 02:24:25,464
+THORIN: We will pay you when
+we get our provisions but not before.
 
-35
-02:24:23,754 --> 02:24:25,464
-...get our provisions but not before.
-
-36
+28
 02:24:25,714 --> 02:24:28,175
 If you value your freedom,
 you'll do as I say.
 
-37
+29
 02:24:28,634 --> 02:24:29,885
 There are guards ahead.
 
-38
-02:24:43,107 --> 02:24:44,024
+30
+02:24:42,950 --> 02:24:44,024
 [INAUDIBLE DIALOGUE]
 
-39
+31
 02:24:48,445 --> 02:24:49,822
 What's he doing?
 
-40
+32
 02:24:50,197 --> 02:24:51,365
 BILBO:
 He's talking to someone.
 
-41
+33
 02:24:54,034 --> 02:24:55,119
 He's pointing right at us.
 
-42
-02:24:58,497 --> 02:24:59,081
-Now they're...
+34
+02:24:58,497 --> 02:24:59,915
+Now they're shaking hands.
 
-43
-02:24:59,331 --> 02:24:59,915
-...shaking hands.
-
-44
-02:25:00,165 --> 02:25:01,625
+35
+02:25:00,165 --> 02:25:01,196
 - What?
-DWALIN: The villain.
 
-45
-02:25:01,875 --> 02:25:03,168
-He's selling us out.
+36
+02:25:01,266 --> 02:25:03,169
+DWALIN: The villain. He's selling us out.
 
-46
+37
 02:25:03,418 --> 02:25:04,378
 [CLANKING]
 
-47
+38
 02:25:04,670 --> 02:25:05,462
 [FOOTSTEPS APPROACHING]
 
-48
+39
 02:25:10,634 --> 02:25:12,469
 [GRUNTING]
 
-49
+40
 02:25:21,603 --> 02:25:23,772
 [DWARVES GRUNTING]
 
-50
+41
 02:25:26,191 --> 02:25:27,109
 BARD:
 Quiet.
 
-51
+42
 02:25:29,903 --> 02:25:31,613
 We're approaching the tollgate.
 
-52
+43
 02:25:43,000 --> 02:25:43,834
 PERCY:
 Halt!
 
-53
+44
 02:25:44,126 --> 02:25:45,460
 Goods inspection!
 
-54
+45
 02:25:46,211 --> 02:25:48,046
 Papers, please!
 
-55
+46
 02:25:48,839 --> 02:25:50,048
 Oh, it's you, Bard.
 
-56
+47
 02:25:50,299 --> 02:25:51,341
 Morning, Percy.
 
-57
+48
 02:25:51,592 --> 02:25:52,801
 Anything to declare?
 
-58
+49
 02:25:53,051 --> 02:25:55,804
 Nothing, but that I am cold and tired...
 
-59
+50
 02:25:56,054 --> 02:25:57,097
 ...and ready for home.
 
-60
+51
 02:25:57,347 --> 02:25:58,599
 You and me both.
 
-61
+52
 02:26:02,686 --> 02:26:04,104
 There we are.
 
-62
+53
 02:26:04,354 --> 02:26:05,189
 All in order.
 
