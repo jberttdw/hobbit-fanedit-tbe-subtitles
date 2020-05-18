@@ -1,5 +1,5 @@
 ﻿1
-02:58:58,091 --> 02:58:59,634
+02:58:58,091 --> 02:58:59,760
 Are we going to die, Da?
 
 2
@@ -7,15 +7,11 @@ Are we going to die, Da?
 No, darling.
 
 3
-02:59:03,096 --> 02:59:03,680
-TILDA:
-The dragon.
-
-4
-02:59:03,930 --> 02:59:05,390
+02:59:03,096 --> 02:59:05,390
+TILDA: The dragon.
 It's going to kill us.
 
-5
+4
 02:59:16,067 --> 02:59:17,861
 Not if I kill it first.
 
