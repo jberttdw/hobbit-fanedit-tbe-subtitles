@@ -7,18 +7,14 @@ But I think not.
 I think our little game ends here.
 
 3
-02:56:01,489 --> 02:56:02,741
-So tell me...
+02:56:01,489 --> 02:56:03,867
+So tell me, thief...
 
 4
-02:56:02,991 --> 02:56:03,867
-...thief...
+02:56:04,742 --> 02:56:06,870
+How do you choose to die?
 
 5
-02:56:04,742 --> 02:56:06,870
-...how do you choose to die?
-
-6
 02:56:16,421 --> 02:56:18,423
 [BILBO PANTING]
 

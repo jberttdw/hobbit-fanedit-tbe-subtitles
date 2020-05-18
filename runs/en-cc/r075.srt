@@ -7,30 +7,18 @@ The King Under the Mountain is dead.
 I took his throne.
 
 3
-02:54:29,558 --> 02:54:30,475
-I ate his...
+02:54:30,005 --> 02:54:33,520
+I ate his people like a wolf among sheep.
 
 4
-02:54:30,725 --> 02:54:33,520
-...people like a wolf among sheep.
+02:54:37,461 --> 02:54:42,461
+I kill where I wish, when I wish.
 
 5
-02:54:37,274 --> 02:54:38,442
-I kill where...
-
-6
-02:54:38,692 --> 02:54:40,318
-...I wish, when...
-
-7
-02:54:40,569 --> 02:54:42,028
-...I Wish.
-
-8
-02:54:42,279 --> 02:54:45,574
+02:54:42,762 --> 02:54:45,870
 My armor is iron.
 
-9
-02:54:54,750 --> 02:54:57,169
+6
+02:54:54,402 --> 02:54:57,456
 No blade can pierce me.
 
