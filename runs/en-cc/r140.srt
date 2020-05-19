@@ -1,0 +1,461 @@
+﻿1
+04:12:18,331 --> 04:12:20,500
+BALIN:
+There is to be a great feast tonight.
+
+2
+04:12:20,750 --> 04:12:24,004
+Songs will be sung. Tales will be told.
+
+3
+04:12:26,006 --> 04:12:28,133
+And Thorin Oakenshield...
+
+4
+04:12:28,383 --> 04:12:30,427
+...will pass into legend.
+
+5
+04:12:31,761 --> 04:12:33,471
+I know that's how you must honor him.
+
+6
+04:12:33,722 --> 04:12:35,598
+But to me, he was never that.
+
+7
+04:12:36,808 --> 04:12:38,059
+He was...
+
+8
+04:12:39,436 --> 04:12:40,729
+To me...
+
+9
+04:12:42,522 --> 04:12:43,773
+...he was...
+
+10
+04:12:50,989 --> 04:12:53,950
+I'll slip quietly away.
+Will you tell the others I said goodbye?
+
+11
+04:12:54,200 --> 04:12:55,994
+You can tell them yourself.
+
+12
+04:13:12,302 --> 04:13:15,638
+If any of you are ever passing Bag End, uh...
+
+13
+04:13:20,727 --> 04:13:22,020
+...tea is at 4.
+
+14
+04:13:23,646 --> 04:13:25,231
+There's plenty of it.
+
+15
+04:13:27,859 --> 04:13:29,778
+You are welcome anytime.
+
+16
+04:13:35,742 --> 04:13:37,118
+Uh...
+
+17
+04:13:38,536 --> 04:13:40,038
+Don't bother knocking.
+
+18
+04:13:40,288 --> 04:13:41,539
+[ALL CHUCKLE]
+
+19
+04:14:21,121 --> 04:14:22,372
+[GANDALF CHUCKLES]
+
+20
+04:14:22,622 --> 04:14:24,791
+GANDALF:
+Ah, the borders of the Shire.
+
+21
+04:14:26,751 --> 04:14:28,545
+It is here I must leave you.
+
+22
+04:14:31,214 --> 04:14:32,590
+That's a shame.
+
+23
+04:14:35,135 --> 04:14:36,803
+I quite liked having...
+
+24
+04:14:37,053 --> 04:14:38,763
+...a Wizard around.
+
+25
+04:14:40,014 --> 04:14:41,766
+Seems they bring good luck.
+
+26
+04:14:42,851 --> 04:14:46,229
+You don't really suppose, do you,
+that all your adventures and escapes...
+
+27
+04:14:46,479 --> 04:14:48,648
+...were managed by mere luck?
+
+28
+04:14:49,649 --> 04:14:52,819
+Magic rings should not be used lightly,
+Bilbo.
+
+29
+04:14:53,069 --> 04:14:54,362
+Don't take me for a fool.
+
+30
+04:14:54,612 --> 04:14:57,073
+I know you found one in the Goblin tunnels.
+
+31
+04:14:57,323 --> 04:14:59,367
+And I've kept my eye on you...
+
+32
+04:14:59,617 --> 04:15:00,702
+...ever since.
+
+33
+04:15:03,872 --> 04:15:05,456
+Well, thank goodness.
+
+34
+04:15:10,170 --> 04:15:11,796
+Farewell, Gandalf.
+
+35
+04:15:14,716 --> 04:15:16,134
+Farewell.
+
+36
+04:15:23,308 --> 04:15:24,559
+You, uh...
+
+37
+04:15:24,809 --> 04:15:28,438
+You needn't worry about that ring.
+Fell out of my pocket during the battle.
+
+38
+04:15:28,688 --> 04:15:29,772
+I lost it.
+
+39
+04:15:30,690 --> 04:15:33,985
+You're a very fine person, Mr. Baggins.
+
+40
+04:15:34,944 --> 04:15:35,945
+And I'm very fond...
+
+41
+04:15:36,196 --> 04:15:37,363
+...of you.
+
+42
+04:15:39,073 --> 04:15:41,409
+But you're only quite a little fellow...
+
+43
+04:15:42,660 --> 04:15:45,496
+...in a wide world after all.
+
+44
+04:16:03,765 --> 04:16:05,308
+[HOBBITS CHATTERING]
+
+45
+04:16:16,778 --> 04:16:19,656
+Wait a minute,
+that's my mother's glory box.
+
+46
+04:16:19,906 --> 04:16:22,200
+And that's my dining chair.
+
+47
+04:16:22,450 --> 04:16:25,453
+Ah... Put that pouf down!
+
+48
+04:16:25,703 --> 04:16:27,205
+What is going on?
+
+49
+04:16:27,789 --> 04:16:28,665
+WORRYWORT:
+Hello...
+
+50
+04:16:28,915 --> 04:16:29,791
+...Mr. Bilbo.
+
+51
+04:16:30,041 --> 04:16:31,668
+You're not supposed to be here.
+
+52
+04:16:31,918 --> 04:16:33,544
+What do you mean?
+
+53
+04:16:33,795 --> 04:16:35,380
+On account of you
+being presumed dead.
+
+54
+04:16:36,339 --> 04:16:37,799
+I am not dead.
+
+55
+04:16:38,049 --> 04:16:39,884
+Presumed or otherwise.
+
+56
+04:16:41,010 --> 04:16:42,929
+WORRYWORT:
+I'm not sure that's permitted.
+
+57
+04:16:43,179 --> 04:16:44,764
+Mr. Bilbo!
+
+58
+04:16:45,014 --> 04:16:47,433
+TOSSER:
+Twenty-one! Any advance on 21?
+
+59
+04:16:47,684 --> 04:16:49,435
+Any advance on 21?
+
+60
+04:16:49,811 --> 04:16:52,563
+Ha, ha! Sold to Mrs. Bolger.
+
+61
+04:16:52,814 --> 04:16:55,191
+Somewhere for Fatty to put his feet on.
+
+62
+04:16:56,067 --> 04:16:57,068
+[ALL LAUGHING]
+
+63
+04:16:57,318 --> 04:16:58,361
+Any bids for this?
+
+64
+04:16:58,611 --> 04:17:00,947
+This is Shire-made.
+
+65
+04:17:01,197 --> 04:17:02,991
+No Dwarvish reproductions here.
+
+66
+04:17:03,241 --> 04:17:04,242
+BILBO:
+Stop!
+
+67
+04:17:04,492 --> 04:17:05,743
+Stop!
+
+68
+04:17:05,994 --> 04:17:08,037
+- There's been a mistake!
+LOBELIA: Who are you?
+
+69
+04:17:08,288 --> 04:17:09,289
+Who am I?
+
+70
+04:17:09,539 --> 04:17:10,999
+You know who I am...
+
+71
+04:17:11,249 --> 04:17:13,084
+...Lobelia Sackville-Baggins.
+
+72
+04:17:13,334 --> 04:17:14,711
+This is my home.
+
+73
+04:17:14,961 --> 04:17:17,213
+And those are my spoons.
+Thank you very much.
+
+74
+04:17:17,463 --> 04:17:19,090
+TOSSER: This is most irregular.
+- Excuse me.
+
+75
+04:17:19,340 --> 04:17:20,174
+TOSSER:
+It's been more...
+
+76
+04:17:20,425 --> 04:17:22,719
+...than 13 months since the disappearance.
+
+77
+04:17:22,969 --> 04:17:24,595
+If you are in fact...
+
+78
+04:17:24,846 --> 04:17:27,890
+...Bilbo Baggins and undeceased...
+
+79
+04:17:28,141 --> 04:17:29,684
+...can you prove it?
+
+80
+04:17:29,934 --> 04:17:30,727
+What?
+
+81
+04:17:30,977 --> 04:17:32,603
+Something official with your name...
+
+82
+04:17:32,854 --> 04:17:33,938
+...on it would suffice.
+
+83
+04:17:34,188 --> 04:17:36,065
+All right. Right.
+
+84
+04:17:36,316 --> 04:17:38,234
+[CROWD MURMURING]
+
+85
+04:17:38,943 --> 04:17:41,237
+A contract of employment as a bur...
+
+86
+04:17:43,906 --> 04:17:44,907
+Never mind as what.
+
+87
+04:17:46,868 --> 04:17:48,244
+There. My signature.
+
+88
+04:17:48,494 --> 04:17:50,496
+Yes, well... Uh...
+
+89
+04:17:50,747 --> 04:17:52,582
+Well, it certainly seems to be in order.
+
+90
+04:17:52,832 --> 04:17:53,958
+Yes.
+
+91
+04:17:54,208 --> 04:17:56,252
+Seems there can be no doubt.
+
+92
+04:17:57,211 --> 04:17:59,088
+Who is this you pledged
+your service to?
+
+93
+04:18:01,132 --> 04:18:02,675
+Thorin Oakenshield?
+
+94
+04:18:06,137 --> 04:18:07,138
+He...
+
+95
+04:18:08,222 --> 04:18:09,766
+He was my friend.
+
+96
+04:20:01,377 --> 04:20:02,879
+[KNOCKING ON DOOR]
+
+97
+04:20:04,589 --> 04:20:06,007
+No, thank you!
+
+98
+04:20:06,257 --> 04:20:08,426
+We don't want any more visitors,
+well-wishers...
+
+99
+04:20:08,676 --> 04:20:10,887
+...or distant relations!
+
+100
+04:20:11,137 --> 04:20:12,221
+GANDALF:
+And what about...
+
+101
+04:20:12,472 --> 04:20:14,223
+...very old friends?
+
+102
+04:20:21,814 --> 04:20:22,773
+BILBO:
+Gandalf?
+
+103
+04:20:23,024 --> 04:20:24,317
+GANDALF:
+Bilbo Baggins.
+
+104
+04:20:24,567 --> 04:20:26,527
+BILBO:
+My dear Gandalf! Ha, ha!
+
+105
+04:20:26,777 --> 04:20:27,987
+GANDALF:
+It's good to see you.
+
+106
+04:20:28,237 --> 04:20:31,824
+One hundred and 11 years old.
+Who would believe it?
+
+107
+04:20:32,783 --> 04:20:34,368
+[BOTH LAUGHING]
+
+108
+04:20:36,037 --> 04:20:37,997
+BILBO:
+Come on, come in!
+
+109
+04:20:38,247 --> 04:20:40,541
+Welcome. Welcome.
+

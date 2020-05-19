@@ -1,0 +1,33 @@
+﻿1
+00:01:54,079 --> 00:01:55,538
+It began....
+
+2
+00:01:55,706 --> 00:01:57,957
+Well, it began as you might expect.
+
+3
+00:01:59,710 --> 00:02:01,794
+In a hole in the ground...
+
+4
+00:02:01,962 --> 00:02:04,505
+...there lived a Hobbit.
+
+5
+00:02:06,341 --> 00:02:11,887
+Not a nasty, dirty, wet hole
+full of worms and oozy smells.
+
+6
+00:02:12,055 --> 00:02:14,223
+This was a Hobbit hole.
+
+7
+00:02:14,391 --> 00:02:19,687
+And that means good food, a warm hearth...
+
+8
+00:02:20,147 --> 00:02:22,857
+...and all the comforts of home.
+

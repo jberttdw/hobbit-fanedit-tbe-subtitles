@@ -1,0 +1,10 @@
+﻿1
+01:47:48,194 --> 01:47:49,820
+GANDALF:
+There is a house...
+
+2
+01:47:51,655 --> 01:47:55,534
+...it's not far from here,
+where we might take refuge.
+

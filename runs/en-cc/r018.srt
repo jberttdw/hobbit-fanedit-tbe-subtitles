@@ -1,0 +1,28 @@
+﻿1
+01:07:54,479 --> 01:07:56,396
+THORIN:
+Be on your guard.
+
+2
+01:07:56,564 --> 01:07:58,899
+We're about to step over
+the Edge of the Wild.
+
+3
+01:07:59,484 --> 01:08:01,818
+Balin, you know these paths. Lead on.
+
+4
+01:08:01,986 --> 01:08:03,570
+BALIN:
+Aye.
+
+5
+01:08:09,118 --> 01:08:11,203
+THORIN:
+Master Baggins...
+
+6
+01:08:11,370 --> 01:08:13,705
+...I suggest you keep up.
+

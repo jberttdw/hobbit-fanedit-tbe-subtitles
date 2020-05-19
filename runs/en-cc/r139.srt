@@ -1,0 +1,14 @@
+﻿1
+04:12:04,184 --> 04:12:07,395
+GANDALF:
+The king is dead.
+
+2
+04:12:07,938 --> 04:12:10,648
+Long live the king!
+
+3
+04:12:10,899 --> 04:12:12,275
+ALL:
+Long live the king!
+
