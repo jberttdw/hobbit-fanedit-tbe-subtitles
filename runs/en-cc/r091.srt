@@ -3,65 +3,55 @@
 What was that?
 
 2
-03:05:28,868 --> 03:05:29,535
-What happened?
+03:05:28,868 --> 03:05:31,245
+- What happened?
+- It fell. I saw it.
 
 3
-03:05:29,785 --> 03:05:31,245
-It fell. I saw it.
-
-4
-03:05:34,790 --> 03:05:35,625
+03:05:34,649 --> 03:05:35,684
 It's dead.
 
-5
+4
 03:05:40,046 --> 03:05:41,380
 Smaug is dead.
 
+5
+03:05:42,256 --> 03:05:45,593
+GLOIN: By my beard,
+I think he's right.
+
 6
-03:05:42,256 --> 03:05:43,549
-GLOIN:
-By my beard...
-
-7
-03:05:43,799 --> 03:05:45,593
-...I think he's right.
-
-8
-03:05:46,143 --> 03:05:47,519
+03:05:46,010 --> 03:05:47,386
 Look there!
 
-9
+7
 03:05:48,228 --> 03:05:49,229
 [RAVENS CAWING]
 
-10
+8
 03:05:49,480 --> 03:05:53,192
 The Ravens of Erebor
 are returning to the Mountain.
 
-11
+9
 03:05:54,360 --> 03:05:55,027
 BALIN:
 Aye.
 
-12
+10
 03:05:55,277 --> 03:05:56,737
 Word will spread.
 
-13
-03:05:56,987 --> 03:05:57,863
-Before long...
+11
+03:05:56,987 --> 03:06:00,908
+Before long every soul
+in Middle-earth will know...
 
-14
-03:05:58,113 --> 03:06:00,908
-...every soul in Middle-earth will know...
-
-15
+12
 03:06:01,158 --> 03:06:03,243
 ...the dragon is dead!
 
-16
+13
 03:06:04,495 --> 03:06:06,495
 [DWARVES LAUGHING]
 
