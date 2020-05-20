@@ -4,7 +4,7 @@ My children! Where are my children?
 
 2
 03:46:59,442 --> 03:47:02,361
-I saw them!
+WOMAN: I saw them!
 They were down in the old market!
 
 3
@@ -26,7 +26,7 @@ Bard! Orcs are storming over the causeway!
 7
 03:47:11,412 --> 03:47:14,748
 Get the bowmen to the eastern parapet.
-Hold them off as long as you can.
+Hold them off for as long as you can.
 
 8
 03:47:14,999 --> 03:47:17,001
@@ -34,7 +34,7 @@ Archers! This way!
 
 9
 03:47:17,251 --> 03:47:19,462
-The Orcs have taken Stone Street!
+MAN: The Orcs have taken Stone Street!
 
 10
 03:47:19,712 --> 03:47:21,422
@@ -49,6 +49,6 @@ The rest of you...
 ...follow me!
 
 13
-03:47:36,312 --> 03:47:37,646
+03:47:36,312 --> 03:47:38,130
 [ALL SHOUTING]
 

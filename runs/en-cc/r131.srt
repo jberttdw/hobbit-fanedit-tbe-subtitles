@@ -11,7 +11,7 @@ And Fili, Kili...
 ...and Dwalin.
 
 4
-04:00:47,968 --> 04:00:49,970
+04:00:47,833 --> 04:00:49,970
 He's taking his best warriors.
 
 5
@@ -32,7 +32,6 @@ Die!
 
 9
 04:01:36,475 --> 04:01:37,851
-[IN ENGLISH]
 Gandalf!
 
 10
@@ -40,8 +39,8 @@ Gandalf!
 Legolas.
 
 11
-04:01:41,396 --> 04:01:42,564
-Legolas Greenleaf.
+04:01:41,042 --> 04:01:42,564
+Legolas Greenleaf!
 
 12
 04:01:42,814 --> 04:01:44,024
@@ -61,32 +60,28 @@ Gundabad.
 This was their plan all along.
 
 16
-04:01:54,534 --> 04:01:57,996
+04:01:54,163 --> 04:01:57,996
 Azog engages our forces,
 then Bolg sweeps in from the North.
 
 17
 04:01:58,246 --> 04:01:59,623
-The North?
+Wha--The North?
 
 18
-04:01:59,873 --> 04:02:01,208
-Where is the North...
+04:01:59,873 --> 04:02:01,325
+Where is the North, exactly?
 
 19
 04:02:01,458 --> 04:02:03,543
-- ...exactly?
-- Ravenhill.
+Ravenhill.
 
 20
-04:02:04,753 --> 04:02:05,796
+04:02:04,753 --> 04:02:07,256
 Ravenhill?
-
-21
-04:02:06,046 --> 04:02:07,714
 Thorin is up there.
 
-22
-04:02:07,965 --> 04:02:09,967
+21
+04:02:07,484 --> 04:02:09,967
 And Fili and Kili. They're all up there.
 

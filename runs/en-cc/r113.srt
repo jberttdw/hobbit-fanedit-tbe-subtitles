@@ -7,37 +7,24 @@ The Elves.
 Will they not fight?
 
 3
-03:43:51,595 --> 03:43:52,596
-GANDALF:
-Thranduil!
-
-4
-03:43:52,846 --> 03:43:54,222
+03:43:51,595 --> 03:43:54,222
+GANDALF: Thranduil!
 This is madness!
 
-5
+4
 03:44:11,448 --> 03:44:12,365
 [SHOUTING IN DWARVISH]
 
+5
+03:44:43,104 --> 03:44:45,232
+DAIN: Charge! Yes!
+
 6
-03:44:43,104 --> 03:44:44,105
-DAIN:
-Charge!
-
-7
-03:44:44,356 --> 03:44:45,232
-Yes!
-
-8
 03:44:46,274 --> 03:44:47,484
 [SPEAKING IN DWARVISH]
 
-9
-03:44:49,569 --> 03:44:50,654
-BILBO:
-Uh, Gandalf?
-
-10
-03:44:50,904 --> 03:44:52,531
-Is this a good place to stand?
+7
+03:44:49,569 --> 03:44:52,531
+BILBO: Uh, Gandalf?
+Is this a... good place to stand...?
 

@@ -50,7 +50,7 @@ How came you by the heirloom
 of our house?
 
 13
-03:34:25,681 --> 03:34:27,183
+03:34:25,681 --> 03:34:27,742
 That stone belongs to the king!
 
 14
@@ -88,7 +88,7 @@ It is a trick!
 22
 03:34:57,755 --> 03:34:59,381
 BILBO:
-It's no trick.
+It--It is no trick.
 
 23
 03:35:00,549 --> 03:35:01,842
@@ -132,150 +132,127 @@ Against your claim?
 Your claim.
 
 33
-03:35:39,088 --> 03:35:42,065
+03:35:39,088 --> 03:35:42,641
 You have no claim over me,
-you miserable rat!
+you miserable <i>rat!</i>
 
 34
 03:35:44,593 --> 03:35:46,470
 I was going to give it to you.
 
 35
-03:35:47,471 --> 03:35:50,432
-- Many times I wanted to, but...
-- But what...
+03:35:47,471 --> 03:35:49,636
+Many times I wanted to, but...
 
 36
-03:35:50,683 --> 03:35:51,976
-...thief?
+03:35:49,979 --> 03:35:51,976
+- But what, thief?
 
 37
-03:35:52,560 --> 03:35:54,478
-You are changed, Thorin.
+03:35:52,323 --> 03:35:54,478
+- You are changed, Thorin.
 
 38
-03:35:54,728 --> 03:35:55,729
-The Dwarf I met...
+03:35:54,728 --> 03:35:58,857
+The Dwarf I met in Bag End would
+never have gone back on his word.
 
 39
-03:35:55,980 --> 03:35:58,857
-...in Bag End would never have
-gone back on his word.
+03:35:59,784 --> 03:36:02,152
+Would never have doubted
+the loyalty of his kin!
 
 40
-03:35:59,108 --> 03:36:00,359
-Would never have doubted...
-
-41
-03:36:00,609 --> 03:36:02,152
-...the loyalty of his kin!
-
-42
 03:36:02,903 --> 03:36:05,155
 Do not speak to me...
 
-43
+41
 03:36:05,864 --> 03:36:07,199
 ...of loyalty.
 
-44
-03:36:10,786 --> 03:36:12,037
+42
+03:36:10,786 --> 03:36:12,408
 Throw him from the rampart!
 
-45
+43
 03:36:21,297 --> 03:36:22,339
 Did you not hear me?
 
-46
-03:36:25,926 --> 03:36:27,720
+44
+03:36:25,926 --> 03:36:28,230
 I will do it myself. Curse you!
 
-47
+45
 03:36:28,971 --> 03:36:29,555
 No!
 
+46
+03:36:29,805 --> 03:36:32,164
+Cursed be the Wizard that
+forced you on this company!
+
+47
+03:36:32,414 --> 03:36:36,395
+- If you don't like my burglar
+then please, don't damage him.
+
 48
-03:36:29,805 --> 03:36:31,056
-Cursed be the Wizard...
-
-49
-03:36:31,307 --> 03:36:34,143
-- ...that forced you on us!
-- If you don't like my burglar...
-
-50
-03:36:34,393 --> 03:36:35,269
-...then please...
-
-51
-03:36:35,519 --> 03:36:36,395
-...don't damage him.
-
-52
-03:36:36,645 --> 03:36:37,896
+03:36:36,645 --> 03:36:38,468
 Return him to me.
 
-53
-03:36:42,735 --> 03:36:46,739
+49
+03:36:42,735 --> 03:36:48,949
 You're not making a very splendid figure
-as King under the Mountain...
+as King under the Mountain, are you...
 
-54
-03:36:46,989 --> 03:36:50,826
-...are you, Thorin...
+50
+03:36:49,443 --> 03:36:52,244
+... Thorin, son of Thrain?
 
-55
-03:36:51,076 --> 03:36:52,244
-...son of Thrain?
-
-56
+51
 03:36:59,168 --> 03:37:01,378
 THORIN: Never again will I have dealings
 with Wizards!
 
-57
+52
 03:37:01,629 --> 03:37:02,212
-Go.
+- Go!
 
-58
+53
 03:37:02,463 --> 03:37:03,339
-Or Shire rats!
+- Or Shire rats!
 
-59
+54
 03:37:08,385 --> 03:37:10,012
 BARD:
 Are we resolved?
 
-60
-03:37:10,971 --> 03:37:11,972
-The return...
-
-61
-03:37:12,222 --> 03:37:14,183
-...of the Arkenstone
+55
+03:37:10,971 --> 03:37:14,183
+The return of the Arkenstone
 for what was promised?
 
-62
+56
 03:37:20,481 --> 03:37:22,191
 Give us your answer.
 
-63
+57
 03:37:23,442 --> 03:37:25,027
 Will you have peace...
 
-64
+58
 03:37:26,779 --> 03:37:28,113
 ...or war?
 
-65
+59
 03:37:30,532 --> 03:37:32,034
 [CAWS]
 
-66
+60
 03:37:39,667 --> 03:37:41,585
 I will have war.
 
-67
+61
 03:37:43,962 --> 03:37:45,673
 [RUMBLING]
 

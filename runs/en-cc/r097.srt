@@ -100,149 +100,138 @@ Balin, if Thorin...
 ...had the Arkenstone...
 
 25
-03:10:09,517 --> 03:10:10,226
-...or if...
+03:10:09,517 --> 03:10:11,436
+...or if it was found...
 
 26
-03:10:10,476 --> 03:10:11,436
-...it was found...
-
-27
 03:10:14,021 --> 03:10:15,523
 ...would it help?
 
-28
+27
 03:10:18,151 --> 03:10:21,863
 That stone crowns all.
 
-29
+28
 03:10:23,030 --> 03:10:25,908
 It is the summit of this great wealth...
 
+29
+03:10:26,159 --> 03:10:29,412
+...bestowing power upon he who bears it.
+
 30
-03:10:26,159 --> 03:10:27,201
-...bestowing power...
-
-31
-03:10:27,452 --> 03:10:29,412
-...upon he who bears it.
-
-32
 03:10:29,662 --> 03:10:31,581
 Would it stay his madness?
 
-33
+31
 03:10:33,249 --> 03:10:34,542
 No, laddie.
 
-34
+32
 03:10:36,711 --> 03:10:38,421
 I fear it would make him worse.
 
-35
+33
 03:10:41,257 --> 03:10:42,967
 Perhaps it is best...
 
-36
+34
 03:10:44,093 --> 03:10:45,762
 ...it remains lost.
 
-37
+35
 03:10:59,567 --> 03:11:00,860
 THORIN:
 What is that?
 
-38
+36
 03:11:02,320 --> 03:11:03,863
 In your hand.
 
-39
+37
 03:11:04,113 --> 03:11:04,781
 It's nothing.
 
-40
+38
 03:11:05,406 --> 03:11:06,657
 Show me.
 
-41
+39
 03:11:08,326 --> 03:11:09,619
 It...
 
-42
+40
 03:11:16,584 --> 03:11:19,128
 I picked it up in Beorn's garden.
 
-43
+41
 03:11:23,132 --> 03:11:24,967
 You've carried it all this way?
 
-44
+42
 03:11:25,218 --> 03:11:27,011
 I'm gonna plant it in my garden.
 
-45
+43
 03:11:27,261 --> 03:11:28,846
 In Bag End.
 
-46
+44
 03:11:31,516 --> 03:11:34,644
 It's a poor prize to take back to the Shire.
 
-47
+45
 03:11:36,479 --> 03:11:37,814
 One day, it'll grow.
 
-48
+46
 03:11:39,607 --> 03:11:41,901
 And every time I look at it, I'll remember.
 
-49
+47
 03:11:43,277 --> 03:11:45,947
 Remember everything that happened,
 the good, the bad...
 
-50
+48
 03:11:47,031 --> 03:11:49,158
 ...and how lucky I am that I made it home.
 
-51
+49
 03:11:58,417 --> 03:12:00,002
 Thorin, I...
 
-52
+50
 03:12:00,253 --> 03:12:01,504
 DWALIN:
 Thorin.
 
-53
+51
 03:12:01,754 --> 03:12:03,840
 Survivors from Lake-town...
 
-54
+52
 03:12:04,382 --> 03:12:06,259
 ...they're streaming into Dale.
 
-55
+53
 03:12:07,677 --> 03:12:09,387
 There's hundreds of them.
 
-56
+54
 03:12:11,055 --> 03:12:13,015
 Call everyone to the gate.
 
-57
-03:12:14,267 --> 03:12:15,393
+55
+03:12:14,267 --> 03:12:16,686
 To the gate!
-
-58
-03:12:15,643 --> 03:12:16,686
 Now!
 
-59
+56
 03:12:18,020 --> 03:12:19,438
 [CHATTERING]
 
-60
+57
 03:12:47,717 --> 03:12:50,303
 BARD: Come on. Keep moving.
 

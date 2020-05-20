@@ -1,6 +1,6 @@
 ﻿1
 03:59:00,148 --> 03:59:01,523
-Hold tight, lads.
+BALIN: Hold tight, lads.
 
 2
 03:59:17,123 --> 03:59:18,123
@@ -12,30 +12,27 @@ There's more coming!
 [SNARLING]
 
 4
-03:59:22,587 --> 03:59:24,129
+03:59:22,587 --> 03:59:25,714
 We're pulling too much weight.
-
-5
-03:59:24,381 --> 03:59:25,714
 We won't make it.
 
-6
+5
 03:59:25,965 --> 03:59:26,965
 Cut the tracers.
 
-7
+6
 03:59:28,802 --> 03:59:30,386
 Ride them to Ravenhill.
 
-8
+7
 03:59:31,388 --> 03:59:32,388
 No, Balin.
 
-9
+8
 03:59:34,015 --> 03:59:36,392
 My goat-riding days are over.
 
-10
+9
 03:59:38,520 --> 03:59:40,104
 Durin be with you, brother.
 

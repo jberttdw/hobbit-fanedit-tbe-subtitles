@@ -41,30 +41,24 @@ Do not tell me what they have lost.
 I know well enough their hardship.
 
 11
-03:13:25,468 --> 03:13:27,678
-Those who have lived through dragon fire...
+03:13:25,468 --> 03:13:29,138
+Those who have lived through
+dragon fire should rejoice!
 
 12
-03:13:27,928 --> 03:13:29,138
-...should rejoice.
+03:13:30,473 --> 03:13:32,892
+They have much
+to be grateful for.
 
 13
-03:13:30,473 --> 03:13:31,307
-They have much...
-
-14
-03:13:31,557 --> 03:13:32,892
-...to be grateful for.
-
-15
 03:13:38,230 --> 03:13:39,357
 More stone.
 
-16
+14
 03:13:42,234 --> 03:13:44,362
 Bring more stone to the gate!
 
-17
+15
 03:13:44,612 --> 03:13:45,655
 DWALIN:
 That's it.

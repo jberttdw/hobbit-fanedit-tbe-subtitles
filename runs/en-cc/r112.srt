@@ -18,7 +18,7 @@ Who's coming with me?
 5
 03:43:35,319 --> 03:43:37,279
 OIN: Aye!
-DWALIN: Come on, let's go!
+DWALIN: Yes, come on, let's go!
 
 6
 03:43:37,530 --> 03:43:39,197
@@ -30,6 +30,6 @@ ORI: What?
 Are we to do nothing?
 
 8
-03:43:41,200 --> 03:43:42,867
+03:43:41,200 --> 03:43:43,091
 I said, stand down!
 

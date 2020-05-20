@@ -15,225 +15,182 @@ Ironfoot.
 [SHOUTS IN ELVISH]
 
 5
-03:38:15,525 --> 03:38:17,860
-DAIN:
-Hey, Thorin!
-
-6
-03:38:18,278 --> 03:38:19,695
+03:38:15,525 --> 03:38:19,926
+DAIN: Hey, Thorin!
 Ironfoot has come!
 
-7
+6
 03:38:26,870 --> 03:38:27,995
 Who is that?
 
-8
+7
 03:38:28,538 --> 03:38:29,788
 He doesn't look very happy.
 
-9
+8
 03:38:30,040 --> 03:38:32,791
 It is Dain, Lord of the Iron Hills.
 
-10
-03:38:33,043 --> 03:38:34,043
-Thorin's...
-
-11
-03:38:34,127 --> 03:38:35,753
-- ...cousin.
+9
+03:38:33,043 --> 03:38:35,753
+Thorin's cousin.
 - Are they alike?
 
-12
+10
 03:38:36,838 --> 03:38:40,466
 I've always found Thorin
 the more reasonable of the two.
 
-13
+11
 03:38:50,727 --> 03:38:51,852
 DAIN:
 Good morning.
 
-14
+12
 03:38:52,103 --> 03:38:53,646
 How are we all?
 
-15
-03:38:57,234 --> 03:38:58,609
-I have a wee proposition...
+13
+03:38:57,234 --> 03:39:02,655
+I have a wee proposition if you wouldn't
+mind giving me a few moments of your time.
 
-16
-03:38:58,860 --> 03:39:01,153
-...if you wouldn't mind giving me
-a few moments...
-
-17
-03:39:01,404 --> 03:39:02,655
-...of your time.
-
-18
+14
 03:39:03,907 --> 03:39:05,950
 Would you consider...
 
-19
-03:39:07,953 --> 03:39:09,203
+15
+03:39:07,622 --> 03:39:09,203
 ...just sodding off?
 
-20
+16
 03:39:10,538 --> 03:39:11,538
-All of you!
+<i>All of you!</i>
 
-21
+17
 03:39:11,790 --> 03:39:13,249
-Right now!
+<i>Right now!</i>
 
-22
+18
 03:39:13,500 --> 03:39:14,500
 Stand fast.
 
-23
-03:39:16,253 --> 03:39:17,503
+19
+03:39:16,163 --> 03:39:17,960
 Come now, Lord Dain.
 
-24
-03:39:18,463 --> 03:39:20,047
+20
+03:39:18,463 --> 03:39:20,294
 Gandalf the Grey.
 
+21
+03:39:21,967 --> 03:39:24,368
+Tell this rabble to leave...
+
+22
+03:39:24,618 --> 03:39:27,096
+...or I'll water
+the ground with their blood!
+
+23
+03:39:30,408 --> 03:39:34,645
+There is no need for war
+between Dwarves, Men and Elves.
+
+24
+03:39:34,896 --> 03:39:38,779
+A legion of Orcs march on the Mountain.
+Stand your army down.
+
 25
-03:39:21,967 --> 03:39:23,092
-Tell this rabble...
-
-26
-03:39:23,343 --> 03:39:25,177
-...to leave, or I'll water...
-
-27
-03:39:25,428 --> 03:39:27,096
-...the ground with their blood!
-
-28
-03:39:30,600 --> 03:39:31,725
-No need for war...
-
-29
-03:39:31,977 --> 03:39:34,645
-...between Dwarves, Men and Elves.
-
-30
-03:39:34,896 --> 03:39:35,896
-A legion of Orcs...
-
-31
-03:39:36,147 --> 03:39:37,690
-...march on the Mountain.
-
-32
-03:39:37,941 --> 03:39:38,649
-Stand down.
-
-33
-03:39:38,900 --> 03:39:41,944
+03:39:39,112 --> 03:39:41,944
 I will not stand down before any Elf.
 
-34
+26
 03:39:42,654 --> 03:39:45,656
 Not least this faithless Woodland sprite.
 
-35
+27
 03:39:46,658 --> 03:39:49,702
 He wishes nothing but ill upon my people.
 
-36
-03:39:50,787 --> 03:39:51,787
-If he chooses...
+28
+03:39:50,787 --> 03:39:54,707
+If he chooses to stand
+between me and my kin...
 
-37
-03:39:52,038 --> 03:39:54,707
-...to stand between me and my kin...
-
-38
-03:39:56,001 --> 03:39:57,876
+29
+03:39:55,677 --> 03:39:57,876
 ...I'll split his pretty head open!
 
-39
-03:40:00,213 --> 03:40:02,047
+30
+03:40:00,019 --> 03:40:02,047
 See if he's still smirking then.
 
-40
-03:40:04,259 --> 03:40:04,925
-Dain...
+31
+03:40:04,259 --> 03:40:06,176
+GANDALF: Dain, wait!
 
-41
-03:40:05,176 --> 03:40:06,176
-...wait!
-
-42
+32
 03:40:07,554 --> 03:40:09,555
 [ALL SHOUTING]
 
-43
-03:40:11,558 --> 03:40:12,558
+33
+03:40:11,442 --> 03:40:12,558
 Let them advance.
 
-44
+34
 03:40:12,726 --> 03:40:14,560
 See how far they get.
 
-45
+35
 03:40:14,811 --> 03:40:17,062
 DAIN: You think I give a dead dog
 for your threats...
 
-46
-03:40:17,314 --> 03:40:19,023
-...you pointy-eared...
+36
+03:40:17,314 --> 03:40:20,691
+...you pointy-eared princess?
 
-47
-03:40:19,274 --> 03:40:20,691
-...princess?
-
-48
-03:40:22,027 --> 03:40:24,153
+37
+03:40:21,891 --> 03:40:24,153
 You hear that, lads? We're on!
 
-49
+38
 03:40:24,446 --> 03:40:27,072
 Let's give these bastards
 a good hammering!
 
-50
+39
 03:40:27,324 --> 03:40:28,824
 [SHOUTING IN DWARVISH]
 
-51
+40
 03:40:29,701 --> 03:40:31,493
 [ALL SHOUTING]
 
-52
+41
 03:40:31,828 --> 03:40:32,995
 Stand your men down.
 
-53
+42
 03:40:33,246 --> 03:40:35,622
 I'll deal with Ironfoot and his rabble.
 
-54
-03:40:41,796 --> 03:40:42,421
+43
+03:40:41,796 --> 03:40:44,506
 Right then.
-
-55
-03:40:42,672 --> 03:40:44,506
 Let's get this done.
 
-56
+44
 03:40:45,467 --> 03:40:47,092
 Send in the goats.
 
-57
+45
 03:40:47,427 --> 03:40:49,261
 [DWARF SHOUTS IN DWARVISH]
 
-58
+46
 03:40:59,064 --> 03:41:00,647
 [SHOUTING IN ELVISH]
 

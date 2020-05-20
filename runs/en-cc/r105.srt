@@ -8,48 +8,44 @@ Not just for the treasure within...
 its strategic position.
 
 3
-03:27:41,440 --> 03:27:42,650
-This is the gateway...
-
-4
-03:27:42,900 --> 03:27:46,070
-...to reclaiming
+03:27:41,440 --> 03:27:46,070
+This is the gateway to reclaiming
 the lands of Angmar in the North.
 
-5
+4
 03:27:46,320 --> 03:27:49,490
 If that fell kingdom should rise again...
 
-6
+5
 03:27:50,032 --> 03:27:53,619
 ...Rivendell, Lórien, the Shire...
 
-7
+6
 03:27:53,870 --> 03:27:55,663
 ...even Gondor itself, will fall.
 
-8
+7
 03:27:56,414 --> 03:27:59,500
 These Orc armies you speak of,
 Mithrandir...
 
-9
+8
 03:28:00,459 --> 03:28:01,919
-...where are they?
+Where are they?
 
-10
+9
 03:28:06,549 --> 03:28:08,050
 RAGASH [IN BLACK SPEECH]:
 
-11
+10
 03:28:13,097 --> 03:28:14,640
 AZOG [IN BLACK SPEECH]:
 
-12
+11
 03:28:26,569 --> 03:28:27,612
 [RUMBLING]
 
-13
+12
 03:28:27,862 --> 03:28:29,864
 [WERE-WORM ROARS]
 

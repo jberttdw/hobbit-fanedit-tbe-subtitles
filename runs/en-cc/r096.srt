@@ -29,10 +29,6 @@ DWALIN: You heard him.
 THORIN: All of you!
 
 7
-03:07:37,630 --> 03:07:38,881
-No one rests until...
-
-8
-03:07:39,131 --> 03:07:40,216
-...it is found.
+03:07:37,630 --> 03:07:40,216
+No one rests until it is found.
 

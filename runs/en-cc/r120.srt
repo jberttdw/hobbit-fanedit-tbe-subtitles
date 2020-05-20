@@ -3,79 +3,72 @@
 Fall back!
 
 2
-03:52:31,548 --> 03:52:32,590
-Fall back...
+03:52:31,548 --> 03:52:34,509
+Fall back to the Mountain!
 
 3
-03:52:32,841 --> 03:52:34,509
-...to the Mountain!
-
-4
 03:52:37,220 --> 03:52:38,638
 Fall back!
 
-5
+4
 03:52:42,433 --> 03:52:43,434
 AZOG [IN BLACK SPEECH]:
 
-6
+5
 03:52:50,066 --> 03:52:52,068
 [HORN BLOWING]
 
-7
+6
 03:53:21,181 --> 03:53:22,724
 KILI:
 I will not hide...
 
+7
+03:53:22,974 --> 03:53:27,478
+...behind a wall of stone while
+others fight our battles for us!
+
 8
-03:53:22,974 --> 03:53:24,309
-...behind a wall of stone...
-
-9
-03:53:24,559 --> 03:53:27,478
-...while others fight our battles for us!
-
-10
 03:53:31,191 --> 03:53:33,610
 It is not in my blood, Thorin.
 
-11
+9
 03:53:38,406 --> 03:53:39,782
 No.
 
-12
+10
 03:53:40,033 --> 03:53:41,451
 It is not.
 
-13
+11
 03:53:43,536 --> 03:53:45,747
 We are sons of Durin.
 
-14
+12
 03:53:48,750 --> 03:53:50,251
 And Durin's Folk...
 
-15
+13
 03:53:51,586 --> 03:53:54,047
 ...do not flee from a fight.
 
-16
+14
 03:54:16,986 --> 03:54:20,865
 I have no right to ask this of any of you.
 
-17
+15
 03:54:25,870 --> 03:54:27,747
 But will you follow me...
 
-18
+16
 03:54:29,165 --> 03:54:30,875
 ...one last time?
 
-19
+17
 03:54:41,386 --> 03:54:43,388
 [ORC SHOUTING IN BLACK SPEECH]
 
-20
+18
 03:54:46,432 --> 03:54:48,434
 [ALL SHOUT IN BLACK SPEECH]
 
