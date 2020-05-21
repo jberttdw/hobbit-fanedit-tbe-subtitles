@@ -27,40 +27,33 @@ I fear for you.
 A sickness lies upon that treasure hoard.
 
 8
-02:56:54,589 --> 02:56:55,381
-A sickness which drove...
+02:56:54,589 --> 02:56:56,924
+A sickness which drove
+your grandfather mad.
 
 9
-02:56:55,632 --> 02:56:56,924
-...your grandfather mad.
-
-10
 02:56:57,175 --> 02:56:58,760
 I am not my grandfather.
 
-11
+10
 02:56:59,010 --> 02:57:00,762
-You're not yourself.
+- You're not yourself.
 
-12
+11
 02:57:01,638 --> 02:57:03,765
 The Thorin I know would not hesitate
 to go in there--
 
+12
+02:57:04,015 --> 02:57:08,645
+THORIN: I will not risk this
+quest for the life of one burglar.
+
 13
-02:57:04,015 --> 02:57:04,599
-THORIN:
-I will not risk...
-
-14
-02:57:04,849 --> 02:57:08,645
-...this quest for the life of one burglar.
-
-15
 02:57:10,521 --> 02:57:11,940
 Bilbo.
 
-16
+14
 02:57:12,315 --> 02:57:14,233
 His name is Bilbo.
 

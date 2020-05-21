@@ -224,7 +224,7 @@ Well, uh, now you put it that way...
 
 54
 01:52:39,115 --> 01:52:40,844
-(STUTTERING)
+[STUTTERING]
 
 55
 01:52:41,315 --> 01:52:43,642
@@ -249,7 +249,7 @@ And do you call six a "troop"?
 
 60
 01:52:56,190 --> 01:52:56,793
-(LAUGHS)
+[LAUGHS]
 
 61
 01:52:56,795 --> 01:52:59,196

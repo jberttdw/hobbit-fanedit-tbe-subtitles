@@ -27,246 +27,193 @@ THRANDUIL: Some may imagine
 that a noble quest is at hand.
 
 7
-02:12:45,179 --> 02:12:48,016
-A quest to reclaim a homeland...
+02:12:45,179 --> 02:12:50,018
+A quest to reclaim a homeland,
+and slay a dragon.
 
 8
-02:12:48,266 --> 02:12:50,018
-...and slay a dragon.
-
-9
 02:12:51,394 --> 02:12:55,398
 I myself suspect a more prosaic motive.
 
-10
+9
 02:12:56,274 --> 02:12:57,942
 Attempted burglary.
 
-11
+10
 02:12:58,693 --> 02:13:00,945
 Or something of that ilk.
 
+11
+02:13:04,115 --> 02:13:06,117
+You have found a way in.
+
 12
-02:13:04,115 --> 02:13:04,866
-You have found...
+02:13:06,367 --> 02:13:10,580
+You seek that which would
+bestow upon you the right to rule.
 
 13
-02:13:05,116 --> 02:13:06,117
-...a way in.
-
-14
-02:13:06,367 --> 02:13:07,326
-You seek that which would...
-
-15
-02:13:07,577 --> 02:13:10,580
-...bestow upon you the right to rule.
-
-16
 02:13:11,247 --> 02:13:13,124
 The King's Jewel.
 
-17
+14
 02:13:14,042 --> 02:13:15,543
 The Arkenstone.
 
-18
+15
 02:13:17,795 --> 02:13:21,132
 It is precious to you beyond measure.
 
-19
+16
 02:13:22,133 --> 02:13:23,843
 I understand that.
 
-20
+17
 02:13:24,802 --> 02:13:28,431
 There are gems in the mountain
 that I too desire.
 
-21
-02:13:29,766 --> 02:13:30,767
-White gems...
+18
+02:13:29,766 --> 02:13:33,061
+White gems
+of pure starlight.
 
-22
-02:13:31,017 --> 02:13:33,061
-...of pure starlight.
-
-23
+19
 02:13:34,103 --> 02:13:36,355
 I offer you my help.
 
-24
+20
 02:13:39,567 --> 02:13:40,943
 I am listening.
 
-25
+21
 02:13:41,194 --> 02:13:42,820
 I will let you go...
 
-26
+22
 02:13:43,821 --> 02:13:46,491
 ...if you but return what is mine.
 
-27
-02:13:49,702 --> 02:13:50,995
-THORIN:
-A favor for a favor.
+23
+02:13:49,702 --> 02:13:52,399
+THORIN: A favor for a favor.
+THRANDUIL: You have my word.
 
-28
-02:13:51,245 --> 02:13:52,205
-THRANDUIL:
-You have my word.
-
-29
+24
 02:13:53,623 --> 02:13:56,125
 One king to another.
 
-30
+25
 02:14:00,296 --> 02:14:03,508
 I would not trust Thranduil...
 
-31
-02:14:04,550 --> 02:14:05,510
-...the great king...
+26
+02:14:04,550 --> 02:14:06,928
+...the great king, to honor his word...
 
-32
-02:14:05,760 --> 02:14:06,928
-...to honor his word...
-
-33
+27
 02:14:07,178 --> 02:14:09,680
 ...should the end of all days
 be upon us!
 
-34
-02:14:10,306 --> 02:14:10,890
-You...
+28
+02:14:10,306 --> 02:14:13,601
+You, who lack all honor.
 
-35
-02:14:11,391 --> 02:14:12,350
-...who lack all...
-
-36
-02:14:12,600 --> 02:14:13,601
-... honor.
-
-37
+29
 02:14:14,685 --> 02:14:16,729
 I have seen how you treat your friends.
 
-38
+30
 02:14:17,396 --> 02:14:21,025
-We came to you once,
-starving, homeless...
+We came to you once, starving, homeless...
 
-39
+31
 02:14:21,275 --> 02:14:22,735
 ...seeking your help.
 
-40
+32
 02:14:23,277 --> 02:14:25,655
 But you turned your back!
 
-41
+33
 02:14:25,947 --> 02:14:29,575
 You turned away from
 the suffering of my people...
 
-42
+34
 02:14:29,826 --> 02:14:31,786
 ...and the inferno that destroyed us.
 
-43
+35
 02:14:32,033 --> 02:14:34,251
 [SPEAKS IN DWARVISH]
 
-44
+36
 02:14:34,330 --> 02:14:36,499
 Do not talk to me of dragon fire.
 
-45
-02:14:36,958 --> 02:14:37,542
-I know...
+37
+02:14:36,958 --> 02:14:40,044
+I know its wrath and ruin.
 
-46
-02:14:37,792 --> 02:14:40,044
-...its wrath and ruin.
-
-47
+38
 02:14:41,838 --> 02:14:43,256
 [INHALES]
 
-48
-02:14:44,215 --> 02:14:45,424
-I have faced...
+39
+02:14:44,215 --> 02:14:48,428
+I have faced the great serpents of the North.
 
-49
-02:14:45,675 --> 02:14:48,428
-...the great serpents of the North.
+40
+02:14:50,680 --> 02:14:54,809
+I warned your grandfather of
+what his greed would summon.
 
-50
-02:14:50,680 --> 02:14:51,264
-I warned your...
-
-51
-02:14:51,514 --> 02:14:54,809
-...grandfather of what his greed
-would summon.
-
-52
+41
 02:14:56,352 --> 02:14:58,271
 But he would not listen.
 
-53
+42
 02:15:02,859 --> 02:15:04,902
 You are just like him.
 
-54
-02:15:07,363 --> 02:15:09,115
-Stay here if you will...
+43
+02:15:07,363 --> 02:15:10,908
+Stay here if you will, and rot.
 
-55
-02:15:09,365 --> 02:15:10,908
-...and rot.
+44
+02:15:11,159 --> 02:15:15,329
+A hundred years is a mere
+blink in the life of an Elf.
 
-56
-02:15:11,159 --> 02:15:13,077
-A hundred years is a mere blink...
-
-57
-02:15:13,327 --> 02:15:15,329
-...in the life of an Elf.
-
-58
+45
 02:15:15,580 --> 02:15:17,248
 I'm patient.
 
-59
+46
 02:15:18,291 --> 02:15:20,293
 I can wait.
 
-60
-02:15:27,758 --> 02:15:28,843
-Did he offer you a deal?
+47
+02:15:27,758 --> 02:15:30,261
+- Did he offer you a deal?
+- He did.
 
-61
-02:15:29,093 --> 02:15:30,261
-He did.
-
-62
+48
 02:15:31,971 --> 02:15:35,589
-<i>I told him</i> he <i>could go
-ish kakhfé ai-'d dEIr-rugnu!</i>
+I told him he could go
+<i>ish kakhfé ai-'d dEIr-rugnu!</i>
 
-63
-02:15:36,100 --> 02:15:36,893
+49
+02:15:36,100 --> 02:15:37,658
 Him and all his kin!
 
-64
+50
 02:15:38,936 --> 02:15:40,688
 Well, that's that, then.
 
-65
+51
 02:15:42,398 --> 02:15:44,901
 A deal was our only hope.
 
