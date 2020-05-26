@@ -23,8 +23,8 @@ Come, Elros, try it.
 
 6
 02:16:05,551 --> 02:16:07,637
-ELROS: I have the
-Dwarves in my charge.
+ELROS:
+I have the Dwarves in my charge.
 
 7
 02:16:08,054 --> 02:16:10,973
@@ -51,7 +51,8 @@ Not stuck in here, you're not.
 
 12
 02:16:32,119 --> 02:16:33,871
-Bilbo! KILI: What?
+Bilbo!
+KILI: What?
 
 13
 02:16:34,121 --> 02:16:35,206

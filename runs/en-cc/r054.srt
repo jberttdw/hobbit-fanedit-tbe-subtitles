@@ -104,8 +104,8 @@ What does that mean?
 
 26
 01:59:00,832 --> 01:59:03,960
-GANDALF: You must stay on the path.
-Do not leave it.
+GANDALF:
+You must stay on the path. Do not leave it.
 
 27
 01:59:04,418 --> 01:59:06,420
@@ -135,8 +135,8 @@ BOFUR: Let's go.
 
 33
 01:59:17,014 --> 01:59:19,517
-THORIN: It is our one chance
-to find the hidden door.
+THORIN:
+It is our one chance to find the hidden door.
 
 34
 01:59:30,278 --> 01:59:31,904

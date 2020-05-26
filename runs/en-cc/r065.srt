@@ -66,8 +66,8 @@ We don't.
 
 16
 02:23:39,251 --> 02:23:41,336
-BALIN: There's um...
-just a wee problem.
+BALIN:
+There's um... just a wee problem.
 
 17
 02:23:42,588 --> 02:23:44,006
@@ -153,7 +153,8 @@ Now they're shaking hands.
 
 36
 02:25:01,266 --> 02:25:03,169
-DWALIN: The villain. He's selling us out.
+DWALIN:
+The villain. He's selling us out.
 
 37
 02:25:03,418 --> 02:25:04,378

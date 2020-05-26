@@ -17,8 +17,8 @@ Smaug is dead.
 
 5
 03:05:42,256 --> 03:05:45,593
-GLOIN: By my beard,
-I think he's right.
+GLOIN:
+By my beard, I think he's right.
 
 6
 03:05:46,010 --> 03:05:47,386

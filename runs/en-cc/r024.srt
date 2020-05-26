@@ -21,8 +21,8 @@ I'm not, though, am I?
 
 6
 01:14:07,785 --> 01:14:11,079
-Thorin said I should never have come
-and he was right.
+Thorin said I should never
+have come and he was right.
 
 7
 01:14:11,247 --> 01:14:15,375

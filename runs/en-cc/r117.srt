@@ -34,7 +34,8 @@ Archers! This way!
 
 9
 03:47:17,251 --> 03:47:19,462
-MAN: The Orcs have taken Stone Street!
+MAN:
+The Orcs have taken Stone Street!
 
 10
 03:47:19,712 --> 03:47:21,422

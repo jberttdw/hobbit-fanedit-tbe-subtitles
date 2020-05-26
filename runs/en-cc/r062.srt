@@ -1,17 +1,17 @@
 ﻿1
 02:17:27,472 --> 02:17:30,485
-BILBO: Everyone climb into the barrels,
-quickly.
+BILBO:
+Everyone climb into the barrels, quickly.
 
 2
 02:17:30,567 --> 02:17:32,073
-DWALIN: Are you mad?
-They'll find us.
+DWALIN:
+Are you mad? They'll find us.
 
 3
 02:17:32,128 --> 02:17:33,903
-BILBO: No, no.
-They won't, I promise you.
+BILBO:
+No, no. They won't, I promise you.
 
 4
 02:17:34,005 --> 02:17:37,524

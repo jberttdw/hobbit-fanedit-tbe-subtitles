@@ -132,8 +132,8 @@ of the treasure.
 
 31
 03:31:13,282 --> 03:31:15,909
-BARD: Why would you do this?
-You owe us no loyalty.
+BARD:
+Why would you do this? You owe us no loyalty.
 
 32
 03:31:16,160 --> 03:31:17,870

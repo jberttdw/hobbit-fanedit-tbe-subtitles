@@ -437,28 +437,28 @@ to suck them, yes!
 
 105
 01:28:36,544 --> 01:28:40,089
-GOLLUM:
-We have one for you.
+<i>GOLLUM:
+We have one for you.</i>
 
 106
 01:28:40,590 --> 01:28:44,635
-All things it devours
+<i>All things it devours</i>
 
 107
 01:28:44,803 --> 01:28:49,932
-Birds, beasts, trees, flowers
+<i>Birds, beasts, trees, flowers</i>
 
 108
 01:28:50,100 --> 01:28:54,311
-Gnaws iron, bites steel
+<i>Gnaws iron, bites steel</i>
 
 109
 01:28:54,479 --> 01:28:58,273
-Grinds hard stones to meal
+<i>Grinds hard stones to meal</i>
 
 110
 01:28:59,734 --> 01:29:01,402
-Answer us.
+<i>Answer us.</i>
 
 111
 01:29:01,569 --> 01:29:06,240
@@ -477,15 +477,15 @@ I don't know this one.
 114
 01:29:11,788 --> 01:29:14,998
 GOLLUM:
-ls it tasty?
+<i>ls it tasty?</i>
 
 115
 01:29:15,166 --> 01:29:19,545
-ls it scrumptious?
+<i>ls it scrumptious?</i>
 
 116
 01:29:19,713 --> 01:29:21,213
-ls it crunchable?
+<i>ls it crunchable?</i>
 
 117
 01:29:21,589 --> 01:29:24,383

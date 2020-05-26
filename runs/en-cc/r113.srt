@@ -8,8 +8,8 @@ Will they not fight?
 
 3
 03:43:51,595 --> 03:43:54,222
-GANDALF: Thranduil!
-This is madness!
+GANDALF:
+Thranduil! This is madness!
 
 4
 03:44:11,448 --> 03:44:12,365
@@ -17,7 +17,8 @@ This is madness!
 
 5
 03:44:43,104 --> 03:44:45,232
-DAIN: Charge! Yes!
+DAIN:
+Charge! Yes!
 
 6
 03:44:46,274 --> 03:44:47,484

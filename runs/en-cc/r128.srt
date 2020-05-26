@@ -1,6 +1,7 @@
 ﻿1
 03:59:00,148 --> 03:59:01,523
-BALIN: Hold tight, lads.
+BALIN:
+Hold tight, lads.
 
 2
 03:59:17,123 --> 03:59:18,123

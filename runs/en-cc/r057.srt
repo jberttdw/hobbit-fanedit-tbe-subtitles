@@ -4,7 +4,8 @@ Mine.
 
 2
 02:09:24,500 --> 02:09:26,502
-DWALIN: Come on, keep up!
+DWALIN:
+Come on, keep up!
 
 3
 02:09:27,086 --> 02:09:28,378

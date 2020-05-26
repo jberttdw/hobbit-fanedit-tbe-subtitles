@@ -221,7 +221,7 @@ Well, uh....
 
 51
 00:43:08,357 --> 00:43:12,860
-It's something very big
+- It's something very big
 and possibly quite dangerous.
 
 52
@@ -480,7 +480,7 @@ I got to snaffle something.
 110
 00:46:35,146 --> 00:46:37,898
 -Flesh, I need flesh.
-TOP: Ah! Ah!
+TOM: Ah! Ah!
 
 111
 00:46:38,441 --> 00:46:39,859

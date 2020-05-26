@@ -233,5 +233,6 @@ Now!
 
 57
 03:12:47,717 --> 03:12:50,303
-BARD: Come on. Keep moving.
+BARD:
+Come on. Keep moving.
 

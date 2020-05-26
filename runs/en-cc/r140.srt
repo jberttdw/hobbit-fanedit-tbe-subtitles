@@ -185,7 +185,8 @@ What is going on?
 
 45
 04:16:27,669 --> 04:16:29,671
-WORRYWORT: Hello Mr. Bilbo.
+WORRYWORT:
+Hello Mr. Bilbo.
 
 46
 04:16:29,921 --> 04:16:31,548
@@ -378,8 +379,8 @@ well-wishers, or distant relations!
 
 90
 04:20:11,017 --> 04:20:14,103
-GANDALF: And what
-about very old friends?
+GANDALF:
+And what about very old friends?
 
 91
 04:20:21,694 --> 04:20:22,653

@@ -12,8 +12,8 @@ Fall back!
 
 4
 03:48:53,981 --> 03:48:57,235
-DWALIN: Since when do
-we forsake our own people?
+DWALIN:
+Since when do we forsake our own people?
 
 5
 03:48:57,485 --> 03:48:58,319
@@ -200,8 +200,8 @@ THORIN:
 
 48
 03:51:32,390 --> 03:51:34,183
-BARD: <i>He could not see</i>
-<i>beyond his own desire!</i>
+BARD:
+<i>He could not see beyond his own desire!</i>
 
 49
 03:51:34,433 --> 03:51:36,936
@@ -214,8 +214,8 @@ THORIN:
 
 51
 03:51:39,522 --> 03:51:43,025
-BALIN: <i>A sickness which drove</i>
-<i>your grandfather mad.</i>
+BALIN:
+<i>A sickness which drove your grandfather mad.</i>
 
 52
 03:51:43,276 --> 03:51:44,902

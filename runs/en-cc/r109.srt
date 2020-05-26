@@ -16,8 +16,8 @@ Ironfoot.
 
 5
 03:38:15,525 --> 03:38:19,926
-DAIN: Hey, Thorin!
-Ironfoot has come!
+DAIN:
+Hey, Thorin! Ironfoot has come!
 
 6
 03:38:26,870 --> 03:38:27,995
@@ -129,7 +129,8 @@ See if he's still smirking then.
 
 31
 03:40:04,259 --> 03:40:06,176
-GANDALF: Dain, wait!
+GANDALF:
+Dain, wait!
 
 32
 03:40:07,554 --> 03:40:09,555
