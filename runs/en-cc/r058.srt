@@ -22,7 +22,8 @@ Your brother?
 
 6
 02:10:04,016 --> 02:10:05,838
-GLOIN: That is my wife!
+GLOIN:
+That is my wife!
 
 7
 02:10:06,088 --> 02:10:08,174

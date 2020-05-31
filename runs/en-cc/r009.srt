@@ -35,12 +35,12 @@ just to leave it lying around.
 
 9
 00:53:17,999 --> 00:53:20,626
--Anyone could take it.
--Agreed.
+- Anyone could take it.
+- Agreed.
 
 10
 00:53:20,794 --> 00:53:22,461
--Nori.
+- Nori.
 NORI: Yeah?
 
 11
@@ -57,88 +57,85 @@ Nor were they made
 by any smith among Men.
 
 14
-00:53:58,290 --> 00:54:00,332
-These were forged in Gondolin...
+00:53:58,290 --> 00:54:04,003
+These were forged in Gondolin,
+by the High Elves of the First Age.
 
 15
-00:54:00,500 --> 00:54:04,003
-...by the High Elves of the First Age.
+00:54:04,504 --> 00:54:06,714
+You could not wish for a finer blade!
 
 16
-00:54:04,504 --> 00:54:06,714
-You could not wish for a finer blade.
-
-17
 00:54:20,687 --> 00:54:22,521
 BOFUR: Set it down.
 GLOIN: That's good.
 
-18
+17
 00:54:23,481 --> 00:54:25,149
 BOFUR:
 All right, come on. Quick.
 
-19
+18
 00:54:33,491 --> 00:54:36,160
 We're making a long-term deposit.
 
-20
+19
 00:54:36,786 --> 00:54:38,370
 THORIN:
 Let's get out of this foul place.
 
-21
+20
 00:54:38,830 --> 00:54:40,497
 Come on, let's go.
 
-22
+21
 00:54:40,665 --> 00:54:42,625
 Bofur, Gloin, Nori.
 
-23
+22
 00:55:02,103 --> 00:55:03,854
 GANDALF: Bilbo.
 BILBO: Hmm?
 
-24
+23
 00:55:05,315 --> 00:55:06,357
 Here.
 
-25
+24
 00:55:06,524 --> 00:55:09,068
 This is about your size.
 
-26
+25
 00:55:14,741 --> 00:55:16,116
 I can't take this.
 
-27
+26
 00:55:16,493 --> 00:55:18,494
 The blade is of Elvish make...
 
-28
+27
 00:55:18,662 --> 00:55:23,624
 ...which means it will glow blue
 when Orcs or Goblins are nearby.
 
-29
+28
 00:55:24,793 --> 00:55:27,127
 I have never used a sword in my life.
 
-30
+29
 00:55:27,295 --> 00:55:29,296
 And I hope you never have to.
 
-31
+30
 00:55:30,215 --> 00:55:31,882
 But if you do, remember this:
 
-32
+31
 00:55:33,301 --> 00:55:38,597
 True courage is about knowing
 not when to take a life...
 
-33
+32
 00:55:39,265 --> 00:55:41,475
 ...but when to spare one.
 

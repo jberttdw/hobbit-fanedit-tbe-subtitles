@@ -5,7 +5,7 @@ about this deluge?
 
 2
 00:40:01,295 --> 00:40:03,713
-lt is raining, Master Dwarf...
+It is raining, Master Dwarf...
 
 3
 00:40:03,881 --> 00:40:07,592

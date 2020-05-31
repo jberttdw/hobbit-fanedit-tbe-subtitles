@@ -1,551 +1,514 @@
 ﻿1
-01:57:32,618 --> 01:57:33,327
+01:57:32,618 --> 01:57:34,162
 Not my horse!
-
-2
-01:57:33,578 --> 01:57:34,162
 I need it!
 
-3
+2
 01:57:35,246 --> 01:57:36,080
 [DWARVES MURMUR]
 
-4
+3
 01:57:36,581 --> 01:57:37,790
 You're not leaving us?
 
-5
+4
 01:57:38,041 --> 01:57:39,792
 I would not do this unless I had to.
 
-6
+5
 01:57:46,424 --> 01:57:47,717
 You've changed...
 
-7
+6
 01:57:47,967 --> 01:57:49,719
 ...Bilbo Baggins.
 
-8
+7
 01:57:51,095 --> 01:57:54,140
 You're not the same Hobbit
 as the one who left the Shire.
 
-9
+8
 01:57:57,060 --> 01:57:58,603
 I was going to tell you.
 
-10
+9
 01:58:02,231 --> 01:58:03,357
 I...
 
-11
+10
 01:58:06,235 --> 01:58:08,321
 ...found something in the Goblin tunnels.
 
-12
+11
 01:58:08,571 --> 01:58:09,906
 Found what?
 
-13
+12
 01:58:14,660 --> 01:58:16,496
 What did you find?
 
-14
+13
 01:58:19,999 --> 01:58:21,209
 My courage.
 
-15
+14
 01:58:24,003 --> 01:58:26,047
 Good. Well, that's good.
 
-16
+15
 01:58:28,883 --> 01:58:30,718
 You'll need it.
 
+16
+01:58:31,010 --> 01:58:34,972
+I'll be waiting for you at the overlook,
+before the slopes of Erebor.
+
 17
-01:58:31,010 --> 01:58:33,596
-I'll be waiting for you
-at the overlook, before...
-
-18
-01:58:33,846 --> 01:58:34,972
-...the slopes of Erebor.
-
-19
 01:58:35,223 --> 01:58:37,600
 Keep the map and key safe.
 
-20
+18
 01:58:37,850 --> 01:58:40,812
 Do not enter that mountain without me.
 
-21
+19
 01:58:46,734 --> 01:58:49,987
 This is not the Greenwood of old.
 
-22
+20
 01:58:50,238 --> 01:58:53,533
 The very air of the forest
 is heavy with illusion.
 
-23
+21
 01:58:53,783 --> 01:58:56,494
 It'll seek to enter your mind
 and lead you astray.
 
-24
+22
 01:58:56,953 --> 01:58:58,663
 "Lead us astray"?
 
-25
+23
 01:58:59,122 --> 01:59:00,456
 What does that mean?
 
-26
+24
 01:59:00,832 --> 01:59:03,960
-GANDALF: You must stay on the path.
-Do not leave it.
+GANDALF:
+You must stay on the path. Do not leave it.
+
+25
+01:59:04,418 --> 01:59:07,964
+If you do, you'll never find it again.
+
+26
+01:59:09,632 --> 01:59:12,093
+No matter what may come,
+stay on the path!
 
 27
-01:59:04,418 --> 01:59:06,420
-If you do, you'll never...
-
-28
-01:59:06,671 --> 01:59:07,964
-...find it again.
-
-29
-01:59:09,632 --> 01:59:11,175
-No matter what may come, stay on...
-
-30
-01:59:11,425 --> 01:59:12,093
-...the path!
-
-31
 01:59:12,343 --> 01:59:15,513
 Come on. We must reach the mountain
 before the sun sets on Durin's Day.
 
-32
+28
 01:59:15,763 --> 01:59:16,764
 BILBO: Durin's Day?
 BOFUR: Let's go.
 
-33
+29
 01:59:17,014 --> 01:59:19,517
-THORIN: It is our one chance
-to find the hidden door.
+THORIN:
+It is our one chance to find the hidden door.
 
-34
+30
 01:59:30,278 --> 01:59:31,904
 THORIN:
 The path turns this way.
 
-35
+31
 01:59:57,930 --> 01:59:59,140
 This way.
 
-36
+32
 02:00:07,732 --> 02:00:10,902
 BOFUR:
 Air. I need air.
 
-37
+33
 02:00:11,152 --> 02:00:13,195
 OIN:
 My head, it's swimming!
 
-38
+34
 02:00:13,446 --> 02:00:14,530
 What's happening?
 
-39
+35
 02:00:14,780 --> 02:00:16,198
 Keep moving.
 
-40
+36
 02:00:16,616 --> 02:00:17,658
 Nori...
 
-41
+37
 02:00:19,035 --> 02:00:20,036
 ...why have we stopped?
 
-42
+38
 02:00:20,286 --> 02:00:21,204
 The path...
 
-43
+39
 02:00:21,454 --> 02:00:23,122
 ...it's disappeared.
 
-44
+40
 02:00:23,372 --> 02:00:24,415
 DWALIN:
 What's going on?
 
-45
+41
 02:00:25,124 --> 02:00:27,209
 OIN:
 We've lost the path!
 
-46
+42
 02:00:27,460 --> 02:00:28,544
 THORIN:
 Find it.
 
-47
+43
 02:00:28,920 --> 02:00:31,839
 All of you, look. Look for the path!
 
-48
+44
 02:00:37,428 --> 02:00:38,846
 [GROANS]
 
-49
+45
 02:00:40,973 --> 02:00:43,267
 I don't remember this bit.
 
-50
+46
 02:00:43,517 --> 02:00:45,144
 None of it's familiar.
 
-51
+47
 02:00:45,394 --> 02:00:47,146
 DORI:
 It's got to be here.
 
-52
+48
 02:00:47,855 --> 02:00:49,273
 THORIN:
 What hour is it?
 
-53
+49
 02:00:49,523 --> 02:00:53,027
 I do not know. I do not even know
 what day it is.
 
-54
+50
 02:00:53,653 --> 02:00:56,197
 THORIN:
-ls there no end to this accursed forest?!
+Is there no end to this accursed forest?!
 
-55
+51
 02:01:10,753 --> 02:01:12,004
 VOICE [WHISPERING]:
 Attercop.
 
-56
+52
 02:01:39,907 --> 02:01:40,866
 Look.
 
-57
+53
 02:01:41,117 --> 02:01:42,743
 A tobacco pouch.
 
-58
+54
 02:01:42,994 --> 02:01:45,413
 There's Dwarves in these woods.
 
-59
+55
 02:01:45,663 --> 02:01:48,290
 Dwarves from the Blue Mountains,
 no less.
 
-60
+56
 02:01:48,541 --> 02:01:50,209
 This is exactly the same as mine.
 
-61
+57
 02:01:50,459 --> 02:01:53,129
 Because it is yours. Do you understand?
 
-62
+58
 02:01:53,379 --> 02:01:55,172
 We're going around in circles.
 We are lost.
 
-63
+59
 02:01:55,423 --> 02:01:57,466
 THORIN:
 We are not lost. We keep heading east.
 
-64
+60
 02:01:57,717 --> 02:02:00,344
 OIN:
 But which way is east? We've lost the sun.
 
-65
+61
 02:02:00,594 --> 02:02:01,971
 DWALIN:
 I thought you were the expert.
 
-66
+62
 02:02:03,097 --> 02:02:04,098
 The sun.
 
-67
-02:02:04,890 --> 02:02:06,600
-We have to find...
+63
+02:02:04,890 --> 02:02:08,102
+We have to find the sun.
 
-68
-02:02:06,851 --> 02:02:08,102
-...the sun.
-
-69
+64
 02:02:09,937 --> 02:02:11,105
 Up there.
 
-70
-02:02:11,355 --> 02:02:12,189
-We need to...
+65
+02:02:11,355 --> 02:02:13,941
+We need to get above the canopy.
 
-71
-02:02:12,440 --> 02:02:13,941
-...get above the canopy.
-
-72
+66
 02:02:14,191 --> 02:02:16,277
 [DWARVES CLAMORING]
 
-73
+67
 02:02:16,527 --> 02:02:17,653
 [VOICES WHISPERING INDISTINCTLY]
 
-74
+68
 02:02:17,945 --> 02:02:19,864
 What was that?
 
-75
+69
 02:02:21,073 --> 02:02:23,951
 Enough! Quiet! All of you!
 
-76
+70
 02:02:25,911 --> 02:02:27,663
 We're being watched.
 
-77
+71
 02:02:50,644 --> 02:02:51,979
 [SIGHS]
 
-78
+72
 02:03:01,572 --> 02:03:02,740
 [CHUCKLES]
 
-79
+73
 02:03:16,087 --> 02:03:17,838
 I can see a lake!
 
-80
+74
 02:03:18,672 --> 02:03:20,841
 And a river.
 
-81
+75
 02:03:22,551 --> 02:03:24,178
 And the Lonely Mountain.
 
-82
+76
 02:03:24,637 --> 02:03:26,430
 We're almost there!
 
-83
+77
 02:03:28,349 --> 02:03:29,683
 Can you hear me?
 
-84
+78
 02:03:30,935 --> 02:03:33,104
 I know which way to go!
 
-85
+79
 02:03:33,354 --> 02:03:34,980
 [BRANCHES SNAPPING]
 
-86
+80
 02:03:36,440 --> 02:03:37,566
 Hello?
 
-87
+81
 02:03:42,071 --> 02:03:44,073
 [BRANCHES CONTINUE SNAPPING]
 
-88
+82
 02:03:46,909 --> 02:03:48,119
 Hello.
 
-89
+83
 02:04:00,172 --> 02:04:01,132
 Oh, no.
 
-90
-02:04:01,382 --> 02:04:02,216
+84
+02:04:01,382 --> 02:04:03,592
 Oh, come on.
-
-91
-02:04:02,466 --> 02:04:03,592
 [YELLS]
 
-92
+85
 02:04:08,514 --> 02:04:09,682
 [CHITTERS]
 
-93
+86
 02:04:11,642 --> 02:04:12,434
 [ROARS]
 
-94
+87
 02:04:12,685 --> 02:04:13,686
 [SCREAMS]
 
-95
+88
 02:05:41,440 --> 02:05:44,068
 SPIDER 1:
 Kill them! Kill them.
 
-96
+89
 02:05:44,318 --> 02:05:46,362
 Eat them now,
 while their blood is running.
 
-97
+90
 02:05:46,612 --> 02:05:50,115
 SPIDER 2: Their hide is tough,
 but there's good juice inside.
 
-98
-02:05:50,366 --> 02:05:50,991
-SPIDER 1:
-Stick it again.
-
-99
-02:05:51,242 --> 02:05:53,285
+91
+02:05:50,366 --> 02:05:53,285
+SPIDER 1: Stick it again.
 Stick it again. Finish it off.
 
-100
+92
 02:05:54,411 --> 02:05:56,163
 SPIDER 2:
 The meat's alive and kicking!
 
-101
-02:05:56,413 --> 02:05:56,997
+93
+02:05:56,413 --> 02:05:57,998
 SPIDER 1:
-Kill him.
+Kill him. Kill them now.
 
-102
-02:05:57,248 --> 02:05:57,998
-Kill him now.
-
-103
+94
 02:05:58,249 --> 02:05:59,833
 Let us feast.
 
-104
+95
 02:06:00,084 --> 02:06:01,293
 Feast! Feast!
 
-105
+96
 02:06:01,543 --> 02:06:03,629
 SPIDER 3:
 Feast! Feast!
 
-106
+97
 02:06:05,005 --> 02:06:06,423
 SPIDER 4:
 Eat them alive!
 
-107
+98
 02:06:06,674 --> 02:06:08,717
 Feast!
 
-108
+99
 02:06:13,555 --> 02:06:14,848
 [STICK CLATTERS]
 
-109
+100
 02:06:15,099 --> 02:06:16,934
 SPIDER 2: What is it?
 SPIDER 1: What is it?
 
-110
+101
 02:06:18,811 --> 02:06:21,021
 SPIDER 4:
 Eat them alive!
 
-111
+102
 02:06:24,275 --> 02:06:26,402
 SPIDER 3:
 Fat and juicy.
 
-112
-02:06:29,488 --> 02:06:30,864
-Just a...
+103
+02:06:29,488 --> 02:06:32,199
+Just a little taste.
 
-113
-02:06:31,115 --> 02:06:32,199
-...little taste.
-
-114
+104
 02:06:33,534 --> 02:06:34,201
 [HISSING]
 
-115
+105
 02:06:42,876 --> 02:06:45,212
 Curse it! Where is it?! Where is it?!
 
-116
+106
 02:06:46,589 --> 02:06:47,715
 Here.
 
-117
+107
 02:06:48,674 --> 02:06:50,592
 Ah! It stings!
 
-118
+108
 02:06:50,843 --> 02:06:51,719
 It stings!
 
-119
+109
 02:06:57,683 --> 02:06:58,976
 Sting.
 
-120
+110
 02:06:59,935 --> 02:07:01,228
 That's a good name.
 
-121
+111
 02:07:03,022 --> 02:07:04,148
 Sting.
 
-122
+112
 02:07:22,583 --> 02:07:24,251
 GLOIN:
 You all right there, Bofur?
 
-123
+113
 02:07:24,627 --> 02:07:25,836
 BALIN: I'm all right!
 THORIN: Get it off me!
 
-124
+114
 02:07:26,086 --> 02:07:27,171
 BOFUR:
 Where's Bilbo?
 
-125
+115
 02:07:27,421 --> 02:07:28,380
 BILBO:
 I'm up here!
 
-126
+116
 02:07:29,006 --> 02:07:29,840
 [BILBO YELLS]
 
-127
+117
 02:07:33,344 --> 02:07:34,511
 [BILBO SCREAMS]
 
-128
+118
 02:07:46,523 --> 02:07:48,025
 [DWARVES CLAMOR]
 

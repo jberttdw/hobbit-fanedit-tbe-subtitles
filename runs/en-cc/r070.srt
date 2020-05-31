@@ -82,11 +82,13 @@ What is the meaning of this?
 
 20
 02:30:31,952 --> 02:30:34,188
-BRAGA: We caught them stealing weapons, sire.
+BRAGA:
+We caught them stealing weapons, sire.
 
 21
 02:30:34,431 --> 02:30:36,832
-MASTER: Ah. Enemies of the state, eh?
+MASTER:
+Ah. Enemies of the state, eh?
 
 22
 02:30:37,082 --> 02:30:40,294

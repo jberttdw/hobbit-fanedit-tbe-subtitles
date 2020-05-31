@@ -21,8 +21,8 @@ I'm not, though, am I?
 
 6
 01:14:07,785 --> 01:14:11,079
-Thorin said I should never have come
-and he was right.
+Thorin said I should never
+have come and he was right.
 
 7
 01:14:11,247 --> 01:14:15,375
@@ -31,8 +31,8 @@ I don't know what I was thinking.
 
 8
 01:14:16,586 --> 01:14:20,631
--I should never have run out my door.
--You're homesick. I understand.
+- I should never have run out my door.
+- You're homesick. I understand.
 
 9
 01:14:20,798 --> 01:14:23,300

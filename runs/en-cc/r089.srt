@@ -1,6 +1,7 @@
 ﻿1
 03:04:21,322 --> 03:04:24,826
-SMAUG: You have nothing left...
+SMAUG:
+You have nothing left...
 
 2
 03:04:25,744 --> 03:04:28,329

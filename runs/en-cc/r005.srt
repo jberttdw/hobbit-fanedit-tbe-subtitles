@@ -113,7 +113,7 @@ only one around here who's got any sense.
 
 27
 00:41:47,776 --> 00:41:50,444
--And who's that?
+- And who's that?
 GANDALF: Myself, Mr. Baggins.
 
 28
@@ -126,7 +126,7 @@ Come on, Bombur, we're hungry.
 
 30
 00:41:57,953 --> 00:42:00,079
-ls he coming back?
+Is he coming back?
 
 31
 00:42:03,083 --> 00:42:04,375
@@ -138,8 +138,8 @@ He's been a long time.
 
 33
 00:42:06,003 --> 00:42:07,295
--Who?
--Gandalf.
+- Who?
+- Gandalf.
 
 34
 00:42:07,462 --> 00:42:09,630
@@ -174,8 +174,8 @@ What's the matter?
 
 41
 00:42:35,574 --> 00:42:39,994
--We're supposed to be looking after the ponies.
--Only we've encountered a slight problem.
+- We're supposed to be looking after the ponies.
+- Only we've encountered a slight problem.
 
 42
 00:42:40,162 --> 00:42:42,038
@@ -216,12 +216,12 @@ Well, uh....
 
 50
 00:43:04,019 --> 00:43:08,189
--Look, something big uprooted these trees.
--That was our thinking.
+- Look, something big uprooted these trees.
+- That was our thinking.
 
 51
 00:43:08,357 --> 00:43:12,860
-It's something very big
+- It's something very big
 and possibly quite dangerous.
 
 52
@@ -348,7 +348,7 @@ Ah. There's more where that came from.
 
 80
 00:44:57,799 --> 00:44:59,091
--Oh, no, you don't!
+- Oh, no, you don't!
 TOM: Ow!
 
 81
@@ -377,8 +377,8 @@ I don't like the stinky parts.
 
 87
 00:45:20,447 --> 00:45:23,282
--Ow!
--I said sit down.
+- Ow!
+- I said sit down.
 
 88
 00:45:23,450 --> 00:45:24,492
@@ -428,8 +428,8 @@ Lovely stew, Bert."
 
 98
 00:45:50,936 --> 00:45:54,897
--How hard is that?
--Shh. Shh, shh. Shh.
+- How hard is that?
+- Shh. Shh, shh. Shh.
 
 99
 00:45:55,357 --> 00:45:58,150
@@ -479,8 +479,8 @@ I got to snaffle something.
 
 110
 00:46:35,146 --> 00:46:37,898
--Flesh, I need flesh.
-TOP: Ah! Ah!
+- Flesh, I need flesh.
+TOM: Ah! Ah!
 
 111
 00:46:38,441 --> 00:46:39,859
@@ -552,7 +552,7 @@ Might be enough for a pie.
 
 127
 00:47:23,320 --> 00:47:25,321
--Grab him!
+- Grab him!
 TOM: He's too quick.
 
 128
@@ -579,8 +579,8 @@ He's lying.
 
 133
 00:47:37,667 --> 00:47:42,004
--No, I'm not!
--Hold his toes over the fire.
+- No, I'm not!
+- Hold his toes over the fire.
 
 134
 00:47:42,172 --> 00:47:44,882

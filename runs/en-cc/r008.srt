@@ -5,8 +5,8 @@ Come on! Get up!
 
 2
 00:48:27,121 --> 00:48:28,412
--Bilbo!
--Don't!
+- Bilbo!
+- Don't!
 
 3
 00:48:30,040 --> 00:48:32,041
@@ -42,7 +42,7 @@ with a sprinkle of sage.
 10
 00:49:01,905 --> 00:49:03,447
 BALIN:
-ls this really necessary?
+Is this really necessary?
 
 11
 00:49:03,615 --> 00:49:05,408
@@ -108,7 +108,7 @@ than sage before you plate this lot up.
 25
 00:49:42,404 --> 00:49:45,531
 BOMBUR: Traitor!
--What do you know about cooking Dwarf?
+- What do you know about cooking Dwarf?
 
 26
 00:49:46,074 --> 00:49:47,116
@@ -126,7 +126,7 @@ The secret to cooking Dwarf is....
 29
 00:49:55,125 --> 00:49:58,252
 BERT: Yes? Come on. Tell us the secret.
--It's, uh....
+- It's, uh....
 
 30
 00:49:58,420 --> 00:50:00,463
@@ -185,12 +185,12 @@ Oh, not that one. He's infected.
 
 43
 00:50:35,374 --> 00:50:36,999
--Huh?
--You what?
+- Huh?
+- You what?
 
 44
 00:50:37,167 --> 00:50:41,295
-Yeah, he's got worms in his tubes.
+Yeah, he's got worms in his... tubes.
 
 45
 00:50:41,463 --> 00:50:43,422
@@ -199,7 +199,7 @@ BOMBUR: Aah!
 
 46
 00:50:43,674 --> 00:50:46,968
-ln fact, they all have.
+In fact, they all have.
 They're infested with parasites.
 
 47
@@ -256,8 +256,8 @@ Let them all go?
 
 59
 00:51:16,039 --> 00:51:19,375
--Well....
--You think I don't know what you're up to?
+- Well....
+- You think I don't know what you're up to?
 
 60
 00:51:19,793 --> 00:51:23,879
@@ -265,18 +265,18 @@ This little ferret is taking us for fools.
 
 61
 00:51:24,339 --> 00:51:25,881
--Ferret?
--Fools?
+- Ferret?
+- Fools?
 
 62
 00:51:26,049 --> 00:51:29,010
 GANDALF:
-The dawn will take you all.
+The dawn will take you all!
 
 63
 00:51:30,429 --> 00:51:32,054
--Who's that?
--No idea.
+- Who's that?
+- No idea.
 
 64
 00:51:32,222 --> 00:51:33,347
@@ -303,8 +303,8 @@ Get your foot out of my back.
 [DWARVES CHATTERING]
 
 70
-00:52:08,008 --> 00:52:09,300
-Ah.
+00:52:07,861 --> 00:52:09,300
+[IMITATES TROLL GROAN]
 
 71
 00:52:11,553 --> 00:52:13,721
@@ -316,8 +316,8 @@ To look ahead.
 
 73
 00:52:15,932 --> 00:52:18,768
--What brought you back?
--Looking behind.
+- What brought you back?
+- Looking behind.
 
 74
 00:52:19,770 --> 00:52:20,978

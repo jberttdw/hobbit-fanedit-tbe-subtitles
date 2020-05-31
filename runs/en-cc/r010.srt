@@ -4,7 +4,7 @@ The Valley of Imladris.
 
 2
 00:56:36,788 --> 00:56:40,666
-ln the common tongue,
+In the common tongue,
 it's known by another name.
 
 3
@@ -13,8 +13,8 @@ Rivendell.
 
 4
 00:56:45,255 --> 00:56:50,176
-GANDALF: Here lies the Last Homely House
-East of the Sea.
+GANDALF: Here lies the Last
+Homely House East of the Sea.
 
 5
 00:56:51,428 --> 00:56:54,013
@@ -31,13 +31,13 @@ Thorin Oakenshield.
 
 8
 00:57:00,312 --> 00:57:04,190
-The only ill will to be found in this valley
-is that which you bring yourself.
+The only ill will to be found in this
+valley is that which you bring yourself.
 
 9
 00:57:05,525 --> 00:57:08,694
-You think the Elves will give our quest
-their blessing?
+You think the Elves will
+give our quest their blessing?
 
 10
 00:57:09,863 --> 00:57:11,280
@@ -45,8 +45,8 @@ They will try to stop us.
 
 11
 00:57:11,490 --> 00:57:15,451
-Of course they will. But we have questions
-that need to be answered.
+Of course they will. But we have
+questions that need to be answered.
 
 12
 00:57:18,997 --> 00:57:22,583
@@ -63,8 +63,8 @@ And no small degree of charm.
 
 15
 00:57:27,005 --> 00:57:31,008
-Which is why you will leave the talking
-to me.
+Which is why you will
+leave the talking to me.
 
 16
 00:58:27,482 --> 00:58:29,233
@@ -115,8 +115,8 @@ Close ranks!
 
 27
 00:59:26,500 --> 00:59:29,835
--Gandalf.
--Lord Elrond.
+- Gandalf.
+- Lord Elrond.
 
 28
 00:59:30,962 --> 00:59:38,177

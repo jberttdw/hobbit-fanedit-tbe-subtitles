@@ -1,321 +1,304 @@
 ﻿1
-03:14:53,609 --> 03:14:56,195
+03:14:53,219 --> 03:14:55,805
 MAN 1: These children are starving.
 MAN 2: We need food.
 
 2
-03:14:56,445 --> 03:14:58,614
+03:14:56,055 --> 03:14:58,224
 MAN 1: We won't last three days.
 PERCY: Bard...
 
 3
-03:14:58,864 --> 03:15:01,367
+03:14:58,474 --> 03:15:00,977
 - ...we don't have enough.
 - Do what you can, Percy.
 
 4
-03:15:02,702 --> 03:15:04,662
+03:15:02,312 --> 03:15:04,272
 PERCY:
 It'll be all right. Don't worry.
 
 5
-03:15:05,204 --> 03:15:06,872
+03:15:04,814 --> 03:15:06,482
 WOMAN:
 We need more water.
 
 6
-03:15:07,123 --> 03:15:09,458
+03:15:06,733 --> 03:15:09,068
 The children, the wounded
 and the women come first.
 
 7
-03:15:09,709 --> 03:15:10,876
+03:15:09,319 --> 03:15:10,486
 MAN 3:
 Here you are.
 
 8
-03:15:11,836 --> 03:15:12,837
+03:15:11,446 --> 03:15:12,447
 BARD:
 Good morning, Alfrid.
 
 9
-03:15:13,796 --> 03:15:15,298
+03:15:13,406 --> 03:15:14,908
 What news from the night watch?
 
 10
-03:15:15,548 --> 03:15:18,092
+03:15:15,158 --> 03:15:17,702
 All quiet, sire. Not much to report.
 
 11
-03:15:18,634 --> 03:15:20,511
+03:15:18,244 --> 03:15:20,121
 Nothing gets past me.
 
 12
-03:15:27,601 --> 03:15:30,688
+03:15:27,211 --> 03:15:30,298
 Except an army of Elves, it would seem.
 
 13
-03:16:03,888 --> 03:16:06,182
+03:16:03,498 --> 03:16:05,792
 My Lord Thranduil, we did not look...
 
 14
-03:16:06,432 --> 03:16:08,809
+03:16:06,042 --> 03:16:08,419
 - ...to see you here.
 - I heard you needed aid.
 
 15
-03:16:16,817 --> 03:16:18,694
+03:16:16,427 --> 03:16:18,304
 [CHATTERING]
 
 16
-03:16:27,703 --> 03:16:28,871
+03:16:27,313 --> 03:16:28,481
 Here you go.
 
 17
-03:16:30,122 --> 03:16:31,332
+03:16:29,732 --> 03:16:30,942
 MAN 1:
 Pass it back.
 
 18
-03:16:32,208 --> 03:16:33,334
+03:16:31,818 --> 03:16:32,944
 MAN 2:
 Another one.
 
 19
-03:16:37,380 --> 03:16:38,381
+03:16:36,990 --> 03:16:37,991
 BARD:
 You have saved us.
 
 20
-03:16:39,131 --> 03:16:40,591
+03:16:38,741 --> 03:16:40,201
 I do not know how to thank you.
 
 21
-03:16:40,841 --> 03:16:42,676
+03:16:40,451 --> 03:16:42,286
 Your gratitude is misplaced.
 
 22
-03:16:43,511 --> 03:16:45,471
+03:16:43,121 --> 03:16:45,081
 I did not come on your behalf.
 
 23
-03:16:45,721 --> 03:16:48,599
+03:16:45,331 --> 03:16:48,209
 I came to reclaim something of mine.
 
 24
-03:16:55,815 --> 03:16:59,276
+03:16:55,425 --> 03:16:58,886
 <i>There are gems in the Mountain
 that I, too, desire.</i>
 
 25
-03:17:00,069 --> 03:17:03,155
+03:16:59,679 --> 03:17:02,765
 <i>White gems of pure starlight.</i>
 
 26
-03:17:03,906 --> 03:17:06,283
+03:17:03,516 --> 03:17:05,893
 The White Gems of Lasgalen.
 
 27
-03:17:08,202 --> 03:17:11,163
+03:17:07,812 --> 03:17:10,773
 I know an Elf Lord who will pay
 a pretty price for these.
 
 28
-03:17:17,128 --> 03:17:18,754
+03:17:16,738 --> 03:17:18,364
 BARD:
 Wait! Please wait!
 
 29
-03:17:22,216 --> 03:17:24,635
+03:17:21,826 --> 03:17:24,245
 You would go to war
 over a handful of gems?
 
 30
-03:17:24,885 --> 03:17:28,472
+03:17:24,495 --> 03:17:28,082
 The heirlooms of my people
 are not lightly forsaken.
 
 31
-03:17:28,722 --> 03:17:30,224
+03:17:28,332 --> 03:17:29,834
 We are allies in this.
 
 32
-03:17:31,725 --> 03:17:32,476
+03:17:31,335 --> 03:17:32,086
 My people...
 
 33
-03:17:32,726 --> 03:17:35,438
+03:17:32,336 --> 03:17:35,048
 ...also have a claim
 upon the riches in that Mountain.
 
 34
-03:17:35,980 --> 03:17:36,730
-Let me...
+03:17:35,590 --> 03:17:37,842
+Let me speak with Thorin.
 
 35
-03:17:36,981 --> 03:17:38,232
-...speak with Thorin.
-
-36
-03:17:38,816 --> 03:17:41,235
+03:17:38,426 --> 03:17:40,845
 You would try to reason with the Dwarf?
 
-37
-03:17:41,485 --> 03:17:42,820
+36
+03:17:41,095 --> 03:17:42,430
 To avoid war?
 
-38
-03:17:43,654 --> 03:17:44,697
+37
+03:17:43,264 --> 03:17:44,307
 Yes.
 
-39
-03:17:45,573 --> 03:17:47,491
+38
+03:17:45,183 --> 03:17:47,101
 GLOIN:
 Not a bad night's work.
 
-40
-03:17:49,577 --> 03:17:50,828
+39
+03:17:49,187 --> 03:17:50,438
 Come on.
 
-41
-03:18:13,517 --> 03:18:16,103
+40
+03:18:13,127 --> 03:18:15,713
 Hail, Thorin, son of Thrain.
 
-42
-03:18:16,353 --> 03:18:18,856
+41
+03:18:15,963 --> 03:18:18,466
 We are glad to find you alive beyond hope.
 
+42
+03:18:18,716 --> 03:18:22,887
+Why do you come to the gates of the
+King under the Mountain armed for war?
+
 43
-03:18:19,106 --> 03:18:20,566
-Why do you come to the gates...
-
-44
-03:18:20,816 --> 03:18:23,277
-...of the King under the Mountain
-armed for war?
-
-45
-03:18:23,527 --> 03:18:26,405
+03:18:23,137 --> 03:18:26,015
 Why does the King under the Mountain
 fence himself in...
 
-46
-03:18:27,114 --> 03:18:29,450
+44
+03:18:26,724 --> 03:18:29,060
 ...like a robber in his hold?
 
-47
-03:18:30,117 --> 03:18:33,204
+45
+03:18:29,727 --> 03:18:32,814
 THORIN: Perhaps it is because
 I am expecting to be robbed.
 
-48
-03:18:34,246 --> 03:18:35,289
+46
+03:18:33,856 --> 03:18:34,899
 BARD:
 My lord...
 
-49
-03:18:36,165 --> 03:18:38,125
-...we have not come to rob you...
+47
+03:18:35,775 --> 03:18:40,238
+...we have not come to rob you,
+but to seek fair settlement.
 
-50
-03:18:38,375 --> 03:18:40,628
-...but to seek fair settlement.
-
-51
-03:18:41,253 --> 03:18:43,172
+48
+03:18:40,863 --> 03:18:42,782
 Will you not speak with me?
 
-52
-03:19:01,982 --> 03:19:02,858
+49
+03:19:01,592 --> 03:19:02,468
 [CAWING]
 
-53
-03:19:18,207 --> 03:19:19,542
+50
+03:19:17,817 --> 03:19:19,152
 I am listening.
 
-54
-03:19:20,626 --> 03:19:22,461
-On behalf of the people of Lake-town...
+51
+03:19:20,236 --> 03:19:24,365
+On behalf of the people of Lake-town
+I ask that you honor your pledge.
 
-55
-03:19:22,711 --> 03:19:24,755
-...I ask that you honor your pledge.
+52
+03:19:24,991 --> 03:19:28,536
+A share of the treasure,
+so that they might rebuild their lives.
 
-56
-03:19:25,381 --> 03:19:26,674
-A share of the treasure...
-
-57
-03:19:26,924 --> 03:19:28,926
-...so that they might rebuild their lives.
-
-58
-03:19:29,843 --> 03:19:32,137
+53
+03:19:29,453 --> 03:19:31,747
 I will not treat with any man...
 
-59
-03:19:32,680 --> 03:19:35,140
+54
+03:19:32,290 --> 03:19:34,750
 ...while an armed host lies before my door.
 
-60
-03:19:35,391 --> 03:19:39,061
+55
+03:19:35,001 --> 03:19:38,671
 That armed host will attack this Mountain
 if we do not come to terms.
 
-61
-03:19:40,354 --> 03:19:43,107
+56
+03:19:39,964 --> 03:19:42,717
 And your threats do not sway me.
 
-62
-03:19:44,942 --> 03:19:46,402
+57
+03:19:44,552 --> 03:19:46,012
 What of your conscience?
 
-63
-03:19:46,986 --> 03:19:49,822
+58
+03:19:46,596 --> 03:19:49,432
 Does it not tell you our cause is just?
 
-64
-03:19:51,198 --> 03:19:53,742
+59
+03:19:50,808 --> 03:19:53,352
 My people offered you help.
 
-65
-03:19:55,744 --> 03:19:59,331
+60
+03:19:55,354 --> 03:19:58,941
 And in return, you brought upon them
 only ruin and death.
 
-66
-03:19:59,582 --> 03:20:02,793
+61
+03:19:59,192 --> 03:20:02,403
 When did Lake-town come to our aid
 but for the promise of rich reward?
 
-67
-03:20:03,043 --> 03:20:04,336
+62
+03:20:02,653 --> 03:20:03,946
 A bargain was struck!
 
-68
-03:20:04,587 --> 03:20:05,796
+63
+03:20:04,197 --> 03:20:05,406
 A bargain?
 
-69
-03:20:06,046 --> 03:20:08,924
+64
+03:20:05,656 --> 03:20:08,534
 What choice did we have
-but to barter our birthright...
+but to barter our birthright,
 
-70
-03:20:09,174 --> 03:20:10,968
-...for blankets and food?
-To ransom...
+65
+03:20:08,784 --> 03:20:10,578
+for blankets and food?
+To ransom
 
-71
-03:20:11,218 --> 03:20:13,429
-...our future in exchange
+66
+03:20:10,828 --> 03:20:13,039
+our future in exchange
 for our freedom?
 
-72
-03:20:14,263 --> 03:20:16,473
+67
+03:20:13,873 --> 03:20:16,083
 You call that a fair trade?
 
-73
-03:20:18,601 --> 03:20:19,935
+68
+03:20:18,211 --> 03:20:19,545
 Tell me...
 

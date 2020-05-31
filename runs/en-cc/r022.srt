@@ -21,8 +21,8 @@ Aah!
 
 6
 01:11:37,781 --> 01:11:40,074
--Grab my hand!
--Bilbo!
+- Grab my hand!
+- Bilbo!
 
 7
 01:11:41,410 --> 01:11:43,870
@@ -105,8 +105,8 @@ until Gandalf joined us.
 
 25
 01:12:51,355 --> 01:12:54,315
--That was the plan.
--Plans change.
+- That was the plan.
+- Plans change.
 
 26
 01:12:54,483 --> 01:12:57,985

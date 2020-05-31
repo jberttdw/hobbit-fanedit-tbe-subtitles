@@ -46,7 +46,8 @@ The hidden door.
 
 11
 02:36:40,858 --> 02:36:42,610
-THORIN: Let all those who doubted us...
+THORIN:
+Let all those who doubted us...
 
 12
 02:36:43,777 --> 02:36:45,112

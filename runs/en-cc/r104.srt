@@ -1,93 +1,70 @@
 ﻿1
-03:26:48,946 --> 03:26:51,866
+03:26:48,556 --> 03:26:51,476
 GANDALF: You must set aside
 your petty grievances with the Dwarves.
 
 2
-03:26:52,116 --> 03:26:53,159
+03:26:51,726 --> 03:26:52,769
 War is coming!
 
 3
-03:26:53,409 --> 03:26:54,535
-The cesspits...
+03:26:53,019 --> 03:26:56,815
+The cesspits of Dol Guldur
+have been emptied.
 
 4
-03:26:54,785 --> 03:26:56,162
-...of Dol Guldur have been...
+03:26:57,065 --> 03:26:59,109
+You're all in mortal danger.
 
 5
-03:26:56,412 --> 03:26:57,205
-...emptied.
-
-6
-03:26:57,455 --> 03:26:58,164
-You're all...
-
-7
-03:26:58,414 --> 03:26:59,499
-...in mortal danger.
-
-8
-03:26:59,749 --> 03:27:01,042
+03:26:59,359 --> 03:27:00,652
 What are you talking about?
 
-9
-03:27:02,293 --> 03:27:03,377
-You know nothing...
+6
+03:27:01,903 --> 03:27:04,489
+I can see you know nothing of Wizards.
 
-10
-03:27:03,628 --> 03:27:04,879
-...of Wizards.
-
-11
-03:27:05,129 --> 03:27:07,381
+7
+03:27:04,739 --> 03:27:06,991
 They are like winter thunder
 on a wild wind...
 
-12
-03:27:07,632 --> 03:27:11,135
+8
+03:27:07,242 --> 03:27:10,745
 ...rolling in from a distance,
 breaking hard in alarm.
 
-13
-03:27:12,845 --> 03:27:14,931
-But sometimes a storm...
+9
+03:27:12,455 --> 03:27:16,417
+But sometimes a storm is <i>just a storm.</i>
 
-14
-03:27:15,181 --> 03:27:16,807
-...is just a storm.
-
-15
-03:27:17,058 --> 03:27:18,559
+10
+03:27:16,668 --> 03:27:18,169
 Not this time.
 
-16
-03:27:18,809 --> 03:27:21,270
+11
+03:27:18,419 --> 03:27:20,880
 Armies of Orcs are on the move.
 
-17
-03:27:21,521 --> 03:27:23,856
+12
+03:27:21,131 --> 03:27:23,466
 These are fighters.
 They have been bred for war.
 
-18
-03:27:24,106 --> 03:27:26,734
+13
+03:27:23,716 --> 03:27:26,344
 Our enemy has summoned his full strength.
 
-19
-03:27:26,984 --> 03:27:28,528
+14
+03:27:26,594 --> 03:27:28,138
 Why show his hand now?
 
-20
-03:27:28,778 --> 03:27:30,029
+15
+03:27:28,388 --> 03:27:29,639
 Because we forced him.
 
-21
-03:27:30,279 --> 03:27:33,449
+16
+03:27:29,889 --> 03:27:34,686
 We forced him when the Company of Thorin
-set out to reclaim...
-
-22
-03:27:33,699 --> 03:27:35,076
-...their homeland.
+Oakenshield set out to reclaim their homeland.
 

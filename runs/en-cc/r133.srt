@@ -1,6 +1,7 @@
 ﻿1
 04:03:53,303 --> 04:03:55,264
-DWALIN: Where is that Orc filth?
+DWALIN:
+Where is that Orc filth?
 
 2
 04:03:57,433 --> 04:03:58,433

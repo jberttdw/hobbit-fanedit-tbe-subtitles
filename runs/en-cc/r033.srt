@@ -90,8 +90,8 @@ I thought he was with Dori!
 
 22
 01:39:02,072 --> 01:39:05,116
--Don't blame me!
--Well, where did you last see him?
+- Don't blame me!
+- Well, where did you last see him?
 
 23
 01:39:05,284 --> 01:39:07,994
@@ -105,8 +105,8 @@ And what happened, exactly?
 
 25
 01:39:09,746 --> 01:39:12,039
--Tell me!
--I'll tell you what happened.
+- Tell me!
+- I'll tell you what happened.
 
 26
 01:39:12,207 --> 01:39:15,042
@@ -166,7 +166,7 @@ Well, what does it matter? He's back.
 
 39
 01:40:11,308 --> 01:40:14,143
-lt matters. I want to know.
+It matters. I want to know.
 
 40
 01:40:16,355 --> 01:40:18,064
@@ -179,7 +179,7 @@ I know you always have.
 
 42
 01:40:26,031 --> 01:40:28,991
-And you're right, I often think of Bag-end.
+And you're right, I often think of Bag End.
 
 43
 01:40:29,576 --> 01:40:31,619
@@ -207,7 +207,7 @@ And that's why I came back. Because...
 
 49
 01:40:49,638 --> 01:40:51,222
-lt was taken from you.
+It was taken from you.
 
 50
 01:40:54,309 --> 01:40:57,103

@@ -97,8 +97,8 @@ What is a Bagginses, precious?
 
 24
 01:23:33,867 --> 01:23:37,912
--I'm a Hobbit from the Shire.
--Oh.
+- I'm a Hobbit from the Shire.
+- Oh.
 
 25
 01:23:38,080 --> 01:23:43,417
@@ -107,7 +107,7 @@ But we hasn't tried Hobbitses before.
 
 26
 01:23:44,628 --> 01:23:47,588
-ls it soft? ls it juicy?
+Is it soft? Is it juicy?
 
 27
 01:23:47,756 --> 01:23:51,342
@@ -133,7 +133,7 @@ and I'll be on my way.
 
 32
 01:24:01,061 --> 01:24:02,978
-Why? ls it lost?
+Why? Is it lost?
 
 33
 01:24:03,146 --> 01:24:07,024
@@ -155,8 +155,8 @@ Shut up!
 
 37
 01:24:14,032 --> 01:24:16,992
--I didn't say anything.
--We wasn't talking to you.
+- I didn't say anything.
+- We wasn't talking to you.
 
 38
 01:24:17,160 --> 01:24:19,912
@@ -191,7 +191,7 @@ What has roots as nobody sees?
 
 45
 01:24:41,726 --> 01:24:44,478
-ls taller than trees?
+Is taller than trees?
 
 46
 01:24:44,646 --> 01:24:46,730
@@ -203,8 +203,8 @@ And yet, never grows
 
 48
 01:24:50,902 --> 01:24:53,446
--The mountain.
--Yes, yes.
+- The mountain.
+- Yes, yes.
 
 49
 01:24:53,613 --> 01:24:56,824
@@ -252,7 +252,7 @@ So why don't we...
 
 60
 01:25:27,230 --> 01:25:28,898
-Just you and me.
+Just--Just you and me.
 
 61
 01:25:29,399 --> 01:25:33,569
@@ -397,13 +397,13 @@ Box. The lid and a key.
 
 96
 01:27:52,208 --> 01:27:55,544
--Well?
--It's nasty.
+- Well?
+- It's nasty.
 
 97
 01:27:57,589 --> 01:28:00,174
--Box. Key.
--Do you give up?
+- Box. Key.
+- Do you give up?
 
 98
 01:28:00,342 --> 01:28:04,011
@@ -437,28 +437,28 @@ to suck them, yes!
 
 105
 01:28:36,544 --> 01:28:40,089
-GOLLUM:
-We have one for you.
+<i>GOLLUM:
+We have one for you.</i>
 
 106
 01:28:40,590 --> 01:28:44,635
-All things it devours
+<i>All things it devours</i>
 
 107
 01:28:44,803 --> 01:28:49,932
-Birds, beasts, trees, flowers
+<i>Birds, beasts, trees, flowers</i>
 
 108
 01:28:50,100 --> 01:28:54,311
-Gnaws iron, bites steel
+<i>Gnaws iron, bites steel</i>
 
 109
 01:28:54,479 --> 01:28:58,273
-Grinds hard stones to meal
+<i>Grinds hard stones to meal</i>
 
 110
 01:28:59,734 --> 01:29:01,402
-Answer us.
+<i>Answer us.</i>
 
 111
 01:29:01,569 --> 01:29:06,240
@@ -477,15 +477,15 @@ I don't know this one.
 114
 01:29:11,788 --> 01:29:14,998
 GOLLUM:
-ls it tasty?
+<i>Is it tasty?</i>
 
 115
 01:29:15,166 --> 01:29:19,545
-ls it scrumptious?
+<i>Is it scrumptious?</i>
 
 116
 01:29:19,713 --> 01:29:21,213
-ls it crunchable?
+<i>Is it crunchable?</i>
 
 117
 01:29:21,589 --> 01:29:24,383
@@ -538,8 +538,8 @@ Ask us.
 
 129
 01:30:08,887 --> 01:30:11,597
--Ask us!
--Yes, yes. All right.
+- Ask us!
+- Yes, yes. All right.
 
 130
 01:30:15,852 --> 01:30:20,189
@@ -577,7 +577,7 @@ What have I got in my pocket?
 138
 01:30:42,587 --> 01:30:45,714
 Three guesses, precious.
-lt must give us three!
+It must give us three!
 
 139
 01:30:45,965 --> 01:30:48,217
@@ -653,91 +653,95 @@ What has it got in its pocketses?
 That's no concern of yours.
 
 156
-01:31:38,601 --> 01:31:40,644
+01:31:38,601 --> 01:31:40,567
 You lost.
 
 157
-01:31:40,812 --> 01:31:49,027
-Lost?
+01:31:40,812 --> 01:31:44,312
+Lost? Heh...
 
 158
+01:31:44,636 --> 01:31:46,793
+Lost.
+
+159
+01:31:47,567 --> 01:31:49,027
+Lost...
+
+160
 01:31:56,160 --> 01:31:57,452
 Where is it?
 
-159
+161
 01:31:58,371 --> 01:31:59,788
 Where is it?!
 
-160
+162
 01:32:01,040 --> 01:32:02,124
 No!
 
-161
+163
 01:32:02,792 --> 01:32:04,293
 [SCREAMS]
 
-162
+164
 01:32:04,460 --> 01:32:05,752
 Where is it?!
 
-163
+165
 01:32:06,170 --> 01:32:08,797
 No! No!
 
-164
+166
 01:32:10,258 --> 01:32:11,884
 Lost!
 
-165
+167
 01:32:12,051 --> 01:32:14,344
 Curse us and splash us!
 
-166
+168
 01:32:14,762 --> 01:32:18,807
 My precious is lost!
 
-167
+169
 01:32:20,184 --> 01:32:24,521
--What have you lost?
--Mustn't ask us! Not its business!
+- What have you lost?
+- Mustn't ask us! Not its business!
 
-168
+170
 01:32:24,689 --> 01:32:26,607
 No!
 
-169
+171
 01:32:26,774 --> 01:32:29,276
 Gollum, gollum!
 
-170
+172
 01:32:30,320 --> 01:32:32,321
 [PANTING]
 
-171
+173
 01:32:41,956 --> 01:32:45,500
 What has it got...
 
-172
-01:32:45,668 --> 01:32:48,378
-...in its nasty...
-
-173
-01:32:48,546 --> 01:32:51,298
-...little pocketses?
-
 174
+01:32:45,668 --> 01:32:51,298
+...in its nasty, little pocketses?
+
+175
 01:33:01,309 --> 01:33:03,310
 He stole it.
 
-175
+176
 01:33:04,646 --> 01:33:07,522
 He stole it!
 
-176
+177
 01:33:08,983 --> 01:33:10,776
 [SCREAMS]
 
-177
+178
 01:33:10,985 --> 01:33:12,527
 He stole it!
 

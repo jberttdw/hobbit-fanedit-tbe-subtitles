@@ -1,4 +1,5 @@
 ﻿1
-03:26:29,639 --> 03:26:32,100
-GANDALF: Let me through!
+03:26:29,339 --> 03:26:31,800
+GANDALF:
+Let me through!
 
