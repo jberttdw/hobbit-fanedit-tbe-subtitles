@@ -107,7 +107,7 @@ But we hasn't tried Hobbitses before.
 
 26
 01:23:44,628 --> 01:23:47,588
-ls it soft? ls it juicy?
+Is it soft? Is it juicy?
 
 27
 01:23:47,756 --> 01:23:51,342
@@ -133,7 +133,7 @@ and I'll be on my way.
 
 32
 01:24:01,061 --> 01:24:02,978
-Why? ls it lost?
+Why? Is it lost?
 
 33
 01:24:03,146 --> 01:24:07,024
@@ -191,7 +191,7 @@ What has roots as nobody sees?
 
 45
 01:24:41,726 --> 01:24:44,478
-ls taller than trees?
+Is taller than trees?
 
 46
 01:24:44,646 --> 01:24:46,730
@@ -477,15 +477,15 @@ I don't know this one.
 114
 01:29:11,788 --> 01:29:14,998
 GOLLUM:
-<i>ls it tasty?</i>
+<i>Is it tasty?</i>
 
 115
 01:29:15,166 --> 01:29:19,545
-<i>ls it scrumptious?</i>
+<i>Is it scrumptious?</i>
 
 116
 01:29:19,713 --> 01:29:21,213
-<i>ls it crunchable?</i>
+<i>Is it crunchable?</i>
 
 117
 01:29:21,589 --> 01:29:24,383
@@ -577,7 +577,7 @@ What have I got in my pocket?
 138
 01:30:42,587 --> 01:30:45,714
 Three guesses, precious.
-lt must give us three!
+It must give us three!
 
 139
 01:30:45,965 --> 01:30:48,217

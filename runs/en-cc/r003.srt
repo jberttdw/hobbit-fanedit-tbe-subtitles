@@ -248,11 +248,11 @@ No.
 
 59
 00:07:05,648 --> 00:07:08,525
-Which way, laddie? ls it down here?
+Which way, laddie? Is it down here?
 
 60
 00:07:08,693 --> 00:07:11,069
-ls what down where?
+Is what down where?
 
 61
 00:07:11,237 --> 00:07:12,279
@@ -924,7 +924,7 @@ had it not been for that mark on the door.
 210
 00:15:13,594 --> 00:15:16,471
 Mark? There's no mark on that door.
-lt was painted a week ago.
+It was painted a week ago.
 
 211
 00:15:16,639 --> 00:15:20,016
@@ -995,11 +995,11 @@ BALIN: All of them!
 226
 00:16:04,228 --> 00:16:06,813
 DWALIN: And what did the Dwarves
-of the lron Hills say?
+of the Iron Hills say?
 
 227
 00:16:08,023 --> 00:16:09,941
-ls Dain with us?
+Is Dain with us?
 
 228
 00:16:12,319 --> 00:16:13,778
@@ -1242,7 +1242,7 @@ How came you by this?
 
 282
 00:19:10,122 --> 00:19:12,748
-lt was given to me by your father.
+It was given to me by your father.
 
 283
 00:19:12,916 --> 00:19:16,210
@@ -1250,7 +1250,7 @@ By Thrain. For safekeeping.
 
 284
 00:19:17,254 --> 00:19:19,088
-lt is yours now.
+It is yours now.
 
 285
 00:19:26,471 --> 00:19:27,889
@@ -1376,7 +1376,7 @@ Hobbits are remarkably light on their feet.
 
 312
 00:20:55,143 --> 00:20:58,396
-ln fact, they can pass unseen by most,
+In fact, they can pass unseen by most,
 if they choose.
 
 313
@@ -1622,7 +1622,7 @@ great-great-great-great-uncle Bullroarer Took...
 
 367
 00:24:02,622 --> 00:24:05,499
-ln the Battle of Green Fields,
+In the Battle of Green Fields,
 he charged the Goblin ranks.
 
 368
@@ -1688,7 +1688,7 @@ You've got the wrong Hobbit.
 
 382
 00:25:06,937 --> 00:25:10,522
-lt appears we have lost our burglar.
+It appears we have lost our burglar.
 
 383
 00:25:11,566 --> 00:25:13,567

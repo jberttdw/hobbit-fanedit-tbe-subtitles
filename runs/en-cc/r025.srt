@@ -27,7 +27,7 @@ Down in the deep of Goblin-town
 7
 01:19:33,243 --> 01:19:37,204
 I know that sword!
-lt is the Goblin-cleaver!
+It is the Goblin-cleaver!
 
 8
 01:19:37,831 --> 01:19:39,123

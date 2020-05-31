@@ -216,7 +216,7 @@ what day it is.
 50
 02:00:53,653 --> 02:00:56,197
 THORIN:
-ls there no end to this accursed forest?!
+Is there no end to this accursed forest?!
 
 51
 02:01:10,753 --> 02:01:12,004

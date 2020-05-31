@@ -126,7 +126,7 @@ Come on, Bombur, we're hungry.
 
 30
 00:41:57,953 --> 00:42:00,079
-ls he coming back?
+Is he coming back?
 
 31
 00:42:03,083 --> 00:42:04,375

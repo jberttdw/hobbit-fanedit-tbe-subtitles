@@ -10,11 +10,11 @@ show him the map.
 
 3
 01:02:57,896 --> 01:02:59,939
-lt is the legacy of my people.
+It is the legacy of my people.
 
 4
 01:03:00,107 --> 01:03:03,693
-lt is mine to protect, as are its secrets.
+It is mine to protect, as are its secrets.
 
 5
 01:03:03,861 --> 01:03:06,404
@@ -108,7 +108,7 @@ nearly 200 years ago.
 
 25
 01:04:37,287 --> 01:04:40,081
-lt would seem you were meant
+It would seem you were meant
 to come to Rivendell.
 
 26
@@ -136,7 +136,7 @@ the last light of Durin's Day...
 
 31
 01:05:20,080 --> 01:05:23,541
-lt is the start of the Dwarves' new year,
+It is the start of the Dwarves' new year,
 when the last moon of autumn...
 
 32

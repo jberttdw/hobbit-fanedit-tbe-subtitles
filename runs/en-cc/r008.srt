@@ -42,7 +42,7 @@ with a sprinkle of sage.
 10
 00:49:01,905 --> 00:49:03,447
 BALIN:
-ls this really necessary?
+Is this really necessary?
 
 11
 00:49:03,615 --> 00:49:05,408
@@ -199,7 +199,7 @@ BOMBUR: Aah!
 
 46
 00:50:43,674 --> 00:50:46,968
-ln fact, they all have.
+In fact, they all have.
 They're infested with parasites.
 
 47
@@ -271,7 +271,7 @@ This little ferret is taking us for fools.
 62
 00:51:26,049 --> 00:51:29,010
 GANDALF:
-The dawn will take you all.
+The dawn will take you all!
 
 63
 00:51:30,429 --> 00:51:32,054
