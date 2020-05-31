@@ -35,12 +35,12 @@ just to leave it lying around.
 
 9
 00:53:17,999 --> 00:53:20,626
--Anyone could take it.
--Agreed.
+- Anyone could take it.
+- Agreed.
 
 10
 00:53:20,794 --> 00:53:22,461
--Nori.
+- Nori.
 NORI: Yeah?
 
 11

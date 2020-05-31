@@ -97,8 +97,8 @@ What is a Bagginses, precious?
 
 24
 01:23:33,867 --> 01:23:37,912
--I'm a Hobbit from the Shire.
--Oh.
+- I'm a Hobbit from the Shire.
+- Oh.
 
 25
 01:23:38,080 --> 01:23:43,417
@@ -155,8 +155,8 @@ Shut up!
 
 37
 01:24:14,032 --> 01:24:16,992
--I didn't say anything.
--We wasn't talking to you.
+- I didn't say anything.
+- We wasn't talking to you.
 
 38
 01:24:17,160 --> 01:24:19,912
@@ -203,8 +203,8 @@ And yet, never grows
 
 48
 01:24:50,902 --> 01:24:53,446
--The mountain.
--Yes, yes.
+- The mountain.
+- Yes, yes.
 
 49
 01:24:53,613 --> 01:24:56,824
@@ -397,13 +397,13 @@ Box. The lid and a key.
 
 96
 01:27:52,208 --> 01:27:55,544
--Well?
--It's nasty.
+- Well?
+- It's nasty.
 
 97
 01:27:57,589 --> 01:28:00,174
--Box. Key.
--Do you give up?
+- Box. Key.
+- Do you give up?
 
 98
 01:28:00,342 --> 01:28:04,011
@@ -538,8 +538,8 @@ Ask us.
 
 129
 01:30:08,887 --> 01:30:11,597
--Ask us!
--Yes, yes. All right.
+- Ask us!
+- Yes, yes. All right.
 
 130
 01:30:15,852 --> 01:30:20,189
@@ -706,8 +706,8 @@ My precious is lost!
 
 169
 01:32:20,184 --> 01:32:24,521
--What have you lost?
--Mustn't ask us! Not its business!
+- What have you lost?
+- Mustn't ask us! Not its business!
 
 170
 01:32:24,689 --> 01:32:26,607

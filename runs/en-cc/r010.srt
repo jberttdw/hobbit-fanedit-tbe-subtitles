@@ -115,8 +115,8 @@ Close ranks!
 
 27
 00:59:26,500 --> 00:59:29,835
--Gandalf.
--Lord Elrond.
+- Gandalf.
+- Lord Elrond.
 
 28
 00:59:30,962 --> 00:59:38,177

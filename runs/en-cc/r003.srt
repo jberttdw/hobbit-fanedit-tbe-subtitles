@@ -20,7 +20,7 @@ And nothing unexpected...
 
 6
 00:03:01,112 --> 00:03:03,447
--Good morning.
+- Good morning.
 GANDALF: What do you mean?
 
 7
@@ -306,13 +306,13 @@ Balin, at your service.
 
 73
 00:08:05,750 --> 00:08:08,710
--Good evening.
--Yes. Yes, it is.
+- Good evening.
+- Yes. Yes, it is.
 
 74
 00:08:09,170 --> 00:08:11,671
--Though I think it might rain later.
--Hm?
+- Though I think it might rain later.
+- Hm?
 
 75
 00:08:11,839 --> 00:08:13,048
@@ -381,12 +381,12 @@ before they come visiting.
 
 90
 00:08:58,511 --> 00:08:59,844
--What is this?
--I don't know.
+- What is this?
+- I don't know.
 
 91
 00:09:00,012 --> 00:09:02,889
--I think it's cheese. Gone blue.
+- I think it's cheese. Gone blue.
 DWALIN: It's riddled with mold.
 
 92
@@ -401,7 +401,7 @@ but I had to speak my mind.
 
 94
 00:09:10,982 --> 00:09:12,941
--I'm sorry.
+- I'm sorry.
 BALIN: You think--?
 
 95
@@ -414,8 +414,8 @@ Apology accepted.
 
 97
 00:09:17,363 --> 00:09:19,698
--Ah.
--Now, fill it up, brother, don't stint.
+- Ah.
+- Now, fill it up, brother, don't stint.
 
 98
 00:09:19,865 --> 00:09:20,907
@@ -424,7 +424,7 @@ Apology accepted.
 99
 00:09:21,075 --> 00:09:24,452
 DWALIN: You wanna get stuck in?
--I could eat again if you insist, brother.
+- I could eat again if you insist, brother.
 
 100
 00:09:24,912 --> 00:09:26,121
@@ -432,8 +432,8 @@ DWALIN: You wanna get stuck in?
 
 101
 00:09:26,330 --> 00:09:28,206
--Fili.
--And Kili.
+- Fili.
+- And Kili.
 
 102
 00:09:28,374 --> 00:09:30,208
@@ -442,23 +442,23 @@ At your service.
 
 103
 00:09:30,376 --> 00:09:32,711
--You must be Mr. Boggins.
--Nope! You can't come in.
+- You must be Mr. Boggins.
+- Nope! You can't come in.
 
 104
 00:09:32,878 --> 00:09:35,255
--You've come to the wrong house.
--What?
+- You've come to the wrong house.
+- What?
 
 105
 00:09:35,423 --> 00:09:37,674
--Has it been canceled?
--No one told us.
+- Has it been canceled?
+- No one told us.
 
 106
 00:09:38,259 --> 00:09:40,677
--No, nothing's been canceled.
--That's a relief.
+- No, nothing's been canceled.
+- That's a relief.
 
 107
 00:09:44,974 --> 00:09:48,727
@@ -467,13 +467,13 @@ I just had them sharpened.
 
 108
 00:09:48,894 --> 00:09:50,729
--It's nice, this place.
+- It's nice, this place.
 FILI: Yeah.
 
 109
 00:09:50,896 --> 00:09:54,107
--Did you do it yourself?
--What? No, it's been in the family for years.
+- Did you do it yourself?
+- What? No, it's been in the family for years.
 
 110
 00:09:54,275 --> 00:09:57,152
@@ -501,12 +501,12 @@ BILBO:
 115
 00:10:08,289 --> 00:10:10,332
 DWALIN: Where do you want this?
--Oh, no.
+- Oh, no.
 
 116
 00:10:10,499 --> 00:10:14,210
 DWALIN: It's really heavy.
--No. No. There's nobody home!
+- No. No. There's nobody home!
 
 117
 00:10:14,378 --> 00:10:17,130
@@ -569,7 +569,7 @@ No, so is that. Take it back, please.
 
 130
 00:10:56,045 --> 00:10:59,881
--I cannot hear what you're saying.
+- I cannot hear what you're saying.
 BILBO: It's an antique. Not for sitting on.
 
 131
@@ -579,8 +579,8 @@ And put that map down.
 
 132
 00:11:05,971 --> 00:11:08,014
--Excuse me, Mr. Gandalf?
--Yes?
+- Excuse me, Mr. Gandalf?
+- Yes?
 
 133
 00:11:08,182 --> 00:11:10,850
@@ -594,7 +594,7 @@ A little red wine for me, I think.
 135
 00:11:18,275 --> 00:11:21,403
 NORI: Whoop! Mind out.
--Yes. Ah.
+- Yes. Ah.
 
 136
 00:11:23,197 --> 00:11:26,116
@@ -610,8 +610,8 @@ Dwalin, Balin, Bifur, Bofur, Bombur...
 
 139
 00:11:31,705 --> 00:11:34,332
--...Dori, Nori. Ori!
--No. Not my prizewinners, thank you.
+- ...Dori, Nori. Ori!
+- No. Not my prizewinners, thank you.
 
 140
 00:11:34,500 --> 00:11:36,126
@@ -697,7 +697,7 @@ Oh, you great galumphing git!
 
 158
 00:12:25,718 --> 00:12:28,803
--Who wants an ale? There you go.
+- Who wants an ale? There you go.
 KILI: Over here, brother.
 
 159
@@ -954,7 +954,7 @@ have you done much fighting?
 
 217
 00:15:35,824 --> 00:15:37,325
--Pardon me?
+- Pardon me?
 THORIN: Ax or sword?
 
 218
@@ -989,7 +989,7 @@ Did they all come?
 
 225
 00:16:01,016 --> 00:16:04,060
--Aye. Envoys from all seven kingdoms.
+- Aye. Envoys from all seven kingdoms.
 BALIN: All of them!
 
 226
@@ -1085,8 +1085,8 @@ Teeth like razors, claws like meat hooks.
 
 247
 00:17:25,809 --> 00:17:28,853
--Extremely fond of precious metals.
--Yes, I know what a dragon is.
+- Extremely fond of precious metals.
+- Yes, I know what a dragon is.
 
 248
 00:17:29,021 --> 00:17:30,605
@@ -1100,7 +1100,7 @@ right up his jacksie!
 250
 00:17:33,859 --> 00:17:35,359
 NORI: Good lad, Ori!
--Sit down.
+- Sit down.
 
 251
 00:17:35,527 --> 00:17:38,488
@@ -1156,7 +1156,7 @@ Oh, well, no. I wouldn't say--
 262
 00:18:03,514 --> 00:18:05,515
 DORI: How many, then?
--What?
+- What?
 
 263
 00:18:05,682 --> 00:18:08,017
@@ -1418,13 +1418,13 @@ Very well.
 
 321
 00:21:35,517 --> 00:21:37,101
--We will do it your way.
--No, no.
+- We will do it your way.
+- No, no.
 
 322
 00:21:37,269 --> 00:21:39,687
 THORIN: Give him the contract.
--We're in. We're off.
+- We're in. We're off.
 
 323
 00:21:39,855 --> 00:21:40,938
@@ -1506,8 +1506,8 @@ your bones in the blink of an eye.
 
 341
 00:22:37,954 --> 00:22:40,873
--You all right, laddie?
--Huh? Yeah.
+- You all right, laddie?
+- Huh? Yeah.
 
 342
 00:22:42,626 --> 00:22:43,959
@@ -1515,7 +1515,7 @@ Feel a bit faint.
 
 343
 00:22:44,336 --> 00:22:46,337
--Think furnace with wings.
+- Think furnace with wings.
 BILBO: Air.
 
 344
@@ -1617,8 +1617,8 @@ great-great-great-great-uncle Bullroarer Took...
 
 366
 00:24:00,287 --> 00:24:02,454
--Yes.
--Yes, well, he could.
+- Yes.
+- Yes, well, he could.
 
 367
 00:24:02,622 --> 00:24:05,499
@@ -1868,8 +1868,8 @@ Here, Mr. Bilbo, where are you off to?
 
 425
 00:30:24,420 --> 00:30:27,130
--Can't stop, I'm already late!
--Late for what?
+- Can't stop, I'm already late!
+- Late for what?
 
 426
 00:30:27,465 --> 00:30:30,384
@@ -2033,7 +2033,7 @@ What on earth is the matter?
 
 463
 00:32:38,137 --> 00:32:40,347
--I forgot my handkerchief.
+- I forgot my handkerchief.
 BOFUR: Here.
 
 464

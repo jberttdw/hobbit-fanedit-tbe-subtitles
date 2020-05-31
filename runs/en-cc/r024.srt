@@ -31,8 +31,8 @@ I don't know what I was thinking.
 
 8
 01:14:16,586 --> 01:14:20,631
--I should never have run out my door.
--You're homesick. I understand.
+- I should never have run out my door.
+- You're homesick. I understand.
 
 9
 01:14:20,798 --> 01:14:23,300
