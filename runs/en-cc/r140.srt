@@ -212,7 +212,7 @@ Presumed or otherwise.
 51
 04:16:40,890 --> 04:16:42,809
 WORRYWORT:
-I'm not sure that's permitted.
+I'm not sure that's permitted!
 
 52
 04:16:43,059 --> 04:16:44,644
