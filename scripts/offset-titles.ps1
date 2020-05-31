@@ -16,6 +16,7 @@ if ( ! (Test-Path $offsetsFile -PathType Leaf)) {
 if ( ! (Test-Path $outputDir)) {
     New-Item -ItemType Directory -Path $outputDir | Write-Host
 }
+$outputDir = Resolve-Path $outputDir
 
 $offsets = Import-Csv -Path $offsetsFile -Delimiter "`t"
 
@@ -28,7 +29,8 @@ foreach ($runInfo in $offsets) {
     }
     #$convertCommand = "SubtitleEdit.exe /convert $runFileName srt /outputfolder:$outputDir /offset:$($runInfo.Offset)"
     #Invoke-Expression -Command $convertCommand
-    $convertCommandArgs = "/convert", $runFileName, "srt", "/outputfolder:$outputDir", "/offset:$($runInfo.Offset)"
+    $convertCommandArgs = "/convert", $runFileName, "srt", "/outputfolder:$outputDir", "/offset:$($runInfo.Diff)"
+    Write-Host $convertCommandArgs
     #$convertor = Start-Process -FilePath "C:\Program Files\Subtitle Edit\SubtitleEdit.exe" -ArgumentList $convertCommandArgs -NoNewWindow -PassThru
     #$convertor.WaitForExit()
     Start-Process -FilePath "C:\Program Files\Subtitle Edit\SubtitleEdit.exe" -ArgumentList $convertCommandArgs -NoNewWindow -Wait
