@@ -5,3 +5,4 @@ output-*.srt
 runs-*/
 # Ignore LibreOffice lock file
 *.~lock*
+*.zip
