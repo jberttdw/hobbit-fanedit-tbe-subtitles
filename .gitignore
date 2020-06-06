@@ -6,3 +6,4 @@ runs-*/
 # Ignore LibreOffice lock file
 *.~lock*
 *.zip
+*.log
