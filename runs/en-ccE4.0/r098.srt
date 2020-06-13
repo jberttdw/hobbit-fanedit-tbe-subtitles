@@ -1,0 +1,65 @@
+﻿1
+03:12:04,400 --> 03:12:05,151
+BOFUR:
+Up it goes!
+
+2
+03:12:09,238 --> 03:12:10,406
+DWALIN:
+That's it.
+
+3
+03:12:13,993 --> 03:12:16,203
+I want this fortress made safe by sunup.
+
+4
+03:12:17,079 --> 03:12:18,622
+This Mountain was hard-won.
+
+5
+03:12:18,873 --> 03:12:20,791
+I will not see it taken again.
+
+6
+03:12:21,041 --> 03:12:23,169
+The people of Lake-town have nothing.
+
+7
+03:12:23,419 --> 03:12:24,795
+They came to us in need.
+
+8
+03:12:25,045 --> 03:12:27,506
+They have lost everything.
+
+9
+03:12:27,757 --> 03:12:30,885
+Do not tell me what they have lost.
+
+10
+03:12:31,761 --> 03:12:34,180
+I know well enough their hardship.
+
+11
+03:12:35,598 --> 03:12:39,268
+Those who have lived through
+dragon fire should rejoice!
+
+12
+03:12:40,603 --> 03:12:43,022
+They have much
+to be grateful for.
+
+13
+03:12:48,360 --> 03:12:49,487
+More stone.
+
+14
+03:12:52,364 --> 03:12:54,492
+Bring more stone to the gate!
+
+15
+03:12:54,742 --> 03:12:55,785
+DWALIN:
+That's it.
+

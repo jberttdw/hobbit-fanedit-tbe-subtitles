@@ -1,0 +1,52 @@
+﻿1
+02:34:13,671 --> 02:34:15,298
+BILBO:
+What is this place?
+
+2
+02:34:15,548 --> 02:34:16,841
+BALIN:
+It was once the city of Dale.
+
+3
+02:34:18,843 --> 02:34:20,511
+Now it is a ruin.
+
+4
+02:34:21,262 --> 02:34:23,473
+The desolation of Smaug.
+
+5
+02:34:23,723 --> 02:34:25,642
+The sun will soon reach midday.
+
+6
+02:34:25,892 --> 02:34:28,144
+We must find the hidden door
+into the mountain before it sets.
+
+7
+02:34:28,394 --> 02:34:29,229
+This way.
+
+8
+02:34:29,479 --> 02:34:31,522
+Wait. Is this the overlook?
+
+9
+02:34:31,856 --> 02:34:33,191
+Gandalf said to meet him here.
+
+10
+02:34:33,441 --> 02:34:35,068
+- On no account were we to--
+- Do you see him?
+
+11
+02:34:35,735 --> 02:34:38,029
+We have no time to wait upon the Wizard.
+
+12
+02:34:38,321 --> 02:34:40,073
+We're on our own. Come!
+

@@ -1,0 +1,107 @@
+﻿1
+02:17:26,802 --> 02:17:29,815
+BILBO:
+Everyone climb into the barrels, quickly.
+
+2
+02:17:29,897 --> 02:17:31,403
+DWALIN:
+Are you mad? They'll find us.
+
+3
+02:17:31,458 --> 02:17:33,233
+BILBO:
+No, no. They won't, I promise you.
+
+4
+02:17:33,335 --> 02:17:36,854
+Please, please. You must trust me.
+
+5
+02:17:37,354 --> 02:17:38,981
+[DWARVES MURMUR]
+
+6
+02:17:40,733 --> 02:17:41,817
+[WHISPERING]
+Do as he says.
+
+7
+02:17:42,833 --> 02:17:44,180
+DWALIN:
+Move your big ginger head.
+
+8
+02:17:46,363 --> 02:17:49,116
+Bifur, get in the barrel!
+Move!
+
+9
+02:17:55,873 --> 02:17:57,499
+DORI:
+Everyone's in.
+
+10
+02:18:00,669 --> 02:18:02,546
+What do we do now?
+
+11
+02:18:03,297 --> 02:18:04,298
+Hold your breath.
+
+12
+02:18:04,548 --> 02:18:06,123
+BOFUR:
+Hold my breath? What do you mean?
+
+13
+02:18:06,759 --> 02:18:08,010
+[ALL YELL]
+
+14
+02:18:16,936 --> 02:18:17,953
+[GRUNTING]
+
+15
+02:18:32,201 --> 02:18:33,744
+Where is the Keeper of the Keys?
+
+16
+02:18:46,807 --> 02:18:47,858
+[GUARDS YELLING IN ELVISH]
+
+17
+02:18:52,763 --> 02:18:53,764
+[YELLS]
+
+18
+02:19:00,896 --> 02:19:02,106
+Well done, Master Baggins.
+
+19
+02:19:03,649 --> 02:19:04,817
+Go! Come on, let's go!
+
+20
+02:19:07,528 --> 02:19:08,862
+[YELLING IN ELVISH]
+
+21
+02:19:14,827 --> 02:19:16,453
+Hold on!
+
+22
+02:19:29,675 --> 02:19:31,010
+FILI:
+Bilbo!
+
+23
+02:19:35,597 --> 02:19:36,849
+BOFUR:
+Hang on!
+
+24
+02:19:38,559 --> 02:19:40,769
+ORI: Help!
+DORI: Ori!
+

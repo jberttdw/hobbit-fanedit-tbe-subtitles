@@ -1,0 +1,367 @@
+﻿1
+02:34:48,944 --> 02:34:49,958
+THORIN:
+Anything?
+
+2
+02:34:50,208 --> 02:34:51,710
+DWALIN:
+Nothing!
+
+3
+02:34:55,505 --> 02:34:56,840
+THORIN:
+If the map is true...
+
+4
+02:34:57,632 --> 02:35:00,135
+...then the hidden door
+lies directly above us.
+
+5
+02:35:04,681 --> 02:35:06,308
+BILBO:
+Up here!
+
+6
+02:35:14,691 --> 02:35:17,152
+You have keen eyes, Master Baggins.
+
+7
+02:35:33,043 --> 02:35:34,961
+[GRUNTING]
+
+8
+02:35:44,805 --> 02:35:46,098
+[PANTS]
+
+9
+02:35:49,017 --> 02:35:50,101
+THORIN:
+This must be it.
+
+10
+02:35:52,312 --> 02:35:53,814
+The hidden door.
+
+11
+02:35:58,068 --> 02:35:59,820
+THORIN:
+Let all those who doubted us...
+
+12
+02:36:00,987 --> 02:36:02,322
+...rue this day!
+
+13
+02:36:02,572 --> 02:36:03,990
+[ALL CHEERING]
+
+14
+02:36:08,036 --> 02:36:10,497
+Right, then. We have a key.
+
+15
+02:36:12,207 --> 02:36:13,708
+Which means that somewhere...
+
+16
+02:36:14,835 --> 02:36:16,211
+...there is a key-hole.
+
+17
+02:36:16,920 --> 02:36:19,820
+THORIN:
+"The last light of Durin's Day...
+
+18
+02:36:21,800 --> 02:36:24,302
+...will shine upon the key-hole."
+
+19
+02:36:33,436 --> 02:36:34,521
+Nori.
+
+20
+02:36:38,191 --> 02:36:39,693
+[DWALIN GRUNTING]
+
+21
+02:36:41,153 --> 02:36:43,113
+We're losing the light. Come on.
+
+22
+02:36:49,619 --> 02:36:52,205
+NORI:
+Be quiet! I can't hear when you're thumping.
+
+23
+02:36:52,338 --> 02:36:53,331
+I can't find it.
+
+24
+02:36:54,708 --> 02:36:56,042
+It's not here!
+
+25
+02:36:56,293 --> 02:36:57,377
+It's not! Here!
+
+26
+02:36:58,941 --> 02:37:00,025
+THORIN: Break it down!
+DWALIN: Aye.
+
+27
+02:37:02,215 --> 02:37:03,008
+Come on!
+
+28
+02:37:05,177 --> 02:37:05,927
+DWALIN:
+Break!
+
+29
+02:37:06,178 --> 02:37:07,351
+It has to break.
+
+30
+02:37:08,138 --> 02:37:09,472
+BALIN:
+It's no good.
+
+31
+02:37:09,723 --> 02:37:12,225
+The door's sealed. Can't be opened by force.
+
+32
+02:37:13,852 --> 02:37:15,329
+There's a powerful magic on it.
+
+33
+02:37:24,613 --> 02:37:25,739
+No!
+
+34
+02:37:31,077 --> 02:37:33,371
+"The last light of Durin's Day...
+
+35
+02:37:35,248 --> 02:37:37,006
+...will shine upon the key-hole."
+
+36
+02:37:41,254 --> 02:37:42,839
+That is what it says.
+
+37
+02:37:47,344 --> 02:37:48,762
+What did we miss?
+
+38
+02:37:52,724 --> 02:37:54,184
+What did we miss?
+
+39
+02:37:55,227 --> 02:37:56,186
+Balin?
+
+40
+02:37:56,811 --> 02:37:58,521
+We've lost the light.
+
+41
+02:38:01,066 --> 02:38:02,901
+There's no more to be done.
+
+42
+02:38:04,444 --> 02:38:06,529
+<i>We had but one chance.</i>
+
+43
+02:38:08,949 --> 02:38:10,200
+<i>Come away, lads.</i>
+
+44
+02:38:10,450 --> 02:38:12,244
+It's over.
+
+45
+02:38:13,328 --> 02:38:15,455
+- Wait a minute.
+GLOIN: We're too late.
+
+46
+02:38:17,958 --> 02:38:19,376
+BILBO:
+Where are they going?
+
+47
+02:38:21,169 --> 02:38:23,046
+You can't give up now!
+
+48
+02:38:37,978 --> 02:38:39,145
+Thorin.
+
+49
+02:38:41,189 --> 02:38:42,857
+You can't give up now.
+
+50
+02:38:54,411 --> 02:38:56,788
+"Stand by the gray stone...
+
+51
+02:38:58,665 --> 02:39:00,750
+...when the thrush knocks."
+
+52
+02:39:01,501 --> 02:39:02,877
+The setting sun.
+
+53
+02:39:03,920 --> 02:39:06,798
+And "the last light of Durin's Day
+will shine..."
+
+54
+02:39:08,299 --> 02:39:09,759
+The last light.
+
+55
+02:39:12,303 --> 02:39:13,680
+Last light.
+
+56
+02:39:28,062 --> 02:39:33,062
+[CLICKING ON STONE]
+
+57
+02:39:50,383 --> 02:39:51,634
+The last light!
+
+58
+02:40:01,853 --> 02:40:02,979
+The key-hole!
+
+59
+02:40:03,683 --> 02:40:04,267
+<i>Come back!</i>
+
+60
+02:40:04,777 --> 02:40:06,112
+Come back!
+
+61
+02:40:06,244 --> 02:40:10,222
+It's the light of the moon!
+The last moon of autumn!
+
+62
+02:40:10,713 --> 02:40:11,946
+Ha, ha, ha!
+
+63
+02:40:13,865 --> 02:40:16,242
+Where's the key? Where's the key?
+Where's the--?
+
+64
+02:40:16,493 --> 02:40:18,203
+It was here.
+
+65
+02:40:18,453 --> 02:40:20,246
+Come on, it was-- It was here.
+
+66
+02:40:20,955 --> 02:40:21,963
+It was just--
+
+67
+02:40:22,533 --> 02:40:23,533
+[TINKLING]
+
+68
+02:40:57,826 --> 02:40:58,868
+[THUMP]
+
+69
+02:41:19,806 --> 02:41:21,266
+Erebor.
+
+70
+02:41:21,975 --> 02:41:23,101
+Thorin.
+
+71
+02:41:36,489 --> 02:41:38,366
+I know these walls.
+
+72
+02:41:42,120 --> 02:41:43,663
+These halls.
+
+73
+02:41:46,666 --> 02:41:48,042
+This stone.
+
+74
+02:41:51,963 --> 02:41:53,965
+You remember it, Balin.
+
+75
+02:41:57,594 --> 02:42:00,096
+Chambers filled with golden light.
+
+76
+02:42:01,973 --> 02:42:03,474
+I remember.
+
+77
+02:42:16,738 --> 02:42:21,618
+"Herein lies the Seventh
+Kingdom of Durin's Folk.
+
+78
+02:42:23,578 --> 02:42:27,625
+May the Heart of the Mountain
+unite all Dwarves...
+
+79
+02:42:28,012 --> 02:42:30,501
+...in defense of this home."
+
+80
+02:42:32,212 --> 02:42:34,047
+The Throne of the King.
+
+81
+02:42:34,714 --> 02:42:36,049
+- Ah.
+
+82
+02:42:37,759 --> 02:42:41,095
+And what's that above it?
+
+83
+02:42:44,641 --> 02:42:46,392
+The Arkenstone.
+
+84
+02:42:47,685 --> 02:42:49,103
+Arkenstone.
+
+85
+02:42:53,024 --> 02:42:54,359
+And what's that?
+
+86
+02:42:54,692 --> 02:42:57,654
+That, Master Burglar...
+
+87
+02:42:58,696 --> 02:43:00,740
+...is why you are here.
+
