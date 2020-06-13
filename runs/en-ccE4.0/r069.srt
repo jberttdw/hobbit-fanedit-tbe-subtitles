@@ -1,162 +1,124 @@
 ﻿1
-02:25:52,961 --> 02:25:55,506
-Da! Where have you been?
-
-2
-02:25:55,756 --> 02:25:58,717
-Father! There you are! I was worried.
-
-3
-02:25:59,092 --> 02:26:00,469
-Here, Sigrid.
-
-4
-02:26:01,053 --> 02:26:02,012
-<i>Bain, get them in.</i>
-
-5
-02:26:09,770 --> 02:26:14,066
-If you speak of this to anyone,
-I'll rip your arms off.
-
-6
-02:26:16,944 --> 02:26:18,403
-Get off.
-
-7
-02:26:19,863 --> 02:26:20,948
-Up there.
-
-8
-02:26:28,705 --> 02:26:32,000
-SIGRID: Da... Why are there
-dwarves climbing out of our toilet?
-
-9
-02:26:32,251 --> 02:26:33,585
-Will they bring us luck?
-
-10
 02:26:38,173 --> 02:26:41,009
 They may not be the best fit,
 but they'll keep you warm.
 
-11
+2
 02:26:41,677 --> 02:26:42,719
 Thank you very much.
 
-12
+3
 02:26:52,938 --> 02:26:55,023
 A Dwarvish windlance.
 
-13
+4
 02:26:55,978 --> 02:26:57,442
 You look like you've seen a ghost.
 
-14
+5
 02:26:58,193 --> 02:26:59,361
 He has.
 
-15
+6
 02:27:00,153 --> 02:27:03,073
 The last time we saw such a weapon...
 
-16
+7
 02:27:04,116 --> 02:27:05,619
 ...a city was on fire.
 
-17
+8
 02:27:07,035 --> 02:27:09,288
 It was the day the dragon came.
 
-18
+9
 02:27:10,080 --> 02:27:11,248
 [PEOPLE SCREAMING]
 
-19
+10
 02:27:12,541 --> 02:27:15,377
 <i>The day that Smaug destroyed Dale.</i>
 
-20
+11
 02:27:17,838 --> 02:27:20,048
 <i>Girion, the Lord of the City...</i>
 
-21
+12
 02:27:20,299 --> 02:27:22,426
 <i>...rallied his bowmen to fire upon the beast.</i>
 
-22
+13
 02:27:23,552 --> 02:27:25,304
 But a dragon's hide is tough.
 
-23
+14
 02:27:25,887 --> 02:27:28,056
 Tougher than the strongest armor.
 
-24
+15
 02:27:28,307 --> 02:27:31,476
 Only a Black Arrow fired from a windlance...
 
-25
+16
 02:27:31,727 --> 02:27:33,312
 ...could have pierced the dragon's hide.
 
-26
+17
 02:27:34,271 --> 02:27:37,357
 <i>And few of those arrows were ever made.</i>
 
-27
+18
 02:27:42,696 --> 02:27:46,622
 <i>The store was running low
 when Girion made his last stand.</i>
 
-28
+19
 02:27:54,124 --> 02:27:57,544
 Had the aim of Men been true that day...
 
-29
+20
 02:27:58,128 --> 02:27:59,963
 ...much would have been different.
 
-30
+21
 02:28:04,092 --> 02:28:06,011
 You speak as if you were there.
 
-31
+22
 02:28:07,387 --> 02:28:09,473
 All Dwarves know the tale.
 
-32
+23
 02:28:09,806 --> 02:28:12,017
 Then you would know
 that Girion hit the dragon.
 
-33
+24
 02:28:12,267 --> 02:28:14,144
 He loosened a scale under the left wing.
 
-34
+25
 02:28:14,394 --> 02:28:15,905
 One more shot and
 he would have killed the beast.
 
-35
+26
 02:28:16,083 --> 02:28:16,917
 [DWALIN CHUCKLES]
 
-36
+27
 02:28:17,606 --> 02:28:19,483
 That's a fairy story, lad.
 
-37
+28
 02:28:19,733 --> 02:28:21,109
 Nothing more.
 
-38
+29
 02:28:22,110 --> 02:28:23,487
 You took our money.
 
-39
+30
 02:28:24,571 --> 02:28:25,864
 Where are the weapons?
 
