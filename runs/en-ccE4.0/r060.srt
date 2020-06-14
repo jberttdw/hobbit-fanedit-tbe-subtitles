@@ -55,7 +55,7 @@ Bilbo!
 KILI: What?
 
 13
-02:16:33,411 --> 02:16:34,496
+02:16:33,411 --> 02:16:34,664
 [DWARVES CHATTER]
 
 14
@@ -68,34 +68,26 @@ THORIN: Close the doors, it'll buy us more time.
 - All right, Nori.
 
 16
-02:16:57,560 --> 02:16:59,223
+02:16:57,560 --> 02:17:00,074
 THORIN: Up the stairs.
-DWALIN: You first.
+DWALIN: You first. Ori.
 
 17
-02:16:59,312 --> 02:17:00,074
-Ori.
-
-18
 02:17:00,146 --> 02:17:01,989
 BILBO:
 Not that way. Down here. Follow me.
 
+18
+02:17:02,983 --> 02:17:05,568
+- Go.
+OIN: Easy, now.
+
 19
-02:17:02,983 --> 02:17:03,817
-Go.
-
-20
-02:17:04,067 --> 02:17:05,568
-OIN:
-Easy, now.
-
-21
 02:17:12,701 --> 02:17:14,869
 [SNORING]
 
-22
-02:17:20,667 --> 02:17:21,751
+20
+02:17:20,667 --> 02:17:21,924
 [WHISPERING]
 This way.
 

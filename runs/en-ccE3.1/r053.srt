@@ -53,6 +53,6 @@ Or twice that distance...
 ...south.
 
 14
-01:57:06,161 --> 01:57:07,913
+01:57:06,161 --> 01:57:08,161
 [VOICE OF THE RING WHISPERING]
 

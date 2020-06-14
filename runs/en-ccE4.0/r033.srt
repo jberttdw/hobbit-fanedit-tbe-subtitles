@@ -81,7 +81,7 @@ Where is our Hobbit?!?
 20
 01:39:00,218 --> 01:39:03,011
 DWALIN:
-Curse that Halfling! Now he's lost?
+Curse the Halfling! Now he's lost?
 
 21
 01:39:03,179 --> 01:39:04,554

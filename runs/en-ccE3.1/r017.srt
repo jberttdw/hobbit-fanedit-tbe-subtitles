@@ -1,18 +1,18 @@
 ﻿1
-01:06:48,880 --> 01:06:51,966
+01:06:48,880 --> 01:06:51,766
 Not with your companions?
 
 2
-01:06:51,967 --> 01:06:56,967
+01:06:51,967 --> 01:06:55,399
 Uh, no, I shan't be missed.
 
 3
-01:06:58,390 --> 01:07:03,352
+01:06:58,390 --> 01:07:03,152
 The truth is that most of them
 don't think I should be on this journey.
 
 4
-01:07:03,353 --> 01:07:06,063
+01:07:03,353 --> 01:07:05,863
 Indeed?
 
 5
@@ -20,16 +20,16 @@ Indeed?
 I've heard that Hobbits are very resilient.
 
 6
-01:07:12,654 --> 01:07:14,280
+01:07:12,654 --> 01:07:14,080
 Really?
 
 7
-01:07:14,281 --> 01:07:19,281
+01:07:14,281 --> 01:07:16,031
 ELROND:
 Mm.
 
 8
-01:07:19,870 --> 01:07:24,870
+01:07:19,870 --> 01:07:24,570
 I've also heard they're
 fond of the comforts of home.
 
@@ -39,7 +39,7 @@ I've heard that it's unwise
 to seek the council of Elves.
 
 10
-01:07:30,714 --> 01:07:35,714
+01:07:30,714 --> 01:07:33,674
 That they will answer with yes and no.
 
 11

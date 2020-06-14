@@ -4,7 +4,7 @@ They may not be the best fit,
 but they'll keep you warm.
 
 2
-02:26:41,677 --> 02:26:42,719
+02:26:41,531 --> 02:26:42,711
 Thank you very much.
 
 3
@@ -12,7 +12,7 @@ Thank you very much.
 A Dwarvish windlance.
 
 4
-02:26:55,978 --> 02:26:57,442
+02:26:55,978 --> 02:26:57,558
 You look like you've seen a ghost.
 
 5
@@ -24,7 +24,7 @@ He has.
 The last time we saw such a weapon...
 
 7
-02:27:04,116 --> 02:27:05,619
+02:27:04,116 --> 02:27:05,889
 ...a city was on fire.
 
 8
@@ -45,7 +45,8 @@ It was the day the dragon came.
 
 12
 02:27:20,299 --> 02:27:22,426
-<i>...rallied his bowmen to fire upon the beast.</i>
+<i>...rallied his bowmen
+to fire upon the beast.</i>
 
 13
 02:27:23,552 --> 02:27:25,304
@@ -60,7 +61,7 @@ Tougher than the strongest armor.
 Only a Black Arrow fired from a windlance...
 
 16
-02:27:31,727 --> 02:27:33,312
+02:27:31,727 --> 02:27:33,694
 ...could have pierced the dragon's hide.
 
 17
@@ -98,27 +99,24 @@ that Girion hit the dragon.
 He loosened a scale under the left wing.
 
 25
-02:28:14,394 --> 02:28:15,905
-One more shot and
-he would have killed the beast.
+02:28:14,394 --> 02:28:16,532
+One more shot and he
+would have killed the beast.
 
 26
-02:28:16,083 --> 02:28:16,917
+02:28:16,733 --> 02:28:19,483
 [DWALIN CHUCKLES]
-
-27
-02:28:17,606 --> 02:28:19,483
 That's a fairy story, lad.
 
-28
+27
 02:28:19,733 --> 02:28:21,109
 Nothing more.
 
-29
+28
 02:28:22,110 --> 02:28:23,487
 You took our money.
 
-30
+29
 02:28:24,571 --> 02:28:25,864
 Where are the weapons?
 

@@ -1,14 +1,14 @@
 ﻿1
-02:20:39,562 --> 02:20:40,480
+02:20:39,562 --> 02:20:40,812
 BARD:
 Do it again...
 
 2
-02:20:41,272 --> 02:20:42,357
+02:20:41,272 --> 02:20:42,522
 ...and you're dead.
 
 3
-02:20:45,068 --> 02:20:46,277
+02:20:45,068 --> 02:20:46,327
 BALIN:
 Excuse me...
 
@@ -56,12 +56,12 @@ A boy and two girls.
 And your wife, I imagine she's a beauty.
 
 14
-02:21:17,600 --> 02:21:18,685
+02:21:17,435 --> 02:21:18,685
 BARD:
 Aye.
 
 15
-02:21:19,144 --> 02:21:20,186
+02:21:19,144 --> 02:21:20,394
 She was.
 
 16
@@ -69,24 +69,24 @@ She was.
 I'm sorry. I didn't mean to--
 
 17
-02:21:25,191 --> 02:21:27,026
+02:21:25,191 --> 02:21:28,123
 Oh, come on, come on.
 Enough of the niceties.
 
 18
-02:21:28,736 --> 02:21:29,863
+02:21:28,736 --> 02:21:29,912
 What's your hurry?
 
 19
-02:21:30,113 --> 02:21:31,322
+02:21:30,113 --> 02:21:31,367
 What's it to you?
 
 20
-02:21:31,656 --> 02:21:33,241
+02:21:31,656 --> 02:21:33,303
 I would like to know who you are...
 
 21
-02:21:34,492 --> 02:21:36,038
+02:21:34,364 --> 02:21:36,043
 ...and what you are doing in these lands.
 
 22
@@ -112,7 +112,7 @@ We need food...
 ...supplies, weapons.
 
 27
-02:21:49,799 --> 02:21:50,967
+02:21:49,799 --> 02:21:51,049
 Can you help us?
 
 28
@@ -144,16 +144,16 @@ All his wealth comes from trade
 with the Woodland Realm.
 
 34
-02:22:12,906 --> 02:22:15,700
+02:22:12,906 --> 02:22:16,074
 He would see you in irons before
 risking the wrath of King Thranduil.
 
 35
-02:22:17,619 --> 02:22:18,578
+02:22:17,619 --> 02:22:18,869
 Offer him more.
 
 36
-02:22:22,019 --> 02:22:24,334
+02:22:22,019 --> 02:22:24,520
 BALIN: I'll wager there are
 ways to enter that town unseen.
 

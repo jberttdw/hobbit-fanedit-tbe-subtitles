@@ -4,7 +4,7 @@ BILBO:
 What is this place?
 
 2
-02:34:15,548 --> 02:34:16,841
+02:34:15,548 --> 02:34:17,261
 BALIN:
 It was once the city of Dale.
 
@@ -21,32 +21,28 @@ The desolation of Smaug.
 The sun will soon reach midday.
 
 6
-02:34:25,892 --> 02:34:28,144
-We must find the hidden door
-into the mountain before it sets.
+02:34:25,892 --> 02:34:29,229
+We must find the hidden door into
+the mountain before it sets. This way.
 
 7
-02:34:28,394 --> 02:34:29,229
-This way.
-
-8
 02:34:29,479 --> 02:34:31,522
 Wait. Is this the overlook?
 
-9
+8
 02:34:31,856 --> 02:34:33,191
 Gandalf said to meet him here.
 
-10
-02:34:33,441 --> 02:34:35,068
+9
+02:34:33,441 --> 02:34:35,403
 - On no account were we to--
 - Do you see him?
 
-11
+10
 02:34:35,735 --> 02:34:38,029
 We have no time to wait upon the Wizard.
 
-12
+11
 02:34:38,321 --> 02:34:40,073
 We're on our own. Come!
 
