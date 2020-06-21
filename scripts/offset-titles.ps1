@@ -4,7 +4,9 @@ param (
     [parameter(Mandatory=$true)]
     [string] $offsetsFile,
     [parameter(Mandatory=$true)]
-    [string] $outputDir
+    [string] $outputDir,
+    # Optional identifiers of the runs which should be modified. If not specified, all runs will by offset
+    [array] $runs
 )
 
 Add-PathVariable -Target Process "C:\Program Files\Subtitle Edit\"
@@ -19,6 +21,12 @@ if ( ! (Test-Path $outputDir)) {
 $outputDir = Resolve-Path $outputDir
 
 $offsets = Import-Csv -Path $offsetsFile -Delimiter "`t"
+
+if ($runs) {
+    $runs = $runs | Foreach-Object { [int]$_ }
+    # Filter offsets array
+    $offsets = $offsets | Where-Object { [int]($_.Id) -in $runs }
+}
 
 foreach ($runInfo in $offsets) {
     $runFileName = "r{0}.srt" -f $runInfo.Id
