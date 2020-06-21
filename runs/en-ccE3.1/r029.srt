@@ -1,5 +1,5 @@
 ﻿1
-01:21:34,706 --> 01:21:39,460
+01:21:34,706 --> 01:21:39,428
 Too many boneses, precious.
 Not enough flesh!
 
@@ -16,30 +16,30 @@ Start with its head.
 [GOLLUM GROANING]
 
 5
-01:21:51,390 --> 01:21:55,142
+01:21:51,390 --> 01:21:55,110
 [SINGING] The cold hard lands
 They bites our hands
 
 6
-01:21:55,310 --> 01:21:58,646
+01:21:55,310 --> 01:21:58,614
 They gnaws our feet
 
 7
-01:21:58,814 --> 01:22:02,400
+01:21:58,814 --> 01:22:02,367
 The rocks and stones
 They're like old bones
 
 8
-01:22:02,567 --> 01:22:05,736
+01:22:02,567 --> 01:22:05,704
 All bare of meat
 
 9
-01:22:05,904 --> 01:22:08,823
+01:22:05,904 --> 01:22:08,791
 Cold as death
 Without no breath
 
 10
-01:22:08,991 --> 01:22:11,325
+01:22:08,991 --> 01:22:11,293
 It's good to eat
 
 11
@@ -47,7 +47,7 @@ It's good to eat
 [GOBLIN SCREAMS]
 
 12
-01:22:50,073 --> 01:22:53,576
+01:22:50,073 --> 01:22:53,544
 Bless us and splash us, precious.
 
 13
@@ -59,7 +59,7 @@ That's a meaty mouthful.
 Gollum, gollum! Aah.
 
 15
-01:23:02,210 --> 01:23:04,545
+01:23:02,210 --> 01:23:04,513
 Back. Stay back.
 
 16
@@ -72,7 +72,7 @@ It's got an Elfish blade.
 But it's not an Elfs.
 
 18
-01:23:16,016 --> 01:23:18,184
+01:23:16,016 --> 01:23:18,152
 Not an Elfs, no.
 
 19
@@ -80,7 +80,7 @@ Not an Elfs, no.
 What is it, precious?
 
 20
-01:23:21,229 --> 01:23:22,646
+01:23:21,229 --> 01:23:22,614
 What is it?
 
 21
@@ -96,7 +96,7 @@ Bagginses?
 What is a Bagginses, precious?
 
 24
-01:23:33,867 --> 01:23:37,912
+01:23:33,867 --> 01:23:37,880
 - I'm a Hobbit from the Shire.
 - Oh.
 
@@ -106,11 +106,11 @@ We like Goblinses, batses and fishes.
 But we hasn't tried Hobbitses before.
 
 26
-01:23:44,628 --> 01:23:47,588
+01:23:44,628 --> 01:23:47,556
 Is it soft? Is it juicy?
 
 27
-01:23:47,756 --> 01:23:51,342
+01:23:47,756 --> 01:23:51,310
 Now, now, keep your distance!
 
 28
@@ -118,43 +118,43 @@ Now, now, keep your distance!
 I'll use this if I have to.
 
 29
-01:23:53,678 --> 01:23:54,678
+01:23:53,678 --> 01:23:54,646
 Aah!
 
 30
-01:23:54,846 --> 01:23:57,640
+01:23:54,846 --> 01:23:57,608
 I don't want any trouble,
 do you understand?
 
 31
-01:23:57,808 --> 01:24:00,893
+01:23:57,808 --> 01:24:00,861
 Just show me the way to get out of here
 and I'll be on my way.
 
 32
-01:24:01,061 --> 01:24:02,978
+01:24:01,061 --> 01:24:02,946
 Why? Is it lost?
 
 33
-01:24:03,146 --> 01:24:07,024
+01:24:03,146 --> 01:24:06,992
 Yes. Yes, and I want to get unlost
 as soon as possible.
 
 34
-01:24:07,192 --> 01:24:10,111
+01:24:07,192 --> 01:24:10,078
 Ooh, we knows!
 We knows safe paths for Hobbitses.
 
 35
-01:24:10,278 --> 01:24:12,363
+01:24:10,278 --> 01:24:12,331
 Safe paths in the dark.
 
 36
-01:24:12,531 --> 01:24:13,864
+01:24:12,531 --> 01:24:13,832
 Shut up!
 
 37
-01:24:14,032 --> 01:24:16,992
+01:24:14,032 --> 01:24:16,960
 - I didn't say anything.
 - We wasn't talking to you.
 
@@ -163,16 +163,16 @@ Shut up!
 Oh, yes, we was, precious. We was.
 
 39
-01:24:20,288 --> 01:24:23,457
+01:24:20,288 --> 01:24:23,425
 Look, I don't know what your game is,
 but I--
 
 40
-01:24:23,625 --> 01:24:25,167
+01:24:23,625 --> 01:24:25,135
 Games?!
 
 41
-01:24:25,335 --> 01:24:28,170
+01:24:25,335 --> 01:24:28,138
 Oh, we love games,
 doesn't we, precious?
 
@@ -186,15 +186,15 @@ Does it like to play?
 Maybe.
 
 44
-01:24:36,972 --> 01:24:41,559
+01:24:36,972 --> 01:24:41,526
 What has roots as nobody sees?
 
 45
-01:24:41,726 --> 01:24:44,478
+01:24:41,726 --> 01:24:44,446
 Is taller than trees?
 
 46
-01:24:44,646 --> 01:24:46,730
+01:24:44,646 --> 01:24:46,698
 Up, up, up it goes
 
 47
@@ -202,16 +202,16 @@ Up, up, up it goes
 And yet, never grows
 
 48
-01:24:50,902 --> 01:24:53,446
+01:24:50,902 --> 01:24:53,413
 - The mountain.
 - Yes, yes.
 
 49
-01:24:53,613 --> 01:24:56,824
+01:24:53,613 --> 01:24:56,792
 Oh, let's have another one, eh?
 
 50
-01:24:56,992 --> 01:25:00,411
+01:24:56,992 --> 01:25:00,379
 Yes! Do it again, do it again. Ask us.
 
 51
@@ -219,11 +219,11 @@ Yes! Do it again, do it again. Ask us.
 No! No more riddles.
 
 52
-01:25:03,999 --> 01:25:06,834
+01:25:03,999 --> 01:25:06,802
 Finish him off. Finish him now!
 
 53
-01:25:07,002 --> 01:25:08,544
+01:25:07,002 --> 01:25:08,512
 Gollum, gollum!
 
 54
@@ -235,7 +235,7 @@ No! No. No.
 No. I want to play. I do.
 
 56
-01:25:13,967 --> 01:25:16,552
+01:25:13,967 --> 01:25:16,520
 I want to play. I can see...
 
 57
@@ -247,7 +247,7 @@ I want to play. I can see...
 So why don't we...
 
 59
-01:25:24,769 --> 01:25:27,062
+01:25:24,769 --> 01:25:27,030
 ...have a game of riddles? Yes?
 
 60
@@ -255,19 +255,19 @@ So why don't we...
 Just--Just you and me.
 
 61
-01:25:29,399 --> 01:25:33,569
+01:25:29,399 --> 01:25:33,537
 Yes. Yes, just us.
 
 62
-01:25:33,737 --> 01:25:35,779
+01:25:33,737 --> 01:25:35,747
 Yes. Yes.
 
 63
-01:25:35,947 --> 01:25:38,115
+01:25:35,947 --> 01:25:38,083
 And if I win...
 
 64
-01:25:38,283 --> 01:25:41,285
+01:25:38,283 --> 01:25:41,253
 ...you show me the way out. Yes?
 
 65
@@ -275,7 +275,7 @@ And if I win...
 Yes. Yes.
 
 66
-01:25:43,997 --> 01:25:47,082
+01:25:43,997 --> 01:25:47,050
 And if it loses? What then?
 
 67
@@ -300,7 +300,7 @@ Well, Baggins first.
 Thirty white horses on a red hill
 
 72
-01:26:19,658 --> 01:26:22,493
+01:26:19,658 --> 01:26:22,461
 First they champ, then they stamp
 
 73
@@ -308,7 +308,7 @@ First they champ, then they stamp
 Then they stand still
 
 74
-01:26:35,131 --> 01:26:37,299
+01:26:35,131 --> 01:26:37,267
 Teeth?
 
 75
@@ -332,7 +332,7 @@ Voiceless, it cries
 Wingless flutters
 
 80
-01:26:59,573 --> 01:27:02,700
+01:26:59,573 --> 01:27:02,667
 Toothless bites
 
 81
@@ -341,14 +341,14 @@ Mouthless mutters
 
 82
 01:27:08,999 --> 01:27:11,750
-Just a minute. Uh....
+Just a minute. Uh...
 
 83
-01:27:12,711 --> 01:27:14,169
+01:27:12,711 --> 01:27:14,137
 Oh. Oh!
 
 84
-01:27:14,337 --> 01:27:16,005
+01:27:14,337 --> 01:27:15,972
 We knows! We knows!
 
 85
@@ -356,15 +356,15 @@ We knows! We knows!
 Shut up!
 
 86
-01:27:23,763 --> 01:27:25,055
+01:27:23,763 --> 01:27:25,023
 Wind.
 
 87
-01:27:25,223 --> 01:27:27,766
+01:27:25,223 --> 01:27:27,734
 It's wind. Of course it is.
 
 88
-01:27:27,934 --> 01:27:30,894
+01:27:27,934 --> 01:27:30,862
 Very clever, Hobbitses.
 
 89
@@ -372,11 +372,11 @@ Very clever, Hobbitses.
 Very clever.
 
 90
-01:27:33,356 --> 01:27:34,356
+01:27:33,356 --> 01:27:34,324
 Ah-ah-ah.
 
 91
-01:27:34,524 --> 01:27:39,403
+01:27:34,524 --> 01:27:39,371
 A box without hinges, key or lid
 
 92
@@ -388,11 +388,11 @@ Yet golden treasure inside is hid
 Box.
 
 94
-01:27:47,329 --> 01:27:49,747
-Oh, um....
+01:27:47,329 --> 01:27:49,714
+Oh, um...
 
 95
-01:27:49,914 --> 01:27:52,041
+01:27:49,914 --> 01:27:52,008
 Box. The lid and a key.
 
 96
@@ -401,7 +401,7 @@ Box. The lid and a key.
 - It's nasty.
 
 97
-01:27:57,589 --> 01:28:00,174
+01:27:57,589 --> 01:28:00,142
 - Box. Key.
 - Do you give up?
 
@@ -415,11 +415,11 @@ Give us a chance!
 [GRUNTING]
 
 100
-01:28:16,566 --> 01:28:20,069
+01:28:16,566 --> 01:28:20,036
 Eggses!
 
 101
-01:28:20,236 --> 01:28:23,697
+01:28:20,236 --> 01:28:23,665
 Wet, crunchy little eggses. Yes.
 
 102
@@ -432,7 +432,7 @@ to suck them, yes!
 [WINGS FLUTTERING]
 
 104
-01:28:33,333 --> 01:28:36,377
+01:28:33,333 --> 01:28:36,344
 [GOLLUM EXHALES]
 
 105
@@ -441,15 +441,15 @@ to suck them, yes!
 We have one for you.</i>
 
 106
-01:28:40,590 --> 01:28:44,635
+01:28:40,590 --> 01:28:44,603
 <i>All things it devours</i>
 
 107
-01:28:44,803 --> 01:28:49,932
+01:28:44,803 --> 01:28:49,900
 <i>Birds, beasts, trees, flowers</i>
 
 108
-01:28:50,100 --> 01:28:54,311
+01:28:50,100 --> 01:28:54,279
 <i>Gnaws iron, bites steel</i>
 
 109
@@ -457,30 +457,30 @@ We have one for you.</i>
 <i>Grinds hard stones to meal</i>
 
 110
-01:28:59,734 --> 01:29:01,402
+01:28:59,734 --> 01:29:01,369
 <i>Answer us.</i>
 
 111
-01:29:01,569 --> 01:29:06,240
+01:29:01,569 --> 01:29:06,208
 Give me a moment, please.
 I gave you a good long while.
 
 112
-01:29:06,408 --> 01:29:10,035
-Birds, beasts.... Beasts?
+01:29:06,408 --> 01:29:10,003
+Birds, beasts... Beasts?
 Trees, flowers.
 
 113
-01:29:10,203 --> 01:29:11,620
+01:29:10,203 --> 01:29:11,588
 I don't know this one.
 
 114
-01:29:11,788 --> 01:29:14,998
+01:29:11,788 --> 01:29:14,966
 GOLLUM:
 <i>Is it tasty?</i>
 
 115
-01:29:15,166 --> 01:29:19,545
+01:29:15,166 --> 01:29:19,513
 <i>Is it scrumptious?</i>
 
 116
@@ -504,7 +504,7 @@ Bagginses is stuck.
 Time's up.
 
 121
-01:29:45,947 --> 01:29:47,573
+01:29:45,947 --> 01:29:47,541
 Time.
 
 122
@@ -512,7 +512,7 @@ Time.
 The answer is time.
 
 123
-01:29:50,702 --> 01:29:52,494
+01:29:50,702 --> 01:29:52,462
 [GROWLING]
 
 124
@@ -524,7 +524,7 @@ Actually it wasn't that hard.
 Last question.
 
 126
-01:29:59,502 --> 01:30:01,295
+01:29:59,502 --> 01:30:01,263
 Last chance.
 
 127
@@ -558,11 +558,11 @@ It's not fair! It's against the rules!
 Now ask us another one.
 
 134
-01:30:32,744 --> 01:30:34,077
+01:30:32,744 --> 01:30:34,045
 No. No, no, no.
 
 135
-01:30:34,245 --> 01:30:38,207
+01:30:34,245 --> 01:30:38,174
 You said ask me a question.
 Well, that is my question.
 
@@ -571,7 +571,7 @@ Well, that is my question.
 What have I got in my pocket?
 
 137
-01:30:40,919 --> 01:30:42,419
+01:30:40,919 --> 01:30:42,387
 [GROANS]
 
 138
@@ -580,40 +580,40 @@ Three guesses, precious.
 It must give us three!
 
 139
-01:30:45,965 --> 01:30:48,217
+01:30:45,965 --> 01:30:48,184
 Three guesses. Very well, guess away.
 
 140
-01:30:48,384 --> 01:30:49,635
+01:30:48,384 --> 01:30:49,603
 Handses!
 
 141
-01:30:49,803 --> 01:30:51,512
+01:30:49,803 --> 01:30:51,479
 Wrong. Guess again.
 
 142
-01:30:51,679 --> 01:30:52,805
+01:30:51,679 --> 01:30:52,772
 [GRUNTS]
 
 143
-01:30:52,972 --> 01:30:57,059
+01:30:52,972 --> 01:30:57,027
 Fishbones, Goblins' teeth,
-wet shells, bats' wings....
+wet shells, bats' wings...
 
 144
-01:30:57,227 --> 01:30:59,436
+01:30:57,227 --> 01:30:59,404
 [GRUNTING]
 
 145
-01:30:59,604 --> 01:31:01,730
+01:30:59,604 --> 01:31:01,698
 Knife! Oh, shut up!
 
 146
-01:31:01,898 --> 01:31:03,690
+01:31:01,898 --> 01:31:03,658
 Wrong again. Last guess.
 
 147
-01:31:03,858 --> 01:31:06,985
+01:31:03,858 --> 01:31:06,953
 String. Or nothing.
 
 148
@@ -622,13 +622,13 @@ Two guesses at once.
 Wrong both times.
 
 149
-01:31:12,075 --> 01:31:13,867
+01:31:12,075 --> 01:31:13,835
 [SOBBING]
 
 150
 01:31:14,035 --> 01:31:15,494
 BILBO:
-So....
+So...
 
 151
 01:31:17,038 --> 01:31:20,541
@@ -636,7 +636,7 @@ Come, then. I won the game.
 You promised to show me the way out.
 
 152
-01:31:21,251 --> 01:31:24,127
+01:31:21,251 --> 01:31:24,095
 GOLLUM:
 Did we say so, precious?
 
@@ -681,7 +681,7 @@ Where is it?!
 No!
 
 163
-01:32:02,792 --> 01:32:04,293
+01:32:02,792 --> 01:32:04,260
 [SCREAMS]
 
 164
@@ -693,7 +693,7 @@ Where is it?!
 No! No!
 
 166
-01:32:10,258 --> 01:32:11,884
+01:32:10,258 --> 01:32:11,851
 Lost!
 
 167
@@ -705,12 +705,12 @@ Curse us and splash us!
 My precious is lost!
 
 169
-01:32:20,184 --> 01:32:24,521
+01:32:20,184 --> 01:32:24,489
 - What have you lost?
 - Mustn't ask us! Not its business!
 
 170
-01:32:24,689 --> 01:32:26,607
+01:32:24,689 --> 01:32:26,574
 No!
 
 171
@@ -722,7 +722,7 @@ Gollum, gollum!
 [PANTING]
 
 173
-01:32:41,956 --> 01:32:45,500
+01:32:41,956 --> 01:32:45,468
 What has it got...
 
 174

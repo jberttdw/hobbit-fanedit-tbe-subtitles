@@ -4,7 +4,7 @@ Here, Mr. Gandalf, can't you do something
 about this deluge?
 
 2
-00:40:01,295 --> 00:40:03,713
+00:40:01,295 --> 00:40:03,681
 It is raining, Master Dwarf...
 
 3

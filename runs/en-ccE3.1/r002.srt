@@ -1,13 +1,13 @@
 ﻿1
-00:01:53,979 --> 00:01:55,438
-It began....
+00:01:53,979 --> 00:01:55,406
+It began...
 
 2
 00:01:55,606 --> 00:01:57,857
 Well, it began as you might expect.
 
 3
-00:01:59,610 --> 00:02:01,694
+00:01:59,610 --> 00:02:01,662
 In a hole in the ground...
 
 4
@@ -15,12 +15,12 @@ In a hole in the ground...
 ...there lived a Hobbit.
 
 5
-00:02:06,241 --> 00:02:11,787
+00:02:06,241 --> 00:02:11,755
 Not a nasty, dirty, wet hole
 full of worms and oozy smells.
 
 6
-00:02:11,955 --> 00:02:14,123
+00:02:11,955 --> 00:02:14,091
 This was a Hobbit hole.
 
 7

@@ -25,7 +25,7 @@ BALIN:
 Halt!
 
 7
-03:56:24,592 --> 03:56:26,152
+03:56:24,451 --> 03:56:26,143
 It's been a while since I've done this.
 
 8

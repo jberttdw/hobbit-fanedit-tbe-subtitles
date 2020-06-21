@@ -69,7 +69,7 @@ then Bolg sweeps in from the North.
 Wha--The North?
 
 18
-04:01:59,873 --> 04:02:01,325
+04:01:59,873 --> 04:02:01,258
 Where is the North, exactly?
 
 19
@@ -78,8 +78,7 @@ Ravenhill.
 
 20
 04:02:04,753 --> 04:02:07,256
-Ravenhill?
-Thorin is up there.
+Ravenhill? Thorin is up there.
 
 21
 04:02:07,484 --> 04:02:09,967

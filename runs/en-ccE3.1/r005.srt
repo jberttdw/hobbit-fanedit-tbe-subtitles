@@ -9,16 +9,16 @@ Fili, Kili, look after the ponies.
 Make sure you stay with them.
 
 3
-00:40:32,993 --> 00:40:37,038
+00:40:32,993 --> 00:40:37,006
 A farmer and his family used to live here.
 
 4
-00:40:37,206 --> 00:40:39,999
+00:40:37,206 --> 00:40:39,967
 THORIN: Oin, Gloin. Get a fire going.
 OIN: Aye.
 
 5
-00:40:40,167 --> 00:40:41,209
+00:40:40,167 --> 00:40:41,176
 Right you are.
 
 6
@@ -30,28 +30,28 @@ I think it would be wiser to move on.
 We could make for the Hidden Valley.
 
 8
-00:40:49,176 --> 00:40:51,052
+00:40:49,176 --> 00:40:51,020
 I have told you already...
 
 9
-00:40:51,220 --> 00:40:53,095
+00:40:51,220 --> 00:40:53,063
 ...I will not go near that place.
 
 10
-00:40:53,263 --> 00:40:55,556
+00:40:53,263 --> 00:40:55,524
 Why not? The Elves could help us.
 
 11
-00:40:55,724 --> 00:40:57,808
+00:40:55,724 --> 00:40:57,776
 We could get food, rest, advice.
 
 12
-00:40:57,976 --> 00:41:00,102
+00:40:57,976 --> 00:41:00,070
 THORIN:
 I do not need their advice.
 
 13
-00:41:00,270 --> 00:41:04,315
+00:41:00,270 --> 00:41:04,283
 We have a map that we cannot read.
 Lord Elrond could help us.
 
@@ -60,7 +60,7 @@ Lord Elrond could help us.
 Help?
 
 15
-00:41:06,902 --> 00:41:08,986
+00:41:06,902 --> 00:41:08,954
 A dragon attacks Erebor.
 
 16
@@ -68,11 +68,11 @@ A dragon attacks Erebor.
 What help came from the Elves?
 
 17
-00:41:12,491 --> 00:41:14,408
+00:41:12,491 --> 00:41:14,376
 Orcs plunder Moria...
 
 18
-00:41:14,576 --> 00:41:16,994
+00:41:14,576 --> 00:41:16,962
 ...desecrate our sacred halls.
 
 19
@@ -80,12 +80,12 @@ Orcs plunder Moria...
 The Elves looked on and did nothing.
 
 20
-00:41:21,041 --> 00:41:25,086
+00:41:21,041 --> 00:41:25,054
 And you ask me to seek out the very people
 who betrayed my grandfather.
 
 21
-00:41:25,254 --> 00:41:26,546
+00:41:25,254 --> 00:41:26,513
 Who betrayed my father.
 
 22
@@ -93,7 +93,7 @@ Who betrayed my father.
 You are neither of them.
 
 23
-00:41:29,424 --> 00:41:32,885
+00:41:29,424 --> 00:41:32,853
 I did not give you that map and key
 for you to hold onto the past.
 
@@ -102,12 +102,12 @@ for you to hold onto the past.
 I did not know that they were yours to keep.
 
 25
-00:41:41,311 --> 00:41:44,021
+00:41:41,311 --> 00:41:43,989
 Everything all right?
 Gandalf, where are you going?
 
 26
-00:41:44,189 --> 00:41:47,608
+00:41:44,189 --> 00:41:47,576
 GANDALF: To seek the company of the
 only one around here who's got any sense.
 
@@ -129,20 +129,20 @@ Come on, Bombur, we're hungry.
 Is he coming back?
 
 31
-00:42:03,083 --> 00:42:04,375
+00:42:03,083 --> 00:42:04,343
 [DWARVES CHATTERING]
 
 32
-00:42:04,543 --> 00:42:05,835
+00:42:04,543 --> 00:42:05,803
 He's been a long time.
 
 33
-00:42:06,003 --> 00:42:07,295
+00:42:06,003 --> 00:42:07,262
 - Who?
 - Gandalf.
 
 34
-00:42:07,462 --> 00:42:09,630
+00:42:07,462 --> 00:42:09,598
 He's a Wizard. He does as he chooses.
 
 35
@@ -150,16 +150,16 @@ He's a Wizard. He does as he chooses.
 Here, do us a favor. Take this to the lads.
 
 36
-00:42:13,427 --> 00:42:14,969
+00:42:13,427 --> 00:42:14,937
 Stop it. You've had plenty.
 
 37
-00:42:15,137 --> 00:42:18,764
+00:42:15,137 --> 00:42:18,732
 GLOIN: Aye, it's not a bad stew, Bombur.
 I've had worse.
 
 38
-00:42:18,932 --> 00:42:20,975
+00:42:18,932 --> 00:42:20,943
 NORI:
 Dori could've cooked it. Ha-ha-ha.
 
@@ -169,16 +169,16 @@ DORI:
 Hilarious.
 
 40
-00:42:34,114 --> 00:42:35,406
+00:42:34,114 --> 00:42:35,374
 What's the matter?
 
 41
-00:42:35,574 --> 00:42:39,994
+00:42:35,574 --> 00:42:39,962
 - We're supposed to be looking after the ponies.
 - Only we've encountered a slight problem.
 
 42
-00:42:40,162 --> 00:42:42,038
+00:42:40,162 --> 00:42:42,005
 KILI:
 We had 16.
 
@@ -188,34 +188,34 @@ FILI:
 Now there's 14.
 
 44
-00:42:48,378 --> 00:42:50,671
+00:42:48,378 --> 00:42:50,639
 KILI:
 Daisy and Bungo are missing.
 
 45
-00:42:50,839 --> 00:42:52,632
+00:42:50,839 --> 00:42:52,599
 Well, that's not good. Ha, ha.
 
 46
-00:42:52,799 --> 00:42:55,426
+00:42:52,799 --> 00:42:55,394
 And that is not good at all.
 Shouldn't we tell Thorin?
 
 47
-00:42:55,594 --> 00:42:58,512
+00:42:55,594 --> 00:42:58,480
 Uh, no. Let's not worry him.
 
 48
-00:42:58,680 --> 00:43:01,932
+00:42:58,680 --> 00:43:01,900
 As our official burglar,
 we thought you might like to look into it.
 
 49
 00:43:02,100 --> 00:43:03,476
-Well, uh....
+Well, uh...
 
 50
-00:43:04,019 --> 00:43:08,189
+00:43:04,019 --> 00:43:08,157
 - Look, something big uprooted these trees.
 - That was our thinking.
 
@@ -237,7 +237,7 @@ There's a light.
 Over here.
 
 55
-00:43:21,411 --> 00:43:22,453
+00:43:21,411 --> 00:43:22,555
 Stay down.
 
 56
@@ -245,7 +245,7 @@ Stay down.
 [GRUNTING AND LAUGHTER]
 
 57
-00:43:27,918 --> 00:43:29,335
+00:43:27,918 --> 00:43:29,303
 What is it?
 
 58
@@ -265,7 +265,7 @@ Oh.
 He's got Myrtle and Minty.
 
 62
-00:44:00,909 --> 00:44:03,703
+00:44:00,909 --> 00:44:03,670
 I think they're gonna eat them.
 We have to do something.
 
@@ -274,21 +274,21 @@ We have to do something.
 Yes, you should.
 
 64
-00:44:05,956 --> 00:44:09,959
+00:44:05,956 --> 00:44:09,927
 Mountain Trolls are slow and stupid,
 and you're so small, they'll never see you.
 
 65
-00:44:10,127 --> 00:44:12,086
+00:44:10,127 --> 00:44:12,054
 It's perfectly safe. We'll be behind you.
 
 66
-00:44:12,254 --> 00:44:15,881
+00:44:12,254 --> 00:44:15,849
 If you run into trouble, hoot twice
 like a barn owl and once like a brown owl.
 
 67
-00:44:16,049 --> 00:44:19,009
+00:44:16,049 --> 00:44:18,977
 BILBO: Twice like a barn owl.
 No, twice like a brown-- Once like a--
 
@@ -297,7 +297,7 @@ No, twice like a brown-- Once like a--
 Like a-- Are you sure this is a good idea?
 
 69
-00:44:21,513 --> 00:44:24,557
+00:44:21,513 --> 00:44:24,525
 BERT:
 Mutton yesterday, mutton today...
 
@@ -307,43 +307,43 @@ Mutton yesterday, mutton today...
 mutton again tomorrow.
 
 71
-00:44:29,312 --> 00:44:31,313
+00:44:29,312 --> 00:44:31,281
 WILLIAM:
 Quit your griping.
 
 72
-00:44:31,481 --> 00:44:35,735
+00:44:31,481 --> 00:44:35,702
 These ain't sheep. These is fresh nags.
 
 73
-00:44:35,902 --> 00:44:41,240
+00:44:35,902 --> 00:44:41,208
 Oh! I don't like horse. I never have.
 Not enough fat on them.
 
 74
-00:44:41,408 --> 00:44:43,743
+00:44:41,408 --> 00:44:43,710
 Well, it's better than leathery old farmer.
 
 75
-00:44:43,910 --> 00:44:48,289
+00:44:43,910 --> 00:44:48,257
 All skin and bone, he was. I'm still
 picking bits of him out of me teeth.
 
 76
-00:44:48,457 --> 00:44:49,498
+00:44:48,457 --> 00:44:49,466
 [TOM SNEEZES]
 
 77
-00:44:49,666 --> 00:44:52,793
+00:44:49,666 --> 00:44:52,761
 Well, that's lovely, that is. A floater.
 
 78
-00:44:52,961 --> 00:44:54,879
+00:44:52,961 --> 00:44:54,846
 WILLIAM:
 Might improve the flavor.
 
 79
-00:44:55,046 --> 00:44:57,631
+00:44:55,046 --> 00:44:57,599
 Ah. There's more where that came from.
 
 80
@@ -352,7 +352,7 @@ Ah. There's more where that came from.
 TOM: Ow!
 
 81
-00:44:59,384 --> 00:45:02,845
+00:44:59,384 --> 00:45:02,813
 [TOM WHIMPERING]
 
 82
@@ -368,7 +368,7 @@ Sit down!
 [TOM BLOWING NOSE]
 
 85
-00:45:13,064 --> 00:45:17,276
+00:45:13,064 --> 00:45:17,244
 Well, I hope you're gonna gut these nags.
 
 86
@@ -376,44 +376,44 @@ Well, I hope you're gonna gut these nags.
 I don't like the stinky parts.
 
 87
-00:45:20,447 --> 00:45:23,282
+00:45:20,447 --> 00:45:23,250
 - Ow!
 - I said sit down.
 
 88
-00:45:23,450 --> 00:45:24,492
+00:45:23,450 --> 00:45:24,459
 I'm starving!
 
 89
-00:45:24,659 --> 00:45:27,745
+00:45:24,659 --> 00:45:27,713
 Now, are we having horse tonight or what?
 
 90
 00:45:27,913 --> 00:45:31,957
 BERT: Shut your cakehole.
-You'll eat what I give you.
+You'll eat what I'll give you.
 
 91
-00:45:32,834 --> 00:45:36,545
+00:45:32,834 --> 00:45:36,513
 WILLIAM: How come he's the cook?
 Everything tastes the same.
 
 92
-00:45:36,713 --> 00:45:38,297
+00:45:36,713 --> 00:45:38,265
 Everything tastes like chicken.
 
 93
-00:45:38,465 --> 00:45:39,673
+00:45:38,465 --> 00:45:39,641
 TOM:
 Except the chicken.
 
 94
-00:45:39,841 --> 00:45:41,175
+00:45:39,841 --> 00:45:41,143
 WILLIAM:
 What tastes like fish!
 
 95
-00:45:41,343 --> 00:45:44,637
+00:45:41,343 --> 00:45:44,605
 I'm just saying,
 a little appreciation would be nice.
 
@@ -422,7 +422,7 @@ a little appreciation would be nice.
 [PONY NEIGHS]
 
 97
-00:45:47,015 --> 00:45:50,768
+00:45:47,015 --> 00:45:50,736
 Oh. "Thank you very much, Bert.
 Lovely stew, Bert."
 
@@ -457,11 +457,11 @@ Ooh. That is beautifully balanced, that is.
 Wrap your laughing gear around that, eh?
 
 105
-00:46:17,504 --> 00:46:18,546
+00:46:17,295 --> 00:46:18,546
 Good, isn't it?
 
 106
-00:46:18,880 --> 00:46:20,297
+00:46:18,880 --> 00:46:20,265
 [BERT CHUCKLES]
 
 107
@@ -473,7 +473,7 @@ That's why I'm the cook.
 [WILLIAM GRUNTS]
 
 109
-00:46:30,767 --> 00:46:34,979
+00:46:30,767 --> 00:46:34,946
 WILLIAM: Oh, me guts are grumbling.
 I got to snaffle something.
 
@@ -487,138 +487,135 @@ TOM: Ah! Ah!
 [TOM BLOWS NOSE]
 
 112
-00:46:40,193 --> 00:46:41,235
+00:46:40,193 --> 00:46:42,444
 [SCREAMS]
-
-113
-00:46:41,403 --> 00:46:42,444
 Blimey!
 
-114
-00:46:43,196 --> 00:46:46,073
+113
+00:46:43,196 --> 00:46:46,041
 Bert. Bert!
 Look what's come out of me hooter.
 
-115
+114
 00:46:46,241 --> 00:46:48,367
 It's got arms and legs and everything.
 
-116
-00:46:48,702 --> 00:46:50,160
+115
+00:46:48,702 --> 00:46:50,128
 BERT:
 What is it?
 
-117
+116
 00:46:50,328 --> 00:46:52,997
 I don't know.
 But I don't like the way it wriggles around.
 
-118
-00:46:57,002 --> 00:47:00,212
+117
+00:46:57,002 --> 00:47:00,180
 What are you, then? An oversized squirrel?
 
-119
-00:47:00,380 --> 00:47:02,089
+118
+00:47:00,380 --> 00:47:02,057
 I'm a burglar-- Uh, Hobbit.
 
-120
-00:47:02,257 --> 00:47:04,341
+119
+00:47:02,257 --> 00:47:04,309
 A burglarobbit?
 
-121
-00:47:04,509 --> 00:47:06,135
+120
+00:47:04,509 --> 00:47:06,103
 Can we cook him?
 
-122
+121
 00:47:06,303 --> 00:47:08,846
 We can try.
 
-123
-00:47:11,641 --> 00:47:13,726
+122
+00:47:11,641 --> 00:47:13,694
 He wouldn't make more than a mouthful.
 
-124
-00:47:13,894 --> 00:47:16,687
+123
+00:47:13,894 --> 00:47:16,655
 Not when he's skinned and boned.
 
-125
-00:47:16,855 --> 00:47:19,857
+124
+00:47:16,855 --> 00:47:19,825
 Perhaps there's more burglarobbits
 around these parts.
 
-126
+125
 00:47:20,025 --> 00:47:23,068
 Might be enough for a pie.
 
-127
-00:47:23,320 --> 00:47:25,321
+126
+00:47:23,320 --> 00:47:25,288
 - Grab him!
 TOM: He's too quick.
 
-128
-00:47:25,488 --> 00:47:28,824
+127
+00:47:25,488 --> 00:47:28,792
 WILLIAM:
 Right. Come here, you little--
 
-129
-00:47:28,992 --> 00:47:30,159
+128
+00:47:28,992 --> 00:47:30,334
 Gotcha.
 
-130
-00:47:30,535 --> 00:47:34,163
+129
+00:47:30,535 --> 00:47:34,131
 Are there any more of you little fellas
 hiding where you shouldn't?
 
-131
+130
 00:47:34,331 --> 00:47:35,915
 No.
 
-132
-00:47:36,166 --> 00:47:37,499
+131
+00:47:36,166 --> 00:47:37,467
 He's lying.
 
-133
-00:47:37,667 --> 00:47:42,004
+132
+00:47:37,667 --> 00:47:41,972
 - No, I'm not!
 - Hold his toes over the fire.
 
-134
+133
 00:47:42,172 --> 00:47:44,882
 Make him squeal!
 
-135
+134
 00:47:45,342 --> 00:47:46,926
 [SQUEALS]
 
-136
-00:47:48,345 --> 00:47:49,386
+135
+00:47:48,345 --> 00:47:49,354
 Drop him!
 
-137
+136
 00:47:49,554 --> 00:47:50,971
 You what?
 
-138
+137
 00:47:51,765 --> 00:47:53,223
 I said...
 
-139
-00:47:53,516 --> 00:47:54,558
+138
+00:47:53,516 --> 00:47:54,526
 ...drop him.
 
-140
-00:47:54,726 --> 00:47:56,101
+139
+00:47:54,726 --> 00:47:56,069
 [GROWLS]
 
-141
-00:47:56,269 --> 00:47:57,311
+140
+00:47:56,269 --> 00:47:57,519
 [BILBO YELLS]
 
-142
+141
 00:47:58,688 --> 00:48:00,689
 [ALL YELLING]
 
-143
+142
 00:48:12,285 --> 00:48:13,869
 [TOM SQUEALS]
 

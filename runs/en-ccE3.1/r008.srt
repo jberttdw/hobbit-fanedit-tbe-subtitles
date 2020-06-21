@@ -21,49 +21,49 @@ Lay down your arms...
 [SWORD CLANGS]
 
 6
-00:48:48,783 --> 00:48:50,784
+00:48:48,783 --> 00:48:50,751
 NORI:
 Oh! That's hot, that's hot, that's hot!
 
 7
-00:48:50,951 --> 00:48:52,577
+00:48:50,951 --> 00:48:52,545
 Don't bother cooking them.
 
 8
-00:48:52,745 --> 00:48:56,998
+00:48:52,745 --> 00:48:56,966
 Let's just sit on them
 and squash them into jelly.
 
 9
-00:48:57,166 --> 00:49:01,377
+00:48:57,166 --> 00:49:01,345
 They should be sautéed and grilled
 with a sprinkle of sage.
 
 10
-00:49:01,545 --> 00:49:03,087
+00:49:01,545 --> 00:49:03,055
 BALIN:
 Is this really necessary?
 
 11
-00:49:03,255 --> 00:49:05,048
+00:49:03,255 --> 00:49:05,016
 That does sound quite nice.
 
 12
-00:49:05,216 --> 00:49:07,634
+00:49:05,216 --> 00:49:07,738
 BOMBUR: Untie me, mister.
 GLOIN: Eat someone your own size.
 
 13
-00:49:08,344 --> 00:49:10,261
+00:49:08,344 --> 00:49:10,229
 WILLIAM:
 Never mind the seasoning.
 
 14
-00:49:10,429 --> 00:49:12,222
+00:49:10,429 --> 00:49:12,189
 We ain't got all night.
 
 15
-00:49:12,389 --> 00:49:15,725
+00:49:12,389 --> 00:49:15,693
 Dawn ain't far away.
 Let's get a move on.
 
@@ -72,16 +72,16 @@ Let's get a move on.
 I don't fancy being turned to stone.
 
 17
-00:49:21,023 --> 00:49:22,357
+00:49:21,023 --> 00:49:22,325
 BILBO:
 Wait!
 
 18
-00:49:22,525 --> 00:49:25,568
+00:49:22,525 --> 00:49:25,536
 You are making a terrible mistake.
 
 19
-00:49:25,736 --> 00:49:27,946
+00:49:25,736 --> 00:49:27,913
 You can't reason with
 them. They're half-wits!
 
@@ -94,7 +94,7 @@ Half-wits? What does that make us?
 I meant with the seasoning.
 
 22
-00:49:33,953 --> 00:49:36,579
+00:49:33,953 --> 00:49:36,547
 What about the seasoning?
 
 23
@@ -102,7 +102,7 @@ What about the seasoning?
 Well, have you smelt them?
 
 24
-00:49:38,332 --> 00:49:41,876
+00:49:38,332 --> 00:49:41,844
 You're gonna need something stronger
 than sage before you plate this lot up.
 
@@ -112,231 +112,227 @@ BOMBUR: Traitor!
 - What do you know about cooking Dwarf?
 
 26
-00:49:45,714 --> 00:49:46,756
+00:49:45,760 --> 00:49:50,760
 BERT:
-Shut up.
+Shut up. Let the flurgaburburahobbit talk.
 
 27
-00:49:47,091 --> 00:49:50,760
-Let the flurgaburburahobbit talk.
+00:49:51,679 --> 00:49:54,565
+The secret to cooking Dwarf is...
 
 28
-00:49:51,679 --> 00:49:54,597
-The secret to cooking Dwarf is....
+00:49:54,765 --> 00:49:57,860
+BERT: Yes? Come on. Tell us the secret.
+- It's, uh...
 
 29
-00:49:54,765 --> 00:49:57,892
-BERT: Yes? Come on. Tell us the secret.
-- It's, uh....
-
-30
 00:49:58,060 --> 00:50:00,103
 Yes, I'm telling you. The secret is...
 
-31
-00:50:02,648 --> 00:50:04,399
+30
+00:50:02,648 --> 00:50:04,367
 ...to skin them first.
 
-32
-00:50:04,567 --> 00:50:06,484
+31
+00:50:04,567 --> 00:50:06,452
 NORI:
 What? Skin us?
 
-33
-00:50:06,652 --> 00:50:09,195
+32
+00:50:06,652 --> 00:50:09,163
 Tom, get me filleting knife.
 
-34
-00:50:09,363 --> 00:50:11,030
+33
+00:50:09,363 --> 00:50:10,998
 I'll skin you, you little--!
 
-35
-00:50:11,198 --> 00:50:13,074
+34
+00:50:11,198 --> 00:50:13,042
 DWALIN:
 I won't forget that. I won't forget it.
 
-36
-00:50:13,242 --> 00:50:15,577
+35
+00:50:13,242 --> 00:50:15,544
 What a load of rubbish.
 
-37
-00:50:15,744 --> 00:50:18,663
+36
+00:50:15,744 --> 00:50:18,631
 I've eaten plenty with their skins on.
 
-38
+37
 00:50:18,831 --> 00:50:21,207
 Scarf them, I say, boots and all.
 
-39
-00:50:21,834 --> 00:50:24,127
+38
+00:50:21,834 --> 00:50:24,095
 TOM:
 He's right.
 
-40
+39
 00:50:24,295 --> 00:50:26,921
 Nothing wrong with a bit of raw Dwarf.
 
-41
+40
 00:50:29,633 --> 00:50:31,843
 Nice and crunchy.
 
-42
+41
 00:50:32,177 --> 00:50:34,721
 Oh, not that one. He's infected.
 
-43
-00:50:35,014 --> 00:50:36,639
+42
+00:50:35,014 --> 00:50:36,607
 - Huh?
 - You what?
 
-44
-00:50:36,807 --> 00:50:40,935
+43
+00:50:36,807 --> 00:50:40,903
 Yeah, he's got worms in his... tubes.
 
-45
+44
 00:50:41,103 --> 00:50:43,062
 TOM: Eww!
 BOMBUR: Aah!
 
-46
-00:50:43,314 --> 00:50:46,608
+45
+00:50:43,314 --> 00:50:46,575
 In fact, they all have.
 They're infested with parasites.
 
-47
-00:50:46,775 --> 00:50:49,736
+46
+00:50:46,775 --> 00:50:49,704
 It's a terrible business.
 I wouldn't risk it. I really wouldn't.
 
-48
-00:50:49,904 --> 00:50:51,779
+47
+00:50:49,904 --> 00:50:51,747
 Parasites? Did he say "parasites"?
 
-49
+48
 00:50:51,947 --> 00:50:54,741
 We don't have parasites. You have parasites!
 
-50
-00:50:55,492 --> 00:50:57,410
+49
+00:50:55,492 --> 00:50:57,378
 OIN:
 What are you talking about, laddie?
 
-51
+50
 00:50:57,578 --> 00:50:58,828
 [KILI GRUNTS]
 
-52
-00:51:00,956 --> 00:51:02,832
+51
+00:51:00,956 --> 00:51:02,800
 I've got parasites as big as my arm.
 
-53
-00:51:03,000 --> 00:51:05,585
+52
+00:51:03,000 --> 00:51:05,553
 Mine are the biggest parasites.
 I've got huge parasites.
 
-54
+53
 00:51:05,753 --> 00:51:07,420
 [DWARVES CHATTERING]
 
-55
-00:51:07,630 --> 00:51:09,088
+54
+00:51:07,630 --> 00:51:09,056
 KILI: We're riddled.
 ORI: Yes, I'm riddled.
 
-56
-00:51:09,256 --> 00:51:10,548
+55
+00:51:09,256 --> 00:51:10,516
 Yes, we are, badly.
 
-57
-00:51:10,716 --> 00:51:13,593
+56
+00:51:10,716 --> 00:51:13,561
 What would you have us do, then?
 
-58
+57
 00:51:13,761 --> 00:51:15,303
 Let them all go?
 
-59
+58
 00:51:15,679 --> 00:51:19,015
-- Well....
+- Well...
 - You think I don't know what you're up to?
 
-60
+59
 00:51:19,433 --> 00:51:23,519
 This little ferret is taking us for fools.
 
-61
-00:51:23,979 --> 00:51:25,521
+60
+00:51:23,979 --> 00:51:25,489
 - Ferret?
 - Fools?
 
-62
+61
 00:51:25,689 --> 00:51:28,650
 GANDALF:
 The dawn will take you all!
 
-63
-00:51:30,069 --> 00:51:31,694
+62
+00:51:30,069 --> 00:51:31,662
 - Who's that?
 - No idea.
 
-64
-00:51:31,862 --> 00:51:32,987
+63
+00:51:31,862 --> 00:51:33,112
 Can we eat him too?
 
-65
-00:51:36,367 --> 00:51:38,076
+64
+00:51:36,367 --> 00:51:38,367
 [TROLLS GROANING]
 
-66
+65
 00:51:51,882 --> 00:51:53,633
 [ALL LAUGHING]
 
-67
+66
 00:51:59,139 --> 00:52:01,683
 Get your foot out of my back.
 
-68
-00:52:02,017 --> 00:52:04,268
+67
+00:52:02,017 --> 00:52:04,236
 [GRUNTING]
 
-69
+68
 00:52:04,436 --> 00:52:06,437
 [DWARVES CHATTERING]
 
-70
+69
 00:52:07,501 --> 00:52:08,940
 [IMITATES TROLL GROAN]
 
-71
-00:52:11,193 --> 00:52:13,361
+70
+00:52:11,193 --> 00:52:13,329
 Where did you go to, if I may ask?
 
-72
+71
 00:52:13,529 --> 00:52:15,196
 To look ahead.
 
-73
+72
 00:52:15,572 --> 00:52:18,408
 - What brought you back?
 - Looking behind.
 
-74
-00:52:19,410 --> 00:52:20,618
+73
+00:52:19,336 --> 00:52:20,586
 Nasty business.
 
-75
-00:52:20,786 --> 00:52:22,286
+74
+00:52:20,786 --> 00:52:22,254
 Still, they're all in one piece.
 
-76
+75
 00:52:22,454 --> 00:52:23,955
 No thanks to your burglar.
 
-77
+76
 00:52:25,416 --> 00:52:27,500
 He had the nous to play for time.
 
-78
+77
 00:52:28,919 --> 00:52:31,295
 None of the rest of you thought of that.
 

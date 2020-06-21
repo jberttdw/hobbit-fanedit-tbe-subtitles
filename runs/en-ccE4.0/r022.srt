@@ -1,5 +1,5 @@
 ﻿1
-01:11:26,076 --> 01:11:28,411
+01:11:26,076 --> 01:11:28,379
 Where's Bilbo? Where's the Hobbit?
 
 2
@@ -25,7 +25,7 @@ Aah!
 - Bilbo!
 
 7
-01:11:41,300 --> 01:11:43,760
+01:11:41,300 --> 01:11:43,727
 DORI: Ori, be careful!
 ORI: Take it!
 
@@ -35,11 +35,11 @@ DWALIN: I've got you, lad.
 ORI: Grab on! Grab on!
 
 9
-01:11:55,272 --> 01:11:56,439
+01:11:55,272 --> 01:11:56,407
 [GRUNTING]
 
 10
-01:11:56,607 --> 01:11:59,442
+01:11:56,607 --> 01:11:59,410
 Come on. Get him.
 
 11
@@ -56,7 +56,7 @@ I thought we'd lost our burglar.
 He's been lost ever since he left home.
 
 14
-01:12:10,746 --> 01:12:12,622
+01:12:10,746 --> 01:12:12,590
 He should never have come.
 
 15
@@ -83,28 +83,28 @@ DWALIN:
 There's nothing here.
 
 20
-01:12:37,481 --> 01:12:39,565
+01:12:37,481 --> 01:12:39,533
 Right, then. Let's get a fire started.
 
 21
-01:12:39,733 --> 01:12:42,652
+01:12:39,733 --> 01:12:42,620
 No. No fires. Not in this place.
 
 22
-01:12:42,820 --> 01:12:44,529
+01:12:42,820 --> 01:12:44,496
 Get some sleep.
 
 23
-01:12:44,696 --> 01:12:47,198
+01:12:44,696 --> 01:12:47,166
 We start at first light.
 
 24
-01:12:47,366 --> 01:12:51,077
+01:12:47,366 --> 01:12:51,045
 We were to wait in the mountains
 until Gandalf joined us.
 
 25
-01:12:51,245 --> 01:12:54,205
+01:12:51,245 --> 01:12:54,173
 - That was the plan.
 - Plans change.
 

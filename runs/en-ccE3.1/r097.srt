@@ -221,8 +221,7 @@ Call everyone to the gate.
 
 54
 03:12:14,267 --> 03:12:16,686
-To the gate!
-Now!
+To the gate! Now!
 
 55
 03:12:18,020 --> 03:12:19,438

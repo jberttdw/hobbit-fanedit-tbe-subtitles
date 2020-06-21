@@ -24,35 +24,31 @@ Let them return to their master.
 [FOREST CREAKS]
 
 7
-01:56:28,948 --> 01:56:31,534
+01:56:28,948 --> 01:56:33,244
 BILBO:
-This forest feels...
+This forest feels sick.
 
 8
-01:56:32,160 --> 01:56:33,244
-...sick.
-
-9
 01:56:33,745 --> 01:56:35,913
 As if a disease lies upon it.
 
-10
+9
 01:56:38,458 --> 01:56:40,042
 Is there no way around?
 
-11
+10
 01:56:40,293 --> 01:56:42,754
 Not unless we go 200 miles north.
 
-12
+11
 01:56:43,004 --> 01:56:45,089
 Or twice that distance...
 
-13
+12
 01:56:46,048 --> 01:56:47,341
 ...south.
 
-14
+13
 01:57:05,401 --> 01:57:07,401
 [VOICE OF THE RING WHISPERING]
 

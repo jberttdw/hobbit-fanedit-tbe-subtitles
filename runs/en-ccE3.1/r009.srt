@@ -11,7 +11,7 @@ There must be a cave nearby.
 [INSECTS BUZZING]
 
 4
-00:52:52,474 --> 00:52:54,767
+00:52:52,474 --> 00:52:54,735
 NORI:
 Oh, what's that stench?
 
@@ -21,7 +21,7 @@ GANDALF:
 It's a Troll-hoard.
 
 6
-00:52:58,480 --> 00:53:01,065
+00:52:58,480 --> 00:53:01,033
 Be careful what you touch.
 
 7
@@ -34,12 +34,12 @@ Seems a shame
 just to leave it lying around.
 
 9
-00:53:17,999 --> 00:53:20,626
+00:53:17,999 --> 00:53:20,594
 - Anyone could take it.
 - Agreed.
 
 10
-00:53:20,794 --> 00:53:22,461
+00:53:20,794 --> 00:53:22,429
 - Nori.
 NORI: Yeah?
 
@@ -85,7 +85,7 @@ THORIN:
 Let's get out of this foul place.
 
 20
-00:54:38,830 --> 00:54:40,497
+00:54:38,830 --> 00:54:40,465
 Come on, let's go.
 
 21
@@ -98,7 +98,7 @@ GANDALF: Bilbo.
 BILBO: Hmm?
 
 23
-00:55:05,315 --> 00:55:06,357
+00:55:05,315 --> 00:55:06,324
 Here.
 
 24
@@ -110,7 +110,7 @@ This is about your size.
 I can't take this.
 
 26
-00:55:16,493 --> 00:55:18,494
+00:55:16,493 --> 00:55:18,462
 The blade is of Elvish make...
 
 27
@@ -119,7 +119,7 @@ The blade is of Elvish make...
 when Orcs or Goblins are nearby.
 
 28
-00:55:24,793 --> 00:55:27,127
+00:55:24,793 --> 00:55:27,095
 I have never used a sword in my life.
 
 29

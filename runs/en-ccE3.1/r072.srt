@@ -86,7 +86,7 @@ Nori.
 We're losing the light. Come on.
 
 21
-02:37:32,409 --> 02:37:34,995
+02:37:32,409 --> 02:37:34,928
 NORI:
 Be quiet! I can't hear when you're thumping.
 
@@ -96,8 +96,7 @@ I can't find it.
 
 23
 02:37:37,498 --> 02:37:40,167
-It's not here!
-It's not! Here!
+It's not here! It's not! Here!
 
 24
 02:37:41,731 --> 02:37:43,231
@@ -238,46 +237,47 @@ The last light!
 The key-hole!
 
 57
-02:40:46,473 --> 02:40:47,346
-<i>Come back!</i>
-
-58
-02:40:47,567 --> 02:40:48,902
+02:40:46,473 --> 02:40:48,834
+Come back!
 Come back!
 
-59
+58
 02:40:49,034 --> 02:40:53,012
 It's the light of the moon!
 The last moon of autumn!
 
-60
+59
 02:40:53,503 --> 02:40:54,736
 Ha, ha, ha!
 
-61
+60
 02:40:56,655 --> 02:40:59,032
 Where's the key? Where's the key?
 Where's the--?
 
-62
+61
 02:40:59,283 --> 02:41:00,993
 It was here.
 
-63
+62
 02:41:01,243 --> 02:41:03,036
 Come on, it was-- It was here.
 
-64
+63
 02:41:03,745 --> 02:41:04,753
 It was just--
 
-65
+64
 02:41:05,323 --> 02:41:06,323
 [TINKLING]
 
+65
+02:41:06,657 --> 02:41:08,220
+[THUMP]
+
 66
 02:41:40,616 --> 02:41:41,866
-[THUMP]
+[THUD]
 
 67
 02:42:02,596 --> 02:42:04,056

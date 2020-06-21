@@ -74,12 +74,12 @@ It will not come to that.
 BILBO: That won't stop them.
 
 18
-03:30:24,608 --> 03:30:27,528
+03:30:24,608 --> 03:30:27,524
 You think the Dwarves will surrender?
 They won't.
 
 19
-03:30:27,725 --> 03:30:29,654
+03:30:27,725 --> 03:30:29,621
 They will fight to the
 death to defend their own.
 
@@ -88,7 +88,7 @@ death to defend their own.
 Bilbo Baggins.
 
 21
-03:30:31,824 --> 03:30:35,627
+03:30:31,824 --> 03:30:35,606
 THRANDUIL: If I'm not mistaken
 this is the Halfling who stole the keys...
 
@@ -136,8 +136,8 @@ share of the treasure.
 
 32
 03:31:13,282 --> 03:31:15,909
-BARD:
-Why would you do this? You owe us no loyalty.
+BARD: Why would you do this?
+You owe us no loyalty.
 
 33
 03:31:16,160 --> 03:31:17,870
@@ -197,21 +197,21 @@ GANDALF: Rest up tonight.
 You must leave on the morrow.
 
 46
-03:32:00,997 --> 03:32:03,044
+03:32:00,997 --> 03:32:02,976
 - Wha...?
 - Get as far away from here as possible.
 
 47
-03:32:03,177 --> 03:32:04,423
+03:32:03,177 --> 03:32:04,355
 - I--I'm not leaving.
 
 48
-03:32:04,556 --> 03:32:07,419
+03:32:04,556 --> 03:32:07,389
 You picked me as the 14th man. I'm
 not about to leave the Company now.
 
 49
-03:32:07,590 --> 03:32:09,626
+03:32:07,590 --> 03:32:09,582
 - There is no Company. Not anymore.
 
 50
@@ -220,7 +220,7 @@ And I don't like to think what Thorin will
 do when he finds out what you've done.
 
 51
-03:32:12,963 --> 03:32:14,218
+03:32:12,963 --> 03:32:14,267
 - I'm not afraid of Thorin.
 
 52

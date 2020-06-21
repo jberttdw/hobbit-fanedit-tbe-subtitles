@@ -1,14 +1,13 @@
 ﻿1
 01:57:32,098 --> 01:57:34,098
-Not my horse!
-I need it!
+Not my horse! I need it!
 
 2
 01:57:34,726 --> 01:57:35,560
 [DWARVES MURMUR]
 
 3
-01:57:36,061 --> 01:57:37,270
+01:57:35,857 --> 01:57:37,270
 You're not leaving us?
 
 4
@@ -157,16 +156,15 @@ Keep moving.
 Nori...
 
 37
-02:00:18,382 --> 02:00:19,516
+02:00:18,291 --> 02:00:19,729
 ...why have we stopped?
 
 38
-02:00:19,766 --> 02:00:22,602
-The path...
-It's disappeared.
+02:00:19,930 --> 02:00:22,602
+The path... It's disappeared.
 
 39
-02:00:22,852 --> 02:00:23,992
+02:00:22,852 --> 02:00:24,155
 DWALIN:
 What's going on?
 
@@ -244,7 +242,7 @@ This is exactly the same as mine.
 Because it is yours. Do you understand?
 
 56
-02:01:52,859 --> 02:01:54,652
+02:01:52,810 --> 02:01:54,702
 We're going around in circles.
 We are lost.
 
@@ -259,7 +257,7 @@ OIN:
 But which way is east? We've lost the sun.
 
 59
-02:02:00,074 --> 02:02:01,451
+02:02:00,074 --> 02:02:01,912
 DWALIN:
 I thought you were the expert.
 
@@ -284,15 +282,16 @@ We need to get above the canopy.
 [DWARVES CLAMORING]
 
 65
-02:02:16,007 --> 02:02:17,133
+02:02:15,958 --> 02:02:17,371
 [VOICES WHISPERING INDISTINCTLY]
 
 66
-02:02:17,425 --> 02:02:19,344
+02:02:17,572 --> 02:02:19,344
+THORIN:
 What was that?
 
 67
-02:02:20,553 --> 02:02:23,431
+02:02:20,553 --> 02:02:23,556
 Enough! Quiet! All of you!
 
 68
@@ -349,7 +348,7 @@ Hello?
 Hello.
 
 81
-02:03:59,652 --> 02:04:00,612
+02:03:59,652 --> 02:04:00,661
 Oh, no.
 
 82
@@ -362,146 +361,142 @@ Oh, come on.
 [CHITTERS]
 
 84
-02:04:11,122 --> 02:04:11,964
+02:04:11,018 --> 02:04:13,275
 [ROARS]
+[BILBO SCREAMS]
 
 85
-02:04:12,165 --> 02:04:13,166
-[SCREAMS]
-
-86
 02:05:40,920 --> 02:05:43,548
 SPIDER 1:
 Kill them! Kill them.
 
-87
+86
 02:05:43,798 --> 02:05:45,842
 Eat them now,
 while their blood is running.
 
-88
+87
 02:05:46,092 --> 02:05:49,595
 SPIDER 2: Their hide is tough,
 but there's good juice inside.
 
-89
+88
 02:05:49,846 --> 02:05:52,765
 SPIDER 1: Stick it again.
 Stick it again. Finish it off.
 
-90
+89
 02:05:53,891 --> 02:05:55,643
 SPIDER 2:
 The meat's alive and kicking!
 
-91
+90
 02:05:55,893 --> 02:05:57,478
 SPIDER 1:
 Kill him. Kill them now.
 
-92
+91
 02:05:57,729 --> 02:05:59,313
 Let us feast.
 
-93
-02:05:59,564 --> 02:06:00,773
+92
+02:05:59,514 --> 02:06:00,773
 Feast! Feast!
 
-94
+93
 02:06:01,023 --> 02:06:03,109
 SPIDER 3:
 Feast! Feast!
 
-95
+94
 02:06:04,485 --> 02:06:05,903
 SPIDER 4:
 Eat them alive!
 
-96
+95
 02:06:06,154 --> 02:06:08,197
 Feast!
 
-97
+96
 02:06:13,035 --> 02:06:14,328
 [STICK CLATTERS]
 
-98
+97
 02:06:14,579 --> 02:06:16,414
 SPIDER 2: What is it?
 SPIDER 1: What is it?
 
-99
+98
 02:06:18,291 --> 02:06:20,501
 SPIDER 4:
 Eat them alive!
 
-100
+99
 02:06:23,755 --> 02:06:25,882
 SPIDER 3:
 Fat and juicy.
 
-101
+100
 02:06:28,968 --> 02:06:31,679
 Just a little taste.
 
-102
-02:06:33,014 --> 02:06:33,681
+101
+02:06:32,814 --> 02:06:34,548
 [HISSING]
 
-103
+102
 02:06:42,356 --> 02:06:44,692
 Curse it! Where is it?! Where is it?!
 
-104
+103
 02:06:45,919 --> 02:06:47,195
 Here.
 
-105
+104
 02:06:48,154 --> 02:06:51,199
-Ah! It stings!
-It stings!
+Ah! It stings! It stings!
 
-106
+105
 02:06:57,163 --> 02:06:58,456
 Sting.
 
-107
+106
 02:06:59,415 --> 02:07:00,708
 That's a good name.
 
-108
+107
 02:07:02,502 --> 02:07:03,628
 Sting.
 
-109
+108
 02:07:21,875 --> 02:07:23,543
 GLOIN:
 You all right there, Bofur?
 
-110
+109
 02:07:23,744 --> 02:07:25,365
 BALIN: I'm all right!
 THORIN: Get it off me!
 
-111
+110
 02:07:25,566 --> 02:07:26,845
 BOFUR:
 Where's Bilbo?
 
-112
-02:07:27,279 --> 02:07:28,285
+111
+02:07:27,279 --> 02:07:28,519
 BILBO:
 I'm up here!
 
-113
-02:07:28,486 --> 02:07:29,486
+112
+02:07:28,720 --> 02:07:29,970
 [BILBO YELLS]
 
-114
-02:07:32,824 --> 02:07:33,991
+113
+02:07:32,480 --> 02:07:33,869
 [BILBO SCREAMS]
 
-115
+114
 02:07:46,003 --> 02:07:47,505
 [DWARVES CLAMOR]
 

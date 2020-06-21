@@ -1,302 +1,301 @@
-﻿1
+﻿2
 01:49:34,142 --> 01:49:36,985
 This will require some delicate handling.
 
-2
+3
 01:49:37,215 --> 01:49:39,263
 We must tread very carefully.
 
-3
+4
 01:49:39,495 --> 01:49:43,500
 The last person to have
 startled him was torn to shreds.
 
-4
+5
 01:49:45,815 --> 01:49:48,135
 I will go first and uh, Bilbo?
 
-5
+6
 01:49:48,375 --> 01:49:50,104
 You come with me.
 
-6
-01:49:51,375 --> 01:49:54,143
+7
+01:49:51,375 --> 01:49:54,015
 - Is this a good idea?
 GANDALF: Yes.
 
-7
+8
 01:49:54,215 --> 01:49:56,502
 Now, the rest of you, you just wait here...
 
-8
+9
 01:49:56,735 --> 01:49:59,306
 ...and don't come out
 until I give the signal.
 
-9
-01:49:59,535 --> 01:50:00,775
+10
+01:49:59,535 --> 01:50:00,785
 Right. Wait for the signal.
 
-10
+11
 01:50:01,015 --> 01:50:04,337
 And no sudden moves or loud noises,
 and don't overcrowd him.
 
-11
+12
 01:50:04,575 --> 01:50:06,896
 And only come out in pairs. Right.
 
-12
+13
 01:50:07,175 --> 01:50:09,248
 No, actually, Bombur, um...
 
-13
+14
 01:50:10,255 --> 01:50:12,337
 You count as two so you
 should come out alone.
 
-14
-01:50:12,575 --> 01:50:13,622
+15
+01:50:12,575 --> 01:50:13,825
 Mm.
 
-15
+16
 01:50:14,815 --> 01:50:17,421
 Remember, wait for the signal.
 
-16
+17
 01:50:17,655 --> 01:50:20,340
 BOFUR:
 The signal. Right.
 
-17
+18
 01:50:20,575 --> 01:50:21,875
 What signal would that be?
 
-18
+19
 01:50:37,655 --> 01:50:40,032
 GANDALF: Ahem.
 - You're nervous.
 
-19
+20
 01:50:43,175 --> 01:50:46,384
 Nervous? What nonsense.
 
-20
+21
 01:50:46,855 --> 01:50:48,266
 Good morning.
 
-21
+22
 01:50:54,375 --> 01:50:56,184
 Good morning!
 
-22
+23
 01:50:59,015 --> 01:51:00,460
 BEORN:
 Who are you?
 
-23
+24
 01:51:00,695 --> 01:51:04,495
 I'm Gandalf. Gandalf the Grey.
 
-24
+25
 01:51:09,335 --> 01:51:11,224
 Never heard of him.
 
-25
+26
 01:51:14,375 --> 01:51:15,774
 I'm a Wizard.
 
-26
-01:51:15,975 --> 01:51:19,065
+27
+01:51:15,975 --> 01:51:19,142
 Perhaps you've heard of
 my colleague Radagast the Brown.
 
-27
-01:51:19,266 --> 01:51:21,983
+28
+01:51:19,343 --> 01:51:21,899
 He resides in the southern
 borders of Mirkwood.
 
-28
+29
 01:51:22,299 --> 01:51:24,294
 What do you want?
 
-29
+30
 01:51:24,495 --> 01:51:28,056
 Well, simply to thank you
 for your hospitality.
 
-30
+31
 01:51:28,335 --> 01:51:32,789
 You may have noticed that we took
 refuge in your lodgings here last night.
 
-31
+32
 01:51:33,655 --> 01:51:35,694
 Who is this little fellow?
 
-32
+33
 01:51:35,895 --> 01:51:39,382
 Well, this would be
 Mr. Baggins from the Shire.
 
-33
+34
 01:51:41,455 --> 01:51:44,048
 He's not a Dwarf, is he?
 
-34
-01:51:44,255 --> 01:51:47,733
+35
+01:51:44,255 --> 01:51:47,717
 Why, no. No, he's a Hobbit.
 
-35
-01:51:47,961 --> 01:51:51,296
+36
+01:51:47,934 --> 01:51:51,296
 A good family
 and unimpeachable reputation.
 
-36
+37
 01:51:51,535 --> 01:51:54,937
 A Halfling and a Wizard.
 
-37
-01:51:56,093 --> 01:51:57,333
+38
+01:51:56,083 --> 01:51:57,333
 How come you here?
 
-38
+39
 01:51:57,534 --> 01:52:00,496
 GANDALF: Oh, well, the fact is
 that we've had a bad time of it...
 
-39
+40
 01:52:00,735 --> 01:52:03,491
 ...from Goblins in the mountains.
 
-40
+41
 01:52:03,692 --> 01:52:05,418
 What did you go near Goblins for?
 
-41
+42
 01:52:05,619 --> 01:52:06,945
 Stupid thing to do.
 
-42
-01:52:07,215 --> 01:52:08,421
+43
+01:52:07,167 --> 01:52:08,421
 You are absolutely right...
 
-43
-01:52:08,655 --> 01:52:09,736
+44
+01:52:08,622 --> 01:52:09,774
 - There it is. Go. Go.
 
-44
+45
 01:52:09,975 --> 01:52:12,262
 GANDALF:
 It was terrible.
 
-45
+46
 01:52:21,809 --> 01:52:23,776
 DWALIN:
 Dwalin, and Balin.
 
-46
-01:52:24,017 --> 01:52:26,845
-GANDALF:
-And I, uh, I must confess that,  uh...
-
 47
-01:52:27,046 --> 01:52:30,494
+01:52:24,017 --> 01:52:26,903
+GANDALF:
+And I, uh, I must confess that, uh...
+
+48
+01:52:27,104 --> 01:52:30,494
 ...several of our group are,
 in fact, Dwarves.
 
-48
-01:52:30,695 --> 01:52:35,536
-Do you call two...
-"several"?
-
 49
+01:52:30,695 --> 01:52:35,536
+Do you call two... "several"?
+
+50
 01:52:35,775 --> 01:52:38,346
 Well, uh, now you put it that way...
 
-50
+51
 01:52:38,615 --> 01:52:40,344
 [STUTTERING]
 
-51
+52
 01:52:40,815 --> 01:52:43,142
 Yes, there could be more than two.
 
-52
-01:52:43,895 --> 01:52:44,984
+53
+01:52:43,895 --> 01:52:45,145
 BOFUR:
 Go, go.
 
-53
-01:52:45,530 --> 01:52:46,550
+54
+01:52:45,530 --> 01:52:46,780
 GLOIN:
 Wait, that's us.
 
-54
+55
 01:52:49,895 --> 01:52:52,779
 GANDALF: Oh, and here are some more
 of our, uh, happy troop.
 
-55
+56
 01:52:53,015 --> 01:52:55,222
 And do you call six a "troop"?
 
-56
-01:52:55,450 --> 01:52:56,491
+57
+01:52:55,423 --> 01:52:56,584
 [LAUGHS]
 
-57
-01:52:56,692 --> 01:52:58,696
+58
+01:52:56,785 --> 01:52:58,696
 What are you, a traveling circus?
 
-58
+59
 01:52:59,815 --> 01:53:01,856
 BOFUR:
 Go. Go. Go, go.
 
-59
+60
 01:53:05,135 --> 01:53:09,178
 Dori and Ori at your service.
 
-60
-01:53:09,379 --> 01:53:10,892
+61
+01:53:09,484 --> 01:53:10,892
 BEORN:
 I don't want your service.
 
-61
+62
 01:53:11,093 --> 01:53:12,559
 Absolutely understandable.
 
-62
+63
 01:53:12,794 --> 01:53:14,102
 Go. Go.
 
-63
+64
 01:53:16,735 --> 01:53:20,063
 Oh, Fili and Kili. I'd quite forgotten. Yes.
 
-64
+65
 01:53:20,635 --> 01:53:24,844
 Oh, yes, and uh, Nori, Bofur,
 Bifur...
 
-65
+66
 01:53:26,495 --> 01:53:28,145
 ...and Bombur.
 
-66
+67
 01:53:29,295 --> 01:53:30,899
 Is that it?
 
-67
+68
 01:53:33,695 --> 01:53:35,220
 Are there any more?
 
-68
-01:53:42,535 --> 01:53:43,582
+69
+01:53:42,535 --> 01:53:43,785
 Ah.
 
-69
+70
 01:53:47,495 --> 01:53:51,261
 So you are the one they call Oakenshield.
 

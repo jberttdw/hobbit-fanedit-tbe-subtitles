@@ -1,7 +1,6 @@
 ﻿1
 01:49:31,115 --> 01:49:33,357
-Ah, Bilbo.
-There you are.
+Ah, Bilbo. There you are.
 
 2
 01:49:33,635 --> 01:49:37,485
@@ -26,7 +25,7 @@ I will go first and uh, Bilbo?
 You come with me.
 
 7
-01:49:51,875 --> 01:49:54,643
+01:49:51,875 --> 01:49:54,515
 - Is this a good idea?
 GANDALF: Yes.
 
@@ -40,7 +39,7 @@ Now, the rest of you, you just wait here...
 until I give the signal.
 
 10
-01:50:00,035 --> 01:50:01,275
+01:50:00,035 --> 01:50:01,285
 Right. Wait for the signal.
 
 11
@@ -62,7 +61,7 @@ You count as two so you
 should come out alone.
 
 15
-01:50:13,075 --> 01:50:14,122
+01:50:13,075 --> 01:50:14,325
 Mm.
 
 16
@@ -163,7 +162,7 @@ and unimpeachable reputation.
 A Halfling and a Wizard.
 
 38
-01:51:56,593 --> 01:51:57,833
+01:51:56,583 --> 01:51:57,833
 How come you here?
 
 39
@@ -184,11 +183,11 @@ What did you go near Goblins for?
 Stupid thing to do.
 
 43
-01:52:07,715 --> 01:52:08,921
+01:52:07,667 --> 01:52:08,921
 You are absolutely right...
 
 44
-01:52:09,155 --> 01:52:10,236
+01:52:09,122 --> 01:52:10,274
 - There it is. Go. Go.
 
 45
@@ -204,7 +203,7 @@ Dwalin, and Balin.
 47
 01:52:24,517 --> 01:52:27,403
 GANDALF:
-And I, uh, I must confess that,  uh...
+And I, uh, I must confess that, uh...
 
 48
 01:52:27,604 --> 01:52:30,994
@@ -213,8 +212,7 @@ in fact, Dwarves.
 
 49
 01:52:31,195 --> 01:52:36,036
-Do you call two...
-"several"?
+Do you call two... "several"?
 
 50
 01:52:36,275 --> 01:52:38,846
@@ -229,12 +227,12 @@ Well, uh, now you put it that way...
 Yes, there could be more than two.
 
 53
-01:52:44,395 --> 01:52:45,484
+01:52:44,395 --> 01:52:45,645
 BOFUR:
 Go, go.
 
 54
-01:52:46,030 --> 01:52:47,050
+01:52:46,030 --> 01:52:47,280
 GLOIN:
 Wait, that's us.
 
@@ -299,7 +297,7 @@ Is that it?
 Are there any more?
 
 69
-01:53:43,035 --> 01:53:44,082
+01:53:43,035 --> 01:53:44,285
 Ah.
 
 70

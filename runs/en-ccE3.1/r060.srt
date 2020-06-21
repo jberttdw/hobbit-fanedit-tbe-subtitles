@@ -28,8 +28,8 @@ I have the Dwarves in my charge.
 
 7
 02:16:08,054 --> 02:16:10,973
-GALION:
-They're locked up. Where can they go? Ha, ha.
+GALION: They're locked up.
+Where can they go? Ha, ha.
 
 8
 02:16:14,060 --> 02:16:16,604
@@ -68,7 +68,7 @@ THORIN: Close the doors, it'll buy us more time.
 - All right, Nori.
 
 16
-02:16:58,270 --> 02:17:00,784
+02:16:58,270 --> 02:17:00,656
 THORIN: Up the stairs.
 DWALIN: You first. Ori.
 

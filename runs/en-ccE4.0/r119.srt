@@ -45,12 +45,12 @@ Yes...
 ...that is it.
 
 12
-03:48:34,739 --> 03:48:37,588
+03:48:34,739 --> 03:48:37,530
 We must move the gold
 further underground to safety.
 
 13
-03:48:37,730 --> 03:48:40,786
+03:48:37,730 --> 03:48:40,774
 - Did you not hear me?
 Dain is surrounded.
 
@@ -156,8 +156,8 @@ than you have ever been.</i>
 
 38
 03:50:20,094 --> 03:50:24,098
-THORIN: <i>But a treasure such as this</i>
-<i>cannot be counted in lives lost.</i>
+THORIN: <i>But a treasure such as this
+cannot be counted in lives lost.</i>
 
 39
 03:50:24,348 --> 03:50:26,350
@@ -224,8 +224,8 @@ DWALIN:
 
 53
 03:50:58,090 --> 03:51:00,350
-THORIN: <i>I am not my grandfather.</i>
-<i>I am not my grandfather.</i>
+THORIN: <i>I am not my grandfather.
+I am not my grandfather.</i>
 
 54
 03:51:00,551 --> 03:51:02,519
@@ -276,8 +276,8 @@ THORIN:
 
 64
 03:51:19,445 --> 03:51:22,490
-BILBO: <i>Is this treasure truly worth more</i>
-<i>than your honor?</i>
+BILBO: <i>Is this treasure truly worth more
+than your honor?</i>
 
 65
 03:51:22,740 --> 03:51:24,867

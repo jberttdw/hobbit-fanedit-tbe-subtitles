@@ -66,8 +66,7 @@ Would you consider...
 
 16
 03:39:10,538 --> 03:39:13,119
-<i>All of you!
-Right now!</i>
+<i>All of you! Right now!</i>
 
 17
 03:39:13,320 --> 03:39:14,570
@@ -168,8 +167,7 @@ I'll deal with Ironfoot and his rabble.
 
 39
 03:40:41,796 --> 03:40:44,506
-Right then.
-Let's get this done.
+Right then. Let's get this done.
 
 40
 03:40:45,467 --> 03:40:47,092

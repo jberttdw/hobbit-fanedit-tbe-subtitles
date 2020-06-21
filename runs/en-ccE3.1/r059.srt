@@ -75,8 +75,7 @@ that I too desire.
 
 18
 02:13:29,766 --> 02:13:33,061
-White gems
-of pure starlight.
+White gems of pure starlight.
 
 19
 02:13:34,103 --> 02:13:36,355
@@ -146,7 +145,7 @@ the suffering of my people...
 ...and the inferno that destroyed us.
 
 35
-02:14:32,033 --> 02:14:34,251
+02:14:32,033 --> 02:14:34,130
 [SPEAKS IN DWARVISH]
 
 36
@@ -163,7 +162,8 @@ I know its wrath and ruin.
 
 39
 02:14:44,215 --> 02:14:48,428
-I have faced the great serpents of the North.
+I have faced the great
+serpents of the North.
 
 40
 02:14:50,680 --> 02:14:54,809
@@ -203,7 +203,7 @@ I can wait.
 48
 02:15:31,971 --> 02:15:35,589
 I told him he could go
-<i>ish kakhfé ai-'d dEIr-rugnu!</i>
+<i>îsh kakhfê ai-'d dûr-rugnu!</i>
 
 49
 02:15:36,100 --> 02:15:37,658

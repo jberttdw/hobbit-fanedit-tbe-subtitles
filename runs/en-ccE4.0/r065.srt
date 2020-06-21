@@ -110,12 +110,11 @@ Take it.
 - Ahem.
 
 26
-02:24:20,355 --> 02:24:22,048
-The money, quick.
-Give it to me.
+02:24:20,355 --> 02:24:22,025
+The money, quick. Give it to me.
 
 27
-02:24:22,225 --> 02:24:24,894
+02:24:22,225 --> 02:24:24,944
 THORIN: We will pay you when
 we get our provisions but not before.
 
@@ -150,7 +149,7 @@ He's pointing right at us.
 Now they're shaking hands.
 
 35
-02:24:59,595 --> 02:25:00,626
+02:24:59,595 --> 02:25:00,496
 - What?
 
 36
@@ -211,6 +210,5 @@ You and me both.
 
 49
 02:26:02,116 --> 02:26:04,619
-There we are.
-All in order.
+There we are. All in order.
 

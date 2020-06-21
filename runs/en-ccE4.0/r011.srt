@@ -1,5 +1,5 @@
 ﻿1
-00:59:46,962 --> 00:59:50,297
+00:59:46,962 --> 00:59:50,265
 [IN ENGLISH]
 Welcome, Thorin, son of Thrain.
 
@@ -8,11 +8,11 @@ Welcome, Thorin, son of Thrain.
 I do not believe we have met.
 
 3
-00:59:53,385 --> 00:59:56,429
+00:59:53,385 --> 00:59:56,396
 You have your grandfather's bearing.
 
 4
-00:59:56,596 --> 00:59:59,098
+00:59:56,596 --> 00:59:59,066
 I knew Thror
 when he ruled Under the Mountain.
 
@@ -25,12 +25,12 @@ Indeed? He made no mention of you.
 [SPEAKING IN ELVISH]
 
 7
-01:00:13,739 --> 01:00:16,032
+01:00:13,739 --> 01:00:15,999
 GLOIN:
 What is he saying?
 
 8
-01:00:16,199 --> 01:00:18,659
+01:00:16,199 --> 01:00:18,627
 Does he offer us insult?
 
 9
@@ -51,7 +51,7 @@ BOFUR:
 Hey. Come on.
 
 13
-01:00:35,010 --> 01:00:37,928
+01:00:35,010 --> 01:00:37,896
 Try it. Just a mouthful.
 
 14
@@ -59,7 +59,7 @@ Try it. Just a mouthful.
 I don't like green food.
 
 15
-01:00:40,849 --> 01:00:41,891
+01:00:40,604 --> 01:00:41,859
 Where's the meat?
 
 16
@@ -71,19 +71,19 @@ Where's the meat?
 Have they got any chips?
 
 18
-01:00:46,229 --> 01:00:48,481
+01:00:46,229 --> 01:00:48,448
 Kind of you to invite us.
 
 19
-01:00:48,648 --> 01:00:50,232
+01:00:48,648 --> 01:00:50,200
 Not really dressed for dinner.
 
 20
-01:00:50,400 --> 01:00:51,650
+01:00:50,401 --> 01:00:51,902
 Well, you never are.
 
 21
-01:00:51,818 --> 01:00:53,360
+01:00:52,103 --> 01:00:53,360
 [GANDALF CHUCKLES]
 
 22
@@ -95,20 +95,20 @@ Well, you never are.
 [CHUCKLES]
 
 24
-01:01:12,380 --> 01:01:16,467
+01:01:12,380 --> 01:01:16,435
 This is Orcrist, the Goblin-cleaver.
 
 25
-01:01:16,635 --> 01:01:18,260
+01:01:16,635 --> 01:01:18,228
 A famous blade...
 
 26
-01:01:18,428 --> 01:01:24,308
+01:01:18,428 --> 01:01:24,276
 ...forged by the High Elves of the West,
 my kin.
 
 27
-01:01:24,476 --> 01:01:26,393
+01:01:24,476 --> 01:01:26,361
 May it serve you well.
 
 28
@@ -116,17 +116,17 @@ May it serve you well.
 And this is Glamdring...
 
 29
-01:01:30,649 --> 01:01:34,485
+01:01:30,648 --> 01:01:34,046
 ...the Foehammer.
 Sword of the King of Gondolin.
 
 30
-01:01:34,653 --> 01:01:37,071
+01:01:34,247 --> 01:01:37,039
 These swords were made for
 the Goblin Wars of the First Age.
 
 31
-01:01:37,239 --> 01:01:42,159
+01:01:37,239 --> 01:01:42,127
 I wouldn't bother, laddie. Swords are
 named for the great deeds they do in war.
 
@@ -144,7 +144,7 @@ I'm not actually sure it is a sword.
 More of a letter opener, really.
 
 35
-01:01:51,545 --> 01:01:52,962
+01:01:51,545 --> 01:01:52,930
 How did you come by these?
 
 36

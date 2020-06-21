@@ -1,22 +1,22 @@
 ﻿1
-01:19:14,683 --> 01:19:16,523
+01:19:14,433 --> 01:19:16,484
 GREAT GOBLIN [SINGING]:
 Bones will be shattered
 
 2
-01:19:16,685 --> 01:19:17,852
+01:19:16,685 --> 01:19:17,990
 Necks will be wrung
 
 3
-01:19:18,019 --> 01:19:20,020
+01:19:18,191 --> 01:19:19,988
 You'll be beaten and battered
 
 4
-01:19:20,188 --> 01:19:21,605
+01:19:20,188 --> 01:19:21,573
 From racks you'll be hung
 
 5
-01:19:21,773 --> 01:19:26,068
+01:19:21,773 --> 01:19:26,036
 You will die down here
 And never be found
 
@@ -34,11 +34,11 @@ It is the Goblin-cleaver!
 The Biter!
 
 9
-01:19:39,583 --> 01:19:42,835
+01:19:39,583 --> 01:19:42,803
 The blade that sliced a thousand necks!
 
 10
-01:19:43,003 --> 01:19:46,922
+01:19:43,003 --> 01:19:46,890
 Slash them! Beat them! Kill them!
 
 11
