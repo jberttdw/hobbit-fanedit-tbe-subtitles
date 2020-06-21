@@ -8,7 +8,7 @@ What was that?
 - It fell. I saw it.
 
 3
-03:04:44,699 --> 03:04:45,734
+03:04:44,699 --> 03:04:45,949
 It's dead.
 
 4
@@ -25,7 +25,7 @@ By my beard, I think he's right.
 Look there!
 
 7
-03:04:58,278 --> 03:04:59,279
+03:04:57,939 --> 03:04:59,279
 [RAVENS CAWING]
 
 8
@@ -34,24 +34,19 @@ The Ravens of Erebor
 are returning to the Mountain.
 
 9
-03:05:04,410 --> 03:05:05,077
-BALIN:
-Aye.
+03:05:04,410 --> 03:05:06,787
+BALIN: Aye. Word will spread.
 
 10
-03:05:05,327 --> 03:05:06,787
-Word will spread.
-
-11
 03:05:07,037 --> 03:05:10,958
 Before long every soul
 in Middle-earth will know...
 
-12
+11
 03:05:11,208 --> 03:05:13,293
 ...the dragon is dead!
 
-13
+12
 03:05:14,545 --> 03:05:16,545
 [DWARVES LAUGHING]
 

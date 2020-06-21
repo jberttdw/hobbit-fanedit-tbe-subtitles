@@ -1,5 +1,5 @@
 ﻿1
-03:45:36,435 --> 03:45:40,614
+03:45:37,026 --> 03:45:40,614
 BARD:
 All of you! Fall back to Dale! Now!
 
@@ -13,11 +13,11 @@ To the city! Bilbo! This way!
 [GRUNTING AND SNARLING]
 
 4
-03:46:02,670 --> 03:46:03,796
+03:46:02,670 --> 03:46:04,197
 [TROLLS ROAR]
 
 5
-03:46:23,441 --> 03:46:24,734
+03:46:23,441 --> 03:46:25,364
 [ROARS]
 
 6
@@ -25,6 +25,6 @@ To the city! Bilbo! This way!
 [ALL SNARLING]
 
 7
-03:46:42,084 --> 03:46:43,952
+03:46:40,084 --> 03:46:43,952
 [PEOPLE CLAMORING AND SCREAMING]
 

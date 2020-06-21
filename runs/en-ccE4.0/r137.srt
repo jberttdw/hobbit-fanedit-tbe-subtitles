@@ -1,5 +1,5 @@
 ﻿1
-04:04:37,918 --> 04:04:38,919
+04:04:37,918 --> 04:04:39,168
 [SQUAWKING]
 
 2
@@ -7,7 +7,7 @@
 The Eagles are coming.
 
 3
-04:05:30,845 --> 04:05:31,680
+04:05:30,426 --> 04:05:31,680
 [COUGHING AND GASPING]
 
 4
@@ -23,7 +23,7 @@ Don't move. Don't move. Lie still.
 Oh. Mm. Mm.
 
 7
-04:05:40,939 --> 04:05:42,065
+04:05:40,939 --> 04:05:42,114
 I'm glad you are here.
 
 8
@@ -54,7 +54,7 @@ my words and my deeds at the Gate.
 You did what only a true friend would do.
 
 14
-04:06:00,667 --> 04:06:01,668
+04:06:00,667 --> 04:06:02,320
 Forgive me.
 
 15
@@ -83,7 +83,7 @@ Each and every one of them.
 It is far more than any Baggins deserves.
 
 21
-04:06:29,988 --> 04:06:30,989
+04:06:29,988 --> 04:06:31,238
 Farewell...
 
 22
@@ -147,11 +147,11 @@ Thorin.
 Thorin. Thorin, hold on.
 
 37
-04:07:23,375 --> 04:07:24,542
+04:07:23,375 --> 04:07:24,701
 Hold on, please.
 
 38
-04:07:25,085 --> 04:07:26,252
+04:07:25,085 --> 04:07:26,420
 The Eagles...
 
 39
@@ -163,7 +163,7 @@ The Eagles... The Eagles are here.
 Thorin?
 
 41
-04:07:34,177 --> 04:07:35,303
+04:07:34,177 --> 04:07:35,427
 The Ea...
 
 42

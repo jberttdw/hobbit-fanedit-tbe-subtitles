@@ -11,7 +11,7 @@ Because you gave us your word.
 Does that mean nothing?
 
 4
-03:20:48,547 --> 03:20:49,715
+03:20:48,547 --> 03:20:49,797
 Be gone!
 
 5
@@ -47,15 +47,15 @@ Not to mention several hundred
 angry fishermen.
 
 12
-03:21:27,461 --> 03:21:28,920
+03:21:27,243 --> 03:21:28,920
 We are, in fact, outnumbered.
 
 13
-03:21:31,590 --> 03:21:32,799
+03:21:31,590 --> 03:21:33,125
 Not for much longer.
 
 14
-03:21:34,593 --> 03:21:35,594
+03:21:34,343 --> 03:21:35,594
 What does that mean?
 
 15
@@ -83,194 +83,187 @@ Now...
 He will give us nothing.
 
 21
-03:22:13,924 --> 03:22:15,133
-Such a pity.
-
-22
-03:22:15,383 --> 03:22:18,762
-- Still, you tried.
+03:22:14,249 --> 03:22:18,762
+- Such a pity. Still, you tried.
 - I do not understand.
 
-23
+22
 03:22:19,971 --> 03:22:21,056
 Why?
 
-24
+23
 03:22:21,807 --> 03:22:23,308
 Why would he risk war?
 
-25
-03:22:23,558 --> 03:22:24,935
+24
+03:22:23,722 --> 03:22:25,853
 [GRUNTING]
 
-26
+25
 03:22:36,738 --> 03:22:39,032
 It is fruitless to reason with them.
 
-27
+26
 03:22:39,282 --> 03:22:41,868
 They understand only one thing.
 
-28
-03:22:45,831 --> 03:22:47,040
+27
+03:22:45,831 --> 03:22:47,081
 We attack at dawn.
 
-29
+28
 03:22:50,252 --> 03:22:51,753
 Are you with us?
 
-30
-03:23:23,535 --> 03:23:24,161
+29
+03:23:23,298 --> 03:23:24,161
 Aye.
 
-31
+30
 03:23:28,415 --> 03:23:30,834
 THORIN:
 Master Baggins, come here.
 
-32
+31
 03:23:48,059 --> 03:23:49,769
 You're going to need this.
 
-33
+32
 03:23:51,271 --> 03:23:52,522
 Put it on.
 
-34
+33
 03:23:57,527 --> 03:24:00,280
 This vest is made of silver steel.
 
-35
+34
 03:24:02,782 --> 03:24:06,578
 "Mithril", it was called by my forebears.
 
-36
+35
 03:24:09,706 --> 03:24:11,791
 No blade can pierce it.
 
-37
-03:24:23,094 --> 03:24:24,095
+36
+03:24:23,371 --> 03:24:26,348
 I look absurd.
-
-38
-03:24:24,346 --> 03:24:26,348
 I'm not a warrior, I'm a Hobbit.
 
-39
+37
 03:24:26,598 --> 03:24:28,058
 It is a gift.
 
-40
+38
 03:24:29,601 --> 03:24:31,144
 A token of our friendship.
 
-41
+39
 03:24:34,522 --> 03:24:36,900
 True friends are hard to come by.
 
-42
+40
 03:24:38,568 --> 03:24:40,237
 I have been blind...
 
-43
+41
 03:24:40,487 --> 03:24:42,364
 ...but now I begin to see.
 
-44
+42
 03:24:43,740 --> 03:24:45,242
 I am betrayed.
 
-45
+43
 03:24:46,576 --> 03:24:47,953
 Betrayed?
 
-46
+44
 03:24:48,495 --> 03:24:50,330
 The Arkenstone.
 
-47
+45
 03:24:59,798 --> 03:25:01,299
 One of them has taken it.
 
-48
+46
 03:25:08,556 --> 03:25:11,434
 One of them is false.
 
-49
-03:25:12,477 --> 03:25:13,645
+47
+03:25:12,477 --> 03:25:13,727
 Thorin...
 
-50
+48
 03:25:14,479 --> 03:25:19,109
 ...the Quest is fulfilled,
 you've won the Mountain. Is that not enough?
 
-51
+49
 03:25:19,359 --> 03:25:21,861
 - Betrayed by my own kin.
 - Now, uh...
 
-52
+50
 03:25:22,529 --> 03:25:26,199
 ...you made a promise
 to the people of Lake-town.
 
-53
+51
 03:25:26,449 --> 03:25:30,453
 Now, is this treasure
 truly worth more than your honor?
 
-54
+52
 03:25:30,704 --> 03:25:33,123
 Our honor, Thorin. I was also there.
 I gave my word.
 
-55
+53
 03:25:33,790 --> 03:25:35,625
 For that, I am grateful.
 
-56
+54
 03:25:35,875 --> 03:25:39,462
 It was nobly done, but the treasure
 in this mountain does not belong...
 
-57
+55
 03:25:39,806 --> 03:25:41,131
 ...to the people of Lake-town.
 
-58
-03:25:41,381 --> 03:25:42,299
+56
+03:25:41,381 --> 03:25:42,631
 This gold...
 
-59
+57
 03:25:46,428 --> 03:25:47,971
 ...is ours.
 
-60
+58
 03:25:51,141 --> 03:25:52,392
 And ours alone.
 
-61
+59
 03:25:55,895 --> 03:25:57,480
 By my life...
 
-62
+60
 03:25:58,398 --> 03:26:01,318
 ...I will not part...
 
-63
+61
 03:26:02,068 --> 03:26:05,363
 ...with a single coin.
 
-64
+62
 03:26:07,032 --> 03:26:08,658
 Not...
 
-65
+63
 03:26:09,659 --> 03:26:11,161
 ...one...
 
-66
+64
 03:26:11,745 --> 03:26:13,747
 ...piece of it.
 

@@ -1,5 +1,5 @@
 ﻿1
-03:48:22,033 --> 03:48:23,242
+03:48:22,033 --> 03:48:23,283
 [HORN BLOWING]
 
 2
@@ -16,7 +16,7 @@ DWALIN:
 Since when do we forsake our own people?
 
 5
-03:48:57,485 --> 03:48:58,319
+03:48:57,786 --> 03:48:59,036
 Thorin...
 
 6
@@ -25,8 +25,8 @@ They are dying out there.
 
 7
 03:49:06,994 --> 03:49:10,248
-There are halls beneath halls
-within this Mountain.
+There are halls beneath
+halls within this Mountain.
 
 8
 03:49:12,375 --> 03:49:14,502
@@ -41,7 +41,7 @@ Places we can fortify...
 Yes...
 
 11
-03:49:22,718 --> 03:49:23,719
+03:49:22,718 --> 03:49:23,968
 ...that is it.
 
 12
@@ -104,186 +104,182 @@ Do not speak to me...
 ...as if I were some lowly Dwarf Lord...
 
 26
-03:50:14,061 --> 03:50:15,021
-...as if...
+03:50:14,061 --> 03:50:17,732
+...as if... I were... still...
 
 27
-03:50:15,271 --> 03:50:17,732
-...I were still...
-
-28
 03:50:20,735 --> 03:50:22,236
 <i>...Thorin...</i>
 
-29
+28
 03:50:22,945 --> 03:50:24,906
 <i>...Oakenshield.</i>
 
-30
+29
 03:50:26,444 --> 03:50:29,410
 - <i>I am your king!</i>
 - You were always my king.
 
-31
+30
 03:50:29,827 --> 03:50:31,704
 You used to know that once.
 
-32
+31
 03:50:33,039 --> 03:50:35,625
 You cannot see what you have become.
 
-33
+32
 03:50:39,086 --> 03:50:40,296
 Go.
 
-34
+33
 03:50:43,049 --> 03:50:44,342
 Get out.
 
-35
+34
 03:50:46,844 --> 03:50:48,679
 Before I kill you.
 
-36
-03:51:03,236 --> 03:51:04,403
+35
+03:51:03,236 --> 03:51:06,008
 DWALIN:
-<i>You sit here...</i>
+<i>You sit here, with a crown...</i>
+
+36
+03:51:06,274 --> 03:51:07,539
+<i>...upon your head.</i>
 
 37
-03:51:04,654 --> 03:51:07,490
-<i>...with a crown upon your head.</i>
-
-38
 03:51:07,740 --> 03:51:09,784
 <i>You are lesser now
 than you have ever been.</i>
 
-39
+38
 03:51:10,034 --> 03:51:14,038
 THORIN: <i>But a treasure such as this</i>
 <i>cannot be counted in lives lost.</i>
 
-40
+39
 03:51:14,288 --> 03:51:16,290
 BALIN:
 <i>A sickness lies upon that treasure.</i>
 
-41
+40
 03:51:16,541 --> 03:51:18,918
 BARD:
 <i>The blind ambition of a Mountain King.</i>
 
-42
+41
 03:51:19,168 --> 03:51:20,419
 THORIN:
 <i>Am I not the king?</i>
 
-43
+42
 03:51:20,670 --> 03:51:22,004
 <i>This gold...</i>
 
-44
+43
 03:51:22,255 --> 03:51:23,589
 <i>...is ours.</i>
 
-45
+44
 03:51:23,839 --> 03:51:25,341
 <i>And ours alone.</i>
 
-46
+45
 03:51:26,425 --> 03:51:28,970
 <i>I will not part...</i>
 
-47
+46
 03:51:29,887 --> 03:51:32,139
 <i>...with a single coin.</i>
 
-48
+47
 03:51:32,390 --> 03:51:34,183
 BARD:
 <i>He could not see beyond his own desire!</i>
 
-49
+48
 03:51:34,433 --> 03:51:36,936
 THORIN:
 <i>As if I were some lowly Dwarf Lord...</i>
 
-50
+49
 03:51:37,186 --> 03:51:39,272
 <i>...Thorin Oakenshield.</i>
 
-51
+50
 03:51:39,522 --> 03:51:43,025
 BALIN:
 <i>A sickness which drove your grandfather mad.</i>
 
-52
+51
 03:51:43,276 --> 03:51:44,902
 DWALIN:
 <i>This is Thorin...</i>
 
-53
-03:51:45,152 --> 03:51:47,780
+52
+03:51:45,152 --> 03:51:47,829
 <i>...son of Thrain, son of Thror!</i>
 
-54
-03:51:48,030 --> 03:51:50,241
+53
+03:51:48,030 --> 03:51:50,290
 THORIN: <i>I am not my grandfather.</i>
 <i>I am not my grandfather.</i>
 
-55
-03:51:50,491 --> 03:51:52,410
+54
+03:51:50,491 --> 03:51:52,459
 GANDALF:
 <i>You are the heir to the Throne of Durin.</i>
 
-56
-03:51:52,660 --> 03:51:54,537
+55
+03:51:52,660 --> 03:51:54,586
 DWALIN:
 <i>They are dying out there.</i>
 
-57
-03:51:54,787 --> 03:51:55,997
+56
+03:51:54,787 --> 03:51:56,046
 GANDALF:
 <i>Take back Erebor.</i>
 
-58
-03:51:56,247 --> 03:51:57,665
+57
+03:51:56,247 --> 03:51:57,714
 DWALIN:
 <i>Dain is surrounded.</i>
 
-59
+58
 03:51:57,915 --> 03:51:58,916
 <i>Dying.</i>
 
-60
-03:51:59,166 --> 03:52:00,167
+59
+03:51:59,117 --> 03:52:00,217
 <i>Is surrounded.</i>
 
-61
-03:52:00,418 --> 03:52:01,419
+60
+03:52:00,418 --> 03:52:01,468
 <i>Dying.</i>
 
-62
+61
 03:52:01,669 --> 03:52:04,505
 GANDALF:
 <i>Take back your homeland.</i>
 
-63
+62
 03:52:05,089 --> 03:52:07,258
 BILBO:
 <i>You are changed, Thorin.</i>
 
-64
+63
 03:52:07,508 --> 03:52:09,135
 THORIN:
 <i>I am not my grandfather.</i>
 
-65
+64
 03:52:09,385 --> 03:52:12,430
 BILBO: <i>Is this treasure truly worth more</i>
 <i>than your honor?</i>
 
-66
+65
 03:52:12,680 --> 03:52:14,807
 THORIN:
 <i>I am not my grandfather.</i>

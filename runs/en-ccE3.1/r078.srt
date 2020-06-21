@@ -1,14 +1,14 @@
 ﻿1
-02:56:35,695 --> 02:56:36,779
+02:56:35,527 --> 02:56:36,779
 What about Bilbo?
 
 2
-02:56:37,030 --> 02:56:38,031
-Give him more time.
+02:56:37,030 --> 02:56:38,285
+THORIN: Give him more time.
 
 3
-02:56:38,281 --> 02:56:40,450
-Time to do what? To be killed?
+02:56:38,702 --> 02:56:40,981
+BALIN: Time to do what? To be killed?
 
 4
 02:56:42,910 --> 02:56:44,162
@@ -40,14 +40,14 @@ I am not my grandfather.
 - You're not yourself.
 
 11
-02:57:01,638 --> 02:57:03,765
+02:57:01,491 --> 02:57:03,765
 The Thorin I know would not hesitate
 to go in there--
 
 12
 02:57:04,015 --> 02:57:08,645
 THORIN: I will not risk this
-quest for the life of one burglar.
+quest for the life of one <i>burglar</i>.
 
 13
 02:57:10,521 --> 02:57:11,940

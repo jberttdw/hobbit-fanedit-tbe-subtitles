@@ -27,7 +27,7 @@ So it is true.
 The Black Arrow found its mark.
 
 8
-02:54:50,852 --> 02:54:52,015
+02:54:50,852 --> 02:54:52,102
 What did you say?
 
 9
@@ -36,18 +36,15 @@ Uh--I--I was just saying your reputation
 precedes you, O Smaug the--
 
 10
-02:54:57,138 --> 02:54:58,228
+02:54:57,138 --> 02:54:59,611
 ...Tyrannical.
+Truly...
 
 11
-02:54:58,526 --> 02:54:59,611
-Truly.
-
-12
 02:54:59,871 --> 02:55:02,614
 You have no equal on this earth.
 
-13
+12
 02:55:06,242 --> 02:55:10,413
 I am almost tempted to let you take it.
 

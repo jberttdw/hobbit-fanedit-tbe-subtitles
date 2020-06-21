@@ -43,7 +43,8 @@ You can tell them yourself.
 
 11
 04:12:22,292 --> 04:12:25,628
-If any of you are ever passing Bag End, uh...
+If any of you are ever
+passing Bag End, uh...
 
 12
 04:12:30,717 --> 04:12:32,010
@@ -143,7 +144,7 @@ You needn't worry about that ring.
 Fell out of my pocket during the battle.
 
 35
-04:14:38,678 --> 04:14:39,762
+04:14:38,678 --> 04:14:39,928
 I lost it.
 
 36
@@ -193,11 +194,11 @@ Hello Mr. Bilbo.
 You're not supposed to be here.
 
 47
-04:15:41,908 --> 04:15:42,988
+04:15:41,908 --> 04:15:43,158
 What do you mean?
 
 48
-04:15:43,483 --> 04:15:45,431
+04:15:43,483 --> 04:15:45,824
 On account of you being
 presumed dead and all.
 
@@ -236,182 +237,175 @@ Ha, ha! Sold to Mrs. Bolger.
 Somewhere for Fatty to put his feet on.
 
 57
-04:16:06,057 --> 04:16:07,058
+04:16:05,796 --> 04:16:07,058
 [ALL LAUGHING]
 
 58
-04:16:07,308 --> 04:16:08,351
-Any bids for this?
-
-59
-04:16:08,601 --> 04:16:10,808
+04:16:07,435 --> 04:16:10,808
+Do I have any bids for this?
 This is Shire-made.
 
-60
+59
 04:16:11,043 --> 04:16:12,981
 None of ya Dwarvish reproductions here.
 
-61
-04:16:13,231 --> 04:16:14,232
+60
+04:16:13,231 --> 04:16:15,733
 BILBO:
-Stop!
+Stop! Stop!
 
-62
-04:16:14,482 --> 04:16:15,733
-Stop!
-
-63
+61
 04:16:15,984 --> 04:16:17,906
 - There's been a mistake!
 LOBELIA: Who are you?
 
-64
+62
 04:16:18,204 --> 04:16:20,753
 What do you mean who am I?
 You know perfectly well who I am...
 
-65
+63
 04:16:20,948 --> 04:16:23,074
 ...Lobelia Sackville-Baggins.
 
-66
+64
 04:16:23,324 --> 04:16:24,701
 This is my home.
 
-67
+65
 04:16:24,951 --> 04:16:27,203
 And those are my spoons.
 Thank you very much.
 
-68
-04:16:27,408 --> 04:16:29,133
+66
+04:16:27,408 --> 04:16:29,276
 TOSSER: This is most irregular.
 - Excuse me.
 
-69
-04:16:29,330 --> 04:16:32,709
+67
+04:16:29,477 --> 04:16:32,709
 TOSSER: It's been more than 13
 months since the disappearance.
 
-70
+68
 04:16:32,959 --> 04:16:37,880
 If you are in fact
 Bilbo Baggins and undeceased...
 
-71
+69
 04:16:38,131 --> 04:16:39,674
 ...can you prove it?
 
-72
-04:16:39,924 --> 04:16:40,717
+70
+04:16:39,875 --> 04:16:40,766
 What?
 
-73
+71
 04:16:40,967 --> 04:16:43,928
 Well, something official with
 your name on it would suffice.
 
-74
+72
 04:16:44,178 --> 04:16:46,055
 All right. Right.
 
-75
+73
 04:16:46,306 --> 04:16:48,224
 [CROWD MURMURING]
 
-76
+74
 04:16:48,933 --> 04:16:52,571
 A contract of employment as a bu... ahem...
 
-77
+75
 04:16:53,896 --> 04:16:54,897
 Never mind as what.
 
-78
+76
 04:16:56,858 --> 04:16:58,234
 There. My signature.
 
-79
+77
 04:16:58,484 --> 04:17:00,486
 Yes, well... Uh...
 
-80
+78
 04:17:00,737 --> 04:17:02,572
 Well, it certainly seems to be in order.
 
-81
+79
 04:17:02,822 --> 04:17:03,948
 Yes.
 
-82
+80
 04:17:04,198 --> 04:17:06,242
 Seems there can be no doubt.
 
-83
+81
 04:17:06,602 --> 04:17:09,078
-Who is this you pledged
-your service to?
+Who is this person you
+pledged your service to?
 
-84
+82
 04:17:11,122 --> 04:17:12,665
 Thorin Oakenshield?
 
-85
+83
 04:17:16,127 --> 04:17:17,128
 He...
 
-86
+84
 04:17:18,212 --> 04:17:19,756
 He was my friend.
 
-87
+85
 04:19:11,367 --> 04:19:12,869
 [KNOCKING ON DOOR]
 
-88
+86
 04:19:14,579 --> 04:19:15,997
 No, thank you!
 
-89
+87
 04:19:16,247 --> 04:19:20,877
 We don't want any more visitors,
 well-wishers, or distant relations!
 
-90
+88
 04:19:21,127 --> 04:19:24,213
 GANDALF:
 And what about very old friends?
 
-91
+89
 04:19:31,804 --> 04:19:32,763
 BILBO:
 Gandalf?
 
-92
+90
 04:19:33,014 --> 04:19:34,307
 GANDALF:
 Bilbo Baggins.
 
-93
+91
 04:19:34,557 --> 04:19:38,154
 BILBO: My dear Gandalf! Ha, ha!
 GANDALF: It's good to see you.
 
-94
+92
 04:19:38,372 --> 04:19:41,814
 One hundred and 11 years old.
 Who would believe it?
 
-95
+93
 04:19:42,773 --> 04:19:44,358
 [BOTH LAUGHING]
 
-96
+94
 04:19:46,027 --> 04:19:47,987
 BILBO:
 Come on, come in!
 
-97
+95
 04:19:48,237 --> 04:19:50,531
 Welcome. Welcome.
 

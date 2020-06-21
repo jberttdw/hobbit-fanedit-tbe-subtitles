@@ -1,10 +1,10 @@
 ﻿1
-04:03:09,830 --> 04:03:11,630
+04:03:10,130 --> 04:03:11,930
 There's another army attacking
 from the North.
 
 2
-04:03:11,632 --> 04:03:14,247
+04:03:11,932 --> 04:03:14,547
 This watchtower will be completely
 surrounded, and with no way out.
 

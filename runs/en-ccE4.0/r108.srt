@@ -1,13 +1,13 @@
 ﻿1
-03:32:34,730 --> 03:32:36,440
+03:32:34,643 --> 03:32:36,870
 I will put the next one between your eyes.
 
 2
-03:32:36,690 --> 03:32:38,734
-[ALL SHOUTING]
+03:32:37,252 --> 03:32:40,118
+[DWARVES SHOUTING]
 
 3
-03:33:01,423 --> 03:33:02,716
+03:33:01,243 --> 03:33:02,716
 We have come to tell you...
 
 4
@@ -19,7 +19,7 @@ We have come to tell you...
 ...and accepted.
 
 6
-03:33:09,390 --> 03:33:10,391
+03:33:09,390 --> 03:33:10,640
 THORIN:
 What payment?
 
@@ -82,7 +82,7 @@ A filthy lie.
 The Arkenstone is in this Mountain!
 
 21
-03:34:06,488 --> 03:34:07,615
+03:34:06,488 --> 03:34:07,664
 It is a trick!
 
 22
@@ -111,12 +111,12 @@ I took it as my 14th share.
 You would steal from me?
 
 28
-03:34:32,848 --> 03:34:34,016
-Steal from you? No.
+03:34:32,848 --> 03:34:34,746
+Steal from you? No. No.
 
 29
-03:34:34,266 --> 03:34:37,478
-No, I may be a burglar,
+03:34:34,947 --> 03:34:37,689
+I may be a burglar,
 but I like to think I'm an honest one.
 
 30
@@ -132,7 +132,7 @@ Against your claim?
 Your claim.
 
 33
-03:34:49,198 --> 03:34:52,751
+03:34:49,198 --> 03:34:53,001
 You have no claim over me,
 you miserable <i>rat!</i>
 
@@ -175,7 +175,7 @@ Do not speak to me...
 Throw him from the rampart!
 
 43
-03:35:31,407 --> 03:35:32,449
+03:35:31,407 --> 03:35:33,004
 Did you not hear me?
 
 44
@@ -183,7 +183,7 @@ Did you not hear me?
 I will do it myself. Curse you!
 
 45
-03:35:39,081 --> 03:35:39,665
+03:35:38,566 --> 03:35:39,665
 No!
 
 46
@@ -197,7 +197,7 @@ forced you on this company!
 then please, don't damage him.
 
 48
-03:35:46,755 --> 03:35:48,578
+03:35:46,755 --> 03:35:48,755
 Return him to me.
 
 49
@@ -210,16 +210,16 @@ as King under the Mountain, are you...
 ... Thorin, son of Thrain?
 
 51
-03:36:09,278 --> 03:36:11,488
+03:36:08,783 --> 03:36:11,488
 THORIN: Never again will I have dealings
 with Wizards!
 
 52
-03:36:11,739 --> 03:36:12,322
+03:36:11,739 --> 03:36:12,372
 - Go!
 
 53
-03:36:12,573 --> 03:36:13,449
+03:36:12,573 --> 03:36:13,829
 - Or Shire rats!
 
 54

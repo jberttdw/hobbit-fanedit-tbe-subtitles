@@ -11,12 +11,12 @@ Fight to the death!
 [ALL GRUNTING AND SNARLING]
 
 4
-03:43:32,942 --> 03:43:35,068
+03:43:32,746 --> 03:43:35,068
 FILI: I'm going over the wall.
 Who's coming with me?
 
 5
-03:43:35,319 --> 03:43:37,279
+03:43:35,369 --> 03:43:37,329
 OIN: Aye!
 DWALIN: Yes, come on, let's go!
 
@@ -30,6 +30,6 @@ ORI: What?
 Are we to do nothing?
 
 8
-03:43:41,200 --> 03:43:43,091
-I said, stand down!
+03:43:41,150 --> 03:43:43,754
+- I said, stand down!
 

@@ -38,22 +38,19 @@ Oh, no.
 This isn't their fault!
 
 10
-02:57:26,786 --> 02:57:27,578
+02:57:26,786 --> 02:57:29,413
 Wait!
-
-11
-02:57:27,828 --> 02:57:29,413
 You cannot go to Lake-town!
 
-12
+11
 02:57:31,332 --> 02:57:35,461
 You care about them, do you?
 
-13
+12
 02:57:35,711 --> 02:57:36,771
 Good.
 
-14
+13
 02:57:37,380 --> 02:57:39,799
 Then you can watch them die.
 

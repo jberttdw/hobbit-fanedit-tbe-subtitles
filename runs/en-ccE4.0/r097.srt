@@ -1,237 +1,234 @@
 ﻿1
-03:07:32,683 --> 03:07:34,685
+03:07:32,683 --> 03:07:35,978
 THORIN:
-It is here in these halls.
+It is here in these halls. I know it.
 
 2
-03:07:34,936 --> 03:07:35,978
-I know it.
-
-3
 03:07:36,229 --> 03:07:38,022
 DWALIN:
 We have searched and searched.
 
-4
-03:07:38,272 --> 03:07:39,190
+3
+03:07:38,223 --> 03:07:39,285
 THORIN:
 Not well enough.
 
-5
-03:07:39,440 --> 03:07:41,818
-DWALIN:
-Thorin, we all would see the stone returned.
+4
+03:07:39,486 --> 03:07:42,314
+DWALIN: Thorin...
+We all would see the stone returned.
 
-6
-03:07:42,068 --> 03:07:44,987
+5
+03:07:42,515 --> 03:07:44,987
 THORIN:
 And yet, it is still not found!
 
-7
+6
 03:07:47,824 --> 03:07:51,744
 Do you doubt the loyalty of anyone here?
 
-8
+7
 03:08:00,545 --> 03:08:02,296
 The Arkenstone...
 
-9
+8
 03:08:03,214 --> 03:08:05,341
 ...is the birthright of our people.
 
-10
+9
 03:08:06,092 --> 03:08:09,011
+THORIN:
 It is The King's Jewel.
 
-11
+10
 03:08:10,388 --> 03:08:11,889
 Am I not the king?
 
-12
+11
 03:08:23,234 --> 03:08:24,735
 Know this:
 
-13
+12
 03:08:28,197 --> 03:08:30,449
 If anyone should find it...
 
-14
+13
 03:08:31,284 --> 03:08:33,286
 ...and withhold it from me...
 
-15
+14
 03:08:35,121 --> 03:08:36,998
 ...I will be avenged.
 
-16
+15
 03:08:46,340 --> 03:08:48,342
 [SIGHING]
 
-17
+16
 03:08:52,597 --> 03:08:54,140
 Dragon-sickness.
 
-18
+17
 03:08:55,641 --> 03:08:57,310
 I've seen it before.
 
-19
+18
 03:08:59,145 --> 03:09:00,563
 That look.
 
-20
+19
 03:09:01,063 --> 03:09:02,773
 The terrible need.
 
-21
+20
 03:09:04,108 --> 03:09:07,236
 It is a fierce and jealous love, Bilbo.
 
-22
+21
 03:09:10,114 --> 03:09:11,949
 It sent his grandfather mad.
 
-23
+22
 03:09:13,701 --> 03:09:15,578
 Balin, if Thorin...
 
-24
+23
 03:09:16,662 --> 03:09:18,414
 ...had the Arkenstone...
 
-25
+24
 03:09:19,707 --> 03:09:21,626
 ...or if it was found...
 
-26
+25
 03:09:24,211 --> 03:09:25,713
 ...would it help?
 
-27
+26
 03:09:28,341 --> 03:09:32,053
 That stone crowns all.
 
-28
+27
 03:09:33,220 --> 03:09:36,098
 It is the summit of this great wealth...
 
-29
+28
 03:09:36,349 --> 03:09:39,602
 ...bestowing power upon he who bears it.
 
-30
+29
 03:09:39,852 --> 03:09:41,771
 Would it stay his madness?
 
-31
+30
 03:09:43,439 --> 03:09:44,732
 No, laddie.
 
-32
+31
 03:09:46,901 --> 03:09:48,611
 I fear it would make him worse.
 
-33
+32
 03:09:51,447 --> 03:09:53,157
 Perhaps it is best...
 
-34
+33
 03:09:54,283 --> 03:09:55,952
 ...it remains lost.
 
-35
+34
 03:10:09,757 --> 03:10:11,050
 THORIN:
 What is that?
 
-36
+35
 03:10:12,510 --> 03:10:14,053
 In your hand.
 
-37
-03:10:14,303 --> 03:10:14,971
-It's nothing.
+36
+03:10:14,254 --> 03:10:15,504
+It's--It's nothing.
 
-38
-03:10:15,596 --> 03:10:16,847
+37
+03:10:15,705 --> 03:10:16,956
 Show me.
 
-39
+38
 03:10:18,516 --> 03:10:19,809
 It...
 
-40
+39
 03:10:26,774 --> 03:10:29,318
 I picked it up in Beorn's garden.
 
-41
+40
 03:10:33,322 --> 03:10:35,157
 You've carried it all this way?
 
-42
+41
 03:10:35,408 --> 03:10:37,201
 I'm gonna plant it in my garden.
 
-43
+42
 03:10:37,451 --> 03:10:39,036
 In Bag End.
 
-44
+43
 03:10:41,706 --> 03:10:44,834
 It's a poor prize to take back to the Shire.
 
-45
+44
 03:10:46,669 --> 03:10:48,004
 One day, it'll grow.
 
-46
+45
 03:10:49,797 --> 03:10:52,091
 And every time I look at it, I'll remember.
 
-47
+46
 03:10:53,467 --> 03:10:56,137
 Remember everything that happened,
 the good, the bad...
 
-48
+47
 03:10:57,221 --> 03:10:59,348
 ...and how lucky I am that I made it home.
 
-49
+48
 03:11:08,607 --> 03:11:10,192
 Thorin, I...
 
-50
+49
 03:11:10,443 --> 03:11:11,694
 DWALIN:
 Thorin.
 
-51
+50
 03:11:11,944 --> 03:11:14,030
 Survivors from Lake-town...
 
-52
+51
 03:11:14,572 --> 03:11:16,449
 ...they're streaming into Dale.
 
-53
+52
 03:11:17,867 --> 03:11:19,577
 There's hundreds of them.
 
-54
+53
 03:11:21,245 --> 03:11:23,205
 Call everyone to the gate.
 
-55
+54
 03:11:24,457 --> 03:11:26,876
 To the gate!
 Now!
 
-56
+55
 03:11:28,210 --> 03:11:29,628
 [CHATTERING]
 
-57
+56
 03:11:57,907 --> 03:12:00,493
 BARD:
 Come on. Keep moving.

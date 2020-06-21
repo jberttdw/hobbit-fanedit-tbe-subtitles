@@ -20,7 +20,7 @@ And how do you plan to fight your way
 single-handed to Ravenhill?
 
 6
-03:56:17,376 --> 03:56:18,376
+03:56:17,376 --> 03:56:18,626
 BALIN:
 Halt!
 
@@ -29,7 +29,7 @@ Halt!
 It's been a while since I've done this.
 
 8
-03:56:26,343 --> 03:56:27,343
+03:56:26,343 --> 03:56:27,593
 [SHOUTING]
 
 9
@@ -37,11 +37,12 @@ It's been a while since I've done this.
 To Ravenhill!
 
 10
-03:56:29,972 --> 03:56:31,097
+03:56:29,922 --> 03:56:31,172
 Hold tight, lads.
 
 11
-03:56:32,308 --> 03:56:33,850
+03:56:32,241 --> 03:56:33,850
+DAIN:
 You're all mad bastards.
 
 12
@@ -53,7 +54,7 @@ I like it.
 May Durin save you all.
 
 14
-03:57:03,005 --> 03:57:04,005
+03:57:03,005 --> 03:57:04,255
 [LAUGHS]
 
 15

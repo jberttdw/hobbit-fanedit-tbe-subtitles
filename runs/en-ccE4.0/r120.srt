@@ -11,7 +11,7 @@ Fall back to the Mountain!
 Fall back!
 
 4
-03:51:52,523 --> 03:51:53,524
+03:51:52,523 --> 03:51:53,773
 AZOG [IN BLACK SPEECH]:
 
 5
@@ -66,9 +66,9 @@ But will you follow me...
 
 17
 03:53:51,476 --> 03:53:53,478
-[ORC SHOUTING IN BLACK SPEECH]
+[SHOUTING IN DWARVISH]
 
 18
 03:53:56,522 --> 03:53:58,524
-[ALL SHOUT IN BLACK SPEECH]
+[ALL SHOUT IN DWARVISH]
 

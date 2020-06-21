@@ -4,66 +4,62 @@ GANDALF: You must set aside
 your petty grievances with the Dwarves.
 
 2
-03:26:01,856 --> 03:26:02,899
-War is coming!
+03:26:01,856 --> 03:26:06,856
+War is coming! The cesspits of
+Dol Guldur have been emptied.
 
 3
-03:26:03,149 --> 03:26:06,945
-The cesspits of Dol Guldur
-have been emptied.
-
-4
 03:26:07,195 --> 03:26:09,239
 You're all in mortal danger.
 
-5
-03:26:09,489 --> 03:26:10,782
+4
+03:26:09,911 --> 03:26:11,535
 What are you talking about?
 
-6
+5
 03:26:12,033 --> 03:26:14,619
 I can see you know nothing of Wizards.
 
-7
+6
 03:26:14,869 --> 03:26:17,121
 They are like winter thunder
 on a wild wind...
 
-8
-03:26:17,372 --> 03:26:20,875
+7
+03:26:17,372 --> 03:26:21,058
 ...rolling in from a distance,
 breaking hard in alarm.
 
-9
+8
 03:26:22,585 --> 03:26:26,547
 But sometimes a storm is <i>just a storm.</i>
 
-10
+9
 03:26:26,798 --> 03:26:28,299
 Not this time.
 
-11
+10
 03:26:28,549 --> 03:26:31,010
 Armies of Orcs are on the move.
 
-12
+11
 03:26:31,261 --> 03:26:33,596
 These are fighters.
 They have been bred for war.
 
-13
+12
 03:26:33,846 --> 03:26:36,474
 Our enemy has summoned his full strength.
 
-14
+13
 03:26:36,724 --> 03:26:38,268
 Why show his hand now?
 
-15
+14
 03:26:38,518 --> 03:26:39,769
 Because we forced him.
 
-16
+15
 03:26:40,019 --> 03:26:44,816
 We forced him when the Company of Thorin
 Oakenshield set out to reclaim their homeland.
