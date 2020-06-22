@@ -3,32 +3,36 @@
 My dear Frodo:
 
 2
-00:01:13,209 --> 00:01:19,548
-You asked me once if I had told you everything
-there was to know about my adventures.
+00:01:13,209 --> 00:01:17,710
+You asked me once if I had told you
+everything there was to know about my...
 
 3
+00:01:17,911 --> 00:01:19,483
+<i>...adventures.</i>
+
+4
 00:01:19,715 --> 00:01:23,468
 And while I can honestly say
 I have told you the truth...
 
-4
+5
 00:01:24,720 --> 00:01:26,972
 ...I may not have told you all of it.
 
-5
+6
 00:01:35,022 --> 00:01:37,065
 I am old now, Frodo.
 
-6
+7
 00:01:38,568 --> 00:01:41,319
 I'm not the same Hobbit I once was.
 
-7
-00:01:44,615 --> 00:01:49,119
+8
+00:01:44,615 --> 00:01:49,087
 I think it is time for you to know...
 
-8
+9
 00:01:49,287 --> 00:01:51,955
 ...what really happened.
 

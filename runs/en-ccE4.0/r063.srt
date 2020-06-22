@@ -1,0 +1,29 @@
+﻿1
+02:20:05,178 --> 02:20:06,930
+- Make for the shore!
+- Aye.
+
+2
+02:20:07,180 --> 02:20:08,097
+THORIN:
+Come on, let's go!
+
+3
+02:20:08,348 --> 02:20:10,141
+OIN:
+Gloin, help me, my brother.
+
+4
+02:20:12,477 --> 02:20:14,354
+DWALIN:
+Come on, lift yourself.
+
+5
+02:20:14,854 --> 02:20:16,110
+Come on!
+
+6
+02:20:16,311 --> 02:20:18,650
+BOFUR:
+Come on, you big lump, you!
+

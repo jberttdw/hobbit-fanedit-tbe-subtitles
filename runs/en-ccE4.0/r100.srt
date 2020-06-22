@@ -1,0 +1,300 @@
+﻿1
+03:14:03,419 --> 03:14:06,005
+MAN 1: These children are starving.
+MAN 2: We need food.
+
+2
+03:14:06,255 --> 03:14:08,424
+MAN 1: We won't last three days.
+PERCY: Bard...
+
+3
+03:14:08,674 --> 03:14:11,177
+- ...we don't have enough.
+- Do what you can, Percy.
+
+4
+03:14:12,512 --> 03:14:14,472
+PERCY:
+It'll be all right. Don't worry.
+
+5
+03:14:15,014 --> 03:14:16,682
+WOMAN:
+We need more water.
+
+6
+03:14:16,933 --> 03:14:19,268
+The children, the wounded
+and the women come first.
+
+7
+03:14:19,519 --> 03:14:20,769
+MAN 3:
+Here you are.
+
+8
+03:14:21,646 --> 03:14:22,896
+BARD:
+Good morning, Alfrid.
+
+9
+03:14:23,606 --> 03:14:25,108
+What news from the night watch?
+
+10
+03:14:25,358 --> 03:14:27,902
+All quiet, sire. Not much to report.
+
+11
+03:14:28,444 --> 03:14:30,321
+Nothing gets past me.
+
+12
+03:14:37,411 --> 03:14:40,498
+Except an army of Elves, it would seem.
+
+13
+03:15:13,698 --> 03:15:14,960
+My Lord Thranduil!
+
+14
+03:15:16,054 --> 03:15:19,120
+- We did not look to see you here.
+- I heard you needed aid.
+
+15
+03:15:26,627 --> 03:15:28,504
+[CHATTERING]
+
+16
+03:15:37,513 --> 03:15:38,763
+Here you go.
+
+17
+03:15:39,932 --> 03:15:41,182
+MAN 1:
+Pass it back.
+
+18
+03:15:42,018 --> 03:15:43,268
+MAN 2:
+Another one.
+
+19
+03:15:47,190 --> 03:15:49,241
+BARD:
+You have saved us.
+
+20
+03:15:49,442 --> 03:15:51,084
+I do not know how to thank you.
+
+21
+03:15:51,285 --> 03:15:53,120
+Your gratitude is misplaced.
+
+22
+03:15:53,321 --> 03:15:55,281
+I did not come on your behalf.
+
+23
+03:15:55,531 --> 03:15:58,409
+I came to reclaim something of mine.
+
+24
+03:16:05,625 --> 03:16:09,086
+<i>There are gems in the Mountain
+that I, too, desire.</i>
+
+25
+03:16:09,879 --> 03:16:12,965
+<i>White gems of pure starlight.</i>
+
+26
+03:16:13,716 --> 03:16:16,093
+The White Gems of Lasgalen.
+
+27
+03:16:18,012 --> 03:16:20,973
+I know an Elf Lord who will pay
+a pretty price for these.
+
+28
+03:16:26,938 --> 03:16:28,564
+BARD:
+Wait! Please wait!
+
+29
+03:16:32,026 --> 03:16:34,445
+You would go to war
+over a handful of gems?
+
+30
+03:16:34,695 --> 03:16:38,282
+The heirlooms of my people
+are not lightly forsaken.
+
+31
+03:16:38,532 --> 03:16:40,034
+We are allies in this.
+
+32
+03:16:41,535 --> 03:16:45,248
+My people also have a claim
+upon the riches in that Mountain.
+
+33
+03:16:45,790 --> 03:16:48,042
+Let me speak with Thorin.
+
+34
+03:16:48,626 --> 03:16:51,045
+You would try to reason with the Dwarf?
+
+35
+03:16:51,295 --> 03:16:52,630
+To avoid war?
+
+36
+03:16:53,464 --> 03:16:54,507
+Yes.
+
+37
+03:16:55,383 --> 03:16:57,301
+GLOIN:
+Not a bad night's work.
+
+38
+03:16:59,387 --> 03:17:00,638
+Come on.
+
+39
+03:17:23,327 --> 03:17:25,913
+Hail, Thorin, son of Thrain.
+
+40
+03:17:26,163 --> 03:17:28,666
+We are glad to find you alive beyond hope.
+
+41
+03:17:28,916 --> 03:17:33,087
+Why do you come to the gates of the
+King under the Mountain armed for war?
+
+42
+03:17:33,337 --> 03:17:36,215
+Why does the King under the Mountain
+fence himself in...
+
+43
+03:17:36,924 --> 03:17:39,260
+...like a robber in his hold?
+
+44
+03:17:39,927 --> 03:17:43,014
+THORIN: Perhaps it is because
+I am expecting to be robbed.
+
+45
+03:17:44,035 --> 03:17:45,558
+BARD:
+My lord...
+
+46
+03:17:45,975 --> 03:17:50,438
+...we have not come to rob you,
+but to seek fair settlement.
+
+47
+03:17:51,063 --> 03:17:52,982
+Will you not speak with me?
+
+48
+03:18:12,088 --> 03:18:13,464
+[CAWING]
+
+49
+03:18:28,017 --> 03:18:29,352
+I am listening.
+
+50
+03:18:30,436 --> 03:18:34,565
+On behalf of the people of Lake-town
+I ask that you honor your pledge.
+
+51
+03:18:35,191 --> 03:18:38,736
+A share of the treasure,
+so that they might rebuild their lives.
+
+52
+03:18:39,653 --> 03:18:41,947
+I will not treat with any man...
+
+53
+03:18:42,490 --> 03:18:44,950
+...while an armed host lies before my door.
+
+54
+03:18:45,201 --> 03:18:48,871
+That armed host will attack this Mountain
+if we do not come to terms.
+
+55
+03:18:50,164 --> 03:18:52,917
+And your threats do not sway me.
+
+56
+03:18:54,752 --> 03:18:56,212
+What of your conscience?
+
+57
+03:18:56,796 --> 03:18:59,632
+Does it not tell you our cause is just?
+
+58
+03:19:01,008 --> 03:19:03,552
+My people offered you help.
+
+59
+03:19:05,554 --> 03:19:09,141
+And in return, you brought upon them
+only ruin and death.
+
+60
+03:19:09,392 --> 03:19:12,603
+When did Lake-town come to our aid
+but for the promise of rich reward?
+
+61
+03:19:12,853 --> 03:19:14,146
+A bargain was struck!
+
+62
+03:19:14,397 --> 03:19:15,655
+A bargain?
+
+63
+03:19:15,856 --> 03:19:18,734
+What choice did we have
+but to barter our birthright...
+
+64
+03:19:18,984 --> 03:19:20,778
+...for blankets and food?
+To ransom...
+
+65
+03:19:21,028 --> 03:19:23,239
+...our future in exchange
+for our freedom?
+
+66
+03:19:24,073 --> 03:19:26,283
+You call that a fair trade?
+
+67
+03:19:28,411 --> 03:19:29,745
+Tell me...
+

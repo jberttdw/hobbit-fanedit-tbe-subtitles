@@ -1,5 +1,6 @@
 ﻿1
-02:22:53,414 --> 02:22:53,997
+02:22:53,414 --> 02:22:54,664
+BOFUR:
 Watch out!
 
 2
@@ -109,11 +110,11 @@ Take it.
 - Ahem.
 
 26
-02:24:21,290 --> 02:24:22,618
+02:24:20,925 --> 02:24:22,595
 The money, quick. Give it to me.
 
 27
-02:24:22,795 --> 02:24:25,464
+02:24:22,795 --> 02:24:25,514
 THORIN: We will pay you when
 we get our provisions but not before.
 
@@ -127,7 +128,7 @@ you'll do as I say.
 There are guards ahead.
 
 30
-02:24:42,950 --> 02:24:44,024
+02:24:42,950 --> 02:24:44,206
 [INAUDIBLE DIALOGUE]
 
 31
@@ -135,12 +136,12 @@ There are guards ahead.
 What's he doing?
 
 32
-02:24:50,197 --> 02:24:51,365
+02:24:50,044 --> 02:24:51,365
 BILBO:
 He's talking to someone.
 
 33
-02:24:54,034 --> 02:24:55,119
+02:24:53,884 --> 02:24:55,243
 He's pointing right at us.
 
 34
@@ -148,7 +149,7 @@ He's pointing right at us.
 Now they're shaking hands.
 
 35
-02:25:00,165 --> 02:25:01,196
+02:25:00,165 --> 02:25:01,066
 - What?
 
 36
@@ -157,72 +158,57 @@ DWALIN:
 The villain. He's selling us out.
 
 37
-02:25:03,418 --> 02:25:04,378
+02:25:03,418 --> 02:25:06,241
 [CLANKING]
-
-38
-02:25:04,670 --> 02:25:05,462
 [FOOTSTEPS APPROACHING]
 
-39
+38
 02:25:10,634 --> 02:25:12,469
 [GRUNTING]
 
-40
+39
 02:25:21,603 --> 02:25:23,772
 [DWARVES GRUNTING]
 
-41
-02:25:26,191 --> 02:25:27,109
+40
+02:25:25,961 --> 02:25:27,109
 BARD:
 Quiet.
 
-42
+41
 02:25:29,903 --> 02:25:31,613
 We're approaching the tollgate.
 
+42
+02:25:43,000 --> 02:25:45,532
+PERCY: Halt! Goods inspection!
+
 43
-02:25:43,000 --> 02:25:43,834
-PERCY:
-Halt!
-
-44
-02:25:44,126 --> 02:25:45,460
-Goods inspection!
-
-45
 02:25:46,211 --> 02:25:48,046
 Papers, please!
 
-46
+44
 02:25:48,839 --> 02:25:50,048
 Oh, it's you, Bard.
 
-47
+45
 02:25:50,299 --> 02:25:51,341
 Morning, Percy.
 
-48
+46
 02:25:51,592 --> 02:25:52,801
 Anything to declare?
 
-49
-02:25:53,051 --> 02:25:55,804
-Nothing, but that I am cold and tired...
+47
+02:25:53,051 --> 02:25:57,097
+Nothing, but that I am cold and tired,
+and ready for home.
 
-50
-02:25:56,054 --> 02:25:57,097
-...and ready for home.
-
-51
+48
 02:25:57,347 --> 02:25:58,599
 You and me both.
 
-52
-02:26:02,686 --> 02:26:04,104
-There we are.
-
-53
-02:26:04,354 --> 02:26:05,189
-All in order.
+49
+02:26:02,686 --> 02:26:05,189
+There we are. All in order.
 

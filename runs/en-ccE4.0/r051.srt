@@ -1,0 +1,9 @@
+﻿1
+01:53:52,306 --> 01:53:53,850
+BILBO:
+There are others like you?
+
+2
+01:53:55,393 --> 01:53:56,936
+Once there were many.
+

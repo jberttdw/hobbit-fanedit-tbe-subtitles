@@ -1,32 +1,32 @@
 ﻿1
-03:07:24,033 --> 03:07:26,243
+03:07:23,988 --> 03:07:26,150
 THORIN: Any sign of it?
 DWALIN: Nothing yet.
 
 2
-03:07:26,494 --> 03:07:27,578
+03:07:26,351 --> 03:07:27,627
 ORI:
 Nothing here.
 
 3
-03:07:27,828 --> 03:07:30,247
+03:07:27,828 --> 03:07:30,543
 THORIN: Keep searching!
 GLOIN: That jewel could be anywhere.
 
 4
-03:07:30,498 --> 03:07:32,583
+03:07:30,744 --> 03:07:32,583
 THORIN:
 The Arkenstone is in these halls.
 
 5
-03:07:32,833 --> 03:07:34,126
+03:07:32,833 --> 03:07:35,400
 - Find it!
-DWALIN: You heard him.
+DWALIN: You heard him. Keep looking.
 
 6
-03:07:34,377 --> 03:07:36,462
-- Keep looking.
-THORIN: All of you!
+03:07:35,601 --> 03:07:36,851
+THORIN:
+All of you!
 
 7
 03:07:37,630 --> 03:07:40,216

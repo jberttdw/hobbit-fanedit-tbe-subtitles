@@ -1,37 +1,37 @@
 ﻿1
-01:02:52,600 --> 01:02:54,601
+01:02:52,600 --> 01:02:54,568
 THORIN:
 Our business is no concern of Elves.
 
 2
-01:02:54,768 --> 01:02:57,729
+01:02:54,768 --> 01:02:57,696
 GANDALF: For goodness sake, Thorin,
 show him the map.
 
 3
-01:02:57,896 --> 01:02:59,939
+01:02:57,896 --> 01:02:59,907
 It is the legacy of my people.
 
 4
-01:03:00,107 --> 01:03:03,693
+01:03:00,107 --> 01:03:03,661
 It is mine to protect, as are its secrets.
 
 5
-01:03:03,861 --> 01:03:06,404
+01:03:03,861 --> 01:03:06,372
 Save me from the stubbornness
 of Dwarves.
 
 6
-01:03:06,572 --> 01:03:09,532
+01:03:06,572 --> 01:03:09,500
 Your pride will be your downfall.
 
 7
-01:03:09,700 --> 01:03:12,577
+01:03:09,700 --> 01:03:12,686
 You stand here in the presence
 of one of the few in Middle-earth...
 
 8
-01:03:12,745 --> 01:03:16,414
+01:03:12,887 --> 01:03:16,414
 ...who can read that map.
 Show it to Lord Elrond.
 
@@ -66,7 +66,7 @@ do you not?
 [ELROND SPEAKS IN ELVISH]
 
 16
-01:04:05,923 --> 01:04:08,341
+01:04:05,923 --> 01:04:08,309
 Moon runes?
 
 17
@@ -74,16 +74,16 @@ Moon runes?
 Of course.
 
 18
-01:04:11,178 --> 01:04:12,929
+01:04:11,178 --> 01:04:12,897
 An easy thing to miss.
 
 19
-01:04:13,097 --> 01:04:14,681
+01:04:13,097 --> 01:04:14,648
 ELROND:
 Well, in this case, that is true.
 
 20
-01:04:14,848 --> 01:04:17,350
+01:04:14,848 --> 01:04:17,318
 Moon runes can only be read
 by the light of a moon...
 
@@ -97,7 +97,7 @@ as the day on which they were written.
 Can you read them?
 
 23
-01:04:29,113 --> 01:04:32,198
+01:04:29,113 --> 01:04:32,166
 ELROND: These runes were written
 on a Midsummer's Eve...
 
@@ -112,7 +112,7 @@ It would seem you were meant
 to come to Rivendell.
 
 26
-01:04:40,999 --> 01:04:43,000
+01:04:40,999 --> 01:04:42,968
 Fate is with you, Thorin Oakenshield.
 
 27
@@ -120,55 +120,55 @@ Fate is with you, Thorin Oakenshield.
 The same moon shines upon us tonight.
 
 28
-01:05:05,816 --> 01:05:10,445
+01:05:05,816 --> 01:05:10,412
 "Stand by the gray stone
 when the thrush knocks...
 
 29
-01:05:10,612 --> 01:05:15,366
+01:05:10,612 --> 01:05:15,334
 ...and the setting sun with
 the last light of Durin's Day...
 
 30
-01:05:15,534 --> 01:05:19,912
+01:05:15,534 --> 01:05:19,880
 - ...will shine upon the keyhole."
 - Durin's Day?
 
 31
-01:05:20,080 --> 01:05:23,541
+01:05:20,080 --> 01:05:23,509
 It is the start of the Dwarves' new year,
 when the last moon of autumn...
 
 32
-01:05:23,709 --> 01:05:26,586
+01:05:23,709 --> 01:05:26,554
 ...and the first sun of winter
 appear in the sky together.
 
 33
-01:05:26,754 --> 01:05:28,671
+01:05:26,754 --> 01:05:28,639
 This is ill news.
 
 34
-01:05:28,839 --> 01:05:31,382
+01:05:28,839 --> 01:05:31,350
 Summer is passing.
 Durin's Day will soon be upon us.
 
 35
-01:05:31,550 --> 01:05:32,842
+01:05:31,550 --> 01:05:32,810
 We still have time.
 
 36
-01:05:33,010 --> 01:05:35,470
+01:05:33,010 --> 01:05:35,437
 - Time? For what?
 - To find the entrance.
 
 37
-01:05:35,637 --> 01:05:39,432
+01:05:35,637 --> 01:05:39,400
 We have to be standing in exactly
 the right spot at exactly the right time.
 
 38
-01:05:39,600 --> 01:05:43,603
+01:05:39,600 --> 01:05:43,571
 Then, and only then,
 can the door be opened.
 
@@ -178,7 +178,7 @@ So this is your purpose,
 to enter the mountain?
 
 40
-01:05:48,025 --> 01:05:49,358
+01:05:48,025 --> 01:05:49,326
 What of it?
 
 41
@@ -187,7 +187,7 @@ There are some
 who would not deem it wise.
 
 42
-01:05:54,114 --> 01:05:55,198
+01:05:54,114 --> 01:05:55,364
 What do you mean?
 
 43

@@ -11,7 +11,7 @@ Back to Rivendell.
 No, no, you can't turn back now, eh?
 
 4
-01:14:01,362 --> 01:14:04,281
+01:14:01,362 --> 01:14:04,249
 You're part of the company.
 You're one of us.
 
@@ -20,7 +20,7 @@ You're one of us.
 I'm not, though, am I?
 
 6
-01:14:07,785 --> 01:14:11,079
+01:14:07,785 --> 01:14:11,047
 Thorin said I should never
 have come and he was right.
 
@@ -30,17 +30,17 @@ I'm not a Took, I'm a Baggins.
 I don't know what I was thinking.
 
 8
-01:14:16,586 --> 01:14:20,631
+01:14:16,586 --> 01:14:20,598
 - I should never have run out my door.
 - You're homesick. I understand.
 
 9
-01:14:20,798 --> 01:14:23,300
+01:14:20,798 --> 01:14:23,268
 No, you don't. You don't understand.
 None of you do.
 
 10
-01:14:23,468 --> 01:14:26,220
+01:14:23,468 --> 01:14:26,187
 You're Dwarves.
 You're used to this life.
 
@@ -50,7 +50,7 @@ To living on the road, never settling
 in one place, not belonging anywhere!
 
 12
-01:14:34,270 --> 01:14:35,812
+01:14:34,270 --> 01:14:35,780
 Oh, I am sorry. I didn't--
 
 13
@@ -87,7 +87,7 @@ Hmm?
 Wake up! Wake up!
 
 21
-01:15:34,247 --> 01:15:35,289
+01:15:34,247 --> 01:15:35,256
 Whoa!
 
 22
@@ -104,11 +104,11 @@ DORI:
 Get away!
 
 25
-01:16:04,777 --> 01:16:05,986
+01:16:04,777 --> 01:16:06,027
 [GOBLINS GROWLING]
 
 26
-01:16:08,656 --> 01:16:10,157
+01:16:08,656 --> 01:16:10,125
 GLOIN:
 Filthy scum!
 
@@ -157,28 +157,28 @@ Get off me!
 [GOBLINS GROWLING]
 
 37
-01:18:28,296 --> 01:18:33,717
+01:18:28,296 --> 01:18:33,685
 Who would be so bold
 as to come armed into my kingdom?
 
 38
-01:18:33,885 --> 01:18:37,387
+01:18:33,885 --> 01:18:37,355
 Spies? Thieves? Assassins?
 
 39
-01:18:37,555 --> 01:18:39,264
+01:18:37,555 --> 01:18:39,232
 Dwarves, Your Malevolence.
 
 40
-01:18:39,432 --> 01:18:41,183
+01:18:39,432 --> 01:18:41,150
 Dwarves?
 
 41
-01:18:41,350 --> 01:18:43,101
+01:18:41,350 --> 01:18:43,069
 We found them on the Front Porch.
 
 42
-01:18:43,269 --> 01:18:47,606
+01:18:43,269 --> 01:18:47,574
 Well, don't just stand there. Search them.
 
 43
@@ -194,12 +194,12 @@ What are you doing in these parts?
 Speak!
 
 46
-01:19:03,289 --> 01:19:08,835
+01:19:03,289 --> 01:19:08,803
 Very well. If they will not talk,
 we'll make them squawk.
 
 47
-01:19:09,003 --> 01:19:10,545
+01:19:09,003 --> 01:19:10,513
 Bring up the mangler.
 
 48

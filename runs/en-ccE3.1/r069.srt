@@ -11,7 +11,7 @@ Father! There you are! I was worried.
 Here, Sigrid.
 
 4
-02:26:43,633 --> 02:26:44,592
+02:26:43,633 --> 02:26:44,924
 <i>Bain, get them in.</i>
 
 5
@@ -24,7 +24,7 @@ I'll rip your arms off.
 Get off.
 
 7
-02:27:02,443 --> 02:27:03,528
+02:27:02,234 --> 02:27:03,528
 Up there.
 
 8
@@ -42,7 +42,7 @@ They may not be the best fit,
 but they'll keep you warm.
 
 11
-02:27:24,257 --> 02:27:25,299
+02:27:24,111 --> 02:27:25,291
 Thank you very much.
 
 12
@@ -50,7 +50,7 @@ Thank you very much.
 A Dwarvish windlance.
 
 13
-02:27:38,558 --> 02:27:40,022
+02:27:38,558 --> 02:27:40,138
 You look like you've seen a ghost.
 
 14
@@ -62,7 +62,7 @@ He has.
 The last time we saw such a weapon...
 
 16
-02:27:46,696 --> 02:27:48,199
+02:27:46,696 --> 02:27:48,469
 ...a city was on fire.
 
 17
@@ -83,7 +83,8 @@ It was the day the dragon came.
 
 21
 02:28:02,879 --> 02:28:05,006
-<i>...rallied his bowmen to fire upon the beast.</i>
+<i>...rallied his bowmen
+to fire upon the beast.</i>
 
 22
 02:28:06,132 --> 02:28:07,884
@@ -98,7 +99,7 @@ Tougher than the strongest armor.
 Only a Black Arrow fired from a windlance...
 
 25
-02:28:14,307 --> 02:28:15,892
+02:28:14,307 --> 02:28:16,274
 ...could have pierced the dragon's hide.
 
 26
@@ -136,27 +137,24 @@ that Girion hit the dragon.
 He loosened a scale under the left wing.
 
 34
-02:28:56,974 --> 02:28:58,485
-One more shot and
-he would have killed the beast.
+02:28:56,974 --> 02:28:59,112
+One more shot and he
+would have killed the beast.
 
 35
-02:28:58,663 --> 02:28:59,497
+02:28:59,313 --> 02:29:02,063
 [DWALIN CHUCKLES]
-
-36
-02:29:00,186 --> 02:29:02,063
 That's a fairy story, lad.
 
-37
+36
 02:29:02,313 --> 02:29:03,689
 Nothing more.
 
-38
+37
 02:29:04,690 --> 02:29:06,067
 You took our money.
 
-39
+38
 02:29:07,151 --> 02:29:08,444
 Where are the weapons?
 

@@ -9,359 +9,351 @@ DWALIN:
 Nothing!
 
 3
-02:35:38,295 --> 02:35:39,630
-THORIN:
-If the map is true...
+02:35:38,295 --> 02:35:42,437
+THORIN: If the map is true,
+then the hidden door lies directly above us.
 
 4
-02:35:40,422 --> 02:35:42,925
-...then the hidden door
-lies directly above us.
-
-5
 02:35:47,471 --> 02:35:49,098
 BILBO:
 Up here!
 
-6
+5
 02:35:57,481 --> 02:35:59,942
 You have keen eyes, Master Baggins.
 
-7
+6
 02:36:15,833 --> 02:36:17,751
 [GRUNTING]
 
-8
+7
 02:36:27,595 --> 02:36:28,888
 [PANTS]
 
-9
-02:36:31,807 --> 02:36:32,891
+8
+02:36:31,635 --> 02:36:32,891
 THORIN:
 This must be it.
 
-10
+9
 02:36:35,102 --> 02:36:36,604
 The hidden door.
 
-11
+10
 02:36:40,858 --> 02:36:42,610
 THORIN:
 Let all those who doubted us...
 
-12
+11
 02:36:43,777 --> 02:36:45,112
 ...rue this day!
 
-13
-02:36:45,362 --> 02:36:46,780
+12
+02:36:45,362 --> 02:36:47,362
 [ALL CHEERING]
 
-14
+13
 02:36:50,826 --> 02:36:53,287
 Right, then. We have a key.
 
-15
+14
 02:36:54,997 --> 02:36:56,498
 Which means that somewhere...
 
-16
+15
 02:36:57,625 --> 02:36:59,001
 ...there is a key-hole.
 
-17
+16
 02:36:59,710 --> 02:37:02,610
 THORIN:
 "The last light of Durin's Day...
 
-18
+17
 02:37:04,590 --> 02:37:07,092
 ...will shine upon the key-hole."
 
-19
+18
 02:37:16,226 --> 02:37:17,311
 Nori.
 
-20
+19
 02:37:20,981 --> 02:37:22,483
 [DWALIN GRUNTING]
 
-21
+20
 02:37:23,943 --> 02:37:25,903
 We're losing the light. Come on.
 
-22
-02:37:32,409 --> 02:37:34,995
+21
+02:37:32,409 --> 02:37:34,928
 NORI:
 Be quiet! I can't hear when you're thumping.
 
-23
-02:37:35,128 --> 02:37:36,121
+22
+02:37:35,128 --> 02:37:36,430
 I can't find it.
 
+23
+02:37:37,498 --> 02:37:40,167
+It's not here! It's not! Here!
+
 24
-02:37:37,498 --> 02:37:38,832
-It's not here!
-
-25
-02:37:39,083 --> 02:37:40,167
-It's not! Here!
-
-26
-02:37:41,731 --> 02:37:42,815
+02:37:41,731 --> 02:37:43,231
 THORIN: Break it down!
 DWALIN: Aye.
 
-27
-02:37:45,005 --> 02:37:45,798
+25
+02:37:44,839 --> 02:37:45,839
 Come on!
 
-28
-02:37:47,967 --> 02:37:48,717
+26
+02:37:47,825 --> 02:37:48,717
 DWALIN:
 Break!
 
-29
-02:37:48,968 --> 02:37:50,141
+27
+02:37:48,968 --> 02:37:50,279
 It has to break.
 
-30
+28
 02:37:50,928 --> 02:37:52,262
 BALIN:
 It's no good.
 
-31
+29
 02:37:52,513 --> 02:37:55,015
 The door's sealed. Can't be opened by force.
 
-32
+30
 02:37:56,642 --> 02:37:58,119
 There's a powerful magic on it.
 
-33
+31
 02:38:07,403 --> 02:38:08,529
 No!
 
-34
+32
 02:38:13,867 --> 02:38:16,161
 "The last light of Durin's Day...
 
-35
+33
 02:38:18,038 --> 02:38:19,796
 ...will shine upon the key-hole."
 
-36
+34
 02:38:24,044 --> 02:38:25,629
 That is what it says.
 
-37
+35
 02:38:30,134 --> 02:38:31,552
 What did we miss?
 
-38
+36
 02:38:35,514 --> 02:38:36,974
 What did we miss?
 
-39
+37
 02:38:38,017 --> 02:38:38,976
 Balin?
 
-40
+38
 02:38:39,601 --> 02:38:41,311
 We've lost the light.
 
-41
+39
 02:38:43,856 --> 02:38:45,691
 There's no more to be done.
 
-42
+40
 02:38:47,234 --> 02:38:49,319
 <i>We had but one chance.</i>
 
-43
+41
 02:38:51,739 --> 02:38:52,990
 <i>Come away, lads.</i>
 
-44
+42
 02:38:53,240 --> 02:38:55,034
 It's over.
 
-45
+43
 02:38:56,118 --> 02:38:58,245
 - Wait a minute.
 GLOIN: We're too late.
 
-46
+44
 02:39:00,748 --> 02:39:02,166
 BILBO:
 Where are they going?
 
-47
+45
 02:39:03,959 --> 02:39:05,836
 You can't give up now!
 
-48
+46
 02:39:20,768 --> 02:39:21,935
 Thorin.
 
-49
+47
 02:39:23,979 --> 02:39:25,647
 You can't give up now.
 
-50
+48
 02:39:37,201 --> 02:39:39,578
 "Stand by the gray stone...
 
-51
+49
 02:39:41,455 --> 02:39:43,540
 ...when the thrush knocks."
 
-52
+50
 02:39:44,291 --> 02:39:45,667
 The setting sun.
 
-53
+51
 02:39:46,710 --> 02:39:49,588
 And "the last light of Durin's Day
 will shine..."
 
-54
+52
 02:39:51,089 --> 02:39:52,549
 The last light.
 
-55
+53
 02:39:55,093 --> 02:39:56,470
 Last light.
 
-56
+54
 02:40:10,852 --> 02:40:15,852
 [CLICKING ON STONE]
 
-57
+55
 02:40:33,173 --> 02:40:34,424
 The last light!
 
-58
+56
 02:40:44,643 --> 02:40:45,769
 The key-hole!
 
-59
-02:40:46,473 --> 02:40:47,057
-<i>Come back!</i>
-
-60
-02:40:47,567 --> 02:40:48,902
+57
+02:40:46,473 --> 02:40:48,834
+Come back!
 Come back!
 
-61
+58
 02:40:49,034 --> 02:40:53,012
 It's the light of the moon!
 The last moon of autumn!
 
-62
+59
 02:40:53,503 --> 02:40:54,736
 Ha, ha, ha!
 
-63
+60
 02:40:56,655 --> 02:40:59,032
 Where's the key? Where's the key?
 Where's the--?
 
-64
+61
 02:40:59,283 --> 02:41:00,993
 It was here.
 
-65
+62
 02:41:01,243 --> 02:41:03,036
 Come on, it was-- It was here.
 
-66
+63
 02:41:03,745 --> 02:41:04,753
 It was just--
 
-67
+64
 02:41:05,323 --> 02:41:06,323
 [TINKLING]
 
-68
-02:41:40,616 --> 02:41:41,658
+65
+02:41:06,657 --> 02:41:08,220
 [THUMP]
 
-69
+66
+02:41:40,616 --> 02:41:41,866
+[THUD]
+
+67
 02:42:02,596 --> 02:42:04,056
 Erebor.
 
-70
+68
 02:42:04,765 --> 02:42:05,891
 Thorin.
 
-71
+69
 02:42:19,279 --> 02:42:21,156
 I know these walls.
 
-72
+70
 02:42:24,910 --> 02:42:26,453
 These halls.
 
-73
+71
 02:42:29,456 --> 02:42:30,832
 This stone.
 
-74
+72
 02:42:34,753 --> 02:42:36,755
 You remember it, Balin.
 
-75
+73
 02:42:40,384 --> 02:42:42,886
 Chambers filled with golden light.
 
-76
+74
 02:42:44,763 --> 02:42:46,264
 I remember.
 
-77
+75
 02:42:59,528 --> 02:43:04,408
 "Herein lies the Seventh
 Kingdom of Durin's Folk.
 
-78
+76
 02:43:06,368 --> 02:43:10,415
 May the Heart of the Mountain
 unite all Dwarves...
 
-79
+77
 02:43:10,802 --> 02:43:13,291
 ...in defense of this home."
 
-80
+78
 02:43:15,002 --> 02:43:16,837
 The Throne of the King.
 
-81
+79
 02:43:17,504 --> 02:43:18,839
 - Ah.
 
-82
+80
 02:43:20,549 --> 02:43:23,885
 And what's that above it?
 
-83
+81
 02:43:27,431 --> 02:43:29,182
 The Arkenstone.
 
-84
+82
 02:43:30,475 --> 02:43:31,893
 Arkenstone.
 
-85
+83
 02:43:35,814 --> 02:43:37,149
 And what's that?
 
-86
+84
 02:43:37,482 --> 02:43:40,444
 That, Master Burglar...
 
-87
+85
 02:43:41,486 --> 02:43:43,530
 ...is why you are here.
 

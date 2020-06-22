@@ -1,9 +1,9 @@
 ﻿1
-01:36:18,951 --> 01:36:20,201
+01:36:18,951 --> 01:36:20,169
 Wait!
 
 2
-01:36:20,369 --> 01:36:23,871
+01:36:20,369 --> 01:36:23,839
 My precious. Wait!
 
 3
@@ -20,7 +20,7 @@ GANDALF:
 Quick, quick!
 
 6
-01:36:35,300 --> 01:36:36,384
+01:36:35,300 --> 01:36:36,352
 This way.
 
 7
@@ -58,7 +58,7 @@ We hates it forever!
 Five, six, seven, eight.
 
 15
-01:38:39,925 --> 01:38:42,176
+01:38:39,925 --> 01:38:42,144
 Bifur. Bofur. That's 10.
 
 16
@@ -66,7 +66,7 @@ Bifur. Bofur. That's 10.
 Fili, Kili! That's 12.
 
 17
-01:38:45,180 --> 01:38:48,391
+01:38:45,180 --> 01:38:48,359
 And Bombur. That makes 13.
 
 18
@@ -79,32 +79,32 @@ Where is our Hobbit?
 Where is our Hobbit?!?
 
 20
-01:38:57,568 --> 01:39:00,361
+01:38:57,568 --> 01:39:00,329
 DWALIN:
-Curse that Halfling! Now he's lost?
+Curse the Halfling! Now he's lost?
 
 21
-01:39:00,529 --> 01:39:01,904
+01:39:00,529 --> 01:39:01,872
 GLOIN:
 I thought he was with Dori!
 
 22
-01:39:02,072 --> 01:39:05,116
+01:39:02,072 --> 01:39:05,084
 - Don't blame me!
 - Well, where did you last see him?
 
 23
-01:39:05,284 --> 01:39:07,994
+01:39:05,284 --> 01:39:07,962
 I think I saw him slip away
 when they first collared us.
 
 24
-01:39:08,162 --> 01:39:09,579
+01:39:08,162 --> 01:39:09,546
 GANDALF:
 And what happened, exactly?
 
 25
-01:39:09,746 --> 01:39:12,039
+01:39:09,746 --> 01:39:12,007
 - Tell me!
 - I'll tell you what happened.
 
@@ -114,12 +114,12 @@ Master Baggins saw his chance
 and he took it.
 
 27
-01:39:15,961 --> 01:39:18,963
+01:39:15,961 --> 01:39:18,931
 He has thought of nothing
 but his soft bed and his warm hearth...
 
 28
-01:39:19,131 --> 01:39:21,507
+01:39:19,131 --> 01:39:21,475
 ...since first he stepped out of his door.
 
 29
@@ -135,7 +135,7 @@ He is long gone.
 No. He isn't.
 
 32
-01:39:45,407 --> 01:39:47,241
+01:39:45,407 --> 01:39:47,209
 Bilbo Baggins.
 
 33
@@ -144,11 +144,11 @@ I have never been so glad
 to see anyone in my life.
 
 34
-01:39:52,289 --> 01:39:54,207
+01:39:52,289 --> 01:39:54,174
 Bilbo. We'd given you up.
 
 35
-01:39:54,374 --> 01:39:56,292
+01:39:54,374 --> 01:39:56,260
 How on earth
 did you get past the Goblins?
 
@@ -157,7 +157,7 @@ did you get past the Goblins?
 How, indeed.
 
 37
-01:40:01,423 --> 01:40:02,465
+01:40:01,208 --> 01:40:02,465
 [CHUCKLES]
 
 38
