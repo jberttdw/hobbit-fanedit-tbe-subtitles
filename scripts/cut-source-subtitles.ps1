@@ -21,6 +21,7 @@ param (
     $srtFilm3Extended
 )
 $indexFile = "../../index/index-automated-cut.tsv"
+$outputDir = Get-Location
 if (-not (Test-Path $indexFile)) {
     throw "Index-automated-cut.tsv file not found"
 }
@@ -199,7 +200,7 @@ try {
         }
         # Write subtitles
         if ($subtitles.Count -gt 0) {
-            $currentRunOutput = "r{0:000}.srt" -f $run.Run
+            $currentRunOutput = Join-Path $outputDir ("r{0:000}.srt" -f $run.Run)
             $outputStream = [System.IO.StreamWriter] $currentRunOutput
             try {
                 foreach ($subtitle in $subtitles) {
