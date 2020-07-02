@@ -1,0 +1,57 @@
+﻿1
+01:06:48,926 --> 01:06:50,016
+Du bist nicht
+
+2
+01:06:50,116 --> 01:06:51,206
+bei deinen Gefährten?
+
+3
+01:06:52,006 --> 01:06:55,676
+Äh... Ich werde sicherlich nicht vermisst.
+
+4
+01:06:58,446 --> 01:07:02,716
+In Wahrheit finden die meisten, ich sollte
+auf dieser Reise nicht dabei sein.
+
+5
+01:07:03,406 --> 01:07:05,356
+Tatsächlich?
+
+6
+01:07:06,126 --> 01:07:09,356
+Ich habe gehört,
+Hobbits seien sehr widerstandsfähig.
+
+7
+01:07:12,686 --> 01:07:13,996
+Wirklich?
+
+8
+01:07:14,326 --> 01:07:15,326
+Mhm.
+
+9
+01:07:19,926 --> 01:07:24,436
+Und ich hörte, sie schätzten
+die Bequemlichkeit ihres Heims.
+
+10
+01:07:27,806 --> 01:07:30,696
+Ich habe gehört, es sei unklug,
+den Rat der Elben zu suchen,
+
+11
+01:07:30,796 --> 01:07:33,796
+denn sie antworten immer mit Ja und Nein.
+
+12
+01:07:42,486 --> 01:07:45,216
+Du bist herzlich willkommen,
+wenn du es wünscht,
+
+13
+01:07:45,316 --> 01:07:46,806
+hierzubleiben.
+

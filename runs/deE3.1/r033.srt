@@ -1,0 +1,202 @@
+﻿1
+01:36:19,160 --> 01:36:20,657
+Warte!
+
+2
+01:36:20,658 --> 01:36:24,458
+Mein Schatz! Warte!
+
+3
+01:36:24,459 --> 01:36:26,047
+Gollum! Gollum!
+
+4
+01:36:31,494 --> 01:36:32,860
+<i>Kommt!</i>
+
+5
+01:36:41,650 --> 01:36:43,061
+<i>Schnell!</i>
+
+6
+01:36:45,245 --> 01:36:46,561
+<i>Los.</i>
+
+7
+01:38:13,959 --> 01:38:16,459
+Beutlin!
+
+8
+01:38:16,579 --> 01:38:19,297
+Dieb!
+
+9
+01:38:19,298 --> 01:38:21,055
+Verflucht und zerstückelt!
+
+10
+01:38:21,175 --> 01:38:24,133
+Wir hassen es auf immer da!
+
+11
+01:38:36,634 --> 01:38:40,315
+Fünf, Sechs, Sieben, Acht...
+
+12
+01:38:40,316 --> 01:38:42,558
+Bifur, Bofur, das macht Zehn.
+
+13
+01:38:42,559 --> 01:38:45,316
+Fili e Kili, das macht Zwölf.
+
+14
+01:38:45,436 --> 01:38:48,717
+Und Bombur, macht 13.
+
+15
+01:38:48,867 --> 01:38:50,753
+Wo ist Bilbo?
+
+16
+01:38:51,531 --> 01:38:53,054
+Wo ist unser Hobbit?
+
+17
+01:38:54,755 --> 01:38:56,666
+Wo ist unser Hobbit?
+
+18
+01:38:57,867 --> 01:39:00,668
+Verfluchter Halbling! Jetzt ist er weg?
+
+19
+01:39:00,669 --> 01:39:02,568
+Ich hab gedacht, er wäre bei Dori.
+
+20
+01:39:02,569 --> 01:39:04,068
+Schieb es jetzt nicht auf mich.
+
+21
+01:39:04,069 --> 01:39:05,769
+Wo habt Ihr ihn zuletzt gesehen?
+
+22
+01:39:05,770 --> 01:39:08,670
+Ich glaube, als sie uns gefangen nahmen,
+konnte er sich davonstehlen.
+
+23
+01:39:08,671 --> 01:39:10,671
+Was ist genau passiert? Sprecht?
+
+24
+01:39:10,672 --> 01:39:12,272
+Ich sag dir was passiert ist.
+
+25
+01:39:12,547 --> 01:39:15,145
+Meister Beutlin hat die Gelegenheit
+erkannt und sie ergriffen.
+
+26
+01:39:16,553 --> 01:39:18,546
+Seit er aus seiner Tür getreten ist,
+
+27
+01:39:18,547 --> 01:39:21,225
+hat er nur an sein weiches
+Bett und an seinen Ofen gedacht.
+
+28
+01:39:22,026 --> 01:39:24,226
+Wir werden unseren Hobbit nicht wiedersehen.
+
+29
+01:39:25,020 --> 01:39:26,527
+Er ist fort, schon längst.
+
+30
+01:39:38,998 --> 01:39:40,170
+Nein.
+
+31
+01:39:40,810 --> 01:39:42,210
+Ist er nicht.
+
+32
+01:39:45,801 --> 01:39:47,731
+Bilbo Beutlin...
+
+33
+01:39:47,819 --> 01:39:50,632
+In meinem ganzen Leben war ich noch
+nie so froh jemanden zu sehen.
+
+34
+01:39:52,633 --> 01:39:54,733
+Bilbo, wir hatten dich schon aufgegeben.
+
+35
+01:39:54,734 --> 01:39:56,657
+Wie bist du an den Orks vorbeigekommen?
+
+36
+01:39:56,777 --> 01:39:58,799
+Gute Frage.
+
+37
+01:40:07,520 --> 01:40:11,070
+Was spielt das für eine Rolle.
+Er ist wieder hier.
+
+38
+01:40:11,634 --> 01:40:12,971
+Es spielt eine Rolle.
+
+39
+01:40:13,188 --> 01:40:14,822
+Ich will es wissen.
+
+40
+01:40:16,717 --> 01:40:18,123
+Wieso bist du wieder hier?
+
+41
+01:40:21,700 --> 01:40:24,724
+Ich weiß, dass du an mir zweifelst.
+Und das von Anfang an.
+
+42
+01:40:26,325 --> 01:40:28,425
+Du hast Recht. Ich denke oft an Beutelsend.
+
+43
+01:40:29,886 --> 01:40:31,226
+Ich vermisse meine Bücher.
+
+44
+01:40:32,758 --> 01:40:35,027
+Und meinen Sessel. Meinen Garten.
+
+45
+01:40:36,512 --> 01:40:38,186
+Da gehöre ich nämlich hin.
+
+46
+01:40:38,566 --> 01:40:39,887
+Das ist Heimat.
+
+47
+01:40:41,988 --> 01:40:43,688
+Und deshalb bin ich zurückgekommen, weil...
+
+48
+01:40:46,427 --> 01:40:48,989
+ihr keine habt... eine Heimat.
+
+49
+01:40:50,022 --> 01:40:51,390
+Sie wurde euch genommen.
+
