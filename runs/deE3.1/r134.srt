@@ -1,14 +1,10 @@
 ﻿1
-04:04:00,394 --> 04:04:02,494
-Azog hat ein zweites Heer,
+04:04:00,394 --> 04:04:02,296
+Es gibt ein zweites Heer,
 das von Norden angreift.
 
 2
-04:04:02,594 --> 04:04:04,414
+04:04:02,497 --> 04:04:04,714
 Dieser Wachturm wird umzingelt sein
-
-3
-04:04:04,514 --> 04:04:06,534
-- und niemand entkommt.
-- Wir sind so nah dran.
+und niemand entkommt.
 

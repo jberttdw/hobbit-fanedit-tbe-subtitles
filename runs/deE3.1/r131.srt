@@ -82,6 +82,6 @@ Am Rabenberg?
 Thorin ist da oben.
 
 21
-04:02:08,058 --> 04:02:10,350
+04:02:08,058 --> 04:02:09,903
 Und Fili und Kili. Sie sind alle da oben.
 

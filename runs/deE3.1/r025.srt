@@ -33,6 +33,6 @@ Die Klinge die Tausend Hälse durchschnitten hat!
 Zerfetzt sie! Erschlagt sie! Tötet sie!
 
 9
-01:19:47,367 --> 01:19:51,340
-Tötet sie alle! Schlagt ihm den Kopf ab!
+01:19:47,448 --> 01:19:48,698
+Tötet sie alle!
 

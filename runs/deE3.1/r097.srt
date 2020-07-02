@@ -222,6 +222,5 @@ Kommt.
 
 54
 03:12:49,314 --> 03:12:50,684
-- Geht weiter.
-- Herr!
+Geht weiter.
 

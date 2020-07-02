@@ -1,10 +1,10 @@
 ﻿1
-02:12:23,952 --> 02:12:24,623
-Lasst das!
+02:12:24,646 --> 02:12:25,317
+<i>Lasst das!</i>
 
 2
 02:12:25,787 --> 02:12:27,209
-Wir kommen hier nicht raus!
+<i>Wir kommen hier nicht raus!</i>
 
 3
 02:12:27,455 --> 02:12:29,457
