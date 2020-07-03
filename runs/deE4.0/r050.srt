@@ -1,351 +1,339 @@
 ﻿1
-01:49:30,613 --> 01:49:31,833
-Ah, Bilbo.
-
-2
-01:49:32,073 --> 01:49:33,043
-Da bist du ja.
-
-3
-01:49:33,143 --> 01:49:34,003
-Also.
-
-4
 01:49:34,103 --> 01:49:36,963
 Dies erfordert ein gewisses Geschick.
 
-5
+2
 01:49:37,203 --> 01:49:39,253
 Wir müssen sehr behutsam vorgehen.
 
-6
+3
 01:49:39,503 --> 01:49:43,723
 Die letzte Person, die ihn
 aufgeschreckt hat, wurde in Stücke gerissen.
 
-7
+4
 01:49:45,793 --> 01:49:46,793
 Ich gehe zuerst und...
 
-8
+5
 01:49:46,893 --> 01:49:48,303
 Ich werde vorgehen und...
 äh, Bilbo?
 
-9
+6
 01:49:48,403 --> 01:49:50,103
 Du kommst mit mir.
 
-10
+7
 01:49:51,383 --> 01:49:53,983
 - Ist das eine gute Idee?
 - Ja.
 
-11
+8
 01:49:54,223 --> 01:49:56,473
 Und ihr übrigen wartet hier
 und kommt nicht eher raus,
 
-12
+9
 01:49:56,723 --> 01:49:59,273
 - bis ich ein Zeichen gebe.
 - Gut.
 
-13
+10
 01:49:59,523 --> 01:50:00,773
 Erst auf dein Zeichen.
 
-14
+11
 01:50:01,023 --> 01:50:04,323
 Keine jähen Bewegungen oder
 lauten Geräusche. Und bedrängt ihn nicht.
 
-15
+12
 01:50:04,563 --> 01:50:06,913
 Und kommt immer nur paarweise. Huh.
 
-16
+13
 01:50:07,153 --> 01:50:08,703
 Oh, nein, Bombur.
 
-17
+14
 01:50:10,243 --> 01:50:12,363
 Du zählst für 2.
 Komm du lieber allein.
 
-18
+15
 01:50:12,573 --> 01:50:13,573
 Mm.
 
-19
+16
 01:50:14,823 --> 01:50:17,423
 Gut. Nicht vergessen:
 Wartet auf das Zeichen!
 
-20
+17
 01:50:17,663 --> 01:50:20,333
 Das Zeichen. Ist gut.
 
-21
+18
 01:50:20,543 --> 01:50:21,823
 Und was für ein Zeichen ist das?
 
-22
+19
 01:50:37,643 --> 01:50:38,813
 - Hm?
 - Du bist aufgeregt.
 
-23
+20
 01:50:43,193 --> 01:50:46,363
 Aufgeregt? Was? Unsinn.
 
-24
+21
 01:50:46,863 --> 01:50:47,863
 Guten Morgen!
 
-25
+22
 01:50:54,363 --> 01:50:56,163
 Guten Morgen!
 
-26
+23
 01:50:58,993 --> 01:51:00,463
 Wer bist du?
 
-27
+24
 01:51:00,703 --> 01:51:04,503
 Ich bin Gandalf, Gandalf, der Graue.
 
-28
+25
 01:51:09,343 --> 01:51:11,213
 Noch nie von ihm gehört.
 
-29
+26
 01:51:14,383 --> 01:51:15,513
 Ich bin Zauberer.
 
-30
+27
 01:51:15,973 --> 01:51:18,843
 Ihr habt vielleicht von meinem
 Mitstreiter Radagast, dem Braunen, gehört.
 
-31
+28
 01:51:18,943 --> 01:51:21,893
 Er wohnt am Südrand des Düsterwalds.
 
-32
+29
 01:51:22,143 --> 01:51:24,233
 Was willst du?
 
-33
+30
 01:51:24,483 --> 01:51:28,073
 Nun, nichts mehr, als Euch
 für Eure Gastfreundschaft danken.
 
-34
+31
 01:51:28,313 --> 01:51:29,943
 Ihr habt vielleicht bemerkt, dass wir
 
-35
+32
 01:51:30,193 --> 01:51:32,313
 heute Nacht
 Schutz in Eurer Unterkunft gesucht haben.
 
-36
+33
 01:51:33,653 --> 01:51:34,523
 Wer ist
 
-37
+34
 01:51:34,623 --> 01:51:35,493
 der kleine Kerl da?
 
-38
+35
 01:51:35,903 --> 01:51:38,083
 Oh, das ist Herr Beutlin,
 
-39
+36
 01:51:38,323 --> 01:51:39,373
 aus dem Auenland.
 
-40
+37
 01:51:41,453 --> 01:51:43,753
 Er ist doch nicht etwa ein Zwerg?
 
-41
+38
 01:51:44,253 --> 01:51:47,133
 Oh nein.
 Nein, er ist ein Hobbit.
 
-42
+39
 01:51:47,713 --> 01:51:51,303
 Aus guter Familie
 und von untadeligem Ruf.
 
-43
+40
 01:51:51,553 --> 01:51:55,603
 Ein Halbling und ein Zauberer.
 
-44
+41
 01:51:55,843 --> 01:51:57,093
 Warum seid ihr hier?
 
-45
+42
 01:51:57,343 --> 01:51:58,253
 Oh, es ist so,
 
-46
+43
 01:51:58,353 --> 01:52:03,563
 dass wir allerhand Ärger
 mit den Orks im Gebirge gehabt haben.
 
-47
+44
 01:52:03,813 --> 01:52:05,253
 Was treibt ihr in der Nähe von Orks?
 
-48
+45
 01:52:05,433 --> 01:52:06,943
 Das ist dumm von euch.
 
-49
+46
 01:52:07,193 --> 01:52:08,553
 Ihr habt ohne jeden Zweifel Recht.
 
-50
+47
 01:52:08,653 --> 01:52:10,243
 - Das war furchtbar dumm.
 - Das war es! Los, los!
 
-51
+48
 01:52:10,343 --> 01:52:12,233
 - Los!
 - Es war schrecklich.
 
-52
+49
 01:52:21,243 --> 01:52:22,193
 Dwalin
 
-53
+50
 01:52:22,293 --> 01:52:23,243
 und Balin.
 
-54
+51
 01:52:23,453 --> 01:52:24,673
 Und ich muss gestehen,
 
-55
+52
 01:52:24,913 --> 01:52:26,883
 dass so einige von uns
 
-56
+53
 01:52:27,123 --> 01:52:30,423
 in der Tat Zwerge sind.
 
-57
+54
 01:52:30,673 --> 01:52:32,873
 Nennst du 2
 
-58
+55
 01:52:33,303 --> 01:52:35,513
 "so einige"?
 
-59
+56
 01:52:35,763 --> 01:52:38,353
 Nun ja, äh, wenn Ihr es so sehen wollt...
 
-60
+57
 01:52:40,803 --> 01:52:41,853
 Ja, es könnten mehr
 
-61
+58
 01:52:42,103 --> 01:52:43,143
 als 2 sein.
 
-62
+59
 01:52:43,893 --> 01:52:44,893
 Los, los!
 
-63
+60
 01:52:45,023 --> 01:52:46,023
 Jetzt wir.
 
-64
+61
 01:52:49,903 --> 01:52:50,903
 Ach, und da sind
 
-65
+62
 01:52:51,023 --> 01:52:52,773
 noch ein paar unserer fröhlichen Truppe.
 
-66
+63
 01:52:53,023 --> 01:52:55,203
 Nennst du 6 eine Truppe?
 
-67
+64
 01:52:56,283 --> 01:52:58,703
 Was seid ihr, ein Wanderzirkus?
 
-68
+65
 01:52:59,823 --> 01:53:00,753
 Los.
 
-69
+66
 01:53:00,853 --> 01:53:01,873
 Los, los!
 
-70
+67
 01:53:05,123 --> 01:53:08,593
 Dori und Ori, zu Euren Diensten.
 
-71
+68
 01:53:08,833 --> 01:53:09,703
 Eure Dienste
 
-72
+69
 01:53:09,803 --> 01:53:10,643
 brauche ich nicht.
 
-73
+70
 01:53:10,743 --> 01:53:11,963
 Vollkommen verständlich.
 
-74
+71
 01:53:12,213 --> 01:53:13,123
 Los!
 
-75
+72
 01:53:13,223 --> 01:53:14,133
 Los!
 
-76
+73
 01:53:16,713 --> 01:53:19,563
 Oh. Fili und Kili.
 Hatte ich ganz vergessen.
 
-77
+74
 01:53:20,803 --> 01:53:23,053
 Ach ja. Und Nori, Bofur,
 
-78
+75
 01:53:23,303 --> 01:53:24,303
 Bifur
 
-79
+76
 01:53:26,473 --> 01:53:28,153
 und Bombur.
 
-80
+77
 01:53:29,273 --> 01:53:30,893
 Sind das nun alle?
 
-81
+78
 01:53:33,693 --> 01:53:35,193
 Sind das alle?
 Sind da noch mehr?
 
-82
+79
 01:53:42,533 --> 01:53:43,533
 Ah.
 
-83
+80
 01:53:47,493 --> 01:53:51,253
 Also du bist der,
 den sie Eichenschild nennen.
