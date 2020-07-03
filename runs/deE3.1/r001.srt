@@ -1,0 +1,35 @@
+﻿1
+00:01:05,248 --> 00:01:07,380
+<i>Mein lieber Frodo.</i>
+
+2
+00:01:13,600 --> 00:01:19,260
+<i>Du hast mich einmal gefragt, ob ich dir alle
+Geschichten über meine Abenteuer erzählt hätte.</i>
+
+3
+00:01:20,171 --> 00:01:23,954
+<i>Und wenn gleich ich behaupten kann,
+dir stets die Wahrheit gesagt zu haben.</i>
+
+4
+00:01:25,134 --> 00:01:27,605
+<i>So habe ich dir doch nicht alles erzählt.</i>
+
+5
+00:01:35,074 --> 00:01:37,243
+<i>Ich bin jetzt alt, Frodo.</i>
+
+6
+00:01:38,948 --> 00:01:41,448
+<i>Ich bin nicht mehr derselbe
+Hobbit, der ich einst war.</i>
+
+7
+00:01:45,030 --> 00:01:48,952
+<i>Ich finde, es ist an der Zeit, dass du erfährst...</i>
+
+8
+00:01:49,645 --> 00:01:51,891
+<i>...was wirklich geschehen ist.</i>
+

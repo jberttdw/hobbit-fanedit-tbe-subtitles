@@ -1,0 +1,388 @@
+﻿1
+04:12:18,304 --> 04:12:20,644
+Heute Abend gibt es ein großes Fest.
+
+2
+04:12:20,744 --> 04:12:24,276
+Lieder werden gesungen,
+Geschichten werden erzählt.
+
+3
+04:12:25,984 --> 04:12:30,721
+Und Thorin Eichenschild
+wird zur Legende werden.
+
+4
+04:12:31,744 --> 04:12:33,604
+Ich weiß,
+dass ihr ihn auf diese Weise ehren müsst.
+
+5
+04:12:33,704 --> 04:12:35,882
+Aber für mich war er das nie.
+
+6
+04:12:36,784 --> 04:12:38,313
+Er war...
+
+7
+04:12:39,424 --> 04:12:40,999
+Für mich...
+
+8
+04:12:42,504 --> 04:12:44,033
+Er war..
+
+9
+04:12:50,984 --> 04:12:54,084
+Ich mache mich leise davon.
+Sagst du den anderen Lebewohl?
+
+10
+04:12:54,184 --> 04:12:56,282
+Warum sagst du es ihnen nicht selbst?
+
+11
+04:13:12,264 --> 04:13:15,921
+Wenn ihr wieder mal
+nach Beutelsend kommt, äh...
+
+12
+04:13:20,704 --> 04:13:22,279
+Tee gibt's um 4.
+
+13
+04:13:23,624 --> 04:13:25,517
+Es ist genug da.
+
+14
+04:13:27,824 --> 04:13:30,036
+Ihr seid jederzeit willkommen.
+
+15
+04:13:35,704 --> 04:13:37,404
+Äh...
+
+16
+04:13:38,504 --> 04:13:40,318
+Ihr braucht nicht anzuklopfen.
+
+17
+04:14:22,584 --> 04:14:25,080
+Ah, die Grenze zum Auenland.
+
+18
+04:14:26,744 --> 04:14:28,842
+Hier muss ich dich verlassen.
+
+19
+04:14:31,184 --> 04:14:32,884
+Schade.
+
+20
+04:14:35,104 --> 04:14:36,924
+Es ist recht angenehm,
+
+21
+04:14:37,024 --> 04:14:39,043
+wenn man einen Zauberer bei sich hat.
+
+22
+04:14:39,984 --> 04:14:42,037
+Die bringen anscheinend Glück.
+
+23
+04:14:42,824 --> 04:14:46,364
+Du denkst doch wohl nicht,
+dass du bei all deinen Abenteuern
+
+24
+04:14:46,464 --> 04:14:48,915
+mit heiler Haut davongekommen bist,
+war nur Glück?
+
+25
+04:14:49,624 --> 04:14:52,964
+Zauberringe darf man nicht
+leichtfertig benutzen, Bilbo.
+
+26
+04:14:53,064 --> 04:14:54,484
+Halte mich nicht zum Narren.
+
+27
+04:14:54,584 --> 04:14:57,204
+Ich weiß,
+du hast einen in den Orkstollen gefunden.
+
+28
+04:14:57,304 --> 04:15:00,954
+Und seitdem habe ich
+ein Auge auf dich.
+
+29
+04:15:03,864 --> 04:15:05,723
+Dem Himmel sei Dank.
+
+30
+04:15:10,144 --> 04:15:12,083
+Lebe wohl, Gandalf.
+
+31
+04:15:14,704 --> 04:15:16,404
+Lebe wohl.
+
+32
+04:15:23,304 --> 04:15:24,684
+Du brauchst dich, äh,
+
+33
+04:15:24,784 --> 04:15:28,564
+um diesen Ring nicht zu sorgen. Er ist mir
+bei der Schlacht aus der Tasche gefallen.
+
+34
+04:15:28,664 --> 04:15:30,034
+Ich habe ihn verloren.
+
+35
+04:15:30,664 --> 04:15:34,275
+Du bist ein sehr feiner Kerl, Bilbo Beutlin.
+
+36
+04:15:34,944 --> 04:15:37,634
+Und ich habe dich sehr gern.
+
+37
+04:15:39,064 --> 04:15:41,674
+Aber du bist nur ein kleiner Bursche,
+
+38
+04:15:42,624 --> 04:15:45,758
+auf der großen weiten Welt.
+
+39
+04:16:16,744 --> 04:16:19,804
+Moment mal,
+das ist die Aussteuertruhe meiner Mutter.
+
+40
+04:16:19,904 --> 04:16:22,324
+Und das ist mein Stuhl.
+
+41
+04:16:22,424 --> 04:16:25,604
+Ah... Bring die Sitzbank sofort zurück!
+
+42
+04:16:25,704 --> 04:16:27,484
+Was ist hier los?
+
+43
+04:16:27,784 --> 04:16:29,924
+Guten Tag, Herr Bilbo.
+
+44
+04:16:30,024 --> 04:16:31,804
+Sie dürften gar nicht hier sein.
+
+45
+04:16:31,904 --> 04:16:33,684
+Wie meinen Sie das?
+
+46
+04:16:33,784 --> 04:16:35,643
+Na, weil Sie doch
+für tot erklärt worden sind und alles.
+
+47
+04:16:36,304 --> 04:16:37,924
+Ich bin nicht tot.
+
+48
+04:16:38,024 --> 04:16:40,156
+Weder erklärt noch sonst wie.
+
+49
+04:16:40,984 --> 04:16:43,044
+Ich glaube nicht, dass das erlaubt ist.
+
+50
+04:16:43,144 --> 04:16:44,884
+Herr Bilbo!
+
+51
+04:16:44,984 --> 04:16:47,564
+19, 20. 21?
+
+52
+04:16:47,664 --> 04:16:49,684
+Wer erhöht auf 21?
+
+53
+04:16:49,784 --> 04:16:52,684
+Ha, ha. Verkauft an Frau Bolger.
+
+54
+04:16:52,784 --> 04:16:55,474
+Jetzt haben Dicks Füße endlich ein Plätzchen.
+
+55
+04:16:57,304 --> 04:16:58,484
+Höre ich hierfür ein Gebot?
+
+56
+04:16:58,584 --> 04:17:01,084
+Gefertigt im Auenland.
+
+57
+04:17:01,184 --> 04:17:03,124
+Nicht das schnöde
+nachgemachte Zwergenzeugs.
+
+58
+04:17:03,224 --> 04:17:04,364
+Halt!
+
+59
+04:17:04,464 --> 04:17:05,884
+Halt!
+
+60
+04:17:05,984 --> 04:17:08,164
+- Das ist ein Irrtum!
+- Wer sind Sie?
+
+61
+04:17:08,264 --> 04:17:09,404
+Was soll das, wer ich bin?
+
+62
+04:17:09,504 --> 04:17:13,204
+Du weißt ganz genau, wer ich bin,
+Lobelia Sackheim-Beutlin.
+
+63
+04:17:13,304 --> 04:17:14,844
+Das ist mein Zuhause!
+
+64
+04:17:14,944 --> 04:17:17,364
+Und das sind meine Löffel.
+Verbindlichsten Dank.
+
+65
+04:17:17,464 --> 04:17:19,204
+- Das ist höchst regelwidrig.
+- Verzeihung.
+
+66
+04:17:19,304 --> 04:17:22,844
+Es sind mehr als 13 Monate vergangen
+seit dem Verschwinden.
+
+67
+04:17:22,944 --> 04:17:28,004
+Wenn Sie tatsächlich
+Bilbo Beutlin und unverstorben sind,
+
+68
+04:17:28,104 --> 04:17:29,804
+können Sie das beweisen?
+
+69
+04:17:29,904 --> 04:17:30,844
+Was?
+
+70
+04:17:30,944 --> 04:17:34,084
+Nun, irgendein Schriftstück
+mit Ihrem Namen darauf würde reichen.
+
+71
+04:17:34,184 --> 04:17:36,362
+Na gut. Gut.
+
+72
+04:17:38,944 --> 04:17:41,520
+Der Vertrag zu meiner Beschäftigung als...
+
+73
+04:17:43,904 --> 04:17:45,194
+Als was ist ja egal.
+
+74
+04:17:46,864 --> 04:17:48,364
+Da. Meine Unterschrift.
+
+75
+04:17:48,464 --> 04:17:50,644
+Ja, also, äh...
+
+76
+04:17:50,744 --> 04:17:52,724
+Es scheint seine Richtigkeit zu haben.
+
+77
+04:17:52,824 --> 04:17:54,084
+Ja.
+
+78
+04:17:54,184 --> 04:17:56,521
+Mir scheint, es gibt da keine Zweifel.
+
+79
+04:17:57,184 --> 04:17:59,362
+Wer ist diese Person,
+die Ihre Dienste in Anspruch genommen hat?
+
+80
+04:18:01,104 --> 04:18:02,963
+Thorin Eichenschild?
+
+81
+04:18:06,104 --> 04:18:07,394
+Er...
+
+82
+04:18:08,184 --> 04:18:10,043
+Er war mein Freund.
+
+83
+04:20:04,584 --> 04:20:06,124
+Nein, danke!
+
+84
+04:20:06,224 --> 04:20:11,004
+Wir brauchen keine weiteren Besucher,
+Gratulanten oder entfernte Verwandte.
+
+85
+04:20:11,104 --> 04:20:14,517
+Und was ist mit
+sehr alten Freunden?
+
+86
+04:20:21,784 --> 04:20:22,924
+Gandalf?
+
+87
+04:20:23,024 --> 04:20:24,444
+Bilbo Beutlin.
+
+88
+04:20:24,544 --> 04:20:26,644
+Mein lieber Gandalf! Ha, ha!
+
+89
+04:20:26,744 --> 04:20:28,124
+Schön, dich zu sehen.
+
+90
+04:20:28,224 --> 04:20:32,120
+111 Jahre alt. Ist das zu glauben?
+
+91
+04:20:36,024 --> 04:20:38,124
+Komm! Komm rein!
+

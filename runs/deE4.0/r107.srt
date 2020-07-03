@@ -1,0 +1,242 @@
+﻿1
+03:28:18,973 --> 03:28:22,553
+Seit wann wird mein Rat so geringgeschätzt?
+
+2
+03:28:22,653 --> 03:28:24,473
+Was denkt Ihr, bezwecke ich damit?
+
+3
+03:28:24,573 --> 03:28:29,713
+Ich glaube, Ihr wollt Eure Zwergenfreunde retten.
+Und ich bewundere Eure Treue zu ihnen.
+
+4
+03:28:29,813 --> 03:28:32,867
+Aber das bringt mich nicht ab, von meinem Kurs.
+
+5
+03:28:33,373 --> 03:28:36,029
+Ihr habt es begonnen, Mithrandir.
+
+6
+03:28:36,333 --> 03:28:39,433
+Verzeiht mir, wenn ich es beende.
+
+7
+03:28:39,533 --> 03:28:41,552
+Sind die Bogenschützen in Stellung?
+
+8
+03:28:42,133 --> 03:28:44,629
+- Ja, mein Herr.
+- Erteilt den Befehl.
+
+9
+03:28:44,973 --> 03:28:47,353
+Wenn sich irgendetwas auf diesem Berg rührt,
+
+10
+03:28:47,453 --> 03:28:48,823
+tötet es.
+
+11
+03:28:51,533 --> 03:28:54,143
+Die Zeit der Zwerge ist um.
+
+12
+03:29:20,733 --> 03:29:21,830
+Ihr da! Bogenschütze!
+
+13
+03:29:23,013 --> 03:29:24,153
+Seid Ihr damit einverstanden?
+
+14
+03:29:24,253 --> 03:29:26,829
+Ist Gold Euch tatsächlich so wichtig?
+
+15
+03:29:27,333 --> 03:29:30,148
+Erkauft Ihr es mit dem Blut von Zwergen?
+
+16
+03:29:30,533 --> 03:29:31,753
+Dazu wird es nicht kommen.
+
+17
+03:29:31,853 --> 03:29:34,753
+- Diesen Kampf können sie nicht gewinnen.
+- Das wird sie nicht aufhalten.
+
+18
+03:29:34,853 --> 03:29:37,913
+Glaubt Ihr,
+die Zwerge ergeben sich? Niemals.
+
+19
+03:29:38,013 --> 03:29:39,953
+Sie kämpfen bis in den Tod für ihre Sache.
+
+20
+03:29:40,053 --> 03:29:41,833
+Bilbo Beutlin.
+
+21
+03:29:42,053 --> 03:29:43,473
+Wenn ich mich nicht täusche,
+
+22
+03:29:43,573 --> 03:29:47,993
+ist dies der Halbling,
+der die Schlüssel zu meinen Verliesen
+
+23
+03:29:48,093 --> 03:29:50,225
+vor der Nase meiner Wachen gestohlen hat.
+
+24
+03:29:52,453 --> 03:29:53,823
+Ja.
+
+25
+03:29:54,533 --> 03:29:56,983
+Bitte um Verzeihung.
+
+26
+03:29:57,253 --> 03:30:02,543
+Ich bin gekommen,
+um Euch das hier zu geben.
+
+27
+03:30:07,013 --> 03:30:09,191
+Das Herz des Berges.
+
+28
+03:30:10,813 --> 03:30:12,433
+Das Königsjuwel.
+
+29
+03:30:13,573 --> 03:30:15,865
+Und königliche Auslöse wert.
+
+30
+03:30:17,493 --> 03:30:19,793
+Wie kommt Ihr in seinen Besitz?
+
+31
+03:30:19,893 --> 03:30:22,185
+Das ist mein Vierzehntel Anteil an dem Schatz.
+
+32
+03:30:23,533 --> 03:30:24,793
+Warum tut Ihr das?
+
+33
+03:30:24,893 --> 03:30:26,313
+Ihr schuldet uns keine Treue.
+
+34
+03:30:26,413 --> 03:30:28,386
+Ich tue das nicht für Euch.
+
+35
+03:30:29,933 --> 03:30:32,464
+Ich weiß, Zwerge können starrsinnig sein
+
+36
+03:30:32,693 --> 03:30:34,268
+und dickköpfig
+
+37
+03:30:34,693 --> 03:30:35,953
+und schwierig.
+
+38
+03:30:36,053 --> 03:30:38,033
+Misstrauisch und heimlichtuerisch
+und haben
+
+39
+03:30:38,133 --> 03:30:43,742
+die schlimmsten Manieren, die man sich vorstellen
+kann, aber sie sind auch tapfer und gütig
+
+40
+03:30:45,053 --> 03:30:46,673
+und unendlich treu.
+
+41
+03:30:47,533 --> 03:30:51,633
+Ich habe sie ins Herz geschlossen
+und möchte sie retten, wenn ich kann.
+
+42
+03:30:52,173 --> 03:30:55,873
+Thorin ist dieser Stein mehr wert,
+als alles andere.
+
+43
+03:30:55,973 --> 03:30:59,833
+Um ihn zurückzubekommen, wird er Euch
+sicherlich geben, was er Euch schuldet.
+
+44
+03:30:59,933 --> 03:31:02,344
+Es gibt für Krieg also keinen Grund.
+
+45
+03:31:07,573 --> 03:31:08,713
+<i>Ruhe dich heute Nacht aus.</i>
+
+46
+03:31:08,813 --> 03:31:11,633
+- Du musst morgen aufbrechen.
+- Was?
+
+47
+03:31:11,733 --> 03:31:14,793
+- Geh so weit wie möglich fort von hier.
+- Ich werde nicht gehen.
+
+48
+03:31:14,893 --> 03:31:17,793
+Du hast mich zum vierzehnten Mann gemacht.
+Ich verlasse die Unternehmung jetzt nicht.
+
+49
+03:31:17,893 --> 03:31:20,073
+Es gibt keine Unternehmung. Nicht mehr.
+
+50
+03:31:20,173 --> 03:31:22,753
+Nicht auszudenken, was Thorin tut,
+wenn er hiervon erfährt.
+
+51
+03:31:22,853 --> 03:31:24,593
+Ich habe keine Angst vor Thorin.
+
+52
+03:31:24,693 --> 03:31:26,313
+Solltest du aber.
+
+53
+03:31:26,573 --> 03:31:29,913
+Unterschätze niemals
+das Böse im Gold.
+
+54
+03:31:30,013 --> 03:31:33,473
+Gold, auf dem
+eine Feuer-Schlange gelegen hat.
+
+55
+03:31:33,573 --> 03:31:38,346
+Die Drachenkrankheit dringt in die Herzen aller,
+die dem Berg zu nahe kommen.
+
+56
+03:31:39,693 --> 03:31:40,983
+Fast aller. Ha.
+

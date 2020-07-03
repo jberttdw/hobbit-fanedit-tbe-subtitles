@@ -1,0 +1,9 @@
+﻿1
+01:47:48,197 --> 01:47:49,824
+Es gibt ein Haus,
+
+2
+01:47:51,658 --> 01:47:55,538
+es ist nicht weit von hier,
+und dort könnten wir Zuflucht suchen.
+

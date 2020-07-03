@@ -1,0 +1,43 @@
+﻿1
+03:05:44,458 --> 03:05:45,878
+- Vater!
+- Komm her!
+
+2
+03:05:45,978 --> 03:05:47,394
+Du lebst!
+
+3
+03:05:48,818 --> 03:05:50,472
+Alles ist gut, meine Lieben.
+
+4
+03:05:53,338 --> 03:05:55,675
+Es war Bard! Er hat den Drachen getötet!
+
+5
+03:05:55,938 --> 03:05:57,998
+Ich hab's mit eigenen Augen gesehen.
+
+6
+03:05:58,098 --> 03:05:59,518
+Er hat die Bestie erlegt!
+
+7
+03:05:59,618 --> 03:06:02,227
+Mit einem schwarzen Pfeil
+hat er ihn erledigt.
+
+8
+03:06:04,458 --> 03:06:05,598
+Danke, Bard! Danke!
+
+9
+03:06:05,698 --> 03:06:07,398
+- Gut gemacht.
+- Danke!
+
+10
+03:06:10,058 --> 03:06:11,358
+Du hast uns alle gerettet!
+

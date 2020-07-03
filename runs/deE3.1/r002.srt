@@ -1,0 +1,27 @@
+﻿1
+00:01:54,265 --> 00:01:58,344
+<i>Sie begann... Nun, sie begann,
+wie man es wohl erwartet.</i>
+
+2
+00:01:59,930 --> 00:02:04,480
+<i>In einem Loch im Boden, da lebte ein Hobbit.</i>
+
+3
+00:02:06,607 --> 00:02:10,869
+<i>Nicht in einem feuchten, schmutzigen Loch,
+voller Würmer und Modergeruch.</i>
+
+4
+00:02:12,300 --> 00:02:14,449
+<i>Das Loch war eine Hobbithöhle.</i>
+
+5
+00:02:14,685 --> 00:02:18,914
+<i>Und das heißt, gutes Essen,
+ein warmes Herdfeuer...</i>
+
+6
+00:02:20,292 --> 00:02:22,491
+<i>...und die Geborgenheit eines Zuhauses.</i>
+

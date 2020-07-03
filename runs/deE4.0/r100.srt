@@ -1,0 +1,279 @@
+﻿1
+03:14:03,402 --> 03:14:06,142
+- Diese Kinder haben Hunger.
+- Wir brauchen was zu Essen.
+
+2
+03:14:06,242 --> 03:14:08,582
+- Wir halten keine 3 Tage durch.
+- Bard,
+
+3
+03:14:08,682 --> 03:14:11,451
+- wir haben nicht genug.
+- Tut, was Ihr könnt, Peredur.
+
+4
+03:14:12,522 --> 03:14:14,779
+Alles wird gut. Hab keine Angst.
+
+5
+03:14:15,002 --> 03:14:16,822
+Wir brauchen mehr Wasser.
+
+6
+03:14:16,922 --> 03:14:19,422
+Kinder, Verletzte und Frauen gehen vor.
+
+7
+03:14:19,522 --> 03:14:20,972
+Hier. Trink das.
+
+8
+03:14:21,642 --> 03:14:22,932
+Guten Morgen, Alfrid.
+
+9
+03:14:23,602 --> 03:14:25,262
+Irgendwas geschehen in der Nacht?
+
+10
+03:14:25,362 --> 03:14:28,177
+Alles ruhig, Herr. Nichts passiert.
+
+11
+03:14:28,442 --> 03:14:30,620
+Mir entgeht nichts.
+
+12
+03:14:37,402 --> 03:14:40,774
+Außer einem Heer von Elben, wie mir scheint.
+
+13
+03:15:13,682 --> 03:15:16,142
+Mein Herr Thranduil. Wir haben Euch hier
+
+14
+03:15:16,242 --> 03:15:18,898
+- nicht erwartet.
+- Ich hörte, Ihr braucht Hilfe.
+
+15
+03:15:37,522 --> 03:15:38,972
+Hier, nimm!
+
+16
+03:15:39,922 --> 03:15:41,417
+Reicht es weiter!
+
+17
+03:15:42,002 --> 03:15:43,418
+Und noch eine!
+
+18
+03:15:47,202 --> 03:15:48,492
+Ihr habt uns gerettet.
+
+19
+03:15:48,922 --> 03:15:50,542
+Ich weiß nicht, wie ich Euch danken soll.
+
+20
+03:15:50,642 --> 03:15:52,774
+Eure Dankbarkeit ist unnötig.
+
+21
+03:15:53,322 --> 03:15:55,422
+Ich bin nicht euretwegen hier.
+
+22
+03:15:55,522 --> 03:15:58,701
+Ich komme, um etwas zurückzufordern,
+das mir gehört.
+
+23
+03:16:05,602 --> 03:16:09,373
+<i>In diesem Berg gibt es Edelsteine,
+die auch ich begehre.</i>
+
+24
+03:16:09,882 --> 03:16:13,254
+<i>Weiße Steine aus reinem Sternenlicht.</i>
+
+25
+03:16:13,722 --> 03:16:16,378
+Die Weißen Steine aus Lasgalen.
+
+26
+03:16:18,002 --> 03:16:21,261
+Ich kenne einen Elbenfürsten,
+der einen stolzen Preis dafür bezahlen würde.
+
+27
+03:16:26,922 --> 03:16:28,861
+Wartet! Bitte, wartet!
+
+28
+03:16:32,002 --> 03:16:34,582
+Ihr zieht in den Krieg
+wegen einer Handvoll Edelsteine?
+
+29
+03:16:34,682 --> 03:16:38,422
+Die Erbstücke meines Volkes
+werden nicht leichtfertig aufgegeben.
+
+30
+03:16:38,522 --> 03:16:40,336
+Wir haben dasselbe Ziel.
+
+31
+03:16:41,522 --> 03:16:45,542
+Auch mein Volk hat einen Anspruch
+auf die Reichtümer in diesem Berg.
+
+32
+03:16:45,802 --> 03:16:48,331
+Lasst mich mit Thorin sprechen.
+
+33
+03:16:48,602 --> 03:16:51,182
+Ihr wollt mit dem Zwerg verhandeln?
+
+34
+03:16:51,282 --> 03:16:52,936
+Um einen Krieg zu verhindern?
+
+35
+03:16:53,442 --> 03:16:54,778
+Ja.
+
+36
+03:16:55,362 --> 03:16:57,574
+Für eine Nacht keine schlechte Arbeit.
+
+37
+03:16:59,362 --> 03:17:00,937
+Kommt.
+
+38
+03:17:23,322 --> 03:17:26,062
+Seid gegrüßt, Thorin, Sohn von Thrain.
+
+39
+03:17:26,162 --> 03:17:28,822
+Dass Ihr noch am Leben seid,
+wagten wir nicht zu hoffen.
+
+40
+03:17:28,922 --> 03:17:33,222
+Warum kommt ihr in Kriegsrüstung
+an das Tor des Königs unter dem Berge?
+
+41
+03:17:33,322 --> 03:17:36,501
+Warum verschanzt sich der König
+unter dem Berge
+
+42
+03:17:36,922 --> 03:17:39,532
+wie ein Räuber in seiner Höhle?
+
+43
+03:17:39,922 --> 03:17:43,294
+Vielleicht, weil ich erwarte, beraubt zu werden.
+
+44
+03:17:44,042 --> 03:17:48,062
+Mein Herr,
+um Euch zu berauben, sind wir nicht hier.
+
+45
+03:17:48,162 --> 03:17:50,738
+Nur um einer gerechten Einigung willen.
+
+46
+03:17:51,042 --> 03:17:53,254
+Wollt Ihr nicht mit mir sprechen?
+
+47
+03:18:28,002 --> 03:18:29,656
+Ich höre.
+
+48
+03:18:30,442 --> 03:18:34,859
+Im Namen der Bürger der Seestadt
+ersuche ich Euch, Euer Wort zu halten:
+
+49
+03:18:35,202 --> 03:18:39,014
+Einen Anteil am Schatz,
+damit sie ihr Leben neu aufbauen können.
+
+50
+03:18:39,642 --> 03:18:42,218
+Ich werde mit niemandem verhandeln,
+
+51
+03:18:42,482 --> 03:18:45,102
+solange ein Heer in Waffen
+vor meinem Tor steht.
+
+52
+03:18:45,202 --> 03:18:49,178
+Dieses Heer in Waffen wird den Berg angreifen,
+wenn wir uns nicht einig werden.
+
+53
+03:18:50,162 --> 03:18:53,216
+Eure Drohungen beeindrucken mich nicht.
+
+54
+03:18:54,762 --> 03:18:56,496
+Und Euer Gewissen?
+
+55
+03:18:56,802 --> 03:18:59,936
+Sagt es Euch nicht,
+dass unser Anliegen rechtens ist?
+
+56
+03:19:01,002 --> 03:19:03,862
+Mein Volk hat Euch geholfen.
+
+57
+03:19:05,562 --> 03:19:09,302
+Und zum Dank brachtet Ihr ihnen
+nichts weiter als Verderben und Tod.
+
+58
+03:19:09,402 --> 03:19:12,742
+Wann haben die Menschen aus der Seestadt je
+geholfen, ohne reich belohnt werden zu wollen?
+
+59
+03:19:12,842 --> 03:19:14,302
+Wir haben eine Abmachung!
+
+60
+03:19:14,402 --> 03:19:15,742
+Eine Abmachung?
+
+61
+03:19:15,842 --> 03:19:20,902
+Was konnten wir tun, als unser Geburtsrecht
+gegen Decken und Essen zu verschachern?
+
+62
+03:19:21,002 --> 03:19:23,533
+Als unsere Freiheit
+mit unserer Zukunft zu erkaufen?
+
+63
+03:19:24,082 --> 03:19:26,578
+Das nennt Ihr einen gerechten Handel?
+
+64
+03:19:28,402 --> 03:19:29,736
+Sagt mir,
+

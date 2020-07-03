@@ -1,0 +1,262 @@
+﻿1
+02:12:24,646 --> 02:12:25,317
+<i>Lasst das!</i>
+
+2
+02:12:25,787 --> 02:12:27,209
+<i>Wir kommen hier nicht raus!</i>
+
+3
+02:12:27,455 --> 02:12:29,457
+Das hier ist kein Orkverlies.
+
+4
+02:12:29,708 --> 02:12:32,211
+Das sind die Hallen des Waldland-Reiches.
+
+5
+02:12:32,502 --> 02:12:36,302
+Niemand kommt hier raus,
+ohne die Einwilligung des Königs.
+
+6
+02:12:40,969 --> 02:12:44,519
+Eure Reise mag
+den Anschein eines hehren Ziels haben.
+
+7
+02:12:45,181 --> 02:12:48,025
+Ihr wollt Eure Heimat zurückerobern
+
+8
+02:12:48,268 --> 02:12:50,020
+und einen Drachen töten.
+
+9
+02:12:51,396 --> 02:12:55,401
+Ich selbst vermute hinter Eurem Handeln
+eher weniger edle Beweggründe.
+
+10
+02:12:56,276 --> 02:12:57,949
+Ihr plant einen Diebstahl
+
+11
+02:12:58,695 --> 02:13:00,948
+oder etwas dergleichen.
+
+12
+02:13:04,117 --> 02:13:04,868
+Ihr habt einen Weg
+
+13
+02:13:05,118 --> 02:13:06,119
+hinein gefunden.
+
+14
+02:13:06,369 --> 02:13:07,336
+Ihr sucht, was Euch
+
+15
+02:13:07,579 --> 02:13:10,583
+das Recht verleiht, zu herrschen.
+
+16
+02:13:11,249 --> 02:13:13,126
+Das Königsjuwel.
+
+17
+02:13:14,044 --> 02:13:15,546
+Den Arkenstein.
+
+18
+02:13:17,797 --> 02:13:21,142
+Er ist für Euch über alle Maßen wertvoll.
+
+19
+02:13:22,135 --> 02:13:23,853
+Das verstehe ich.
+
+20
+02:13:24,804 --> 02:13:28,434
+In diesem Berg gibt es Edelsteine,
+die auch ich begehre.
+
+21
+02:13:29,768 --> 02:13:30,769
+Weiße Steine
+
+22
+02:13:31,019 --> 02:13:33,067
+aus reinem Sternenlicht.
+
+23
+02:13:34,105 --> 02:13:36,358
+Ich biete Euch meine Hilfe an.
+
+24
+02:13:39,569 --> 02:13:40,946
+Ich bin ganz Ohr.
+
+25
+02:13:41,196 --> 02:13:42,823
+Ich werde Euch gehen lassen,
+
+26
+02:13:43,823 --> 02:13:46,497
+wenn Ihr mir zurückgebt, was mein ist.
+
+27
+02:13:49,704 --> 02:13:51,001
+Ein Gefallen für einen Gefallen.
+
+28
+02:13:51,247 --> 02:13:52,214
+Ich gebe Euch mein Wort.
+
+29
+02:13:53,625 --> 02:13:56,128
+Von einem König zum anderen.
+
+30
+02:14:00,298 --> 02:14:03,518
+Ich glaube nicht, dass Thranduil,
+
+31
+02:14:04,552 --> 02:14:05,519
+der große König,
+
+32
+02:14:05,762 --> 02:14:06,934
+sein Wort hält,
+
+33
+02:14:07,180 --> 02:14:09,683
+auch wenn uns
+das Ende aller Tage bevorstünde.
+
+34
+02:14:10,308 --> 02:14:10,900
+Euch
+
+35
+02:14:11,393 --> 02:14:12,360
+fehlt jegliche
+
+36
+02:14:12,602 --> 02:14:13,603
+Ehre!
+
+37
+02:14:14,687 --> 02:14:16,735
+Ich habe gesehen,
+wie Ihr Eure Freunde behandelt.
+
+38
+02:14:17,399 --> 02:14:21,029
+Einst kamen wir zu Euch,
+hungernd, heimatlos,
+
+39
+02:14:21,277 --> 02:14:22,745
+und baten um Eure Hilfe.
+
+40
+02:14:23,279 --> 02:14:25,657
+Aber ihr habt Euch abgewandt.
+
+41
+02:14:25,949 --> 02:14:29,579
+Ihr habt keinerlei Anteil genommen
+am Leid meines Volkes.
+
+42
+02:14:29,828 --> 02:14:31,796
+Und dem Inferno, das uns vernichtet hat.
+
+43
+02:14:34,332 --> 02:14:36,505
+Erzählt mir nichts vom Drachenfeuer.
+
+44
+02:14:36,960 --> 02:14:37,552
+Ich weiß
+
+45
+02:14:37,794 --> 02:14:40,047
+wie wütend und tödlich es ist.
+
+46
+02:14:44,217 --> 02:14:45,434
+Ich kämpfte schon
+
+47
+02:14:45,677 --> 02:14:48,430
+gegen die großen Feuerschlangen des Nordens.
+
+48
+02:14:50,682 --> 02:14:51,274
+Ich warnte
+
+49
+02:14:51,516 --> 02:14:54,816
+Euren Großvater vor dem,
+was seine Gier hervorrufen würde.
+
+50
+02:14:56,354 --> 02:14:58,277
+Doch er wollte nicht hören.
+
+51
+02:15:02,861 --> 02:15:04,909
+Ihr seid genau wie er.
+
+52
+02:15:07,365 --> 02:15:09,117
+Bleibt hier, wenn Ihr wollt,
+
+53
+02:15:09,367 --> 02:15:10,914
+und verfault.
+
+54
+02:15:11,161 --> 02:15:13,084
+100 Jahre sind nur ein Wimpernschlag
+
+55
+02:15:13,329 --> 02:15:15,331
+im Leben eines Elben.
+
+56
+02:15:15,582 --> 02:15:17,255
+Ich habe Geduld.
+
+57
+02:15:18,293 --> 02:15:20,295
+Ich kann warten.
+
+58
+02:15:27,760 --> 02:15:28,852
+Hat er einen Handel vorgeschlagen?
+
+59
+02:15:29,095 --> 02:15:30,267
+Ja.
+
+60
+02:15:31,973 --> 02:15:34,317
+Ich habe ihm gesagt
+<i>îsh kakhfê ai-'d dûr-rugnu!</i>
+
+61
+02:15:36,102 --> 02:15:36,898
+Auf Seins und das seiner Sippschaft!
+
+62
+02:15:38,938 --> 02:15:40,690
+Tja, das war's dann wohl.
+
+63
+02:15:42,400 --> 02:15:44,903
+Ein Handel war unsere einzige Hoffnung.
+

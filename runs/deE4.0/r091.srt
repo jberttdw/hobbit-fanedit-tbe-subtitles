@@ -1,0 +1,50 @@
+﻿1
+03:04:36,894 --> 03:04:38,514
+Was war das?
+
+2
+03:04:39,014 --> 03:04:39,834
+Was ist passiert?
+
+3
+03:04:39,934 --> 03:04:41,668
+Er ist abgestürzt. Ich hab's gesehen.
+
+4
+03:04:44,934 --> 03:04:46,065
+Er ist tot.
+
+5
+03:04:50,174 --> 03:04:51,828
+Smaug ist tot.
+
+6
+03:04:52,414 --> 03:04:55,874
+Bei meinem Barte,
+ich glaube, er hat recht.
+
+7
+03:04:55,974 --> 03:04:57,674
+Seht doch, dort!
+
+8
+03:04:59,334 --> 03:05:03,344
+Die Raben Erebors kehren zum Berg zurück.
+
+9
+03:05:04,214 --> 03:05:05,034
+Ja.
+
+10
+03:05:05,134 --> 03:05:06,714
+Die Nachricht wird sich verbreiten.
+
+11
+03:05:06,814 --> 03:05:10,914
+Nicht mehr lange,
+dann weiß es jeder in ganz Mittelerde:
+
+12
+03:05:11,014 --> 03:05:13,385
+Der Drache ist tot!
+

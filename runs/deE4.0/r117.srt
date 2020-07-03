@@ -1,0 +1,50 @@
+﻿1
+03:46:07,241 --> 03:46:09,581
+Meine Kinder! Wo sind meine Kinder?
+
+2
+03:46:09,681 --> 03:46:12,781
+Ich hab sie gesehen! Unten am alten Markt!
+
+3
+03:46:12,881 --> 03:46:14,376
+Am Markt?
+
+4
+03:46:14,561 --> 03:46:16,141
+Wo sind sie jetzt?
+
+5
+03:46:16,241 --> 03:46:17,981
+Tilda! Sigrid!
+
+6
+03:46:18,081 --> 03:46:21,055
+Bard!
+Orks stürmen über den Dammweg!
+
+7
+03:46:21,681 --> 03:46:25,141
+Die Bogenschützen zur östlichen Brustwehr.
+Haltet sie auf, solange ihr könnt.
+
+8
+03:46:25,241 --> 03:46:27,421
+Schützen! Hier entlang!
+
+9
+03:46:27,521 --> 03:46:29,861
+Die Orks haben die Steinstraße eingenommen!
+
+10
+03:46:29,961 --> 03:46:31,980
+Der Markt wird überrannt!
+
+11
+03:46:34,961 --> 03:46:36,661
+Alle anderen,
+
+12
+03:46:36,761 --> 03:46:38,381
+folgt mir!
+

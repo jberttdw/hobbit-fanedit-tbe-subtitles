@@ -1,0 +1,398 @@
+﻿1
+02:45:40,342 --> 02:45:41,442
+Hallo?
+
+2
+02:46:00,452 --> 02:46:01,872
+Er ist nicht zu Hause.
+
+3
+02:46:02,832 --> 02:46:04,502
+Nicht zu Hause. Ähm.
+
+4
+02:46:05,332 --> 02:46:06,332
+Gut.
+
+5
+02:46:08,212 --> 02:46:09,962
+Gut, gut, gut.
+
+6
+02:47:04,142 --> 02:47:05,142
+Was?
+
+7
+02:47:08,812 --> 02:47:10,782
+Pscht. Pscht.
+
+8
+02:47:12,102 --> 02:47:13,402
+Der Arkenstein.
+
+9
+02:47:14,442 --> 02:47:15,822
+Der Arkenstein.
+
+10
+02:47:16,652 --> 02:47:18,702
+Einen großen, weißen Edelstein.
+
+11
+02:47:20,902 --> 02:47:22,282
+Sehr hilfreich.
+
+12
+02:49:47,882 --> 02:49:48,882
+Also,
+
+13
+02:49:50,932 --> 02:49:51,932
+Dieb,
+
+14
+02:49:54,222 --> 02:49:57,852
+ich kann dich riechen.
+
+15
+02:49:58,232 --> 02:50:01,452
+Ich kann deinen Atem hören.
+
+16
+02:50:02,732 --> 02:50:04,362
+Ich spüre,
+
+17
+02:50:04,612 --> 02:50:05,612
+du bist hier.
+
+18
+02:50:09,452 --> 02:50:11,652
+Wo bist du?
+
+19
+02:50:13,452 --> 02:50:14,542
+Wo bist du?
+
+20
+02:50:34,682 --> 02:50:35,682
+Komm.
+
+21
+02:50:36,432 --> 02:50:38,562
+Nicht so schüchtern.
+
+22
+02:50:38,812 --> 02:50:41,032
+Komm ins Licht.
+
+23
+02:50:45,232 --> 02:50:46,232
+Hm.
+
+24
+02:50:47,942 --> 02:50:51,162
+Da ist etwas an dir.
+
+25
+02:50:54,532 --> 02:50:55,502
+Etwas, das du
+
+26
+02:50:55,602 --> 02:50:56,582
+bei dir trägst.
+
+27
+02:50:57,582 --> 02:51:00,462
+Etwas aus Gold.
+
+28
+02:51:01,212 --> 02:51:03,412
+Doch ist es
+
+29
+02:51:04,382 --> 02:51:06,172
+ein noch viel größerer Schatz.
+
+30
+02:51:06,422 --> 02:51:08,762
+Schatz! Schatz!
+
+31
+02:51:11,552 --> 02:51:12,722
+Ah, da bist du,
+
+32
+02:51:12,972 --> 02:51:14,522
+Dieb, der
+
+33
+02:51:14,762 --> 02:51:16,602
+im Schatten wandelt.
+
+34
+02:51:18,432 --> 02:51:21,032
+Ich hatte nicht vor, dich zu bestehlen.
+
+35
+02:51:21,272 --> 02:51:22,242
+Oh, Smaug
+
+36
+02:51:22,342 --> 02:51:25,572
+du unermesslich Reicher.
+
+37
+02:51:25,812 --> 02:51:27,802
+Ich wollte mich nur deiner Herrlichkeit
+vergewissern.
+
+38
+02:51:27,902 --> 02:51:28,772
+Um zu sehen,
+
+39
+02:51:28,872 --> 02:51:31,832
+ob du wirklich so groß bist,
+wie die alten Geschichten erzählen.
+
+40
+02:51:32,532 --> 02:51:34,282
+Ich hatte es nicht geglaubt.
+
+41
+02:51:43,122 --> 02:51:47,052
+Und glaubst du es jetzt?!
+
+42
+02:51:48,382 --> 02:51:49,632
+Wahrlich,
+
+43
+02:51:50,962 --> 02:51:53,142
+alle Lieder und Sagen
+
+44
+02:51:54,262 --> 02:51:56,982
+bleiben weit zurück
+hinter deiner Ungeheuerlichkeit.
+
+45
+02:51:57,222 --> 02:52:00,192
+Oh, Smaug du Unermesslicher.
+
+46
+02:52:00,432 --> 02:52:03,312
+Glaubst du, Schmeicheleien
+werden dein Leben retten?
+
+47
+02:52:03,812 --> 02:52:04,812
+Nein, nein.
+
+48
+02:52:05,022 --> 02:52:06,522
+Nein, in der Tat.
+
+49
+02:52:08,772 --> 02:52:12,032
+Meinen Namen scheinst du zu kennen,
+
+50
+02:52:12,282 --> 02:52:15,602
+aber ich kann mich nicht entsinnen, solche
+wie dich schon einmal gerochen zu haben.
+
+51
+02:52:16,282 --> 02:52:17,872
+Wer bist du?
+
+52
+02:52:18,122 --> 02:52:20,622
+Und wo kommst du her,
+
+53
+02:52:20,872 --> 02:52:23,212
+wenn ich fragen darf?
+
+54
+02:52:32,762 --> 02:52:34,432
+Ich komme von unter dem Bühl.
+
+55
+02:52:34,802 --> 02:52:36,182
+Unter dem Bühl?
+
+56
+02:52:39,892 --> 02:52:40,892
+Ja, und
+mein Weg hat mich
+
+57
+02:52:41,012 --> 02:52:43,022
+auch untern Berg
+und übern Berg geführt.
+
+58
+02:52:43,892 --> 02:52:44,892
+Und... Und
+
+59
+02:52:45,522 --> 02:52:47,862
+durch die Lüfte auch.
+Ich bin der wandelnde Unsichtbare.
+
+60
+02:52:48,112 --> 02:52:49,822
+Eindrucksvoll.
+
+61
+02:52:50,072 --> 02:52:52,112
+Was sonst behauptest du zu sein?
+
+62
+02:52:53,072 --> 02:52:54,072
+Ich bin ein...
+
+63
+02:52:57,112 --> 02:52:58,582
+Glück-Glücksbringer.
+
+64
+02:53:00,032 --> 02:53:01,212
+Rätsel-Rätsellöser.
+
+65
+02:53:01,452 --> 02:53:03,122
+Allerliebst, diese Titel.
+
+66
+02:53:03,832 --> 02:53:05,002
+Fahr fort.
+
+67
+02:53:05,252 --> 02:53:06,342
+Fassreiter.
+
+68
+02:53:06,582 --> 02:53:10,012
+Fässer? Das ist interessant.
+
+69
+02:53:11,462 --> 02:53:12,392
+Und was ist
+
+70
+02:53:12,492 --> 02:53:15,392
+mit deinen kleinen Zwergenfreunden?
+
+71
+02:53:16,512 --> 02:53:17,762
+Wo verstecken sie sich?
+
+72
+02:53:20,642 --> 02:53:22,182
+Zwergenfreunde?
+
+73
+02:53:23,012 --> 02:53:24,012
+Nein.
+
+74
+02:53:24,772 --> 02:53:26,312
+Nein. Nein, Zwerge sind hier nicht.
+
+75
+02:53:26,562 --> 02:53:27,652
+Das hast du missverstanden.
+
+76
+02:53:27,892 --> 02:53:31,652
+Oh, das glaube ich nicht, Fassreiter!
+
+77
+02:53:32,232 --> 02:53:33,482
+Sie haben dich geschickt,
+
+78
+02:53:33,732 --> 02:53:35,702
+um die gefährliche Arbeit dir zu überlassen,
+
+79
+02:53:35,942 --> 02:53:37,912
+während sie draußen umherschleichen.
+
+80
+02:53:39,162 --> 02:53:40,332
+Wahrlich,
+
+81
+02:53:41,122 --> 02:53:42,292
+du irrst dich,
+
+82
+02:53:42,532 --> 02:53:45,542
+Oh, Smaug, du ehrwürdigste
+und entsetzlichste aller Katastrophen.
+
+83
+02:53:45,792 --> 02:53:49,172
+Du hast gute Manieren
+
+84
+02:53:49,422 --> 02:53:51,382
+für einen Dieb und
+
+85
+02:53:51,632 --> 02:53:52,632
+einen Lügner!
+
+86
+02:53:53,922 --> 02:53:57,302
+Ich kenne den Geruch und
+den Geschmack von Zwergen.
+
+87
+02:53:57,762 --> 02:53:58,932
+Nichts kenne ich besser!
+
+88
+02:54:00,682 --> 02:54:02,052
+Es ist das Gold!
+
+89
+02:54:02,302 --> 02:54:03,252
+Sie werden
+
+90
+02:54:03,352 --> 02:54:04,352
+von Schätzen angezogen
+
+91
+02:54:04,602 --> 02:54:06,152
+wie Fliegen von totem Fleisch.
+
+92
+02:54:09,692 --> 02:54:10,902
+Denkst du, ich wusste nicht,
+
+93
+02:54:11,402 --> 02:54:12,862
+dass dieser Tag kommt?!
+
+94
+02:54:14,732 --> 02:54:16,032
+Dass eine Meute
+
+95
+02:54:16,282 --> 02:54:17,572
+heuchlerischer Zwerge
+
+96
+02:54:17,822 --> 02:54:19,422
+zum Berg
+
+97
+02:54:20,702 --> 02:54:21,952
+zurückgekrochen kommt?!
+
