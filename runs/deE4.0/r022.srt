@@ -1,0 +1,86 @@
+﻿1
+01:11:26,248 --> 01:11:28,543
+Wo ist Bilbo?
+Wo ist der Hobbit?
+
+2
+01:11:30,160 --> 01:11:31,298
+Da!
+
+3
+01:11:34,232 --> 01:11:35,572
+Haltet ihn fest!
+
+4
+01:11:37,704 --> 01:11:39,481
+Nimm meine Hand, Bilbo!
+
+5
+01:11:44,330 --> 01:11:45,465
+Ich hab dich!
+
+6
+01:11:46,123 --> 01:11:47,541
+Los!
+
+7
+01:12:04,708 --> 01:12:06,347
+Fast hätten wir unseren Meisterdieb verloren.
+
+8
+01:12:07,631 --> 01:12:10,552
+Er ist verloren, seitdem wir aufgebrochen sind.
+
+9
+01:12:10,873 --> 01:12:11,968
+Er hätte nie mitkommen sollen.
+
+10
+01:12:13,010 --> 01:12:14,939
+Er gehört nicht zu uns.
+
+11
+01:12:16,847 --> 01:12:18,237
+Dwalin!
+
+12
+01:12:24,599 --> 01:12:27,193
+- Scheint sicher zu sein.
+- Sieh dich weiter hinten um.
+
+13
+01:12:27,516 --> 01:12:29,662
+Höhlen im Gebirge sind selten unbewohnt.
+
+14
+01:12:33,723 --> 01:12:35,666
+Hier ist nichts.
+
+15
+01:12:37,702 --> 01:12:39,884
+Gut, dann machen wir erst mal ein schönes Feuer.
+
+16
+01:12:39,885 --> 01:12:41,992
+Nein, kein Feuer. Nicht hier.
+
+17
+01:12:42,942 --> 01:12:46,443
+Schlaft ein bisschen.
+Bei Tagesanbruch gehen wir weiter.
+
+18
+01:12:47,589 --> 01:12:50,542
+Wir sollten doch in den Bergen warten,
+bis Gandalf zu uns stößt.
+
+19
+01:12:51,350 --> 01:12:54,222
+- Das war der Plan.
+- Pläne ändern sich.
+
+20
+01:12:54,624 --> 01:12:57,373
+Bofur...
+Übernimm die erste Wache.
+

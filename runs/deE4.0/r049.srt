@@ -1,0 +1,13 @@
+﻿1
+01:49:22,008 --> 01:49:23,798
+<i>Wenn ihr nicht auf mich hört,
+kann ich auch nichts dafür.</i>
+
+2
+01:49:23,898 --> 01:49:25,726
+<i>Ach, Dori! Was soll denn das jetzt?</i>
+
+3
+01:49:29,678 --> 01:49:31,518
+<i>Wir hätten niemals herkommen dürfen.</i>
+

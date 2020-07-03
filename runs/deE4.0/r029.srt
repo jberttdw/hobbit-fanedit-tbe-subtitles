@@ -1,0 +1,693 @@
+﻿1
+01:21:37,434 --> 01:21:42,324
+<i>Zu viele Knochen, mein Schatz!
+Nicht genug Fleisch.</i>
+
+2
+01:21:42,325 --> 01:21:43,731
+<i>Schweig still!</i>
+
+3
+01:21:43,732 --> 01:21:45,732
+<i>Zieh ihm die Haut ab.</i>
+
+4
+01:21:46,772 --> 01:21:48,772
+<i>Kopf zuerst.</i>
+
+5
+01:21:54,419 --> 01:21:58,023
+<i>Das wüste Land, es beißt die Hand.</i>
+
+6
+01:21:58,024 --> 01:22:01,126
+<i>Es nagt am Fuß.</i>
+
+7
+01:22:01,772 --> 01:22:03,612
+<i>Felsen und Stein</i>
+
+8
+01:22:03,613 --> 01:22:08,209
+<i>kein Fleisch nur Gebein, Fraß aus, ist Schluss.</i>
+
+9
+01:22:08,980 --> 01:22:11,971
+<i>Ohne Atemhauch wie die Toten auch,</i>
+
+10
+01:22:11,972 --> 01:22:14,848
+<i>ist ein Genuss.</i>
+
+11
+01:22:52,772 --> 01:22:56,776
+Spritz und Spucke, mein Schatz!
+
+12
+01:22:56,777 --> 01:22:59,239
+Das ist ein schön saftiger Bissen!
+
+13
+01:23:01,292 --> 01:23:03,119
+Gollum! Gollum!
+
+14
+01:23:05,004 --> 01:23:07,671
+Zurück! Bleib zurück!
+
+15
+01:23:07,672 --> 01:23:11,312
+Ich warne dich. Komm kein Schritt näher.
+
+16
+01:23:13,094 --> 01:23:15,360
+Es hat eine Elbenklinge.
+
+17
+01:23:15,361 --> 01:23:17,526
+Aber es ist kein Elb.
+
+18
+01:23:18,772 --> 01:23:20,622
+Kein Elbse, nein.
+
+19
+01:23:21,322 --> 01:23:23,332
+Was ist es, mein Schatz?
+
+20
+01:23:24,303 --> 01:23:25,753
+Was ist es?
+
+21
+01:23:25,971 --> 01:23:29,608
+Mein Name... ist Bilbo Beutlin.
+
+22
+01:23:30,272 --> 01:23:32,055
+Beutlinse?
+
+23
+01:23:32,963 --> 01:23:36,785
+Was sind Beutlinse, mein Schatz?
+
+24
+01:23:36,833 --> 01:23:39,930
+Ich bin ein Hobbit aus dem Auenland.
+
+25
+01:23:41,214 --> 01:23:43,771
+Wir mögen Orkse, Fledermaus und Fisch,
+
+26
+01:23:43,891 --> 01:23:46,217
+aber Hobbitse haben wir noch nie gekostet.
+
+27
+01:23:47,722 --> 01:23:50,926
+Ist es zart? Ist es saftig?
+
+28
+01:23:51,872 --> 01:23:54,196
+Komm mir nicht zu nah!
+
+29
+01:23:54,492 --> 01:23:56,802
+Ich steche zu, wenn es sein muss!
+
+30
+01:23:57,622 --> 01:24:00,005
+Ich will keine Schwierigkeiten, verstehst du?
+
+31
+01:24:00,772 --> 01:24:04,005
+Zeig mir einfach, wie ich hier wieder rauskomme
+und dann bin ich auch schon weg.
+
+32
+01:24:04,006 --> 01:24:06,171
+Wieso? Hat es sich verirrt?
+
+33
+01:24:06,172 --> 01:24:09,924
+Ja, und ich möchte so schnell wie
+möglich nicht mehr verirrt sein.
+
+34
+01:24:09,925 --> 01:24:11,145
+Wir wissen es!
+
+35
+01:24:11,265 --> 01:24:13,385
+Wir wissen sichere Wege für Hobbitse.
+
+36
+01:24:13,386 --> 01:24:15,421
+Sichere Wege in der Dunkelheit.
+
+37
+01:24:15,422 --> 01:24:16,825
+Schweig still!
+
+38
+01:24:17,140 --> 01:24:19,782
+- Ich habe nichts gesagt.
+- Mit ihm haben wir nicht geredet.
+
+39
+01:24:20,068 --> 01:24:23,267
+Doch, mein Schatz. Haben wir.
+
+40
+01:24:23,387 --> 01:24:26,488
+Ich weiß nicht, was das für
+ein Spielchen ist, aber...
+
+41
+01:24:26,489 --> 01:24:27,941
+Spielchen!
+
+42
+01:24:28,610 --> 01:24:31,075
+Wir lieben Spiele, nicht wahr, mein Schatz?
+
+43
+01:24:31,301 --> 01:24:34,475
+Will es auch spielen?
+Will es, will es?
+
+44
+01:24:36,493 --> 01:24:37,845
+Schon möglich.
+
+45
+01:24:40,060 --> 01:24:44,671
+Was hat Wurzeln, man kann sie kaum sehen?
+
+46
+01:24:44,791 --> 01:24:47,636
+Ist höher als alle Baumwipfel stehen.
+
+47
+01:24:47,637 --> 01:24:51,949
+Nach oben steigt es bis ans Licht
+und dennoch wächst es nicht?
+
+48
+01:24:53,893 --> 01:24:56,964
+- Ein Berg.
+- Ja!
+
+49
+01:24:57,672 --> 01:24:59,526
+Lass es uns nochmal versuchen.
+
+50
+01:25:00,011 --> 01:25:03,422
+Versuchen wir’s. Fragt uns.
+
+51
+01:25:03,542 --> 01:25:05,729
+Nein! Keine Rätsel mehr!
+
+52
+01:25:06,972 --> 01:25:09,858
+Schlag ihn tot! Schlag ihn gleich tot!
+
+53
+01:25:09,859 --> 01:25:11,731
+Gollum! Gollum!
+
+54
+01:25:11,947 --> 01:25:14,081
+Nein, nein,...
+
+55
+01:25:14,201 --> 01:25:16,052
+Ich will spielen.
+
+56
+01:25:16,243 --> 01:25:17,876
+Ehrlich. Ich will spielen.
+
+57
+01:25:17,877 --> 01:25:20,601
+Ich merke schon, du kannst das...
+
+58
+01:25:21,675 --> 01:25:23,007
+sehr, sehr gut.
+
+59
+01:25:24,172 --> 01:25:26,240
+Wieso machen wir nicht...
+
+60
+01:25:27,703 --> 01:25:29,297
+ein kleines Rätselspielchen?
+
+61
+01:25:30,171 --> 01:25:32,381
+Nur wir beide.
+
+62
+01:25:32,382 --> 01:25:33,953
+Ja!
+
+63
+01:25:33,954 --> 01:25:36,771
+Ja, nur wir allein.
+
+64
+01:25:36,772 --> 01:25:38,883
+Ja...
+
+65
+01:25:38,884 --> 01:25:40,564
+Wenn ich gewinne,
+
+66
+01:25:41,375 --> 01:25:44,471
+dann zeigst du mir den Weg hier raus, ja?
+
+67
+01:25:44,472 --> 01:25:46,055
+Ja!
+
+68
+01:25:47,107 --> 01:25:49,680
+Und wenn es verliert, was dann?
+
+69
+01:25:50,652 --> 01:25:54,003
+Wenn es verliert, mein Schatz,
+dann fressen wir es!
+
+70
+01:25:55,026 --> 01:25:58,148
+Wenn Beutlin verliert, dann fressen wir es auf.
+
+71
+01:26:05,205 --> 01:26:06,400
+Einverstanden.
+
+72
+01:26:11,158 --> 01:26:13,238
+Beutlin zuerst.
+
+73
+01:26:19,271 --> 01:26:21,747
+Dreißig Schimmel in einen roten Schloss.
+
+74
+01:26:22,698 --> 01:26:25,486
+Erst mampfen sie, dann stampfen sie
+
+75
+01:26:25,677 --> 01:26:27,648
+dann stehen sie Regungslos.
+
+76
+01:26:38,315 --> 01:26:39,569
+Zähne?
+
+77
+01:26:40,542 --> 01:26:41,909
+Zähne!
+
+78
+01:26:42,548 --> 01:26:44,871
+Ja, mein Schatz!
+
+79
+01:26:44,872 --> 01:26:50,801
+Aber wir haben... wir haben nur Neun.
+
+80
+01:26:54,189 --> 01:26:55,467
+Wir sind dran.
+
+81
+01:26:56,237 --> 01:26:59,130
+Schreit stimmlos.
+
+82
+01:26:59,485 --> 01:27:02,378
+Flattert, Flügellos.
+
+83
+01:27:02,621 --> 01:27:05,402
+Beißt, Zahnlos.
+
+84
+01:27:05,807 --> 01:27:09,226
+Murmelt, Mundlos.
+
+85
+01:27:12,125 --> 01:27:13,367
+Ein Moment.
+
+86
+01:27:17,421 --> 01:27:19,161
+Wir wissen es! Wir wissen es!
+
+87
+01:27:19,281 --> 01:27:20,632
+Schweig still!
+
+88
+01:27:26,715 --> 01:27:28,321
+Wind.
+
+89
+01:27:28,479 --> 01:27:30,303
+Der Wind, natürlich!
+
+90
+01:27:30,972 --> 01:27:34,088
+Sehr gewieft, Hobbitse!
+
+91
+01:27:34,208 --> 01:27:36,871
+Sehr gewieft!
+
+92
+01:27:37,072 --> 01:27:42,497
+Ein Schloss, zudem kein Schlüssel passt.
+
+93
+01:27:42,498 --> 01:27:45,889
+Schließt in sich eine goldene Last.
+
+94
+01:27:52,921 --> 01:27:55,081
+Schloss ja, Schlüssel nein.
+
+95
+01:27:55,201 --> 01:27:56,571
+Und?
+
+96
+01:27:56,691 --> 01:27:58,072
+Ist garstig!
+
+97
+01:28:00,598 --> 01:28:03,078
+- Ein Schloss...
+- Gibst du auf?
+
+98
+01:28:03,305 --> 01:28:06,010
+Lasst uns versuchen, Schatz!
+
+99
+01:28:08,722 --> 01:28:10,122
+Nein!
+
+100
+01:28:19,615 --> 01:28:22,529
+Eier! Es sind Eier!
+
+101
+01:28:23,200 --> 01:28:26,074
+Frische, knackige Eierchen, ja?
+
+102
+01:28:26,828 --> 01:28:30,454
+Großmutter hat uns gezeigt, wie man sie aussaugt!
+
+103
+01:28:39,607 --> 01:28:42,417
+<i>Wir haben eins für ihn.</i>
+
+104
+01:28:43,575 --> 01:28:47,093
+<i>Etwas das alles und jeden verzehrt.</i>
+
+105
+01:28:47,850 --> 01:28:52,179
+<i>Tier, Vogel, Blume, Ast und Laub.</i>
+
+106
+01:28:53,062 --> 01:28:57,246
+<i>Helm und Panzer. Axt und Schwert.</i>
+
+107
+01:28:57,494 --> 01:29:00,948
+<i>Aus hartem Stein mahlt es Staub.</i>
+
+108
+01:29:02,826 --> 01:29:04,251
+<i>Antworte uns.</i>
+
+109
+01:29:04,700 --> 01:29:08,287
+Gib mir einen Moment, bitte.
+Ich hab dir auch viel Zeit gelassen.
+
+110
+01:29:09,532 --> 01:29:11,550
+Tier, Vogel. Vogel?
+
+111
+01:29:11,772 --> 01:29:14,507
+Ast und Laub...
+Ich komme nicht drauf.
+
+112
+01:29:14,801 --> 01:29:17,274
+<i>Ist es Köstlich?</i>
+
+113
+01:29:18,225 --> 01:29:21,712
+<i>Ist es Schmackhaft?</i>
+
+114
+01:29:22,950 --> 01:29:24,326
+Ist es Knusprig?
+
+115
+01:29:24,736 --> 01:29:25,729
+Lass mich überlegen.
+
+116
+01:29:26,337 --> 01:29:27,770
+Lass mich überlegen.
+
+117
+01:29:32,248 --> 01:29:33,932
+Es sitzt fest.
+
+118
+01:29:35,224 --> 01:29:39,684
+Beutlin sitzt fest.
+
+119
+01:29:43,476 --> 01:29:44,877
+Zeit ist um.
+
+120
+01:29:48,821 --> 01:29:50,421
+Zeit...
+
+121
+01:29:50,690 --> 01:29:53,686
+Die Antwort ist "Zeit".
+
+122
+01:29:55,730 --> 01:29:57,125
+War eigentlich ganz leicht.
+
+123
+01:29:59,427 --> 01:30:00,884
+Letzte Frage.
+
+124
+01:30:02,596 --> 01:30:05,352
+- Letzte Gelegenheit.
+- Gut.
+
+125
+01:30:08,764 --> 01:30:10,348
+Frag uns.
+
+126
+01:30:11,984 --> 01:30:14,776
+- Frag uns!
+- Ja, ja. Schon gut.
+
+127
+01:30:19,007 --> 01:30:23,584
+Was habe ich in meiner Tasche?
+
+128
+01:30:26,094 --> 01:30:27,871
+Das gilt nicht.
+
+129
+01:30:28,845 --> 01:30:32,682
+Das gilt nicht!
+Das ist gegen die Spielregeln!
+
+130
+01:30:33,654 --> 01:30:36,937
+- Frag uns was anderes.
+- Nein, nein...
+
+131
+01:30:37,249 --> 01:30:38,836
+Du hast gesagt, ich soll dich was fragen.
+
+132
+01:30:39,153 --> 01:30:41,270
+Und genau das ist meine Frage.
+
+133
+01:30:41,348 --> 01:30:44,120
+Was habe ich in meiner Tasche?
+
+134
+01:30:45,455 --> 01:30:48,693
+Drei Versuche, mein Schatz.
+Wir dürfen dreimal raten.
+
+135
+01:30:48,813 --> 01:30:51,139
+Drei Versuche. Sehr schön. Erster Versuch.
+
+136
+01:30:51,486 --> 01:30:52,703
+Hände!
+
+137
+01:30:52,884 --> 01:30:54,242
+Falsch. Nächster Versuch.
+
+138
+01:30:56,180 --> 01:30:59,644
+Fischgräten, Orkzähne, feuchte
+Muscheln, Fledermausflügel.
+
+139
+01:31:02,673 --> 01:31:04,755
+Messer! Schweig still!
+
+140
+01:31:04,978 --> 01:31:06,667
+Wieder Falsch. Letzter Versuch.
+
+141
+01:31:06,897 --> 01:31:08,068
+Schnur!
+
+142
+01:31:08,958 --> 01:31:10,075
+Oder Garnichts.
+
+143
+01:31:10,195 --> 01:31:13,519
+Zwei Antworten auf einmal,
+aber auch beide falsch.
+
+144
+01:31:17,026 --> 01:31:18,179
+Also...
+
+145
+01:31:20,243 --> 01:31:23,480
+Komm schon. Ich habe gewonnen. Du hast
+versprochen, du zeigst mir den Ausgang.
+
+146
+01:31:24,411 --> 01:31:26,414
+Haben wir das, mein Schatz?
+
+147
+01:31:27,318 --> 01:31:29,814
+Haben wir das?
+
+148
+01:31:33,509 --> 01:31:37,957
+Was hat es in seinen Taschen?
+
+149
+01:31:39,189 --> 01:31:40,552
+Das geht dich überhaupt nichts an.
+
+150
+01:31:41,583 --> 01:31:43,613
+Du hast verloren.
+
+151
+01:31:43,894 --> 01:31:45,379
+Verloren?
+
+152
+01:31:47,671 --> 01:31:48,951
+Verloren?
+
+153
+01:31:50,599 --> 01:31:52,283
+Verloren?
+
+154
+01:31:58,601 --> 01:32:00,260
+Wo ist er?
+
+155
+01:32:01,558 --> 01:32:03,069
+Wo ist er?
+
+156
+01:32:03,955 --> 01:32:05,203
+Nein!
+
+157
+01:32:07,495 --> 01:32:12,079
+Wo ist er? Nein! Nein!
+
+158
+01:32:13,298 --> 01:32:14,586
+Verloren!
+
+159
+01:32:14,812 --> 01:32:16,505
+Fluch und Spucke!
+
+160
+01:32:17,787 --> 01:32:21,448
+Mein Schatz ist weg!
+
+161
+01:32:23,227 --> 01:32:25,508
+- Was fehlt dir denn?
+- Soll uns nicht fragen?
+
+162
+01:32:25,809 --> 01:32:29,077
+Geht es nichts an! Nein!
+
+163
+01:32:29,804 --> 01:32:31,783
+Gollum! Gollum!
+
+164
+01:32:45,031 --> 01:32:48,460
+Was hat es...
+
+165
+01:32:48,677 --> 01:32:54,460
+in seinen garstigen, kleinen Taschen?
+
+166
+01:33:04,375 --> 01:33:06,441
+Gestohlen hat er ihn.
+
+167
+01:33:07,570 --> 01:33:10,454
+Gestohlen!
+
+168
+01:33:13,566 --> 01:33:15,587
+Gestohlen!
+

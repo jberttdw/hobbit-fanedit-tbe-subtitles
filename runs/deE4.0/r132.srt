@@ -1,0 +1,67 @@
+﻿1
+04:01:41,382 --> 04:01:43,241
+Rufe deine Männer zurück.
+
+2
+04:01:49,062 --> 04:01:54,122
+Mein Herr! Schickt einen Trupp zum Rabenberg.
+Die Zwerge werden bald überrannt.
+
+3
+04:01:54,222 --> 04:01:55,202
+Thorin muss gewarnt werden.
+
+4
+04:01:55,302 --> 04:01:57,722
+Bitte, warnt ihn ruhig.
+
+5
+04:01:57,822 --> 04:02:01,962
+Ich habe genug Elbenblut zur Verteidigung dieses
+verfluchten Landes vergossen. Schluss damit.
+
+6
+04:02:02,062 --> 04:02:03,842
+Thranduil?
+
+7
+04:02:04,542 --> 04:02:05,514
+Ich gehe.
+
+8
+04:02:06,422 --> 04:02:07,642
+Mach dich nicht lächerlich.
+
+9
+04:02:07,742 --> 04:02:09,322
+Das schaffst du nie.
+
+10
+04:02:09,422 --> 04:02:10,360
+Warum nicht?
+
+11
+04:02:10,942 --> 04:02:13,802
+Weil sie dich kommen sehen
+und dich töten werden.
+
+12
+04:02:14,382 --> 04:02:16,002
+Werden sie nicht.
+
+13
+04:02:17,262 --> 04:02:18,518
+Sie werden mich nicht sehen.
+
+14
+04:02:19,582 --> 04:02:21,555
+Das kommt nicht infrage.
+
+15
+04:02:22,262 --> 04:02:23,552
+Ich erlaube es nicht.
+
+16
+04:02:24,262 --> 04:02:26,952
+Ich bitte nicht um Erlaubnis, Gandalf.
+

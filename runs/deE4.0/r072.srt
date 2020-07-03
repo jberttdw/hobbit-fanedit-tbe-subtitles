@@ -1,0 +1,347 @@
+﻿1
+02:34:48,996 --> 02:34:49,963
+Seht ihr was?
+
+2
+02:34:50,205 --> 02:34:51,707
+Nichts!
+
+3
+02:34:55,502 --> 02:34:56,845
+Wenn die Karte stimmt,
+
+4
+02:34:57,629 --> 02:35:00,132
+liegt die geheime Tür direkt über uns.
+
+5
+02:35:04,678 --> 02:35:06,305
+Hier oben!
+
+6
+02:35:14,688 --> 02:35:17,157
+Du hast scharfe Augen, Bilbo Beutlin.
+
+7
+02:35:49,014 --> 02:35:50,106
+Das muss sie sein.
+
+8
+02:35:52,309 --> 02:35:53,811
+Die geheime Tür.
+
+9
+02:35:58,065 --> 02:35:59,817
+Sollen alle, die an uns zweifelten,
+
+10
+02:36:00,984 --> 02:36:02,327
+diesen Tag bereuen!
+
+11
+02:36:08,033 --> 02:36:10,502
+Also dann. Wir haben einen Schlüssel.
+
+12
+02:36:12,204 --> 02:36:13,706
+Das bedeutet, irgendwo
+
+13
+02:36:14,832 --> 02:36:16,209
+gibt es auch ein Schlüsselloch.
+
+14
+02:36:16,917 --> 02:36:19,796
+"Der letzte Strahl am Durinstag
+
+15
+02:36:21,797 --> 02:36:22,639
+wird hinabfallen
+
+16
+02:36:22,881 --> 02:36:24,303
+auf das Schlüsselloch."
+
+17
+02:36:33,433 --> 02:36:34,525
+Nori.
+
+18
+02:36:41,150 --> 02:36:43,118
+Das Licht schwindet. Macht schon.
+
+19
+02:36:49,616 --> 02:36:52,210
+Sei still!
+Ich höre nichts, wenn du dagegen trittst.
+
+20
+02:36:52,452 --> 02:36:53,248
+Ich finde es nicht.
+
+21
+02:36:54,705 --> 02:36:56,048
+Es ist nicht hier!
+
+22
+02:36:56,290 --> 02:36:57,382
+Es ist nicht hier!
+
+23
+02:36:59,126 --> 02:37:00,218
+- Schlagt sie ein!
+- Ja!
+
+24
+02:37:02,212 --> 02:37:03,008
+Na los!
+
+25
+02:37:05,174 --> 02:37:05,925
+Brich doch!
+
+26
+02:37:06,175 --> 02:37:07,176
+Sie muss zerbrechen!
+
+27
+02:37:08,135 --> 02:37:09,478
+Das nützt nichts.
+
+28
+02:37:09,720 --> 02:37:12,223
+Die Tür ist versiegelt.
+Mit Gewalt kommt man ihr nicht bei.
+
+29
+02:37:13,849 --> 02:37:14,975
+Ein mächtiger Zauber liegt darauf.
+
+30
+02:37:24,610 --> 02:37:25,736
+Nein!
+
+31
+02:37:31,074 --> 02:37:33,372
+"...ihren letzten Strahl am Durinstag
+
+32
+02:37:35,245 --> 02:37:36,838
+hinabfallen lässt auf das Schlüsselloch."
+
+33
+02:37:41,251 --> 02:37:42,844
+So steht es hier.
+
+34
+02:37:47,341 --> 02:37:48,763
+Was haben wir übersehen?
+
+35
+02:37:52,721 --> 02:37:54,189
+Was haben wir übersehen?
+
+36
+02:37:55,224 --> 02:37:56,191
+Balin?
+
+37
+02:37:56,808 --> 02:37:58,526
+Das Licht ist fort.
+
+38
+02:38:01,063 --> 02:38:02,906
+Wir können nichts mehr tun.
+
+39
+02:38:04,441 --> 02:38:05,033
+Wir hatten nur
+
+40
+02:38:05,275 --> 02:38:06,527
+diesen einen Versuch.
+
+41
+02:38:08,946 --> 02:38:10,198
+Lasst uns gehen.
+
+42
+02:38:10,447 --> 02:38:12,245
+Es ist vorbei.
+
+43
+02:38:13,325 --> 02:38:15,453
+- Moment mal. Wa...?
+- Wir waren zu spät.
+
+44
+02:38:17,955 --> 02:38:19,377
+Wo wollen sie hin?
+
+45
+02:38:21,166 --> 02:38:23,043
+Ihr dürft jetzt nicht aufgeben!
+
+46
+02:38:37,975 --> 02:38:39,147
+Thorin.
+
+47
+02:38:41,186 --> 02:38:42,859
+Du darfst jetzt nicht aufgeben.
+
+48
+02:38:54,408 --> 02:38:56,786
+"Stellt euch an den grauen Stein,
+
+49
+02:38:58,662 --> 02:39:00,756
+wenn die Drossel schlägt.
+
+50
+02:39:01,498 --> 02:39:02,875
+Die untergehende Sonne
+
+51
+02:39:03,917 --> 02:39:06,796
+ihren letzten Strahl
+am Durinstag hinabfallen lässt."
+
+52
+02:39:08,297 --> 02:39:09,765
+Der letzte Strahl.
+
+53
+02:39:12,301 --> 02:39:13,678
+Der letzte Strahl.
+
+54
+02:39:50,380 --> 02:39:51,632
+Der letzte Strahl!
+
+55
+02:40:01,850 --> 02:40:02,976
+Das Schlüsselloch!
+
+56
+02:40:03,477 --> 02:40:04,069
+Kommt zurück!
+
+57
+02:40:04,853 --> 02:40:06,196
+Kommt zurück!
+
+58
+02:40:06,438 --> 02:40:08,611
+Es ist das Licht des Mondes.
+Des letzten
+
+59
+02:40:08,857 --> 02:40:11,952
+Herbstmondes! Ha, ha, ha.
+
+60
+02:40:13,862 --> 02:40:16,240
+Wo ist der Schlüssel? Wo ist...?
+
+61
+02:40:16,490 --> 02:40:18,208
+Er war hier.
+
+62
+02:40:18,450 --> 02:40:20,248
+Oh, er war... Er lag doch hier.
+
+63
+02:40:20,952 --> 02:40:21,794
+Er lag doch eben noch...
+
+64
+02:41:19,803 --> 02:41:21,271
+Erebor.
+
+65
+02:41:21,972 --> 02:41:23,098
+Thorin.
+
+66
+02:41:36,486 --> 02:41:38,363
+Ich kenne diese Mauern.
+
+67
+02:41:42,117 --> 02:41:43,664
+Diese Hallen.
+
+68
+02:41:46,663 --> 02:41:48,040
+Diesen Stein.
+
+69
+02:41:51,960 --> 02:41:52,586
+Erinnerst du dich,
+
+70
+02:41:52,836 --> 02:41:53,962
+Balin?
+
+71
+02:41:57,591 --> 02:42:00,094
+Kammern, gefüllt mit goldenem Licht.
+
+72
+02:42:01,970 --> 02:42:03,472
+Ich erinnere mich.
+
+73
+02:42:16,735 --> 02:42:18,078
+"Hierin liegt
+
+74
+02:42:18,320 --> 02:42:20,197
+das Siebte Königreich,
+
+75
+02:42:20,447 --> 02:42:21,619
+Heimat von Durins Volk.
+
+76
+02:42:23,575 --> 02:42:26,670
+Möge das Herz des Berges
+
+77
+02:42:26,912 --> 02:42:30,507
+alle Zwerge vereinen,
+um diese Heimat zu verteidigen."
+
+78
+02:42:32,209 --> 02:42:34,052
+Der Königsthron.
+
+79
+02:42:34,711 --> 02:42:36,054
+Ah.
+
+80
+02:42:37,756 --> 02:42:41,101
+Und was ist das darüber?
+
+81
+02:42:44,638 --> 02:42:46,390
+Der Arkenstein.
+
+82
+02:42:47,682 --> 02:42:49,104
+Der Arkenstein.
+
+83
+02:42:53,021 --> 02:42:54,364
+Und was ist das?
+
+84
+02:42:54,689 --> 02:42:57,659
+Das ist der Grund,
+
+85
+02:42:58,693 --> 02:43:00,741
+Meisterdieb, warum du hier bist.
+

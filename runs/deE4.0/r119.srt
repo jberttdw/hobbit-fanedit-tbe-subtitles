@@ -1,0 +1,242 @@
+﻿1
+03:47:33,656 --> 03:47:35,788
+Zieht euch zurück!
+
+2
+03:48:04,136 --> 03:48:07,556
+Seit wann lassen wir
+unsere eigenen Leute im Stich?
+
+3
+03:48:07,656 --> 03:48:08,787
+Thorin...
+
+4
+03:48:09,376 --> 03:48:12,106
+Sie sterben dort draußen.
+
+5
+03:48:17,136 --> 03:48:20,713
+Es gibt Hallen um Hallen unter diesem Berg.
+
+6
+03:48:22,536 --> 03:48:27,716
+Orte, die wir befestigen,
+sichern, verstärken können.
+
+7
+03:48:27,816 --> 03:48:29,311
+Ja.
+
+8
+03:48:30,656 --> 03:48:31,946
+Ja,
+
+9
+03:48:32,896 --> 03:48:34,186
+das ist es.
+
+10
+03:48:34,856 --> 03:48:36,996
+Wir müssen das Gold tiefer unter der Erde
+
+11
+03:48:37,096 --> 03:48:38,636
+- in Sicherheit bringen.
+- Hast du nicht gehört?
+
+12
+03:48:38,736 --> 03:48:41,036
+Dain ist umstellt.
+
+13
+03:48:41,136 --> 03:48:43,155
+Sie werden geschlachtet.
+
+14
+03:48:45,336 --> 03:48:47,116
+Viele sterben im Krieg.
+
+15
+03:48:48,056 --> 03:48:49,949
+Ein Leben ist wertlos.
+
+16
+03:48:51,776 --> 03:48:57,189
+Aber ein Schatz wie dieser lässt sich nicht
+in verlorenen Leben aufwiegen.
+
+17
+03:48:59,976 --> 03:49:01,636
+Er ist es wert.
+
+18
+03:49:01,736 --> 03:49:04,551
+Ist alles Blut wert, das wir vergießen.
+
+19
+03:49:05,896 --> 03:49:11,345
+Du sitzt hier in diesen gewaltigen Hallen
+und trägst auf deinem Kopf eine Krone.
+
+20
+03:49:11,776 --> 03:49:15,194
+Doch du bist ein Geringerer, als du es je warst.
+
+21
+03:49:16,696 --> 03:49:22,633
+Sprich nicht mit mir, als wäre ich
+irgendein unbedeutender Zwergenfürst.
+
+22
+03:49:24,216 --> 03:49:28,185
+Als wäre ich immer noch...
+
+23
+03:49:30,896 --> 03:49:35,353
+Thorin Eichenschild.
+
+24
+03:49:36,976 --> 03:49:39,871
+- Ich bin dein König!
+- Du warst immer mein König.
+
+25
+03:49:39,976 --> 03:49:42,154
+Und das hast du früher auch gewusst.
+
+26
+03:49:43,216 --> 03:49:46,076
+Du siehst nicht, was aus dir geworden ist.
+
+27
+03:49:49,256 --> 03:49:50,751
+Geh.
+
+28
+03:49:53,216 --> 03:49:54,791
+Verschwinde.
+
+29
+03:49:57,016 --> 03:49:59,148
+Bevor ich dich umbringe.
+
+30
+03:50:13,376 --> 03:50:17,796
+<i>Du sitzt hier</i>
+<i>und trägst auf deinem Kopf eine Krone.</i>
+
+31
+03:50:17,896 --> 03:50:20,076
+<i>Du bist ein Geringerer, als du es je warst.</i>
+
+32
+03:50:20,176 --> 03:50:24,356
+<i>Ein Schatz, wie dieser,
+lässt sich nicht mit verlorenen Leben aufwiegen.</i>
+
+33
+03:50:24,456 --> 03:50:26,596
+<i>Dieser Schatz ist von einer Krankheit befallen.</i>
+
+34
+03:50:26,696 --> 03:50:29,236
+<i>Für eines Bergkönigs blinden Ehrgeiz.</i>
+
+35
+03:50:29,336 --> 03:50:30,716
+<i>Bin ich nicht der König?</i>
+
+36
+03:50:30,816 --> 03:50:33,916
+<i>Dieses Gold gehört uns.</i>
+
+37
+03:50:34,016 --> 03:50:35,796
+<i>Gehört uns. Uns allein.</i>
+
+38
+03:50:36,576 --> 03:50:42,436
+<i>Ich werde mich von keiner</i>
+<i>einzigen Münze trennen.</i>
+
+39
+03:50:42,536 --> 03:50:44,476
+<i>Er hat nur seinen eigenen Vorteil im Sinn.</i>
+
+40
+03:50:44,576 --> 03:50:47,236
+<i>Als wäre ich
+irgendein unbedeutender Zwergenfürst.</i>
+
+41
+03:50:47,336 --> 03:50:49,596
+<i>Thorin Eichenschild.</i>
+
+42
+03:50:49,696 --> 03:50:53,316
+<i>Sie hat deinen Großvater
+in den Wahnsinn getrieben.</i>
+
+43
+03:50:53,416 --> 03:50:55,196
+<i>Das ist Thorin,</i>
+
+44
+03:50:55,296 --> 03:50:58,076
+<i>Sohn von Thrain, Sohn von Thror.</i>
+
+45
+03:50:58,176 --> 03:51:00,556
+<i>Ich bin nicht mein Großvater.
+Ich bin nicht mein Großvater.</i>
+
+46
+03:51:00,656 --> 03:51:02,716
+<i>Ihr seid der Erbe von Durins Thron.</i>
+
+47
+03:51:02,816 --> 03:51:04,836
+<i>Sie sterben... Sterben.</i>
+
+48
+03:51:04,936 --> 03:51:06,316
+<i>Erobert den Erebor zurück.</i>
+
+49
+03:51:06,416 --> 03:51:07,956
+<i>Dain ist umstellt.</i>
+
+50
+03:51:08,056 --> 03:51:09,236
+<i>Sterben.</i>
+
+51
+03:51:09,336 --> 03:51:10,476
+<i>Ist umstellt.</i>
+
+52
+03:51:10,576 --> 03:51:11,716
+<i>Sterben.</i>
+
+53
+03:51:11,816 --> 03:51:14,950
+<i>Holt Euch Eure Heimat zurück.</i>
+
+54
+03:51:15,256 --> 03:51:17,556
+<i>Du hast dich verändert, Thorin.</i>
+
+55
+03:51:17,656 --> 03:51:19,436
+<i>Ich bin nicht mein Großvater.</i>
+
+56
+03:51:19,536 --> 03:51:22,756
+<i>Ist dieser Schatz
+denn wirklich mehr wert als deine Ehre?</i>
+
+57
+03:51:22,856 --> 03:51:25,273
+<i>Ich bin nicht mein Großvater.</i>
+
