@@ -1,0 +1,289 @@
+﻿1
+03:48:23,392 --> 03:48:25,227
+Terugtrekken.
+
+2
+03:48:53,881 --> 03:48:55,716
+Sinds wanneer laten we...
+
+3
+03:48:55,966 --> 03:48:57,134
+onze mensen in de steek?
+
+4
+03:48:57,384 --> 03:48:58,218
+Thorin...
+
+5
+03:48:59,136 --> 03:49:00,137
+ze gaan daar...
+
+6
+03:49:00,387 --> 03:49:01,555
+dood.
+
+7
+03:49:06,894 --> 03:49:10,147
+Er zijn zalen onder de zalen
+in deze Berg.
+
+8
+03:49:12,274 --> 03:49:14,401
+Die kunnen we versterken.
+
+9
+03:49:15,694 --> 03:49:17,321
+Veilig maken.
+
+10
+03:49:17,571 --> 03:49:18,739
+Ja.
+
+11
+03:49:20,407 --> 03:49:21,408
+Ja...
+
+12
+03:49:22,618 --> 03:49:23,619
+Dat is het.
+
+13
+03:49:24,578 --> 03:49:26,580
+We moeten het goud
+onder de grond verstoppen.
+
+14
+03:49:26,830 --> 03:49:28,206
+Hoor je me niet?
+
+15
+03:49:28,457 --> 03:49:30,626
+Daín is omsingeld.
+
+16
+03:49:30,876 --> 03:49:32,586
+Ze worden afgeslacht, Thorin.
+
+17
+03:49:35,088 --> 03:49:36,548
+Oorlog kost veel levens.
+
+18
+03:49:37,799 --> 03:49:39,384
+Een leven is niets waard.
+
+19
+03:49:41,511 --> 03:49:42,512
+Maar een schat...
+
+20
+03:49:42,763 --> 03:49:44,723
+als deze is niet...
+
+21
+03:49:44,973 --> 03:49:46,642
+in levens uit te drukken.
+
+22
+03:49:49,728 --> 03:49:51,229
+Hij is...
+
+23
+03:49:51,480 --> 03:49:53,982
+al dat vergoten bloed waard.
+
+24
+03:49:55,651 --> 03:49:58,070
+Jij zit hier in die grote zalen...
+
+25
+03:49:58,320 --> 03:50:00,781
+met een kroon op je hoofd...
+
+26
+03:50:01,531 --> 03:50:04,618
+en je bent nog minder
+dan je ooit bent geweest.
+
+27
+03:50:06,453 --> 03:50:08,372
+Spreek niet tegen me...
+
+28
+03:50:10,040 --> 03:50:12,084
+alsof ik een miezerige
+dwergenvorst ben.
+
+29
+03:50:13,961 --> 03:50:14,920
+Alsof ik...
+
+30
+03:50:15,170 --> 03:50:17,631
+nog steeds...
+
+31
+03:50:20,634 --> 03:50:22,135
+Thorin...
+
+32
+03:50:22,844 --> 03:50:24,805
+Eikenschild ben.
+
+33
+03:50:26,723 --> 03:50:29,309
+Ik ben je koning.
+-Je was altijd al mijn koning.
+
+34
+03:50:29,726 --> 03:50:31,603
+Eens wist je dat ook.
+
+35
+03:50:32,938 --> 03:50:35,524
+Je ziet niet wat er
+van je geworden is.
+
+36
+03:50:38,986 --> 03:50:40,195
+Weg...
+
+37
+03:50:42,948 --> 03:50:44,241
+Ga weg.
+
+38
+03:50:46,743 --> 03:50:48,578
+Voordat ik je dood.
+
+39
+03:51:03,135 --> 03:51:04,302
+<i>Jij zit hier...</i>
+
+40
+03:51:04,553 --> 03:51:07,389
+<i>met een kroon op je hoofd.</i>
+
+41
+03:51:07,639 --> 03:51:09,683
+<i>En je bent nog minder</i>
+<i>dan je ooit bent geweest.</i>
+
+42
+03:51:09,933 --> 03:51:13,937
+<i>Een schat als deze is niet</i>
+<i>in levens uit te drukken.</i>
+
+43
+03:51:14,187 --> 03:51:16,189
+<i>Die schat is besmet.</i>
+
+44
+03:51:16,440 --> 03:51:18,817
+<i>De blinde ambitie</i>
+<i>van een dwergvorst.</i>
+
+45
+03:51:19,067 --> 03:51:20,318
+<i>Ben ik niet de koning?</i>
+
+46
+03:51:20,569 --> 03:51:21,903
+<i>Dit goud...</i>
+
+47
+03:51:22,154 --> 03:51:23,488
+<i>is van ons.</i>
+
+48
+03:51:23,739 --> 03:51:25,240
+<i>Alleen van ons.</i>
+
+49
+03:51:26,324 --> 03:51:28,869
+<i>Ik doe geen afstand...</i>
+
+50
+03:51:29,786 --> 03:51:32,039
+<i>van ook maar één munt.</i>
+
+51
+03:51:32,289 --> 03:51:34,082
+<i>Gedreven door zijn hebzucht.</i>
+
+52
+03:51:34,332 --> 03:51:36,835
+<i>Alsof ik een miezerige</i>
+<i>dwergvorst ben.</i>
+
+53
+03:51:37,085 --> 03:51:39,171
+<i>Thorin Eikenschild.</i>
+
+54
+03:51:39,421 --> 03:51:42,924
+<i>Een ziekte die je grootvader</i>
+<i>krankzinnig maakte.</i>
+
+55
+03:51:43,175 --> 03:51:44,801
+<i>Ik ben Thorin...</i>
+
+56
+03:51:45,052 --> 03:51:47,721
+<i>zoon van Thraín,</i>
+<i>zoon van Thrór.</i>
+
+57
+03:51:47,971 --> 03:51:50,223
+<i>Ik ben niet mijn grootvader.</i>
+
+58
+03:51:50,474 --> 03:51:52,309
+<i>Jij bent de erfgenaam van Durins Troon.</i>
+
+59
+03:51:52,559 --> 03:51:54,436
+<i>Ze gaan dood.</i>
+
+60
+03:51:54,686 --> 03:51:55,896
+<i>Herover Erebor.</i>
+
+61
+03:51:56,146 --> 03:51:57,564
+<i>Daín is omsingeld.</i>
+
+62
+03:51:57,814 --> 03:51:58,815
+<i>Dood.</i>
+
+63
+03:51:59,066 --> 03:52:00,067
+<i>Omsingeld.</i>
+
+64
+03:52:00,317 --> 03:52:01,318
+<i>Dood.</i>
+
+65
+03:52:01,568 --> 03:52:04,404
+<i>Herover je thuisland.</i>
+
+66
+03:52:04,988 --> 03:52:07,157
+<i>U bent veranderd, Thorin.</i>
+
+67
+03:52:07,407 --> 03:52:09,034
+<i>Ik ben niet mijn grootvader.</i>
+
+68
+03:52:09,284 --> 03:52:12,329
+<i>Is deze schat meer waard</i>
+<i>dan uw eer?</i>
+
+69
+03:52:12,579 --> 03:52:14,706
+<i>Ik ben niet mijn grootvader.</i>
+

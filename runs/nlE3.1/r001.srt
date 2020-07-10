@@ -1,0 +1,40 @@
+﻿1
+00:01:05,030 --> 00:01:07,865
+<i>Mijn beste Frodo...</i>
+
+2
+00:01:13,288 --> 00:01:17,374
+<i>je vroeg me een keer</i>
+<i>of ik je alles had verteld...</i>
+
+3
+00:01:17,542 --> 00:01:19,960
+<i>over mijn avonturen.</i>
+
+4
+00:01:20,128 --> 00:01:23,339
+<i>Wat ik je verteld heb,</i>
+<i>was absoluut waar...</i>
+
+5
+00:01:24,924 --> 00:01:27,426
+<i>maar het was lang niet alles.</i>
+
+6
+00:01:34,726 --> 00:01:36,518
+<i>Ik ben nu oud, Frodo.</i>
+
+7
+00:01:38,897 --> 00:01:41,940
+<i>Ik ben niet meer dezelfde hobbit</i>
+<i>die ik ooit was.</i>
+
+8
+00:01:44,652 --> 00:01:49,073
+<i>De tijd is aangebroken</i>
+<i>dat je moet weten...</i>
+
+9
+00:01:49,240 --> 00:01:51,909
+<i>wat er echt is gebeurd.</i>
+
