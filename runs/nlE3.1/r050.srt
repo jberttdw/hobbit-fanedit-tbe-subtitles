@@ -1,340 +1,327 @@
 ﻿1
-01:49:27,825 --> 01:49:31,494
-Ze hebben ons te pakken
-voordat we het bos bereiken.
+01:49:31,115 --> 01:49:33,371
+Ah, Bilbo. Daar ben je.
 
 2
-01:49:31,745 --> 01:49:32,328
-Bilbo.
-
-3
-01:49:32,579 --> 01:49:33,371
-Daar ben je.
-
-4
-01:49:33,622 --> 01:49:34,247
-Nou...
-
-5
-01:49:34,498 --> 01:49:37,458
-dit moeten we
+01:49:33,622 --> 01:49:37,458
+Nou, dit moeten we
 met beleid aanpakken.
 
-6
+3
 01:49:37,710 --> 01:49:39,752
 We moeten voorzichtig zijn.
 
-7
+4
 01:49:40,004 --> 01:49:44,007
 De laatste die hem liet schrikken,
 werd aan stukken gescheurd.
 
-8
+5
 01:49:46,301 --> 01:49:47,260
 Ik ga eerst en...
 
-9
+6
 01:49:47,511 --> 01:49:48,636
 Bilbo?
 
-10
+7
 01:49:48,887 --> 01:49:50,596
 Jij gaat met mij mee.
 
-11
+8
 01:49:51,890 --> 01:49:54,475
 Is dit wel een goed idee?
 - Ja.
 
-12
+9
 01:49:54,727 --> 01:49:56,978
 De rest wacht hier...
 
-13
+10
 01:49:57,229 --> 01:49:59,772
 en wacht tot ik het teken geef.
 
-14
+11
 01:50:00,024 --> 01:50:01,274
 Op het teken wachten.
 
-15
+12
 01:50:01,525 --> 01:50:04,819
 Maak geen geluid
 en kom niet allemaal tegelijk.
 
-16
+13
 01:50:05,070 --> 01:50:07,405
 Jullie gaan in tweetallen.
 
-17
+14
 01:50:07,656 --> 01:50:09,198
 Alhoewel, Bombur...
 
-18
+15
 01:50:10,743 --> 01:50:12,869
 jij telt voor twee
 dus jij gaat alleen.
 
-19
+16
 01:50:15,330 --> 01:50:17,915
 Denk eraan:
 Op het teken wachten.
 
-20
+17
 01:50:18,167 --> 01:50:20,835
 Het teken. Juist.
 
-21
+18
 01:50:21,086 --> 01:50:21,961
 Wat voor teken?
 
-22
+19
 01:50:38,645 --> 01:50:39,312
 Je bent nerveus.
 
-23
+20
 01:50:43,692 --> 01:50:46,861
 Nerveus? Wat een onzin.
 
-24
+21
 01:50:47,362 --> 01:50:48,279
 Goedemorgen.
 
-25
+22
 01:50:54,870 --> 01:50:56,662
 Goedemorgen.
 
-26
+23
 01:50:59,500 --> 01:51:00,958
 Wie ben je?
 
-27
+24
 01:51:01,210 --> 01:51:05,004
 Ik ben Gandalf.
 Gandalf de Grijze.
 
-28
+25
 01:51:09,843 --> 01:51:11,719
 Nooit van gehoord.
 
-29
+26
 01:51:14,890 --> 01:51:16,015
 Ik ben een tovenaar.
 
-30
+27
 01:51:16,475 --> 01:51:19,143
 Wellicht ken je mijn collega,
 Radagast de Bruine.
 
-31
+28
 01:51:19,394 --> 01:51:22,396
 Hij woont in het zuiden
 van het Demsterwold.
 
-32
+29
 01:51:22,648 --> 01:51:24,732
 Wat wil je?
 
-33
+30
 01:51:24,983 --> 01:51:28,569
 Nou, ik wil je bedanken
 voor je gastvrijheid.
 
-34
+31
 01:51:28,821 --> 01:51:30,446
 Je hebt wellicht gemerkt dat we...
 
-35
+32
 01:51:30,697 --> 01:51:32,490
 hier overnacht hebben.
 
-36
+33
 01:51:34,159 --> 01:51:34,742
 Wie is dat...
 
-37
+34
 01:51:34,993 --> 01:51:35,576
 kleine ventje?
 
-38
+35
 01:51:36,411 --> 01:51:38,579
 Dat is meneer Balings...
 
-39
+36
 01:51:38,831 --> 01:51:39,872
 uit de Gouw.
 
-40
+37
 01:51:41,959 --> 01:51:44,252
 Hij is toch geen dwerg, hè?
 
-41
+38
 01:51:44,753 --> 01:51:47,630
 Welnee. Hij is een hobbit.
 
-42
+39
 01:51:48,215 --> 01:51:51,801
 Van goede komaf en met
 een onberispelijke reputatie.
 
-43
+40
 01:51:52,052 --> 01:51:56,055
 Een halfling en een tovenaar.
 
-44
+41
 01:51:56,348 --> 01:51:57,598
 Wat doen jullie hier?
 
-45
+42
 01:51:57,850 --> 01:51:58,516
 Nou...
 
-46
+43
 01:51:58,767 --> 01:52:00,977
 we hebben wat last gehad...
 
-47
+44
 01:52:01,228 --> 01:52:04,063
 van aardmannen in de bergen.
 
-48
+45
 01:52:04,314 --> 01:52:05,690
 Waarom zoek je aardmannen op?
 
-49
+46
 01:52:05,941 --> 01:52:07,441
 Dat is echt dom.
 
-50
+47
 01:52:07,693 --> 01:52:08,901
 Je hebt helemaal...
 
-51
+48
 01:52:09,153 --> 01:52:10,236
 gelijk...
 - Het teken. Nu.
 
-52
+49
 01:52:10,487 --> 01:52:12,738
 Nu.
 
-53
+50
 01:52:21,748 --> 01:52:22,498
 Dwalin...
 
-54
+51
 01:52:22,749 --> 01:52:23,708
 en Balin.
 
-55
+52
 01:52:23,959 --> 01:52:25,168
 En ik moet...
 
-56
+53
 01:52:25,419 --> 01:52:27,378
 bekennen dat verscheidene...
 
-57
+54
 01:52:27,629 --> 01:52:30,923
 van onze troep
 inderdaad dwergen zijn.
 
-58
+55
 01:52:31,175 --> 01:52:33,551
 Noem jij twee...
 
-59
+56
 01:52:33,802 --> 01:52:36,012
 verscheidene?
 
-60
+57
 01:52:36,263 --> 01:52:38,848
 Als je het zo stelt, dan...
 
-61
+58
 01:52:41,310 --> 01:52:42,351
 Misschien zijn het er wat meer...
 
-62
+59
 01:52:42,603 --> 01:52:43,644
 dan twee.
 
-63
+60
 01:52:44,396 --> 01:52:45,062
 Vooruit.
 
-64
+61
 01:52:45,522 --> 01:52:46,189
 Dat zijn wij.
 
-65
+62
 01:52:50,402 --> 01:52:51,277
 En hier zijn er nog meer...
 
-66
+63
 01:52:51,528 --> 01:52:53,279
 van onze troep.
 
-67
+64
 01:52:53,530 --> 01:52:55,823
 Noem je zes een troep?
 
-68
+65
 01:52:56,783 --> 01:52:59,202
 Wat zijn jullie,
 een reizend circus?
 
-69
+66
 01:53:00,329 --> 01:53:01,037
 Nu.
 
-70
+67
 01:53:01,288 --> 01:53:02,371
 Vooruit.
 
-71
+68
 01:53:05,626 --> 01:53:09,086
 Dori en Ori, tot uw dienst.
 
-72
+69
 01:53:09,338 --> 01:53:09,921
 Die...
 
-73
+70
 01:53:10,172 --> 01:53:10,963
 wil ik niet.
 
-74
+71
 01:53:11,215 --> 01:53:12,465
 Volkomen begrijpelijk.
 
-75
+72
 01:53:17,221 --> 01:53:20,056
 O, Fíli en Kíli.
 Helemaal vergeten.
 
-76
+73
 01:53:21,308 --> 01:53:23,559
 O ja, en Nori, Bofur...
 
-77
+74
 01:53:23,810 --> 01:53:25,519
 Bifur...
 
-78
+75
 01:53:26,980 --> 01:53:28,648
 en Bombur.
 
-79
+76
 01:53:29,775 --> 01:53:31,400
 Is dat alles?
 
-80
+77
 01:53:34,196 --> 01:53:35,696
 Zijn er nog meer?
 
-81
+78
 01:53:48,001 --> 01:53:51,754
 Dus jij bent Eikenschild.
 

@@ -223,19 +223,10 @@ Het zijn er honderden.
 Iedereen naar de Poort.
 
 55
-03:12:14,170 --> 03:12:15,296
-Naar de Poort.
+03:12:14,170 --> 03:12:16,589
+Naar de Poort. Nu.
 
 56
-03:12:15,546 --> 03:12:16,589
-Nu.
-
-57
-03:12:47,620 --> 03:12:48,871
-Kom op.
-
-58
-03:12:49,121 --> 03:12:50,206
-Doorlopen.
--Heer.
+03:12:47,620 --> 03:12:50,106
+Kom op, doorlopen.
 

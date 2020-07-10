@@ -1,12 +1,10 @@
 ﻿1
-00:02:20,991 --> 00:02:25,828
-<i>Niet dat ik ooit te laat was.</i>
-<i>Ik was altijd op tijd.</i>
+00:02:23,241 --> 00:02:26,201
+<i>In die tijd was ik nooit te laat.</i>
 
 2
 00:02:26,913 --> 00:02:30,207
-<i>In die tijd leidde ik</i>
-<i>een keurig leventje...</i>
+<i>Ik leidde een keurig leventje...</i>
 
 3
 00:02:31,084 --> 00:02:36,589
