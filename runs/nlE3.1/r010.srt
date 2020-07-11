@@ -17,7 +17,7 @@ Hier ligt het Laatste Huiselijke Huis
 ten oosten van de zee.
 
 5
-00:56:51,387 --> 00:56:56,642
+00:56:51,387 --> 00:56:56,609
 Dus dit was je plan.
 Bescherming zoeken bij onze vijand.
 
@@ -34,10 +34,10 @@ is wat je zelf meebrengt.
 8
 00:57:05,526 --> 00:57:08,779
 Denk je dat de elfen onze tocht
-hun zegen geven?
+hun zegen geven ?
 
 9
-00:57:09,864 --> 00:57:12,282
+00:57:09,864 --> 00:57:12,250
 Die gaan ons tegenhouden.
 -Natuurlijk.
 
@@ -47,7 +47,7 @@ Maar we hebben vragen
 die beantwoord moeten worden.
 
 11
-00:57:19,040 --> 00:57:22,626
+00:57:19,040 --> 00:57:22,594
 Als we willen slagen,
 dan moeten we dit doen met tact.
 
@@ -58,8 +58,8 @@ En een grote hoeveelheid charme.
 
 13
 00:57:27,340 --> 00:57:30,467
-<i>Laat daarom dus het praten</i>
-<i>maar aan mij over.</i>
+<i>Laat daarom dus het praten
+maar aan mij over.</i>
 
 14
 00:58:27,525 --> 00:58:28,942
@@ -85,11 +85,11 @@ Ik moet heer Elrond spreken.
 
 19
 00:58:42,248 --> 00:58:43,623
-Niet hier?
+Niet hier ?
 
 20
-00:58:44,917 --> 00:58:46,001
-Waar is hij dan?
+00:58:44,917 --> 00:58:46,401
+Waar is hij dan ?
 
 21
 00:59:00,141 --> 00:59:01,641
@@ -105,8 +105,8 @@ Gandalf...
 Mijn vriend.
 
 24
-00:59:33,132 --> 00:59:34,758
-Waar was je?
+00:59:33,132 --> 00:59:34,726
+Waar was je ?
 
 25
 00:59:34,926 --> 00:59:38,178

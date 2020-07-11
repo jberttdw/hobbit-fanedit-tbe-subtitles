@@ -3,18 +3,18 @@
 <i>Mijn beste Frodo...</i>
 
 2
-00:01:13,288 --> 00:01:17,374
-<i>je vroeg me een keer</i>
-<i>of ik je alles had verteld...</i>
+00:01:13,288 --> 00:01:17,342
+<i>je vroeg me een keer
+of ik je alles had verteld...</i>
 
 3
-00:01:17,542 --> 00:01:19,960
+00:01:17,542 --> 00:01:19,928
 <i>over mijn avonturen.</i>
 
 4
 00:01:20,128 --> 00:01:23,339
-<i>Wat ik je verteld heb,</i>
-<i>was absoluut waar...</i>
+<i>Wat ik je verteld heb,
+was absoluut waar...</i>
 
 5
 00:01:24,924 --> 00:01:27,426
@@ -26,13 +26,13 @@
 
 7
 00:01:38,897 --> 00:01:41,940
-<i>Ik ben niet meer dezelfde hobbit</i>
-<i>die ik ooit was.</i>
+<i>Ik ben niet meer dezelfde hobbit
+die ik ooit was.</i>
 
 8
-00:01:44,652 --> 00:01:49,073
-<i>De tijd is aangebroken</i>
-<i>dat je moet weten...</i>
+00:01:44,652 --> 00:01:48,478
+<i>De tijd is aangebroken
+dat je moet weten...</i>
 
 9
 00:01:49,240 --> 00:01:51,909

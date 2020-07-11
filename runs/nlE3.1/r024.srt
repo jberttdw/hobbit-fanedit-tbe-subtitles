@@ -7,7 +7,7 @@ Waar ga jij naartoe?
 Terug naar Rivendel.
 
 3
-01:13:58,903 --> 01:14:04,240
+01:13:58,903 --> 01:14:04,208
 Nee, je kan nu niet teruggaan. Je hoort
 bij de groep, je bent een van ons.
 
@@ -26,12 +26,12 @@ Ik ben geen Toek,
 ik ben een Balings.
 
 7
-01:14:16,587 --> 01:14:20,632
+01:14:16,587 --> 01:14:20,599
 Ik had 't nooit moeten doen.
 -Je hebt heimwee, ik snap 't.
 
 8
-01:14:20,799 --> 01:14:24,552
+01:14:20,799 --> 01:14:24,520
 Nee, je snapt het niet.
 Jullie zijn dwergen.
 
@@ -67,7 +67,7 @@ Wat is dat?
 16
 01:15:31,787 --> 01:15:34,080
 Wakker worden.
-Wakker worden.
+Sta recht.
 
 17
 01:15:57,771 --> 01:15:59,063
@@ -104,7 +104,7 @@ Wie is er zo dapper om gewapend
 mijn koninkrijk binnen te dringen?
 
 25
-01:18:33,886 --> 01:18:37,388
+01:18:33,886 --> 01:18:37,356
 Spionnen? Dieven? Moordenaars?
 
 26
@@ -130,12 +130,12 @@ Wat komen jullie hier doen?
 Spreek...
 
 31
-01:19:03,332 --> 01:19:06,125
+01:19:03,332 --> 01:19:06,093
 Goed dan.
 Als ze niets willen zeggen...
 
 32
-01:19:06,293 --> 01:19:08,878
+01:19:06,293 --> 01:19:08,846
 gaan we ze op de pijnbank leggen.
 
 33

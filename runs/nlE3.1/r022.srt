@@ -76,7 +76,7 @@ We moeten hier wachten
 tot Gandalf er is.
 
 18
-01:12:51,442 --> 01:12:54,444
+01:12:51,442 --> 01:12:54,412
 Dat was het plan.
 -Plannen veranderen.
 

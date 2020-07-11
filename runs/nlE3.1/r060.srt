@@ -4,94 +4,77 @@ Galion, ouwe schurk.
 De drank is bijna op.
 
 2
-02:15:52,073 --> 02:15:55,117
+02:15:52,073 --> 02:15:55,343
 Die lege vaten hadden al lang
 naar Esgaroth gemoeten.
 
 3
-02:15:55,368 --> 02:15:57,410
+02:15:55,544 --> 02:15:57,410
 De schipper wacht erop.
 
 4
-02:15:57,662 --> 02:15:58,745
-Je kunt van alles zeggen...
-
-5
-02:15:58,996 --> 02:16:02,332
-over onze koning,
+02:15:57,662 --> 02:16:02,332
+Je kunt van alles zeggen over onze koning,
 hij heeft verstand van wijn.
 
-6
+5
 02:16:03,334 --> 02:16:04,835
 Proef eens, Elros.
 
-7
-02:16:05,545 --> 02:16:06,378
-Ik moet de dwergen...
-
-8
-02:16:06,629 --> 02:16:07,629
+6
+02:16:05,545 --> 02:16:07,629
+Ik moet de dwergen
 bewaken.
 
-9
-02:16:08,047 --> 02:16:10,423
+7
+02:16:08,047 --> 02:16:11,323
 Die zitten toch opgesloten?
+Ze gaan nergens heen.
 
-10
+8
 02:16:14,053 --> 02:16:16,596
 Ik wed dat de zon al opkomt.
 
-11
+9
 02:16:16,848 --> 02:16:18,557
 Het is bijna dageraad.
 
-12
-02:16:18,808 --> 02:16:21,101
+10
+02:16:18,808 --> 02:16:21,501
 We zullen de Berg nooit bereiken, hè?
 
-13
+11
 02:16:24,063 --> 02:16:26,148
 Niet als jullie hier blijven.
 
-14
-02:16:32,113 --> 02:16:32,737
+12
+02:16:32,113 --> 02:16:33,864
 Bilbo...
+-Wat?
 
-15
-02:16:32,989 --> 02:16:33,864
-Wat?
-
-16
+13
 02:16:36,659 --> 02:16:38,368
 Denk om de bewakers.
 
-17
-02:16:44,125 --> 02:16:45,041
-Deuren dicht...
-
-18
-02:16:45,293 --> 02:16:47,460
-dat wint tijd.
+14
+02:16:44,511 --> 02:16:47,460
+Deuren dicht dat wint tijd.
 -Oké, Nori.
 
-19
-02:16:58,264 --> 02:16:59,764
+15
+02:16:58,264 --> 02:17:00,599
 De trap op.
--Jij eerst.
+-Jij eerst. Ori.
 
-20
-02:17:00,016 --> 02:17:00,599
-Ori...
-
-21
-02:17:00,850 --> 02:17:02,267
+16
+02:17:00,850 --> 02:17:02,778
 Niet daarheen. Volg mij.
 
-22
+17
 02:17:04,770 --> 02:17:06,271
 Voorzichtig.
 
-23
-02:17:21,370 --> 02:17:22,454
+18
+02:17:21,370 --> 02:17:22,654
 Hierheen.
 

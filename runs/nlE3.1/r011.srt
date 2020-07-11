@@ -7,12 +7,12 @@ Welkom Thorin, zoon van Thraín.
 Volgens mij kennen wij elkaar niet.
 
 3
-00:59:53,510 --> 00:59:56,512
+00:59:53,510 --> 00:59:56,480
 Je hebt de manieren
 van je grootvader.
 
 4
-00:59:56,680 --> 00:59:59,182
+00:59:56,680 --> 00:59:59,149
 Ik kende Thrór toen hij heerste
 Onder de Berg.
 
@@ -22,11 +22,11 @@ Is dat zo? Hij heeft jou
 nooit genoemd.
 
 6
-01:00:13,822 --> 01:00:16,074
+01:00:13,822 --> 01:00:16,041
 Wat zegt ie?
 
 7
-01:00:16,241 --> 01:00:18,076
+01:00:16,241 --> 01:00:18,043
 Beledigt hij ons?
 
 8
@@ -40,7 +40,7 @@ In dat geval,
 breng ons ernaartoe.
 
 10
-01:00:35,219 --> 01:00:37,887
+01:00:35,219 --> 01:00:37,855
 Probeer het eens.
 Een klein hapje.
 
@@ -57,7 +57,7 @@ Waar is het vlees?
 Hebben ze geen patat?
 
 14
-01:00:46,313 --> 01:00:50,191
+01:00:46,313 --> 01:00:50,159
 Aardig dat je ons uitnodigt.
 Ik ben er alleen niet op gekleed.
 
@@ -71,7 +71,7 @@ Dit is <i>Orcrist,</i>
 de Aardmannenkliever.
 
 17
-01:01:16,927 --> 01:01:18,344
+01:01:16,927 --> 01:01:18,312
 Een beroemd zwaard...
 
 18
@@ -93,16 +93,16 @@ De Vijandhamer. Het zwaard
 van de koning van Gondolin.
 
 22
-01:01:37,156 --> 01:01:38,573
+01:01:37,156 --> 01:01:38,540
 Ik zou 't niet doen.
 
 23
-01:01:38,740 --> 01:01:42,201
+01:01:38,740 --> 01:01:42,169
 Zwaarden worden vernoemd
 naar hun daden in de strijd.
 
 24
-01:01:42,369 --> 01:01:45,079
+01:01:42,369 --> 01:01:45,047
 En met mijn zwaard
 is nog nooit gevochten?
 
@@ -115,7 +115,7 @@ Het is ook niet echt een zwaard.
 Meer een briefopener.
 
 27
-01:01:51,628 --> 01:01:53,045
+01:01:51,628 --> 01:01:53,013
 Hoe kom je eraan?
 
 28

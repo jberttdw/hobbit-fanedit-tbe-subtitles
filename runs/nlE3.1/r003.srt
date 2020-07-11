@@ -8,8 +8,8 @@
 
 3
 00:02:31,084 --> 00:02:36,589
-<i>en er gebeurde</i>
-<i>nooit iets onverwachts.</i>
+<i>en er gebeurde
+nooit iets onverwachts.</i>
 
 4
 00:02:55,859 --> 00:02:59,737
@@ -68,7 +68,7 @@ ongemakkelijke dingen.
 Dan kom je te laat voor het eten.
 
 16
-00:04:06,429 --> 00:04:10,641
+00:04:06,429 --> 00:04:10,609
 Goedemorgen.
 -Ik heb genoeg goedemorgens gehoord...
 
@@ -78,21 +78,21 @@ van de zoon van Belladonna Toek,
 alsof ik een verkoper ben.
 
 18
-00:04:16,064 --> 00:04:17,356
+00:04:16,064 --> 00:04:17,324
 Pardon?
 
 19
-00:04:17,524 --> 00:04:21,318
+00:04:17,524 --> 00:04:21,286
 Je bent veranderd, maar niet
 in je voordeel, Bilbo Balings.
 
 20
-00:04:21,486 --> 00:04:23,737
+00:04:21,486 --> 00:04:23,705
 Ken ik jou?
 -Je kent mijn naam...
 
 21
-00:04:23,905 --> 00:04:27,700
+00:04:23,905 --> 00:04:27,667
 maar niet de man die erbij hoort.
 Ik ben Gandalf.
 
@@ -105,7 +105,7 @@ En Gandalf betekent...
 ik dus.
 
 24
-00:04:33,790 --> 00:04:38,085
+00:04:33,790 --> 00:04:38,053
 Gandalf de tovenaar?
 Van dat prachtige vuurwerk?
 
@@ -137,12 +137,12 @@ Dat is dan geregeld.
 Het zal goed voor je zijn.
 
 31
-00:05:04,988 --> 00:05:08,907
+00:05:04,988 --> 00:05:08,875
 En vermakelijk voor mij.
 Ik zal de anderen inlichten.
 
 32
-00:05:09,075 --> 00:05:12,411
+00:05:09,075 --> 00:05:12,379
 Wie inlichten? Wat?
 Nee, wacht.
 
@@ -173,7 +173,7 @@ Bilbo Balings, wederzijds.
 Kennen wij elkaar?
 
 39
-00:07:05,650 --> 00:07:08,569
+00:07:05,650 --> 00:07:08,536
 Waar is 't? Hier ergens?
 
 40
@@ -182,7 +182,7 @@ Wat is waar?
 -Het eten.
 
 41
-00:07:12,991 --> 00:07:15,826
+00:07:12,991 --> 00:07:15,794
 Hij zei dat er heel veel
 te eten zou zijn.
 
@@ -230,7 +230,7 @@ Laat voor wat?
 Goedenavond, broeder.
 
 52
-00:08:21,893 --> 00:08:27,189
+00:08:21,893 --> 00:08:27,157
 Bij mijn baard, je bent nog korter
 en dikker dan de vorige keer.
 
@@ -240,40 +240,40 @@ Dikker, niet korter.
 Maar slim genoeg voor ons allebei.
 
 54
-00:08:41,955 --> 00:08:44,122
+00:08:41,955 --> 00:08:44,090
 Pardon, sorry dat ik stoor.
 
 55
-00:08:44,290 --> 00:08:48,252
+00:08:44,290 --> 00:08:48,219
 Maar ik weet niet of jullie wel
 op het goede adres zijn.
 
 56
-00:08:48,419 --> 00:08:51,213
+00:08:48,419 --> 00:08:51,181
 Heb je al gegeten?
 -Ik hou wel van bezoek.
 
 57
-00:08:51,381 --> 00:08:54,633
+00:08:51,381 --> 00:08:54,601
 Net zoals alle hobbits.
 
 58
-00:08:54,801 --> 00:08:58,345
+00:08:54,801 --> 00:08:58,313
 Maar ik wil wel graag weten
 wie er op bezoek komt.
 
 59
-00:08:58,513 --> 00:09:01,598
+00:08:58,513 --> 00:09:01,566
 Wat is dit?
 -Iets van kaas, maar bedorven.
 
 60
-00:09:01,766 --> 00:09:05,894
+00:09:01,766 --> 00:09:05,862
 Beschimmeld.
 -En jullie ken ik niet.
 
 61
-00:09:06,062 --> 00:09:07,771
+00:09:06,062 --> 00:09:07,739
 Totaal niet.
 
 62
@@ -292,12 +292,12 @@ Heb je nog trek?
 -Ik kan zo weer eten.
 
 65
-00:09:26,291 --> 00:09:28,292
+00:09:26,291 --> 00:09:28,259
 Fíli.
 -En Kíli.
 
 66
-00:09:28,459 --> 00:09:30,168
+00:09:28,459 --> 00:09:30,136
 Tot uw dienst.
 
 67
@@ -306,7 +306,7 @@ U bent vast Mr Bolings.
 -Nee. En jullie zijn hier verkeerd.
 
 68
-00:09:35,591 --> 00:09:38,093
+00:09:35,591 --> 00:09:38,061
 Is het afgelast?
 -Wij weten van niets.
 
@@ -321,21 +321,20 @@ Voorzichtig.
 Ik heb ze pas laten slijpen.
 
 71
-00:09:48,896 --> 00:09:51,773
-Mooi huis, hoor.
-Zelf gemaakt?
+00:09:48,896 --> 00:09:51,741
+Mooi huis, hoor. Zelf gemaakt?
 
 72
-00:09:51,941 --> 00:09:54,109
+00:09:51,941 --> 00:09:54,077
 Nee, het is al jaren in de familie.
 
 73
-00:09:54,277 --> 00:09:57,070
+00:09:54,277 --> 00:09:57,038
 Dat is mijn moeders bruidskorf.
 Niet doen.
 
 74
-00:09:57,238 --> 00:09:59,990
+00:09:57,238 --> 00:09:59,958
 Fíli, Kíli. Help eens even.
 
 75
@@ -343,7 +342,7 @@ Fíli, Kíli. Help eens even.
 Mr Dwalin.
 
 76
-00:10:03,453 --> 00:10:06,330
+00:10:03,453 --> 00:10:06,297
 Dit moet weg anders kunnen we
 er niet allemaal in.
 
@@ -357,12 +356,12 @@ Allemaal? Hoeveel komen er nog?
 Nee, er is niemand thuis.
 
 79
-00:10:14,339 --> 00:10:17,215
+00:10:14,339 --> 00:10:17,183
 Ga weg
 en ga een ander lastigvallen.
 
 80
-00:10:17,383 --> 00:10:20,552
+00:10:17,383 --> 00:10:20,520
 Er zijn al te veel dwergen
 in mijn eetkamer.
 
@@ -384,27 +383,26 @@ Ga van me af, sukkel.
 Gandalf...
 
 85
-00:10:39,947 --> 00:10:43,158
+00:10:39,947 --> 00:10:43,126
 Dat zijn... Niet mijn wijn.
 Zet dat terug.
 
 86
-00:10:43,326 --> 00:10:46,453
+00:10:43,326 --> 00:10:46,421
 Zet terug. Niet de jam.
 Pardon. Pardon.
 
 87
-00:10:46,621 --> 00:10:49,164
+00:10:46,621 --> 00:10:49,132
 Is dat niet wat veel?
 Heb je wel een kaasmes?
 
 88
 00:10:49,332 --> 00:10:51,375
-Kaasmes?
-Hij eet 'm zo wel op.
+Kaasmes? Hij eet 'm zo wel op.
 
 89
-00:10:52,460 --> 00:10:55,962
+00:10:52,460 --> 00:10:55,930
 Nee, dat is opa's stoel.
 Zet 'm terug.
 
@@ -419,11 +417,11 @@ Dat is een boek, geen onderzetter.
 En leg die kaart terug.
 
 92
-00:11:05,848 --> 00:11:08,225
+00:11:05,848 --> 00:11:08,193
 Pardon, Mr Gandalf...
 
 93
-00:11:08,393 --> 00:11:11,061
+00:11:08,393 --> 00:11:11,029
 Wilt u een kopje kamillethee?
 
 94
@@ -440,11 +438,11 @@ Aan de kant.
 Fíli, Kíli...
 
 97
-00:11:26,411 --> 00:11:28,412
+00:11:26,411 --> 00:11:28,379
 Oín, Gloín...
 
 98
-00:11:28,579 --> 00:11:32,999
+00:11:28,579 --> 00:11:32,967
 Dwalin, Balin, Bifur, Bofur, Bombur,
 Dori, Nori...
 
@@ -458,7 +456,7 @@ Niet mijn prijswinnaars.
 Je hebt helemaal gelijk, Bifur.
 
 101
-00:11:41,968 --> 00:11:44,261
+00:11:41,968 --> 00:11:44,229
 We komen één dwerg te kort.
 
 102
@@ -467,7 +465,7 @@ Hij is laat. Hij moest nog naar
 een bijeenkomst. Hij komt wel.
 
 103
-00:11:50,017 --> 00:11:53,812
+00:11:50,017 --> 00:11:53,780
 Mr Gandalf? Een glaasje rood,
 zoals gewenst.
 
@@ -476,7 +474,7 @@ zoals gewenst.
 Hij heeft een fruitige geur.
 
 105
-00:11:57,191 --> 00:11:58,483
+00:11:57,191 --> 00:11:58,451
 Proost.
 
 106
@@ -485,7 +483,7 @@ Bombur zit al
 aan z'n tweede lamsbout.
 
 107
-00:12:05,616 --> 00:12:09,494
+00:12:05,616 --> 00:12:09,462
 Dat lukt je nooit van zo'n afstand.
 -Wedden?
 
@@ -511,54 +509,54 @@ Neem er nog een. Alsjeblieft.
 Kantelen.
 
 113
-00:12:54,332 --> 00:12:57,042
+00:12:54,332 --> 00:12:57,010
 Dat is een onderlegger,
 geen theedoek.
 
 114
-00:12:57,210 --> 00:13:00,545
+00:12:57,210 --> 00:13:00,513
 Het zit vol met gaten.
 -Dat hoort zo. Het is gehaakt.
 
 115
-00:13:00,713 --> 00:13:03,673
+00:13:00,713 --> 00:13:03,641
 Ik hou meer van inhaken.
 
 116
-00:13:03,841 --> 00:13:05,800
+00:13:03,841 --> 00:13:05,768
 Die blikskaterse dwergen.
 
 117
-00:13:05,968 --> 00:13:09,095
+00:13:05,968 --> 00:13:09,063
 Mijn beste Bilbo, wat is er loos?
 
 118
-00:13:09,263 --> 00:13:13,600
+00:13:09,263 --> 00:13:13,568
 Wat er loos is? Ik ben omringd
 door dwergen. Wat doen ze hier?
 
 119
-00:13:13,768 --> 00:13:17,521
+00:13:13,768 --> 00:13:17,488
 Het is een vrolijk stel,
 als je eraan gewend bent.
 
 120
-00:13:17,688 --> 00:13:22,984
+00:13:17,688 --> 00:13:22,952
 Ik wil niet aan ze wennen.
 Moet je m'n keuken zien. Het tapijt.
 
 121
-00:13:23,152 --> 00:13:27,155
+00:13:23,152 --> 00:13:27,123
 Ze hebben alles geplunderd. En dan
 heb ik 't nog niet over de badkamer.
 
 122
-00:13:27,323 --> 00:13:30,951
+00:13:27,323 --> 00:13:30,918
 Alle leidingen zijn vernield.
 Wat doen ze in mijn huis?
 
 123
-00:13:31,118 --> 00:13:34,204
+00:13:31,118 --> 00:13:34,172
 Pardon.
 Sorry dat ik stoor...
 
@@ -573,7 +571,7 @@ Dat is het servies van mijn moeder.
 Da's meer dan 100 jaar oud.
 
 126
-00:13:53,474 --> 00:13:56,351
+00:13:53,474 --> 00:13:56,319
 Willen jullie daarmee stoppen?
 Dan worden ze bot.
 
@@ -582,48 +580,47 @@ Dan worden ze bot.
 Horen jullie dat?
 
 128
-00:13:58,854 --> 00:14:00,939
+00:13:58,854 --> 00:14:00,907
 We maken de messen bot.
 
 129
-00:14:01,107 --> 00:14:03,692
-<i>maak vorken krom</i>
-<i>en messen bot</i>
+00:14:01,107 --> 00:14:03,659
+<i>maak vorken krom en messen bot</i>
 
 130
-00:14:03,859 --> 00:14:06,361
+00:14:03,859 --> 00:14:06,329
 <i>smijt de flessen gerust kapot</i>
 
 131
-00:14:06,529 --> 00:14:09,739
+00:14:06,529 --> 00:14:09,707
 <i>schilfer de glazen en borden maar</i>
 
 132
-00:14:09,907 --> 00:14:11,741
+00:14:09,907 --> 00:14:11,709
 <i>dat vindt Bilbo Balings naar</i>
 
 133
-00:14:11,909 --> 00:14:15,495
-<i>snij in het laken, trap in het vet</i>
-<i>gooi de botten maar op 't bed</i>
+00:14:11,909 --> 00:14:15,463
+<i>snij in het laken, trap in het vet
+gooi de botten maar op 't bed</i>
 
 134
-00:14:15,663 --> 00:14:19,124
+00:14:15,663 --> 00:14:19,092
 <i>schenk de melk op de keukenmat</i>
 
 135
-00:14:19,292 --> 00:14:21,376
+00:14:19,292 --> 00:14:21,344
 <i>spat de deuren met wijn maar nat</i>
 
 136
-00:14:21,544 --> 00:14:25,046
-<i>gooi de vaat in een kokende teil</i>
-<i>stamp het zaakje, hard en lang</i>
+00:14:21,544 --> 00:14:25,014
+<i>gooi de vaat in een kokende teil
+stamp het zaakje, hard en lang</i>
 
 137
 00:14:25,214 --> 00:14:29,384
-<i>en als je daarmee klaar bent</i>
-<i>keil wat nog heel is</i>
+<i>en als je daarmee klaar bent
+keil wat nog heel is</i>
 
 138
 00:14:30,303 --> 00:14:32,679
@@ -646,17 +643,17 @@ Hij is er.
 Gandalf...
 
 143
-00:15:05,171 --> 00:15:09,841
+00:15:05,171 --> 00:15:09,809
 Je zei dat 't makkelijk te vinden was.
 Ik ben twee keer verdwaald.
 
 144
-00:15:10,009 --> 00:15:13,386
+00:15:10,009 --> 00:15:13,354
 Zonder dat teken op de deur
 had ik 't nooit gevonden.
 
 145
-00:15:13,554 --> 00:15:16,598
+00:15:13,554 --> 00:15:16,566
 Er is geen teken.
 Die deur is net geschilderd.
 
@@ -680,17 +677,17 @@ Thorin Eikenschild.
 dus dit is de hobbit.
 
 150
-00:15:33,532 --> 00:15:36,326
+00:15:33,532 --> 00:15:36,294
 Mr Balings, heb je veel gevochten?
 -Pardon?
 
 151
-00:15:36,494 --> 00:15:39,663
+00:15:36,494 --> 00:15:39,630
 Bijl of zwaard?
 Wat is je favoriete wapen?
 
 152
-00:15:39,830 --> 00:15:43,208
+00:15:39,830 --> 00:15:43,176
 Ik kan wel aardig kastanje-tikken,
 als je 't per se wilt weten.
 
@@ -705,12 +702,12 @@ Dat dacht ik al. Hij lijkt meer op
 een kruidenier dan op 'n inbreker.
 
 155
-00:15:57,223 --> 00:16:00,934
+00:15:57,223 --> 00:16:00,902
 Nog nieuws van Ered Luin?
 Waren ze er allemaal?
 
 156
-00:16:01,102 --> 00:16:04,062
+00:16:01,102 --> 00:16:04,030
 Ja, afgezanten van alle
 zeven koninkrijken.
 
@@ -762,7 +759,7 @@ ligt een alleenstaande berg.
 De Eenzame Berg.
 
 168
-00:16:49,692 --> 00:16:52,777
+00:16:49,692 --> 00:16:52,745
 Ja, Oín heeft de voortekenen gelezen...
 
 169
@@ -771,12 +768,12 @@ en de voortekenen zeggen:
 Het is tijd.
 
 170
-00:16:56,699 --> 00:17:01,578
+00:16:56,699 --> 00:17:01,546
 De raven zijn teruggekeerd
 naar de berg, zoals voorspeld.
 
 171
-00:17:01,746 --> 00:17:05,665
+00:17:01,746 --> 00:17:05,633
 'Als de vogels van voorheen
 terugkeren naar Erebor...
 
@@ -786,7 +783,7 @@ is dat het eind
 van de heerschappij van het Beest.'
 
 173
-00:17:12,757 --> 00:17:16,176
+00:17:12,757 --> 00:17:16,143
 Welk beest?
 -Dat is Smaug de Verschrikkelijke.
 
@@ -795,40 +792,40 @@ Welk beest?
 Het grootste onheil van onze era.
 
 175
-00:17:20,973 --> 00:17:22,682
+00:17:20,973 --> 00:17:22,650
 Vliegende vuurspuwer.
 
 176
-00:17:22,850 --> 00:17:25,643
+00:17:22,850 --> 00:17:25,611
 Tanden als scheermessen.
 Klauwen als vleeshaken.
 
 177
-00:17:25,811 --> 00:17:28,646
+00:17:25,811 --> 00:17:28,614
 Dol op kostbare metalen.
 -Ik weet wat een draak is.
 
 178
-00:17:28,814 --> 00:17:30,607
+00:17:28,814 --> 00:17:30,575
 Ik ben er klaar voor.
 
 179
-00:17:30,775 --> 00:17:33,693
+00:17:30,775 --> 00:17:33,661
 Ik zal 'm eens wat dwergenstaal
 laten voelen.
 
 180
-00:17:33,861 --> 00:17:35,403
+00:17:33,861 --> 00:17:35,371
 Heel goed.
 -Ga zitten.
 
 181
-00:17:35,571 --> 00:17:38,615
+00:17:35,571 --> 00:17:38,583
 Het is al moeilijk genoeg
 met een heel leger...
 
 182
-00:17:38,783 --> 00:17:40,909
+00:17:38,783 --> 00:17:40,876
 en wij zijn met maar 13 man.
 
 183
@@ -837,22 +834,22 @@ En bepaald niet de 13 besten
 of slimsten.
 
 184
-00:17:45,122 --> 00:17:49,209
+00:17:45,122 --> 00:17:49,176
 Hé, wie is hier dom?
 -Wat zegt ie?
 
 185
-00:17:49,376 --> 00:17:55,840
+00:17:49,376 --> 00:17:55,808
 We zijn met weinig, maar we zijn wel
 vechters. Tot de laatste dwerg.
 
 186
-00:17:56,008 --> 00:18:01,346
+00:17:56,008 --> 00:18:01,314
 En we hebben een tovenaar bij ons.
 Gandalf heeft honderden draken gedood.
 
 187
-00:18:01,514 --> 00:18:05,517
+00:18:01,514 --> 00:18:05,484
 Nou, ik wil niet zeggen dat...
 -Hoeveel dan?
 
@@ -891,7 +888,7 @@ Ook anderen kijken naar de berg...
 en wegen het risico af.
 
 196
-00:18:41,804 --> 00:18:44,597
+00:18:41,804 --> 00:18:44,565
 Onze rijkdommen liggen daar
 voor 't grijpen.
 
@@ -909,7 +906,7 @@ Of veroveren we Erebor terug?
 De Voorpoort is hermetisch afgesloten.
 
 200
-00:18:57,695 --> 00:19:00,405
+00:18:57,695 --> 00:19:00,373
 Je kan de berg niet meer in.
 
 201
@@ -918,7 +915,7 @@ Mijn beste Balin,
 dat is niet helemaal waar.
 
 202
-00:19:07,913 --> 00:19:12,750
+00:19:07,913 --> 00:19:12,718
 Hoe kom je daaraan?
 -Van jouw vader gekregen.
 
@@ -951,7 +948,7 @@ Als we 'm kunnen vinden, want
 dichte dwergendeuren zijn onzichtbaar.
 
 209
-00:19:44,325 --> 00:19:49,537
+00:19:44,325 --> 00:19:49,505
 Het antwoord ligt verborgen in de kaart,
 maar ik kan 't niet vinden.
 
@@ -961,7 +958,7 @@ Maar er zijn anderen in Midden-aarde
 die dat wel kunnen.
 
 211
-00:19:54,710 --> 00:19:58,171
+00:19:54,710 --> 00:19:58,139
 Daarvoor zoek ik een man
 die goed kan sluipen...
 
@@ -970,16 +967,16 @@ die goed kan sluipen...
 en niet bang uitgevallen is.
 
 213
-00:20:01,467 --> 00:20:06,262
+00:20:01,467 --> 00:20:06,230
 Als we omzichtig en slim handelen,
 moet het mogelijk zijn.
 
 214
-00:20:06,430 --> 00:20:08,598
+00:20:06,430 --> 00:20:08,566
 We zoeken dus een inbreker.
 
 215
-00:20:08,766 --> 00:20:11,768
+00:20:08,766 --> 00:20:11,736
 En een goeie.
 Een expert, zou ik zeggen.
 
@@ -993,7 +990,7 @@ Wat ben ik?
 -Hij zegt dat hij een expert is.
 
 218
-00:20:21,612 --> 00:20:26,449
+00:20:21,612 --> 00:20:26,417
 Ik? Nee, ik ben geen inbreker.
 Ik heb nog nooit iets gestolen.
 
@@ -1002,12 +999,12 @@ Ik heb nog nooit iets gestolen.
 Ik ben het met Mr Balings eens.
 
 220
-00:20:29,536 --> 00:20:32,580
+00:20:29,536 --> 00:20:32,548
 Hij is geen inbrekerstype.
 -Nee.
 
 221
-00:20:32,748 --> 00:20:37,210
+00:20:32,748 --> 00:20:37,178
 De Wildernis is niets voor mensen
 die zichzelf niet kunnen verdedigen.
 
@@ -1016,7 +1013,7 @@ die zichzelf niet kunnen verdedigen.
 Dat kan ie best.
 
 223
-00:20:44,843 --> 00:20:48,846
+00:20:44,843 --> 00:20:48,814
 Genoeg. Als ik zeg dat Bilbo Balings
 een inbreker is...
 
@@ -1025,25 +1022,25 @@ een inbreker is...
 dan is hij een inbreker.
 
 225
-00:20:52,059 --> 00:20:55,061
+00:20:52,059 --> 00:20:55,029
 Hobbits zijn uitermate lichtvoetig.
 
 226
-00:20:55,229 --> 00:20:58,481
+00:20:55,229 --> 00:20:58,449
 Ze kunnen je ongezien voorbijlopen.
 
 227
-00:20:58,649 --> 00:21:02,443
+00:20:58,649 --> 00:21:02,411
 En de draak weet
 hoe een dwerg ruikt...
 
 228
-00:21:02,611 --> 00:21:05,488
+00:21:02,611 --> 00:21:05,456
 maar de geur van een hobbit
 kent hij niet.
 
 229
-00:21:05,656 --> 00:21:08,783
+00:21:05,656 --> 00:21:08,751
 En dat biedt ons een voordeel.
 
 230
@@ -1052,7 +1049,7 @@ Ik moest het 14e lid zoeken
 en mijn keuze is gevallen op Mr Balings.
 
 231
-00:21:13,664 --> 00:21:16,624
+00:21:13,664 --> 00:21:16,592
 Hij kan meer dan je
 op het oog zou denken.
 
@@ -1070,17 +1067,17 @@ En dan hij weet.
 Jullie moeten me vertrouwen.
 
 235
-00:21:33,851 --> 00:21:37,103
+00:21:33,851 --> 00:21:37,071
 Goed dan,
 we doen het op jouw manier.
 
 236
-00:21:37,271 --> 00:21:39,689
+00:21:37,271 --> 00:21:39,657
 Geef hem het contract.
 -En we gaan.
 
 237
-00:21:39,857 --> 00:21:43,067
+00:21:39,857 --> 00:21:43,035
 Niks bijzonders.
 Contante uitgaven...
 
@@ -1104,7 +1101,7 @@ Ik ben niet verantwoordelijk
 voor zijn lot.
 
 242
-00:22:05,424 --> 00:22:06,716
+00:22:05,424 --> 00:22:06,684
 Akkoord.
 
 243
@@ -1113,11 +1110,11 @@ Akkoord.
 dan 1/14e deel van de winst.'
 
 244
-00:22:12,431 --> 00:22:13,681
+00:22:12,431 --> 00:22:13,649
 Redelijk.
 
 245
-00:22:13,849 --> 00:22:19,270
+00:22:13,849 --> 00:22:19,238
 'De groep is niet aansprakelijk
 voor verwondingen...
 
@@ -1130,7 +1127,7 @@ als gevolg van openrijten...
 ingewandenverlies...'
 
 248
-00:22:28,614 --> 00:22:29,906
+00:22:28,614 --> 00:22:29,874
 Verbranding?
 
 249
@@ -1148,7 +1145,7 @@ Gaat 't, makker?
 Tikje duizelig.
 
 252
-00:22:44,338 --> 00:22:47,965
+00:22:44,338 --> 00:22:47,933
 Denk aan een oven met vleugels.
 -Ik heb frisse lucht nodig.
 
@@ -1166,7 +1163,7 @@ Nee...
 Goed bezig, Bofur.
 
 256
-00:23:03,690 --> 00:23:06,192
+00:23:03,690 --> 00:23:06,160
 Het gaat wel.
 Laat me maar even rustig zitten.
 
@@ -1175,36 +1172,36 @@ Laat me maar even rustig zitten.
 Dat doe je al veel te lang.
 
 258
-00:23:10,114 --> 00:23:14,242
-Sinds wanneer zijn onderleggers
-en borden...
+00:23:10,114 --> 00:23:14,209
+Sinds wanneer zijn
+onderleggers en borden...
 
 259
-00:23:14,409 --> 00:23:16,119
+00:23:14,409 --> 00:23:16,086
 zo belangrijk voor je?
 
 260
-00:23:16,286 --> 00:23:21,415
+00:23:16,286 --> 00:23:21,383
 Ik herinner me een jonge hobbit
 die altijd in het bos naar elfen zocht.
 
 261
-00:23:21,583 --> 00:23:24,877
+00:23:21,583 --> 00:23:24,845
 Die pas thuiskwam
 als het al donker was.
 
 262
-00:23:25,045 --> 00:23:28,714
+00:23:25,045 --> 00:23:28,682
 Die door de modder kroop,
 en vuurvliegjes volgde.
 
 263
-00:23:28,882 --> 00:23:31,175
+00:23:28,882 --> 00:23:31,143
 Een jonge hobbit
 die niets liever wilde...
 
 264
-00:23:31,343 --> 00:23:35,263
+00:23:31,343 --> 00:23:35,230
 dan te ontdekken wat er buiten
 de Gouw te vinden was.
 
@@ -1218,11 +1215,11 @@ uit boeken en kaarten.
 Die vind je buiten.
 
 267
-00:23:44,106 --> 00:23:46,357
+00:23:44,106 --> 00:23:46,325
 Ik kan niet zomaar weggaan.
 
 268
-00:23:46,525 --> 00:23:49,694
+00:23:46,525 --> 00:23:49,662
 Ik ben een Balings uit Balingshoek.
 
 269
@@ -1230,22 +1227,22 @@ Ik ben een Balings uit Balingshoek.
 Je bent ook een Toek.
 
 270
-00:23:53,949 --> 00:23:57,326
+00:23:53,949 --> 00:23:57,294
 Weet je dat je oud-oud-oud-oud-oom
 Bullebas Toek...
 
 271
-00:23:57,494 --> 00:24:00,496
+00:23:57,494 --> 00:24:00,464
 zo groot was dat hij
 op een echt paard reed?
 
 272
-00:24:00,664 --> 00:24:05,543
+00:24:00,664 --> 00:24:05,511
 Dat kon ie echt. Hij viel in zijn eentje
 de aardmannen aan.
 
 273
-00:24:05,711 --> 00:24:09,505
+00:24:05,711 --> 00:24:09,473
 Met één slag sloeg hij
 de Aardman-Koning z'n kop eraf.
 
@@ -1307,7 +1304,7 @@ Je hebt de verkeerde hobbit.
 We zijn onze inbreker kwijt.
 
 287
-00:25:11,568 --> 00:25:16,113
+00:25:11,568 --> 00:25:16,081
 Misschien wel beter.
 We hadden toch al zo weinig kans.
 
@@ -1332,18 +1329,17 @@ Niet echt legende-materiaal.
 We hebben ook een paar krijgers.
 
 293
-00:25:32,547 --> 00:25:34,423
+00:25:32,547 --> 00:25:34,391
 Oude krijgers.
 
 294
-00:25:34,591 --> 00:25:39,303
+00:25:34,591 --> 00:25:39,271
 Ik ga liever op pad met deze dwergen
 dan met een leger van de IJzerheuvels.
 
 295
 00:25:39,471 --> 00:25:42,056
-Toen ik ze vroeg,
-zeiden ze ja.
+Toen ik ze vroeg, zeiden ze ja.
 
 296
 00:25:43,183 --> 00:25:45,726
@@ -1358,7 +1354,7 @@ een gewillig hart.
 Meer verlang ik niet.
 
 299
-00:25:52,776 --> 00:25:56,946
+00:25:52,776 --> 00:25:56,914
 Je hoeft dit niet te doen.
 Je hebt een keus.
 
@@ -1440,15 +1436,15 @@ We doen 't.
 
 318
 00:27:57,109 --> 00:28:05,866
-<i>het vuur was rood</i>
-<i>werd angstig groot</i>
+<i>het vuur was rood
+werd angstig groot</i>
 
 319
 00:28:06,326 --> 00:28:14,291
 <i>tot boom als fakkel vlammen spoog</i>
 
 320
-00:29:39,628 --> 00:29:43,547
+00:29:39,628 --> 00:29:43,515
 Getekend: Thorin, zoon van Thraín
 Getuige: Balin, zoon van Fundin
 
@@ -1457,7 +1453,7 @@ Getuige: Balin, zoon van Fundin
 Inbreker:
 
 322
-00:30:21,545 --> 00:30:24,380
+00:30:21,545 --> 00:30:24,348
 Hé, Mr Bilbo.
 Waar ga je naartoe?
 
@@ -1471,16 +1467,16 @@ Geen tijd, ben al te laat.
 Ik ga op avontuur.
 
 325
-00:30:36,351 --> 00:30:39,478
+00:30:36,351 --> 00:30:39,446
 Ik zei 't toch?
 Allemaal tijdverspilling.
 
 326
-00:30:39,646 --> 00:30:40,938
+00:30:39,646 --> 00:30:40,906
 Helemaal waar.
 
 327
-00:30:41,106 --> 00:30:44,275
+00:30:41,106 --> 00:30:44,242
 Belachelijk.
 Een hobbit? Een halfling?
 
@@ -1514,12 +1510,12 @@ Welkom, meester Balings...
 bij de groep van Thorin Eikenschild.
 
 335
-00:31:28,695 --> 00:31:31,905
+00:31:28,695 --> 00:31:31,873
 Geef hem een pony.
 -Nee, dat hoeft niet.
 
 336
-00:31:32,073 --> 00:31:37,036
+00:31:32,073 --> 00:31:37,003
 Ik hou het lopend wel bij.
 Ik maak vaak wandeltochten.
 
@@ -1565,11 +1561,11 @@ Paardenhaar.
 Daar kan ik niet tegen.
 
 346
-00:32:31,341 --> 00:32:33,967
+00:32:31,341 --> 00:32:33,935
 Wacht 's. Stop. Stop.
 
 347
-00:32:34,135 --> 00:32:37,971
+00:32:34,135 --> 00:32:37,939
 We moeten terug.
 -Wat is er loos?
 
@@ -1587,23 +1583,23 @@ Neem dit.
 Doorgaan.
 
 351
-00:32:56,408 --> 00:32:59,118
-<i>Je zult het zonder zakdoeken</i>
-<i>moeten doen...</i>
+00:32:56,408 --> 00:32:59,085
+<i>Je zult het zonder zakdoeken
+moeten doen...</i>
 
 352
-00:32:59,285 --> 00:33:01,829
+00:32:59,285 --> 00:33:01,796
 <i>en nog een heleboel meer...</i>
 
 353
 00:33:01,996 --> 00:33:04,790
-<i>voordat we ons doel</i>
-<i>hebben bereikt.</i>
+<i>voordat we ons doel
+hebben bereikt.</i>
 
 354
 00:33:05,834 --> 00:33:10,963
-<i>Je bent geboren in de heuvels</i>
-<i>en riviertjes van de Gouw.</i>
+<i>Je bent geboren in de heuvels
+en riviertjes van de Gouw.</i>
 
 355
 00:33:12,048 --> 00:33:14,717
@@ -1641,12 +1637,12 @@ Strottensnijders.
 Het zijn er tientallen.
 
 363
-00:34:24,996 --> 00:34:26,872
+00:34:24,996 --> 00:34:26,840
 De Eenzame Landen
 zitten er vol mee.
 
 364
-00:34:27,040 --> 00:34:29,875
+00:34:27,040 --> 00:34:29,843
 Ze slaan toe als iedereen slaapt.
 
 365
@@ -1673,7 +1669,7 @@ Nee, dat snap ik.
 Jullie weten niets van de wereld.
 
 370
-00:34:52,899 --> 00:34:55,359
+00:34:52,899 --> 00:34:55,327
 Let maar niet op hem.
 
 371
@@ -1682,7 +1678,7 @@ Thorin heeft alle reden
 om de orks te haten.
 
 372
-00:35:04,911 --> 00:35:08,288
+00:35:04,911 --> 00:35:08,256
 Nadat de draak de Eenzame Berg
 veroverd had...
 
@@ -1696,14 +1692,14 @@ dwergenrijk Moria te heroveren.
 <i>Maar onze vijand was ons voor.</i>
 
 375
-00:35:31,479 --> 00:35:35,524
-<i>Moria was bezet door</i>
-<i>orks-legioenen...</i>
+00:35:31,479 --> 00:35:35,492
+<i>Moria was bezet door
+orks-legioenen...</i>
 
 376
 00:35:35,692 --> 00:35:40,195
-<i>aangevoerd door de grootste</i>
-<i>slechterik van hun ras.</i>
+<i>aangevoerd door de grootste
+slechterik van hun ras.</i>
 
 377
 00:35:40,697 --> 00:35:44,116
@@ -1728,7 +1724,7 @@ met het onthoofden
 van de koning.
 
 382
-00:36:18,985 --> 00:36:23,780
+00:36:18,985 --> 00:36:23,748
 Thraín, de vader van Thorin,
 werd gek van verdriet.
 
@@ -1751,27 +1747,27 @@ Een nederlaag...
 En toen zag ik hem.
 
 387
-00:36:46,888 --> 00:36:49,473
+00:36:46,888 --> 00:36:49,441
 Een jonge dwergenprins...
 
 388
 00:36:49,641 --> 00:36:53,060
-<i>die het gevecht aanging</i>
-<i>met de bleke ork.</i>
+<i>die het gevecht aanging
+met de bleke ork.</i>
 
 389
 00:36:57,565 --> 00:37:02,194
-<i>Hij alleen tegen die</i>
-<i>verschrikkelijke vijand.</i>
+<i>Hij alleen tegen die
+verschrikkelijke vijand.</i>
 
 390
-00:37:10,912 --> 00:37:12,537
+00:37:10,912 --> 00:37:12,505
 <i>Met een kapot harnas...</i>
 
 391
 00:37:12,705 --> 00:37:16,166
-<i>en slechts een eikenhouten tak</i>
-<i>als schild.</i>
+<i>en slechts een eikenhouten tak
+als schild.</i>
 
 392
 00:37:29,305 --> 00:37:33,350
@@ -1808,13 +1804,13 @@ Maar er was geen feest...
 
 400
 00:38:25,403 --> 00:38:30,032
-<i>want er vielen zo veel doden</i>
-<i>te betreuren.</i>
+<i>want er vielen zo veel doden
+te betreuren.</i>
 
 401
 00:38:31,367 --> 00:38:34,369
-<i>Wij hadden 't</i>
-<i>met enkelen overleefd.</i>
+<i>Wij hadden 't
+met enkelen overleefd.</i>
 
 402
 00:38:41,878 --> 00:38:44,504
@@ -1822,8 +1818,8 @@ Maar er was geen feest...
 
 403
 00:38:47,550 --> 00:38:51,553
-<i>dat er één iemand is</i>
-<i>die ik wil volgen.</i>
+<i>dat er één iemand is
+die ik wil volgen.</i>
 
 404
 00:38:53,973 --> 00:38:55,640
@@ -1838,7 +1834,7 @@ die ik koning wil noemen.
 De bleke ork...
 
 407
-00:39:21,501 --> 00:39:23,085
+00:39:21,501 --> 00:39:23,052
 Wat is er met hem gebeurd?
 
 408

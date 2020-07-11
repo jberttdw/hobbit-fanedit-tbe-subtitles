@@ -1,5 +1,5 @@
 ﻿1
-01:21:34,704 --> 01:21:39,375
+01:21:34,704 --> 01:21:39,342
 Te veel botses.
 Niet genoeg vlees.
 
@@ -13,18 +13,18 @@ Haal z'n vel eraf.
 Begin bij de kop.
 
 4
-01:21:51,304 --> 01:21:55,140
-<i>de koude harde landen</i>
-<i>ze bijts aan onze handen</i>
+01:21:51,304 --> 01:21:55,108
+<i>de koude harde landen
+ze bijts aan onze handen</i>
 
 5
-01:21:55,308 --> 01:21:58,978
+01:21:55,308 --> 01:21:58,945
 <i>en knauws aan onze voeten</i>
 
 6
-01:21:59,145 --> 01:22:02,982
-<i>de rotsen en de stenen</i>
-<i>die zijn als oude benen</i>
+01:21:59,145 --> 01:22:02,949
+<i>de rotsen en de stenen
+die zijn als oude benen</i>
 
 7
 01:22:03,149 --> 01:22:05,526
@@ -32,11 +32,11 @@ Begin bij de kop.
 
 8
 01:22:05,902 --> 01:22:11,490
-<i>koud als de dood, zonder ademstoot</i>
-<i>dit eten is een feest</i>
+<i>koud als de dood, zonder ademstoot
+dit eten is een feest</i>
 
 9
-01:22:49,988 --> 01:22:53,574
+01:22:49,988 --> 01:22:53,542
 Gezegend en verregend, m'n liefje.
 
 10
@@ -48,7 +48,7 @@ Wat een vlezig hapje.
 Gollem. Gollem.
 
 12
-01:23:02,208 --> 01:23:04,626
+01:23:02,208 --> 01:23:04,594
 Achteruit. Ga achteruit.
 
 13
@@ -95,12 +95,12 @@ Wij eten aardmanses en vleermuizes.
 Maar hobbitses is nieuw voor ons.
 
 23
-01:23:44,626 --> 01:23:47,586
+01:23:44,626 --> 01:23:47,554
 Is het zacht?
 Is het sappig?
 
 24
-01:23:47,754 --> 01:23:51,340
+01:23:47,754 --> 01:23:51,308
 Hé, blijf op afstand.
 
 25
@@ -108,16 +108,16 @@ Hé, blijf op afstand.
 Anders gebruik ik deze.
 
 26
-01:23:54,803 --> 01:23:57,638
+01:23:54,803 --> 01:23:57,606
 Ik wil geen problemen, begrepen?
 
 27
-01:23:57,806 --> 01:24:00,849
+01:23:57,806 --> 01:24:00,817
 Vertel me hoe ik hieruit kom
 en ik ben weer weg.
 
 28
-01:24:01,017 --> 01:24:02,935
+01:24:01,017 --> 01:24:02,903
 Waarom? Is het verdwaald?
 
 29
@@ -126,29 +126,29 @@ Ja, en ik wil zo snel mogelijk
 onverdwaald zijn.
 
 30
-01:24:07,107 --> 01:24:10,067
+01:24:07,107 --> 01:24:10,035
 Wij weten het. Wij weten
 veilige weg voor hobbitses.
 
 31
-01:24:10,235 --> 01:24:12,361
+01:24:10,235 --> 01:24:12,329
 Veilige weg in het donker.
 
 32
-01:24:12,529 --> 01:24:13,821
+01:24:12,529 --> 01:24:13,788
 Hou je kop.
 
 33
-01:24:13,988 --> 01:24:16,907
+01:24:13,988 --> 01:24:16,875
 Ik zei niks.
 -Ik had 't niet tegen jou.
 
 34
-01:24:17,075 --> 01:24:20,077
+01:24:17,075 --> 01:24:20,045
 Ja, m'n liefje. Ja.
 
 35
-01:24:20,245 --> 01:24:23,330
+01:24:20,245 --> 01:24:23,298
 Ik weet niet wat voor
 spelletje je speelt, maar ik...
 
@@ -157,7 +157,7 @@ spelletje je speelt, maar ik...
 Spelletjes?
 
 37
-01:24:25,583 --> 01:24:28,127
+01:24:25,583 --> 01:24:28,094
 We zijn dol op spelletjes,
 toch m'n liefje?
 
@@ -171,15 +171,15 @@ Houdt het van spelen?
 Misschien.
 
 40
-01:24:36,970 --> 01:24:41,557
+01:24:36,970 --> 01:24:41,524
 <i>Wat heeft wortels die niemand ziet?</i>
 
 41
-01:24:41,724 --> 01:24:44,476
+01:24:41,724 --> 01:24:44,444
 <i>Is hoger dan bomen?</i>
 
 42
-01:24:44,644 --> 01:24:46,728
+01:24:44,644 --> 01:24:46,696
 <i>Rijst op in 't verschiet...</i>
 
 43
@@ -191,11 +191,11 @@ Misschien.
 De berg...
 
 45
-01:24:53,820 --> 01:24:56,822
+01:24:53,820 --> 01:24:56,790
 We doen er nog een.
 
 46
-01:24:56,990 --> 01:25:00,409
+01:24:56,990 --> 01:25:00,377
 Ja, nog een.
 Nog een. Vraag ons.
 
@@ -204,7 +204,7 @@ Nog een. Vraag ons.
 Nee, geen raadsels meer.
 
 48
-01:25:03,997 --> 01:25:06,832
+01:25:03,997 --> 01:25:06,800
 Maak hem af.
 Maak hem nu af.
 
@@ -213,7 +213,7 @@ Maak hem nu af.
 Gollem. Gollem.
 
 50
-01:25:10,670 --> 01:25:13,755
+01:25:10,670 --> 01:25:13,723
 Nee, ik wil spelen. Echt.
 
 51
@@ -246,7 +246,7 @@ En als ik win...
 vertel jij me hoe ik hieruit kom, ja?
 
 58
-01:25:43,995 --> 01:25:47,080
+01:25:43,995 --> 01:25:47,048
 En als het verliest?
 Wat dan?
 
@@ -273,9 +273,9 @@ Balings eerst.
 <i>Dertig paarden op een heuvel rood.</i>
 
 64
-01:26:19,656 --> 01:26:22,491
-<i>Eerst kauwen ze,</i>
-<i>dan stampen ze.</i>
+01:26:19,656 --> 01:26:22,459
+<i>Eerst kauwen ze,
+dan stampen ze.</i>
 
 65
 01:26:22,659 --> 01:26:24,243
@@ -286,7 +286,7 @@ Balings eerst.
 Tanden?
 
 67
-01:26:37,423 --> 01:26:38,674
+01:26:37,423 --> 01:26:38,641
 Tanden...
 
 68
@@ -322,7 +322,7 @@ Wij zijn.
 Wacht even.
 
 76
-01:27:14,335 --> 01:27:16,003
+01:27:14,335 --> 01:27:15,970
 Wij weten het.
 
 77
@@ -330,7 +330,7 @@ Wij weten het.
 Kop dicht.
 
 78
-01:27:23,845 --> 01:27:25,345
+01:27:23,845 --> 01:27:25,313
 Wind.
 
 79
@@ -338,7 +338,7 @@ Wind.
 Het is wind. Natuurlijk.
 
 80
-01:27:27,932 --> 01:27:30,892
+01:27:27,932 --> 01:27:30,860
 Heel slim, hobbitses.
 
 81
@@ -346,14 +346,14 @@ Heel slim, hobbitses.
 Heel slim.
 
 82
-01:27:34,480 --> 01:27:39,401
-<i>Zonder deksel, scharnieren</i>
-<i>of slot bevat...</i>
+01:27:34,480 --> 01:27:39,369
+<i>Zonder deksel, scharnieren
+of slot bevat...</i>
 
 83
 01:27:39,569 --> 01:27:43,071
-<i>dit doosje niettemin</i>
-<i>een gouden schat.</i>
+<i>dit doosje niettemin
+een gouden schat.</i>
 
 84
 01:27:45,700 --> 01:27:47,034
@@ -377,11 +377,11 @@ Geef je 't op?
 -Geef ons een kans, m'n liefje.
 
 89
-01:28:16,564 --> 01:28:20,067
+01:28:16,564 --> 01:28:20,034
 Eitjeses. Eitjeses.
 
 90
-01:28:20,234 --> 01:28:23,695
+01:28:20,234 --> 01:28:23,663
 Natte, knapperige eitjeses.
 
 91
@@ -394,15 +394,15 @@ ze leeg te zuigen.
 Wij hebben er een voor jou.
 
 93
-01:28:40,588 --> 01:28:44,633
+01:28:40,588 --> 01:28:44,601
 <i>Dit verslindt al dat men kan noemen.</i>
 
 94
-01:28:44,801 --> 01:28:49,930
+01:28:44,801 --> 01:28:49,898
 <i>Dieren, beesten, bomen, bloemen.</i>
 
 95
-01:28:50,098 --> 01:28:54,309
+01:28:50,098 --> 01:28:54,277
 <i>Knaagt ijzer, bijt staal en...</i>
 
 96
@@ -410,7 +410,7 @@ Wij hebben er een voor jou.
 <i>kan de hardste stenen malen.</i>
 
 97
-01:28:59,732 --> 01:29:01,525
+01:28:59,732 --> 01:29:01,493
 Geef het antwoord.
 
 98
@@ -419,12 +419,12 @@ Geef me een moment.
 Ik heb jou ook de tijd gegeven.
 
 99
-01:29:06,406 --> 01:29:10,033
+01:29:06,406 --> 01:29:10,001
 Dieren, beesten...
 Beesten? Bomen, bloemen.
 
 100
-01:29:10,201 --> 01:29:11,618
+01:29:10,201 --> 01:29:11,586
 Ik ken deze niet.
 
 101
@@ -432,7 +432,7 @@ Ik ken deze niet.
 Is het lekker?
 
 102
-01:29:15,164 --> 01:29:19,543
+01:29:15,164 --> 01:29:19,511
 Is het heerlijk?
 
 103
@@ -503,7 +503,7 @@ Dat is tegen de regels.
 Een andere.
 
 119
-01:30:34,243 --> 01:30:38,205
+01:30:34,243 --> 01:30:38,172
 Ik moest een vraag stellen.
 Dat is mijn vraag.
 
@@ -512,12 +512,12 @@ Dat is mijn vraag.
 Wat heb ik in mijn zak?
 
 121
-01:30:42,251 --> 01:30:45,754
+01:30:42,251 --> 01:30:45,722
 Drie keer raden, m'n lieveling.
 Drie keer raden.
 
 122
-01:30:45,922 --> 01:30:48,215
+01:30:45,922 --> 01:30:48,182
 Prima, drie keer raden.
 
 123
@@ -531,7 +531,7 @@ Graten, aardmantanden,
 vleermuisvleugels...
 
 125
-01:30:59,519 --> 01:31:01,686
+01:30:59,519 --> 01:31:01,654
 Mes...
 Hou je kop.
 
@@ -567,7 +567,7 @@ Hebben wij dat gezegd?
 Wat heeft het in zijn zakses?
 
 133
-01:31:36,222 --> 01:31:40,725
+01:31:36,222 --> 01:31:40,693
 Dat gaat je niets aan.
 Jij hebt verloren.
 
@@ -576,7 +576,7 @@ Jij hebt verloren.
 Verloren?
 
 135
-01:31:44,564 --> 01:31:45,605
+01:31:44,564 --> 01:31:45,814
 Verloren?
 
 136
@@ -617,11 +617,11 @@ Wat ben je kwijt?
 Gollem. Gollem.
 
 145
-01:32:41,954 --> 01:32:45,498
+01:32:41,954 --> 01:32:45,466
 Wat heeft het...
 
 146
-01:32:45,666 --> 01:32:48,376
+01:32:45,666 --> 01:32:48,344
 in zijn nare...
 
 147

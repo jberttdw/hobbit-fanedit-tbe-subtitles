@@ -13,7 +13,7 @@ Hier heeft een boer
 met zijn gezin gewoond.
 
 4
-00:40:37,287 --> 00:40:41,165
+00:40:37,287 --> 00:40:41,133
 Oín, Gloín.
 Maak een vuurtje.
 
@@ -27,21 +27,21 @@ door kunnen gaan.
 Tot de Verborgen Vallei.
 
 7
-00:40:49,174 --> 00:40:53,177
+00:40:49,174 --> 00:40:53,145
 Dat heb ik je al gezegd.
 Daar ga ik niet naartoe.
 
 8
-00:40:53,345 --> 00:40:57,973
+00:40:53,345 --> 00:40:57,941
 Hoezo niet? De elfen kunnen ons
 helpen, met voedsel, rust, advies.
 
 9
-00:40:58,141 --> 00:41:00,017
+00:40:58,141 --> 00:40:59,985
 Ik hoef hun advies niet.
 
 10
-00:41:00,185 --> 00:41:04,355
+00:41:00,185 --> 00:41:04,323
 Wij kunnen die kaart niet lezen.
 Heer Elrond kan ons helpen.
 
@@ -55,7 +55,7 @@ Een draak viel Erebor aan.
 En wat deden de elfen?
 
 13
-00:41:12,489 --> 00:41:16,951
+00:41:12,489 --> 00:41:16,918
 Orks plunderden Moria,
 ontheiligden onze zalen.
 
@@ -64,7 +64,7 @@ ontheiligden onze zalen.
 De elfen keken alleen maar toe.
 
 15
-00:41:21,039 --> 00:41:25,084
+00:41:21,039 --> 00:41:25,052
 En nu moet ik naar hen die mijn
 grootvader hebben verraden?
 
@@ -74,7 +74,7 @@ En mijn vader.
 -En jij bent geen van beiden.
 
 17
-00:41:29,422 --> 00:41:32,508
+00:41:29,422 --> 00:41:32,476
 Daar heb ik je die kaart en sleutel
 niet voor gegeven.
 
@@ -83,12 +83,12 @@ niet voor gegeven.
 Ik wist niet dat die van jou waren.
 
 19
-00:41:41,434 --> 00:41:44,144
+00:41:41,434 --> 00:41:44,112
 Is alles goed?
 Gandalf, waar ga je heen?
 
 20
-00:41:44,312 --> 00:41:47,690
+00:41:44,312 --> 00:41:47,657
 Naar de enige hier
 die nog een beetje verstand heeft.
 
@@ -103,20 +103,19 @@ Ik ben die dwergen zat.
 
 23
 00:41:55,323 --> 00:41:57,324
-Kom, Bombur.
-We hebben honger.
+Kom, Bombur. We hebben honger.
 
 24
 00:41:57,951 --> 00:41:59,535
 Komt ie wel terug?
 
 25
-00:42:04,541 --> 00:42:06,542
+00:42:04,541 --> 00:42:06,510
 Hij blijft wel lang weg.
 -Wie?
 
 26
-00:42:06,710 --> 00:42:09,628
+00:42:06,710 --> 00:42:09,596
 Gandalf.
 -Tovenaars doen wat ze willen.
 
@@ -126,11 +125,11 @@ Hier, breng dit eens
 naar de mannen.
 
 28
-00:42:13,425 --> 00:42:15,050
+00:42:13,425 --> 00:42:15,018
 Ho maar, je hebt genoeg gehad.
 
 29
-00:42:15,218 --> 00:42:18,679
+00:42:15,218 --> 00:42:18,647
 Da's niet slecht, Bombur.
 
 30
@@ -139,7 +138,7 @@ Dori had 't ook gekund.
 -Om te gillen.
 
 31
-00:42:34,112 --> 00:42:36,780
+00:42:34,112 --> 00:42:36,748
 Wat is er?
 -We moesten op de pony's letten.
 
@@ -148,7 +147,7 @@ Wat is er?
 Maar er is een klein probleempje.
 
 33
-00:42:40,243 --> 00:42:42,036
+00:42:40,243 --> 00:42:42,003
 We hadden er 16.
 
 34
@@ -164,12 +163,12 @@ Daisy en Bungo zijn weg.
 Da's niet zo mooi.
 
 37
-00:42:52,839 --> 00:42:56,383
+00:42:52,839 --> 00:42:56,351
 En dat is helemaal niet zo mooi.
 Moeten we Thorin inlichten?
 
 38
-00:42:56,551 --> 00:42:58,677
+00:42:56,551 --> 00:42:58,645
 Nee, dat gaan we niet doen.
 
 39
@@ -178,7 +177,7 @@ Als onze officiële inbreker,
 is dit wel een klusje voor jou.
 
 40
-00:43:04,017 --> 00:43:08,395
+00:43:04,017 --> 00:43:08,363
 Dat is 't werk van iets groots.
 -Dachten wij ook.
 
@@ -212,7 +211,7 @@ Trollen...
 Hij heeft Myrtle en Minty.
 
 48
-00:44:00,865 --> 00:44:03,742
+00:44:00,865 --> 00:44:03,710
 Ze gaan ze opeten.
 We moeten wat doen.
 
@@ -221,21 +220,21 @@ We moeten wat doen.
 Ja, je moet wat doen.
 
 50
-00:44:05,954 --> 00:44:09,957
+00:44:05,954 --> 00:44:09,925
 Bergtrollen zijn langzaam en dom.
 Ze zien je niet.
 
 51
-00:44:10,125 --> 00:44:12,126
+00:44:10,125 --> 00:44:12,093
 Wij blijven in de buurt.
 
 52
-00:44:12,293 --> 00:44:15,838
+00:44:12,293 --> 00:44:15,805
 Je krast twee keer als een kerkuil
 en één keer als een bruine uil.
 
 53
-00:44:16,005 --> 00:44:19,341
+00:44:16,005 --> 00:44:19,309
 Twee keer als een kerkuil...
 Nee, als een...
 
@@ -244,7 +243,7 @@ Nee, als een...
 Is dit wel een goed idee?
 
 55
-00:44:21,511 --> 00:44:24,388
+00:44:21,511 --> 00:44:24,356
 Gisteren schaap, vandaag schaap...
 
 56
@@ -253,7 +252,7 @@ en het zal morgen ook wel
 weer schaap worden.
 
 57
-00:44:29,310 --> 00:44:31,311
+00:44:29,310 --> 00:44:31,279
 Zanik niet zo.
 
 58
@@ -262,12 +261,12 @@ Dit is geen schaap.
 Dit zijn verse knollen.
 
 59
-00:44:36,943 --> 00:44:41,238
+00:44:36,943 --> 00:44:41,206
 Ik lust geen paard.
 Er zit veel te weinig vet aan.
 
 60
-00:44:41,406 --> 00:44:45,367
+00:44:41,406 --> 00:44:45,335
 Beter dan zo'n taaie boer.
 Hij was nog vel over been ook.
 
@@ -278,8 +277,7 @@ tussen m'n tanden.
 
 62
 00:44:49,664 --> 00:44:52,583
-Lekker hoor.
-Hij blijft drijven.
+Lekker hoor. Hij blijft drijven.
 
 63
 00:44:53,001 --> 00:44:57,379
@@ -295,7 +293,7 @@ Waag het niet.
 Ga zitten.
 
 66
-00:45:13,062 --> 00:45:17,316
+00:45:13,062 --> 00:45:17,284
 Ik hoop wel dat je die knollen
 schoonmaakt.
 
@@ -304,11 +302,11 @@ schoonmaakt.
 Ik lust geen vieze organen.
 
 68
-00:45:21,237 --> 00:45:23,322
+00:45:21,237 --> 00:45:23,290
 Ik zei zitten.
 
 69
-00:45:23,490 --> 00:45:27,743
+00:45:23,490 --> 00:45:27,711
 Ik rammel.
 Eten we vanavond paard of niet?
 
@@ -318,16 +316,16 @@ Hou je kanis.
 Je eet wat de pot schaft.
 
 71
-00:45:32,832 --> 00:45:36,543
+00:45:32,832 --> 00:45:36,511
 Waarom kookt hij eigenlijk?
 Alles smaakt hetzelfde.
 
 72
-00:45:36,711 --> 00:45:38,295
+00:45:36,711 --> 00:45:38,263
 Alles smaakt naar kip.
 
 73
-00:45:38,463 --> 00:45:41,173
+00:45:38,463 --> 00:45:41,141
 Behalve de kip.
 -Die smaakt naar vis.
 
@@ -337,7 +335,7 @@ Een beetje waardering
 zou aardig zijn.
 
 75
-00:45:47,847 --> 00:45:50,766
+00:45:47,847 --> 00:45:50,734
 'Dank je wel, Bert.
 Lekker stoofpotje, Bert.'
 
@@ -374,7 +372,7 @@ Lekker, hè?
 Daarom ben ik de kok.
 
 84
-00:46:30,765 --> 00:46:35,102
+00:46:30,765 --> 00:46:35,070
 Mijn maag gaat tekeer.
 Ik moet echt wat knagen.
 
@@ -396,7 +394,7 @@ wat er uit mijn gok komt.
 Het heeft armen en benen.
 
 89
-00:46:48,700 --> 00:46:50,158
+00:46:48,700 --> 00:46:50,126
 Wat is 't?
 
 90
@@ -405,16 +403,16 @@ Geen idee.
 Maar het spartelt enorm.
 
 91
-00:46:57,000 --> 00:47:00,252
+00:46:57,000 --> 00:47:00,220
 Wat ben jij dan?
 Een bovenmaatse eekhoorn?
 
 92
-00:47:00,420 --> 00:47:02,129
+00:47:00,420 --> 00:47:02,097
 Een inbreker... Hobbit.
 
 93
-00:47:02,297 --> 00:47:06,300
+00:47:02,297 --> 00:47:06,267
 Een inbrekerhobbit?
 -Kunnen we hem bakken?
 
@@ -423,16 +421,16 @@ Een inbrekerhobbit?
 We gaan 't proberen.
 
 95
-00:47:11,639 --> 00:47:13,849
+00:47:11,639 --> 00:47:13,817
 Dat is nauwelijks een mond vol.
 
 96
-00:47:14,017 --> 00:47:16,685
+00:47:14,017 --> 00:47:16,653
 Helemaal als ie gevild
 en ontbeend is.
 
 97
-00:47:16,853 --> 00:47:19,855
+00:47:16,853 --> 00:47:19,823
 Misschien zijn er hier nog meer
 inbrekerhobbits.
 
@@ -441,7 +439,7 @@ inbrekerhobbits.
 Genoeg voor een pastei.
 
 99
-00:47:23,318 --> 00:47:25,527
+00:47:23,318 --> 00:47:25,495
 Pak 'm.
 -Hij is watervlug.
 
@@ -459,12 +457,12 @@ Zitten er nog meer van jouw soort
 hier ergens verstopt?
 
 103
-00:47:36,164 --> 00:47:38,916
+00:47:36,164 --> 00:47:38,883
 Hij liegt.
 -Helemaal niet.
 
 104
-00:47:39,083 --> 00:47:42,002
+00:47:39,083 --> 00:47:41,970
 Hou z'n tenen boven het vuur.
 
 105

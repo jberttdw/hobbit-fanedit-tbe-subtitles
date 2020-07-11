@@ -1,51 +1,47 @@
 ﻿1
-01:06:48,698 --> 01:06:49,528
-Niet bij je...
+01:06:48,698 --> 01:06:50,731
+Niet bij je metgezellen?
 
 2
-01:06:49,782 --> 01:06:50,731
-metgezellen?
-
-3
 01:06:53,077 --> 01:06:55,236
 Ze zullen me niet missen.
 
-4
+3
 01:06:58,207 --> 01:07:02,288
 De meesten vinden niet
 dat ik hier hoor te zijn.
 
-5
+4
 01:07:03,171 --> 01:07:04,914
 Is dat zo?
 
-6
+5
 01:07:05,882 --> 01:07:08,918
-Ik heb gehoord
-dat hobbits erg sterk zijn.
+Ik heb gehoord dat hobbits
+erg veerkrachtig zijn.
 
-7
+6
 01:07:12,472 --> 01:07:13,551
 Echt?
 
-8
+7
 01:07:19,687 --> 01:07:24,017
 En ook dat ze graag thuis zijn.
 
-9
+8
 01:07:27,570 --> 01:07:30,275
 Ik heb gehoord dat je elfen
 niet om raad moet vragen.
 
-10
+9
 01:07:30,531 --> 01:07:33,367
 Ze antwoorden met ja én nee.
 
-11
+10
 01:07:42,251 --> 01:07:44,789
 Je mag hier blijven...
 
-12
+11
 01:07:45,046 --> 01:07:46,374
 als je dat wilt.
 

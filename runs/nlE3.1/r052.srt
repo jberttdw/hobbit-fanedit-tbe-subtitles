@@ -3,136 +3,110 @@
 Nu is er nog maar één.
 
 2
-01:54:03,864 --> 01:54:04,989
-Jullie moeten...
+01:54:03,864 --> 01:54:08,567
+Jullie moeten bij de Berg
+zijn voor het eind van de herfst.
 
 3
-01:54:05,240 --> 01:54:08,910
-bij de Berg zijn
-voor het eind van de herfst.
-
-4
-01:54:09,161 --> 01:54:10,286
+01:54:08,973 --> 01:54:11,119
 Voor het eind van Durinsdag.
 
-5
+4
 01:54:12,039 --> 01:54:13,581
-Jullie hebben niet veel tijd meer.
+Je gaat te laat zijn.
+
+5
+01:54:13,832 --> 01:54:16,414
+Daarom gaan we door het Demsterwold.
 
 6
-01:54:13,832 --> 01:54:16,042
-We moeten door het Demsterwold.
+01:54:16,615 --> 01:54:19,214
+Een duistere kracht heerst in dat bos.
 
 7
-01:54:16,293 --> 01:54:19,087
-Er heerst een duistere kracht in dat bos.
-
-8
-01:54:19,338 --> 01:54:22,340
+01:54:19,415 --> 01:54:23,171
 Kwade dingen kruipen onder de bomen.
 
-9
+8
 01:54:23,425 --> 01:54:26,177
 De orks hebben een verbond gesloten...
 
-10
+9
 01:54:26,428 --> 01:54:29,305
 met de Geestenbezweerder
 in Dol Guldur.
 
+10
+01:54:29,556 --> 01:54:33,768
+Ik zou er niet door gaan,
+tenzij het echt nodig is.
+
 11
-01:54:29,556 --> 01:54:31,474
-Ik zou er niet doorheen reizen...
-
-12
-01:54:31,725 --> 01:54:33,768
-als het niet noodzakelijk is.
-
-13
-01:54:34,019 --> 01:54:35,687
+01:54:34,019 --> 01:54:37,431
 We nemen de elfenweg.
-
-14
-01:54:35,938 --> 01:54:37,021
 Dat pad is nog veilig.
 
-15
-01:54:37,272 --> 01:54:38,231
-Veilig?
-
-16
-01:54:38,691 --> 01:54:40,024
-De elfen van het Demsterwold...
-
-17
-01:54:40,275 --> 01:54:41,234
+12
+01:54:37,632 --> 01:54:41,673
+Veilig? De elfen van het Demsterwold
 zijn anders.
 
-18
-01:54:41,860 --> 01:54:43,319
-Minder wijs...
-
-19
-01:54:43,570 --> 01:54:45,446
+13
+01:54:42,281 --> 01:54:45,446
+Ze zijn minder wijs
 en veel gevaarlijker.
 
-20
-01:54:46,907 --> 01:54:48,491
+14
+01:54:46,907 --> 01:54:48,574
 Maar het maakt niets uit.
 
-21
-01:54:50,411 --> 01:54:51,494
+15
+01:54:50,411 --> 01:54:51,544
 Wat bedoel je?
 
-22
+16
 01:54:51,745 --> 01:54:54,497
 Het krioelt hier van de orks.
 
-23
+17
 01:54:55,249 --> 01:54:57,959
 Het worden er steeds meer.
 
-24
-01:54:58,210 --> 01:54:59,669
+18
+01:54:58,210 --> 01:55:00,369
 En jullie zijn te voet.
 
-25
-01:55:00,587 --> 01:55:01,546
-Jullie zullen het bos...
-
-26
-01:55:01,797 --> 01:55:03,840
+19
+01:55:00,688 --> 01:55:03,840
+Jullie zullen het bos
 nooit bereiken.
 
-27
+20
 01:55:08,303 --> 01:55:10,638
 Ik hou niet van dwergen.
 
-28
+21
 01:55:11,640 --> 01:55:13,307
 Ze zijn hebzuchtig...
 
-29
-01:55:14,018 --> 01:55:15,018
+22
+01:55:14,018 --> 01:55:15,518
 en blind.
 
-30
-01:55:16,520 --> 01:55:18,396
-Blind voor de levens van hen...
-
-31
-01:55:18,647 --> 01:55:21,107
+23
+01:55:16,124 --> 01:55:21,107
+Blind voor de levens van hen
 die zij minder achten.
 
-32
+24
 01:55:27,740 --> 01:55:29,991
 Maar orks haat ik nog meer.
 
-33
+25
 01:55:31,827 --> 01:55:33,494
 Wat heb je nodig?
 
-34
+26
 01:55:38,792 --> 01:55:41,586
 <i>Ga, het is nu nog licht.</i>
 

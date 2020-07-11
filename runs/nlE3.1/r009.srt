@@ -23,7 +23,7 @@ Kom niet overal aan.
 Zonde om het zo te laten liggen.
 
 7
-00:53:17,999 --> 00:53:22,461
+00:53:17,999 --> 00:53:22,429
 Iedereen kan 't meenemen.
 -Precies. Nori.
 
@@ -67,8 +67,7 @@ We leggen wat opzij voor later.
 
 17
 00:54:36,786 --> 00:54:40,372
-We moeten hier weg.
-Kom mee.
+We moeten hier weg. Kom mee.
 
 18
 00:54:40,749 --> 00:54:42,333
@@ -83,11 +82,11 @@ Bilbo...
 Hier. Dit is wel jouw maat.
 
 21
-00:55:14,741 --> 00:55:16,283
+00:55:14,741 --> 00:55:16,251
 Dit kan ik niet aannemen.
 
 22
-00:55:16,451 --> 00:55:19,787
+00:55:16,451 --> 00:55:19,755
 Het zwaard is van elfen-makelij...
 
 23
@@ -96,7 +95,7 @@ dus het licht blauw op
 als er orks of aardmannen nabij zijn.
 
 24
-00:55:24,793 --> 00:55:27,169
+00:55:24,793 --> 00:55:27,137
 Ik heb nog nooit
 een zwaard gebruikt.
 
