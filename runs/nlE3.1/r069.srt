@@ -12,181 +12,145 @@ Ik was zo ongerust.
 Hier, Sigrid.
 
 4
-02:26:43,628 --> 02:26:44,587
+02:26:43,628 --> 02:26:45,087
 Bain, laat ze binnen.
 
 5
-02:26:52,345 --> 02:26:54,930
-Als je dit aan iemand vertelt...
-
-6
-02:26:55,181 --> 02:26:56,640
+02:26:52,345 --> 02:26:56,640
+Als je dit aan iemand vertelt
 ruk ik je armen eraf.
 
-7
+6
 02:26:59,519 --> 02:27:00,978
 Blijf van me af.
 
+7
+02:27:02,234 --> 02:27:03,528
+Langs hier.
+
 8
-02:27:02,439 --> 02:27:03,522
-Daar...
-
-9
-02:27:11,281 --> 02:27:12,072
-Vader...
-
-10
-02:27:12,324 --> 02:27:14,575
+02:27:11,281 --> 02:27:14,575
+Vader,
 waarom komen er dwergen uit onze wc?
 
-11
+9
 02:27:14,826 --> 02:27:16,160
 Brengen ze geluk?
 
-12
-02:27:20,749 --> 02:27:21,582
-Misschien past 't niet...
-
-13
-02:27:21,833 --> 02:27:23,584
+10
+02:27:20,749 --> 02:27:23,584
+Misschien past 't niet,
 maar het houdt je wel warm.
 
-14
-02:27:24,252 --> 02:27:25,294
+11
+02:27:24,252 --> 02:27:25,994
 Dank je wel.
 
-15
+12
 02:27:35,513 --> 02:27:37,598
 Een dwergenwindas.
 
-16
-02:27:37,891 --> 02:27:38,474
-Je kijkt alsof...
-
-17
-02:27:38,725 --> 02:27:40,017
+13
+02:27:38,547 --> 02:27:40,568
+Je kijkt alsof
 je een geest heb gezien.
 
-18
-02:27:40,769 --> 02:27:41,936
+14
+02:27:40,769 --> 02:27:42,369
 Heeft ie ook.
 
-19
-02:27:42,729 --> 02:27:43,729
-De laatste keer dat we...
-
-20
-02:27:43,980 --> 02:27:45,648
+15
+02:27:42,729 --> 02:27:45,648
+De laatste keer dat we
 zo'n wapen zagen...
 
-21
-02:27:46,691 --> 02:27:47,566
+16
+02:27:46,691 --> 02:27:48,466
 stond een stad in brand.
 
-22
+17
 02:27:49,611 --> 02:27:51,862
 De dag dat de draak kwam.
 
-23
-02:27:55,116 --> 02:27:56,575
-<i>De dag dat Smaug...</i>
+18
+02:27:55,116 --> 02:27:57,952
+<i>De dag dat Smaug Dal verwoestte.</i>
 
-24
-02:27:56,826 --> 02:27:57,952
-<i>Dal verwoestte.</i>
-
-25
+19
 02:28:00,413 --> 02:28:02,623
 <i>Girion, de heer van de stad...</i>
 
-26
-02:28:02,874 --> 02:28:03,624
-<i>liet zijn boogschutters...</i>
+20
+02:28:02,874 --> 02:28:05,000
+<i>liet zijn boogschutters
+op het beest schieten.</i>
 
-27
-02:28:03,875 --> 02:28:05,000
-<i>op het beest schieten.</i>
-
-28
+21
 02:28:06,127 --> 02:28:07,878
 Maar een drakenhuid is dik.
 
-29
+22
 02:28:08,463 --> 02:28:10,631
 Dikker dan het sterkste harnas.
 
-30
-02:28:10,882 --> 02:28:14,051
-Alleen met een windas
-en een zwarte pijl...
+23
+02:28:10,882 --> 02:28:15,886
+Alleen een windas en een zwarte pijl
+kan zijn huid doorboren.
 
-31
-02:28:14,302 --> 02:28:15,886
-kon zijn huid doorboord worden.
+24
+02:28:16,846 --> 02:28:20,543
+<i>Er waren nooit veel
+van zulke pijlen gemaakt.</i>
 
-32
-02:28:16,846 --> 02:28:17,888
-<i>Er waren niet veel...</i>
+25
+02:28:25,271 --> 02:28:29,748
+<i>De voorraad was bijna op toen
+Girion zijn laatste aanval inzette.</i>
 
-33
-02:28:18,139 --> 02:28:19,932
-<i>van zulke pijlen gemaakt.</i>
-
-34
-02:28:25,271 --> 02:28:26,397
-<i>De voorraad was bijna op...</i>
-
-35
-02:28:26,898 --> 02:28:27,481
-<i>toen Girion...</i>
-
-36
-02:28:27,732 --> 02:28:28,315
-<i>zijn laatste aanval inzette.</i>
-
-37
+26
 02:28:36,700 --> 02:28:40,119
 Als het de mensen
 die dag was gelukt...
 
-38
-02:28:40,704 --> 02:28:42,538
+27
+02:28:40,704 --> 02:28:42,738
 was alles nu anders geweest.
 
-39
+28
 02:28:46,668 --> 02:28:48,585
 Je praat alsof je erbij was.
 
-40
-02:28:49,963 --> 02:28:52,047
+29
+02:28:49,963 --> 02:28:52,118
 Alle dwergen kennen het verhaal.
 
-41
-02:28:52,382 --> 02:28:54,591
+30
+02:28:52,319 --> 02:28:54,591
 Dan weet je dat Girion
 de draak raakte.
 
-42
+31
 02:28:54,843 --> 02:28:56,719
 Een schub onder de linkervleugel.
 
-43
+32
 02:28:56,970 --> 02:28:59,304
 Nog één schot en hij had 'm gedood.
 
-44
+33
 02:29:00,181 --> 02:29:02,057
 Dat is een sprookje, jongen.
 
-45
+34
 02:29:02,308 --> 02:29:03,684
 Meer niet.
 
-46
+35
 02:29:04,686 --> 02:29:06,061
 Je hebt ons geld.
 
-47
+36
 02:29:07,147 --> 02:29:08,439
 Waar zijn de wapens?
 

@@ -3,96 +3,78 @@
 Dus ik moet een juweel zoeken?
 
 2
-02:43:49,961 --> 02:43:51,670
+02:43:49,961 --> 02:43:52,871
 Een groot, wit juweel.
 
 3
-02:43:52,130 --> 02:43:53,255
-Ja.
-
-4
-02:43:54,632 --> 02:43:57,217
+02:43:54,632 --> 02:43:57,624
 Is dat 't?
 Er liggen er vast een heleboel.
 
-5
-02:43:57,552 --> 02:44:00,762
+4
+02:43:57,825 --> 02:44:00,762
 Er is slechts één Arkensteen.
 
-6
+5
 02:44:01,514 --> 02:44:03,599
 En die herken je meteen.
 
+6
+02:44:09,606 --> 02:44:11,315
+In alle eerlijkheid...
+
 7
-02:44:09,606 --> 02:44:10,189
-In alle...
-
-8
-02:44:10,440 --> 02:44:11,315
-eerlijkheid...
-
-9
-02:44:12,108 --> 02:44:14,151
-Ik heb geen idee...
-
-10
-02:44:14,402 --> 02:44:16,487
+02:44:12,108 --> 02:44:16,487
+Ik heb geen idee
 wat je daar zult aantreffen.
 
-11
+8
 02:44:18,615 --> 02:44:21,742
 Je hoeft niet te gaan.
 Daar is niets oneervols aan.
 
-12
+9
 02:44:21,993 --> 02:44:22,951
 Nee, Balin.
 
-13
+10
 02:44:24,204 --> 02:44:26,246
 Ik heb beloofd dit te doen...
 
-14
+11
 02:44:26,915 --> 02:44:28,624
 en ik moet het proberen.
 
-15
-02:44:33,338 --> 02:44:35,047
+12
+02:44:33,338 --> 02:44:35,441
 Ik blijf er versteld van staan.
 
-16
-02:44:35,298 --> 02:44:36,089
+13
+02:44:35,642 --> 02:44:38,050
 Waarvan?
+-De moed van hobbits.
 
-17
-02:44:36,341 --> 02:44:38,050
-De moed van hobbits.
-
-18
+14
 02:44:40,428 --> 02:44:41,678
 Ga nu...
 
-19
+15
 02:44:42,180 --> 02:44:46,183
 met alle geluk dat je kunt verzamelen.
 
-20
+16
 02:44:53,399 --> 02:44:54,691
 O, Bilbo...
 
-21
+17
 02:44:57,111 --> 02:44:59,404
 Mocht daar inderdaad...
 
-22
-02:45:00,907 --> 02:45:01,740
-een levende...
+18
+02:45:00,907 --> 02:45:03,033
+een levende draak zijn...
 
-23
-02:45:01,991 --> 02:45:03,033
-draak zijn...
-
-24
-02:45:06,079 --> 02:45:07,496
+19
+02:45:06,079 --> 02:45:07,679
 maak hem dan niet wakker.
 

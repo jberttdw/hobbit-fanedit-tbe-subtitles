@@ -1,5 +1,5 @@
 ﻿1
-02:29:16,833 --> 02:29:19,793
+02:29:16,833 --> 02:29:20,233
 Zoek de beste wapens uit,
 daarna gaan we naar de Berg.
 
@@ -8,326 +8,260 @@ daarna gaan we naar de Berg.
 Jij, Nori.
 
 3
-02:29:25,925 --> 02:29:26,925
+02:29:25,925 --> 02:29:27,175
 Volgende.
 
 4
-02:29:40,231 --> 02:29:41,398
+02:29:40,231 --> 02:29:42,941
 Gaat het?
+-Ik red me wel.
 
 5
-02:29:41,649 --> 02:29:42,941
-Ik red me wel.
-
-6
 02:29:43,693 --> 02:29:45,277
 Laten we gaan.
 
-7
-02:29:59,292 --> 02:30:00,167
+6
+02:29:59,292 --> 02:30:01,543
 Rennen.
+-Wegwezen.
 
-8
-02:30:00,418 --> 02:30:01,543
-Wegwezen.
-
-9
+7
 02:30:15,683 --> 02:30:16,892
 Blijf van me af.
 
-10
+8
 02:30:17,143 --> 02:30:18,727
 Doorlopen.
 
-11
-02:30:29,489 --> 02:30:30,947
+9
+02:30:29,489 --> 02:30:31,489
 Wat heeft dit te betekenen?
 
-12
+10
 02:30:31,949 --> 02:30:34,284
 Ze stalen wapens, heer.
 
-13
+11
 02:30:34,786 --> 02:30:36,828
 Staatsvijanden, hè?
 
-14
-02:30:37,080 --> 02:30:37,871
-Een zielig stelletje...
+12
+02:30:37,080 --> 02:30:40,290
+Een zielig stelletje huurlingen, heer.
 
-15
-02:30:38,122 --> 02:30:40,290
-huurlingen, heer.
-
-16
+13
 02:30:40,541 --> 02:30:41,750
 Hou je mond.
 
-17
-02:30:44,379 --> 02:30:46,463
+14
+02:30:44,379 --> 02:30:47,050
 Je weet niet tegen wie je het hebt.
 
-18
-02:30:47,048 --> 02:30:48,924
+15
+02:30:47,251 --> 02:30:48,924
 Dit is geen boef.
 
-19
+16
 02:30:49,217 --> 02:30:50,550
 Dit is Thorin...
 
-20
+17
 02:30:50,802 --> 02:30:53,929
 zoon van Thraín, zoon van Thrór.
 
-21
+18
 02:30:57,100 --> 02:30:59,184
 Wij zijn de dwergen van Erebor.
 
-22
+19
 02:31:01,896 --> 02:31:05,065
 Wij komen ons land heroveren.
 
-23
+20
 02:31:09,779 --> 02:31:12,781
 Ik herinner me deze stad
 in de gloriejaren.
 
-24
+21
 02:31:14,075 --> 02:31:16,118
 De haven vol met schepen...
 
-25
-02:31:16,369 --> 02:31:17,786
+22
+02:31:16,369 --> 02:31:18,486
 gevuld met zijde en edelstenen.
 
-26
+23
 02:31:19,163 --> 02:31:21,373
 Geen dode stad op een meer.
 
-27
-02:31:22,417 --> 02:31:25,085
+24
+02:31:21,980 --> 02:31:25,585
 Dit was het handelscentrum
 van het Noorden.
 
-28
-02:31:26,921 --> 02:31:27,504
-Ik wil...
+25
+02:31:26,921 --> 02:31:28,964
+Ik wil dat die tijd terugkomt.
 
-29
-02:31:27,755 --> 02:31:28,964
-dat die tijd terugkomt.
-
-30
+26
 02:31:29,215 --> 02:31:31,716
 Ik wil de smeltovens
 weer laten branden...
 
-31
-02:31:31,968 --> 02:31:32,926
-opdat welvaart en rijkdom...
+27
+02:31:31,968 --> 02:31:36,237
+opdat welvaart en rijkdom weer
+stromen uit de Zalen van Erebor.
 
-32
-02:31:33,177 --> 02:31:35,637
-weer stromen
-uit de Zalen van Erebor.
+28
+02:31:38,641 --> 02:31:39,724
+De Dood.
 
-33
-02:31:38,641 --> 02:31:39,224
-Dood.
+29
+02:31:40,435 --> 02:31:42,978
+Dat is wat je ons brengt.
 
-34
-02:31:40,435 --> 02:31:41,435
-Dat is wat je...
-
-35
-02:31:41,686 --> 02:31:42,978
-ons brengt.
-
-36
+30
 02:31:43,855 --> 02:31:45,522
 Drakenvuur en verwoesting.
 
-37
-02:31:48,025 --> 02:31:49,901
-Als jij dat beest wakker maakt...
-
-38
-02:31:50,528 --> 02:31:52,112
+31
+02:31:48,025 --> 02:31:52,112
+Als jij dat beest wakker maakt
 zal het ons vernietigen.
 
-39
-02:31:52,363 --> 02:31:54,197
-Je mag deze andersdenkende geloven...
-
-40
-02:31:54,449 --> 02:31:56,074
+32
+02:31:52,363 --> 02:31:56,174
+Je mag deze andersdenkende geloven,
 maar ik beloof je dit:
 
-41
+33
 02:31:58,494 --> 02:31:59,911
 Als wij slagen...
 
-42
-02:32:01,289 --> 02:32:03,790
+34
+02:32:01,289 --> 02:32:04,214
 deelt iedereen mee
 in de weelde van de Berg.
 
-43
-02:32:08,212 --> 02:32:11,256
-Genoeg goud om wel...
-
-44
-02:32:11,507 --> 02:32:12,716
+35
+02:32:08,212 --> 02:32:12,716
+Genoeg goud om wel
 tien Esgaroths te bouwen.
 
-45
-02:32:14,760 --> 02:32:15,927
-Luister, allemaal.
-
-46
-02:32:16,262 --> 02:32:17,387
-Luister.
-
-47
-02:32:17,638 --> 02:32:18,680
+36
+02:32:14,760 --> 02:32:18,601
+Allen, luister naar me.
 Luister goed.
 
-48
-02:32:18,931 --> 02:32:20,640
+37
+02:32:18,820 --> 02:32:21,765
 Zijn jullie vergeten
 wat er met Dal gebeurde?
 
-49
-02:32:22,477 --> 02:32:23,393
-Wie er omkwamen...
+38
+02:32:22,477 --> 02:32:25,687
+Zij die omkwamen in de vuurstorm?
 
-50
-02:32:23,644 --> 02:32:25,687
-in de vuurstorm?
-
-51
-02:32:27,982 --> 02:32:28,899
+39
+02:32:27,982 --> 02:32:29,299
 En waarvoor?
 
-52
-02:32:30,401 --> 02:32:32,194
+40
+02:32:30,401 --> 02:32:32,869
 Voor de blinde ambitie
 van een dwergvorst...
 
-53
-02:32:33,070 --> 02:32:35,071
-die alleen maar gedreven werd...
-
-54
-02:32:35,323 --> 02:32:36,823
+41
+02:32:33,070 --> 02:32:36,823
+die alleen maar gedreven werd
 door zijn hebzucht.
 
-55
+42
 02:32:38,075 --> 02:32:39,701
 Nou, nou...
 
-56
-02:32:39,994 --> 02:32:41,953
-We moeten niet...
+43
+02:32:39,994 --> 02:32:44,581
+We moeten niet zo snel
+iemand de schuld geven.
 
-57
-02:32:42,205 --> 02:32:44,581
-zo snel
-bij iemand de blaam leggen.
+44
+02:32:45,708 --> 02:32:47,784
+Laten we niet vergeten...
 
-58
-02:32:45,708 --> 02:32:46,291
-Laten we...
-
-59
-02:32:46,542 --> 02:32:48,251
-niet vergeten...
-
-60
-02:32:48,503 --> 02:32:50,295
-dat Girion, Heer van Dal...
-
-61
-02:32:50,546 --> 02:32:52,214
+45
+02:32:47,985 --> 02:32:52,214
+dat Girion, Heer van Dal,
 jouw voorvader...
 
-62
+46
 02:32:52,465 --> 02:32:54,966
 het beest niet kon doden.
 
-63
+47
 02:32:57,512 --> 02:32:59,471
 Dat is waar, heer.
 
-64
-02:32:59,722 --> 02:33:00,931
+48
+02:32:59,722 --> 02:33:01,331
 We kennen het verhaal.
 
-65
-02:33:02,517 --> 02:33:04,184
+49
+02:33:02,335 --> 02:33:04,184
 De ene pijl na de andere.
 
-66
+50
 02:33:04,435 --> 02:33:07,020
 Stuk voor stuk mis.
 
-67
-02:33:13,778 --> 02:33:15,028
+51
+02:33:13,778 --> 02:33:15,605
 Je hebt niet het recht...
 
-68
+52
 02:33:16,739 --> 02:33:18,657
 om de Berg binnen te gaan.
 
-69
+53
 02:33:20,368 --> 02:33:22,494
 Ik ben de enige die dat mag.
 
-70
-02:33:28,834 --> 02:33:30,210
-Ik spreek tot de Meester...
-
-71
-02:33:30,461 --> 02:33:31,920
+54
+02:33:28,834 --> 02:33:31,920
+Ik spreek tot de Meester
 van Meerstad.
 
-72
-02:33:32,171 --> 02:33:34,464
+55
+02:33:32,171 --> 02:33:35,065
 Wil je dat de voorspelling uitkomt?
 
-73
-02:33:35,424 --> 02:33:36,383
-Wil je...
+56
+02:33:35,779 --> 02:33:40,512
+Wil je meedelen in de rijkdom
+van ons volk?
 
-74
-02:33:36,759 --> 02:33:40,512
-meedelen in de rijkdom van ons volk?
-
-75
+57
 02:33:45,518 --> 02:33:46,977
 Wat zeg je daarop?
 
-76
+58
 02:33:50,856 --> 02:33:53,900
 Ik zeg daarop...
 
-77
+59
 02:33:55,152 --> 02:33:56,152
 Welkom...
 
-78
+60
 02:33:56,696 --> 02:33:57,362
 Welkom.
 
-79
-02:33:57,738 --> 02:33:58,697
-Driewerf...
+61
+02:33:57,738 --> 02:33:59,948
+Driewerf welkom...
 
-80
-02:33:58,948 --> 02:33:59,948
-welkom...
-
-81
+62
 02:34:00,199 --> 02:34:01,825
 Koning onder de Berg.
 
