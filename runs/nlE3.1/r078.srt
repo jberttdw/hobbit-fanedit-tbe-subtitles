@@ -3,64 +3,50 @@
 En Bilbo?
 
 2
-02:56:37,023 --> 02:56:38,023
+02:56:37,023 --> 02:56:40,442
 Geef hem meer tijd.
+-Wat, om gedood te worden?
 
 3
-02:56:38,274 --> 02:56:40,442
-Om gedood te worden?
-
-4
 02:56:42,904 --> 02:56:44,154
 Je bent bang.
 
-5
+4
 02:56:45,824 --> 02:56:48,117
 Ja, ik ben bang.
 
-6
-02:56:49,285 --> 02:56:50,619
+5
+02:56:49,285 --> 02:56:51,419
 Ik maak me zorgen om jou.
 
+6
+02:56:51,996 --> 02:56:56,917
+Die schat is besmet met een ziekte
+die je grootvader gek maakte.
+
 7
-02:56:51,996 --> 02:56:54,164
-Die schat is besmet.
-
-8
-02:56:54,582 --> 02:56:55,374
-Een ziekte die...
-
-9
-02:56:55,625 --> 02:56:56,917
-je grootvader gek maakte.
-
-10
 02:56:57,168 --> 02:56:58,752
 Ik ben mijn grootvader niet.
 
-11
+8
 02:56:59,003 --> 02:57:00,754
 Je bent jezelf niet.
 
-12
+9
 02:57:01,631 --> 02:57:03,757
 De Thorin die ik ken
 zou naar binnen...
 
-13
-02:57:04,008 --> 02:57:04,591
-Ik zet...
+10
+02:57:04,008 --> 02:57:08,637
+Ik zet deze tocht niet op
+het spel voor een inbreker.
 
-14
-02:57:04,843 --> 02:57:08,637
-deze toch niet op het spel
-voor een inbreker.
-
-15
+11
 02:57:10,515 --> 02:57:11,932
 Bilbo.
 
-16
+12
 02:57:12,308 --> 02:57:14,226
 Hij heet Bilbo.
 
