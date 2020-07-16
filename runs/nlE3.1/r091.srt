@@ -3,56 +3,42 @@
 Wat was dat?
 
 2
-03:05:28,765 --> 03:05:29,432
+03:05:28,765 --> 03:05:31,142
 Wat gebeurde er?
+-Ik zag 'm vallen.
 
 3
-03:05:29,682 --> 03:05:31,142
-Ik zag 'm vallen.
-
-4
-03:05:34,687 --> 03:05:35,522
+03:05:34,687 --> 03:05:35,937
 Hij is dood.
 
-5
+4
 03:05:39,943 --> 03:05:41,277
 Smaug is dood.
 
+5
+03:05:42,153 --> 03:05:45,490
+Bij mijn baard, hij heeft gelijk.
+
 6
-03:05:42,153 --> 03:05:43,446
-Bij mijn baard...
-
-7
-03:05:43,696 --> 03:05:45,490
-hij heeft gelijk.
-
-8
 03:05:45,740 --> 03:05:47,117
 Kijk...
 
-9
+7
 03:05:49,077 --> 03:05:52,789
 De Raven van Erebor
 keren terug naar de Berg.
 
-10
-03:05:53,957 --> 03:05:54,624
-Ja...
-
-11
-03:05:54,874 --> 03:05:56,334
+8
+03:05:53,957 --> 03:05:56,334
+Ja.
 Dit nieuws zal rondgaan.
 
-12
-03:05:56,584 --> 03:05:57,460
-Binnenkort...
+9
+03:05:56,584 --> 03:06:00,505
+Binnenkort weet
+iedereen in Midden-aarde...
 
-13
-03:05:57,710 --> 03:06:00,505
-weet iedereen
-in Midden-aarde...
-
-14
+10
 03:06:00,755 --> 03:06:02,841
 dat de draak dood is.
 
