@@ -1,91 +1,65 @@
 ﻿1
-03:26:48,452 --> 03:26:51,372
+03:26:48,556 --> 03:26:51,476
 Zet je wrok tegen de dwergen opzij.
 
 2
-03:26:51,622 --> 03:26:52,665
-Er dreigt oorlog.
+03:26:51,726 --> 03:26:56,726
+Er dreigt oorlog. Al het addergebroed
+van Dol Guldur komt hierheen.
 
 3
-03:26:52,915 --> 03:26:54,041
-De beerputten...
+03:26:57,065 --> 03:26:59,109
+Jullie verkeren in levensgevaar.
 
 4
-03:26:54,292 --> 03:26:55,668
-van Dol Guldur zijn...
-
-5
-03:26:55,918 --> 03:26:56,711
-geopend.
-
-6
-03:26:56,961 --> 03:26:57,670
-Jullie verkeren...
-
-7
-03:26:57,920 --> 03:26:59,005
-in levensgevaar.
-
-8
-03:26:59,255 --> 03:27:00,548
+03:26:59,781 --> 03:27:01,405
 Waar heb je 't over?
 
-9
-03:27:01,799 --> 03:27:02,883
-Je weet niets...
+5
+03:27:01,903 --> 03:27:04,489
+Je weet niets van tovenaars.
 
-10
-03:27:03,134 --> 03:27:04,385
-van tovenaars.
-
-11
-03:27:04,635 --> 03:27:06,887
+6
+03:27:04,739 --> 03:27:06,991
 Ze zijn als een winterstorm...
 
-12
-03:27:07,138 --> 03:27:10,641
+7
+03:27:07,242 --> 03:27:10,928
 die van ver komt,
 en voor onrust zorgt.
 
-13
-03:27:12,351 --> 03:27:14,437
-Maar soms is een storm...
+8
+03:27:12,455 --> 03:27:16,417
+Maar soms is een storm
+slechts een storm.
 
-14
-03:27:14,687 --> 03:27:16,314
-maar een storm.
-
-15
-03:27:16,564 --> 03:27:18,065
+9
+03:27:16,668 --> 03:27:18,169
 Deze keer niet.
 
-16
-03:27:18,316 --> 03:27:20,776
+10
+03:27:18,419 --> 03:27:20,880
 Er zijn ork-legers onderweg.
 
-17
-03:27:21,027 --> 03:27:23,362
+11
+03:27:21,131 --> 03:27:23,466
 Het enige wat ze kunnen,
 is vechten.
 
-18
-03:27:23,613 --> 03:27:26,240
+12
+03:27:23,716 --> 03:27:26,344
 Onze vijand komt met volle sterkte.
 
-19
-03:27:26,490 --> 03:27:28,034
+13
+03:27:26,594 --> 03:27:28,138
 En waarom nu?
 
-20
-03:27:28,284 --> 03:27:29,535
-Wij hebben hem gedwongen.
+14
+03:27:28,388 --> 03:27:29,639
+Door ons toedoen.
 
-21
-03:27:29,785 --> 03:27:32,955
-Toen het Gezelschap
-van Thorin Eikenschild...
-
-22
-03:27:33,205 --> 03:27:34,582
+15
+03:27:29,889 --> 03:27:34,686
+Toen het Gezelschap van Thorin Eikenschild
 hun thuisland ging opeisen.
 

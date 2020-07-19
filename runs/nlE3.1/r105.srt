@@ -1,61 +1,54 @@
 ﻿1
-03:27:35,171 --> 03:27:36,797
-Niet voor de schat...
+03:27:35,271 --> 03:27:40,734
+Niet enkel voor de schat,
+maar voor de strategische ligging.
 
 2
-03:27:37,048 --> 03:27:40,634
-maar voor
-de strategische ligging.
-
-3
-03:27:41,344 --> 03:27:42,553
-Dit is de toegangspoort...
-
-4
-03:27:42,803 --> 03:27:45,973
+03:27:41,444 --> 03:27:46,073
+Dit is de toegangspoort
 tot Angmar in het Noorden.
 
-5
-03:27:46,223 --> 03:27:49,393
+3
+03:27:46,323 --> 03:27:49,493
 Als dat koninkrijk weer herrijst...
 
-6
-03:27:49,935 --> 03:27:53,522
+4
+03:27:50,035 --> 03:27:53,622
 zullen Rivendel, Lórien,
 de Gouw...
 
-7
-03:27:53,773 --> 03:27:55,566
+5
+03:27:53,873 --> 03:27:55,666
 en zelfs Gondor vallen.
 
-8
-03:27:56,317 --> 03:27:59,403
+6
+03:27:56,417 --> 03:27:59,503
 Die ork-legers waar je 't over hebt,
 Mithrandir...
 
-9
-03:28:00,363 --> 03:28:01,822
+7
+03:28:00,463 --> 03:28:01,922
 waar zijn die?
 
-10
-03:28:06,452 --> 03:28:09,038
+8
+03:28:06,252 --> 03:28:08,838
 Ons leger ligt bij zonsopgang
 in positie.
 
-11
-03:28:10,247 --> 03:28:12,583
+9
+03:28:10,047 --> 03:28:12,383
 Het wordt een verrassingsaanval.
 
-12
-03:28:13,000 --> 03:28:14,543
+10
+03:28:12,800 --> 03:28:14,343
 De stommelingen.
 
-13
-03:28:14,960 --> 03:28:18,964
+11
+03:28:14,760 --> 03:28:18,764
 Ze zijn vergeten
 wat er onder de grond leeft.
 
-14
-03:28:21,550 --> 03:28:25,554
+12
+03:28:21,350 --> 03:28:25,354
 Ze zijn de grote aard-eters vergeten.
 

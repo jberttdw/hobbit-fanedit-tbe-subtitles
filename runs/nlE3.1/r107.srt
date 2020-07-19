@@ -1,293 +1,247 @@
 ﻿1
-03:29:08,637 --> 03:29:12,057
+03:29:08,741 --> 03:29:12,161
 Waarom wordt er zo weinig waarde
 aan mijn advies gehecht?
 
 2
-03:29:12,307 --> 03:29:13,975
+03:29:12,411 --> 03:29:14,079
 Wat denkt u dat ik wil?
 
 3
-03:29:14,226 --> 03:29:16,770
-Je dwergenvriendjes redden.
+03:29:14,330 --> 03:29:16,800
+Je hoopt je dwergenvriendjes
+te redden.
 
 4
-03:29:17,020 --> 03:29:19,231
+03:29:17,000 --> 03:29:19,335
 En ik kan je trouw
 wel waarderen.
 
 5
-03:29:19,481 --> 03:29:22,234
+03:29:19,585 --> 03:29:22,338
 Maar het weerhoudt mij niet
 van mijn koers.
 
 6
-03:29:23,026 --> 03:29:25,404
+03:29:23,130 --> 03:29:25,507
 Jij bent hiermee begonnen, Mithrandir.
 
 7
-03:29:25,987 --> 03:29:28,949
+03:29:26,091 --> 03:29:29,053
 Vergeef me dat ik het afmaak.
 
 8
-03:29:29,199 --> 03:29:30,909
+03:29:29,303 --> 03:29:31,013
 Zijn de boogschutters in positie?
 
 9
-03:29:31,785 --> 03:29:33,995
+03:29:31,889 --> 03:29:34,099
 Jawel, heer.
 -Geef het bevel.
 
 10
-03:29:34,621 --> 03:29:36,873
+03:29:34,725 --> 03:29:36,977
 Als er iets beweegt op de Berg...
 
 11
-03:29:37,124 --> 03:29:38,208
-doodschieten.
+03:29:37,228 --> 03:29:38,478
+schiet het dood.
 
 12
-03:29:41,211 --> 03:29:43,505
+03:29:41,315 --> 03:29:43,609
 De dwergen hebben geen tijd meer.
 
 13
-03:30:10,407 --> 03:30:11,199
+03:30:10,412 --> 03:30:11,662
 Hé, Boogschutter.
 
 14
-03:30:12,659 --> 03:30:13,660
+03:30:12,763 --> 03:30:16,308
 Ben jij het hiermee eens?
-
-15
-03:30:13,910 --> 03:30:16,204
 Is goud zo belangrijk voor je?
 
-16
-03:30:16,997 --> 03:30:19,499
+15
+03:30:17,101 --> 03:30:19,603
 Wil je ervoor betalen
 met dwergenbloed?
 
-17
-03:30:20,208 --> 03:30:21,251
+16
+03:30:20,152 --> 03:30:21,404
 Zo ver komt het niet.
 
-18
-03:30:21,501 --> 03:30:24,254
+17
+03:30:21,605 --> 03:30:24,358
 Dit kunnen ze niet winnen.
 -Dat houdt ze niet tegen.
 
-19
-03:30:24,504 --> 03:30:27,424
+18
+03:30:24,608 --> 03:30:27,524
 De dwergen geven zich nooit over.
 
-20
-03:30:27,674 --> 03:30:29,468
+19
+03:30:27,725 --> 03:30:29,621
 Ze vechten tot het bittere eind.
 
-21
-03:30:29,718 --> 03:30:31,178
+20
+03:30:29,822 --> 03:30:31,282
 Bilbo Balings.
 
+21
+03:30:32,738 --> 03:30:35,606
+Dit is de halfling
+die de sleutels stal...
+
 22
-03:30:31,970 --> 03:30:32,971
-Dit is de halfling...
+03:30:35,807 --> 03:30:39,707
+van mijn kerkers,
+onder de neus van de bewaker.
 
 23
-03:30:33,221 --> 03:30:35,640
-die de sleutels...
+03:30:42,209 --> 03:30:43,294
+Ja.
 
 24
-03:30:35,891 --> 03:30:37,517
-van mijn kerker stal...
+03:30:44,295 --> 03:30:46,463
+Sorry daarvoor.
 
 25
-03:30:37,768 --> 03:30:39,603
-onder de neuzen van de bewakers.
-
-26
-03:30:42,105 --> 03:30:43,190
-Ja...
-
-27
-03:30:44,191 --> 03:30:44,941
-Sorry...
-
-28
-03:30:45,192 --> 03:30:46,359
-daarvoor.
-
-29
-03:30:46,902 --> 03:30:47,736
+03:30:47,716 --> 03:30:48,966
 Ik ben gekomen...
 
-30
-03:30:49,654 --> 03:30:50,655
-om u...
+26
+03:30:49,758 --> 03:30:52,011
+om u dit te geven.
 
-31
-03:30:50,906 --> 03:30:51,907
-dit te geven.
-
-32
-03:30:56,661 --> 03:30:58,538
+27
+03:30:56,765 --> 03:30:58,642
 Het Hart van de Berg.
 
-33
-03:31:00,457 --> 03:31:01,792
+28
+03:31:00,395 --> 03:31:01,895
 Het Juweel van de Koning.
 
-34
-03:31:03,251 --> 03:31:05,253
+29
+03:31:03,355 --> 03:31:05,357
 Van grote waarde.
 
-35
-03:31:07,172 --> 03:31:07,923
-Hoe kom...
+30
+03:31:07,276 --> 03:31:09,403
+Hoe kom jij eraan?
 
-36
-03:31:08,173 --> 03:31:09,299
-jij eraan?
+31
+03:31:09,653 --> 03:31:12,369
+Ik nam het als mijn
+deel van de schat.
 
-37
-03:31:09,549 --> 03:31:11,551
-Het is mijn deel van de schat.
-
-38
-03:31:13,178 --> 03:31:14,304
+32
+03:31:13,282 --> 03:31:15,909
 Waarom doe je dit?
-
-39
-03:31:14,554 --> 03:31:15,806
 Je bent ons niets verschuldigd.
 
-40
-03:31:16,056 --> 03:31:17,766
+33
+03:31:16,160 --> 03:31:17,870
 Ik doe 't niet voor jullie.
 
-41
-03:31:19,601 --> 03:31:21,853
+34
+03:31:19,639 --> 03:31:21,957
 Ik weet dat dwergen
 dwars kunnen zijn...
 
-42
-03:31:22,354 --> 03:31:23,647
-zo koppig als een ezel...
+35
+03:31:22,458 --> 03:31:23,751
+koppig als een ezel...
 
-43
-03:31:24,356 --> 03:31:25,482
+36
+03:31:24,460 --> 03:31:25,635
 en lastig.
 
-44
-03:31:25,732 --> 03:31:27,526
+37
+03:31:25,836 --> 03:31:27,629
 Ze zijn achterdochtig...
 
-45
-03:31:27,776 --> 03:31:29,319
-en hun manieren zijn vreselijk...
-
-46
-03:31:29,569 --> 03:31:31,613
+38
+03:31:27,880 --> 03:31:31,717
+en hun manieren zijn vreselijk,
 maar ze zijn ook dapper...
 
-47
-03:31:31,863 --> 03:31:33,114
+39
+03:31:31,967 --> 03:31:33,218
 en vriendelijk...
 
-48
-03:31:34,699 --> 03:31:36,034
+40
+03:31:34,803 --> 03:31:36,138
 en trouw.
 
-49
-03:31:37,202 --> 03:31:38,036
-Ik ben...
-
-50
-03:31:38,286 --> 03:31:40,997
-op ze gesteld
+41
+03:31:37,306 --> 03:31:41,101
+Ik ben op ze gesteld
 en doe alles om ze te redden.
 
-51
-03:31:41,832 --> 03:31:42,874
-Voor Thorin...
+42
+03:31:41,935 --> 03:31:45,481
+Voor Thorin is deze Steen alles waard.
 
-52
-03:31:43,124 --> 03:31:45,377
-is deze Steen alles waard.
-
-53
-03:31:45,627 --> 03:31:48,004
+43
+03:31:45,731 --> 03:31:49,443
 In ruil voor de Steen,
-geeft hij jullie...
+geeft hij jullie waar je recht op hebt.
 
-54
-03:31:48,255 --> 03:31:49,339
-waar je recht op hebt.
-
-55
-03:31:49,589 --> 03:31:51,716
+44
+03:31:49,693 --> 03:31:51,820
 Een oorlog is dan niet nodig.
 
-56
-03:31:57,222 --> 03:31:58,223
-<i>Rust goed uit vannacht.</i>
-
-57
-03:31:58,473 --> 03:32:01,142
+45
+03:31:58,051 --> 03:32:00,790
+Rust goed uit vannacht.
 Morgenochtend vertrek je.
--Wat?
 
-58
-03:32:01,393 --> 03:32:04,312
+46
+03:32:00,997 --> 03:32:02,976
+-Wat?
 Zo ver mogelijk hier vandaan.
+
+47
+03:32:03,177 --> 03:32:04,355
 -Ik ga niet weg.
 
-59
-03:32:04,563 --> 03:32:07,315
+48
+03:32:04,556 --> 03:32:07,389
 Ik laat het Gezelschap
 niet in de steek.
 
-60
-03:32:07,566 --> 03:32:09,568
+49
+03:32:07,590 --> 03:32:09,582
 Er is geen Gezelschap meer.
 
-61
-03:32:09,818 --> 03:32:12,279
+50
+03:32:09,783 --> 03:32:12,762
 En wat denk je dat Thorin
 met je doet?
 
-62
-03:32:12,529 --> 03:32:14,114
+51
+03:32:12,963 --> 03:32:14,267
 Ik ben niet bang voor Thorin.
 
-63
-03:32:14,364 --> 03:32:15,657
+52
+03:32:14,468 --> 03:32:15,761
 Dat moet je wel zijn.
 
-64
-03:32:16,241 --> 03:32:17,242
-Onderschat nooit...
-
-65
-03:32:17,492 --> 03:32:19,411
+53
+03:32:16,345 --> 03:32:19,515
+Onderschat nooit
 het kwaad van goud.
 
-66
-03:32:19,661 --> 03:32:20,662
-Goud waar...
+54
+03:32:19,765 --> 03:32:23,102
+Goud waar een slang
+door geobsedeerd was.
 
-67
-03:32:20,912 --> 03:32:22,998
-een slang door geobsedeerd was.
-
-68
-03:32:23,248 --> 03:32:25,792
-De drakenziekte dringt door tot het hart...
-
-69
-03:32:26,042 --> 03:32:27,711
+55
+03:32:23,352 --> 03:32:27,815
+De drakenziekte dringt door tot het hart
 van iedereen die hier komt.
 
-70
-03:32:29,337 --> 03:32:30,338
-Bijna iedereen.
+56
+03:32:29,441 --> 03:32:31,286
+Wel, bijna iedereen.
 
