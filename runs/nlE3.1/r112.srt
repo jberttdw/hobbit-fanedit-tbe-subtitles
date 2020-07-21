@@ -9,24 +9,23 @@ Vecht tot de dood.
 
 3
 03:43:32,903 --> 03:43:35,019
-Ik ga over de muur.
-Wie volgt?
+Ik ga over de muur. Wie volgt?
 
 4
 03:43:35,280 --> 03:43:37,236
 Ja.
-- Laten we gaan.
+-Laten we gaan.
 
 5
 03:43:37,491 --> 03:43:39,152
 Blijf staan.
-- Wat?
+-Wat?
 
 6
 03:43:39,409 --> 03:43:40,899
 Gaan we niets doen?
 
 7
-03:43:41,161 --> 03:43:42,822
+03:43:41,161 --> 03:43:43,754
 Blijf staan, zei ik.
 
