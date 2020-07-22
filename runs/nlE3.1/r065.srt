@@ -4,8 +4,7 @@ Pas op.
 
 2
 02:23:03,853 --> 02:23:05,715
-Probeer je
-ons te verdrinken?
+Probeer je ons te verdrinken?
 
 3
 02:23:05,966 --> 02:23:08,551
@@ -62,8 +61,7 @@ Geen idee.
 
 15
 02:23:39,250 --> 02:23:41,334
-We hebben
-een probleempje.
+We hebben een probleempje.
 
 16
 02:23:42,586 --> 02:23:44,854
@@ -89,8 +87,7 @@ En wat krijg ik ervoor terug?
 
 21
 02:23:59,853 --> 02:24:02,730
-Niets dan ellende
-en leed en...
+Niets dan ellende en leed en...
 
 22
 02:24:11,115 --> 02:24:13,074
@@ -113,12 +110,12 @@ Geef me het geld, snel.
 Pas als we er zijn.
 
 27
-02:24:25,713 --> 02:24:28,472
+02:24:25,713 --> 02:24:28,501
 Als je graag vrij blijft,
 doe dan wat ik zeg.
 
 28
-02:24:28,632 --> 02:24:29,882
+02:24:28,702 --> 02:24:30,463
 Er zijn wachtposten.
 
 29
@@ -131,58 +128,42 @@ Wat doet ie?
 Hij wijst naar ons.
 
 31
-02:24:58,495 --> 02:24:59,912
+02:24:58,495 --> 02:25:03,166
 Ze geven elkaar een hand.
+-De schurk. Hij verraadt ons.
 
 32
-02:25:00,164 --> 02:25:01,623
-De schurk.
-
-33
-02:25:01,874 --> 02:25:03,166
-Hij verraadt ons.
-
-34
 02:25:26,190 --> 02:25:27,506
 Stil...
 
-35
+33
 02:25:29,902 --> 02:25:31,611
 We naderen de tolpoort.
 
-36
+34
 02:25:42,998 --> 02:25:45,458
-Halt.
-Goedereninspectie.
+Halt. Goedereninspectie.
 
-37
+35
 02:25:46,210 --> 02:25:50,167
 Papieren, graag.
 O, ben jij het, Bard?
 
-38
-02:25:50,386 --> 02:25:51,339
+36
+02:25:50,386 --> 02:25:52,799
 Goeiemorgen, Percy.
+-Iets aan te geven?
 
-39
-02:25:51,590 --> 02:25:52,799
-Iets aan te geven?
+37
+02:25:53,050 --> 02:25:57,095
+Niets. Maar ik heb 't koud,
+ik ben moe en ik wil naar huis.
 
-40
-02:25:53,050 --> 02:25:55,802
-Niets.
-Maar ik heb 't koud en ik ben moe...
-
-41
-02:25:56,053 --> 02:25:57,095
-en ik wil naar huis.
-
-42
-02:25:57,346 --> 02:25:58,596
+38
+02:25:57,346 --> 02:25:58,996
 Idem.
 
-43
+39
 02:26:02,685 --> 02:26:05,186
-Kijk eens.
-Alles in orde.
+Kijk eens. Alles in orde.
 

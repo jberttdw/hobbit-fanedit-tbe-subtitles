@@ -23,8 +23,7 @@ Proef eens, Elros.
 
 6
 02:16:05,545 --> 02:16:07,629
-Ik moet de dwergen
-bewaken.
+Ik moet de dwergen bewaken.
 
 7
 02:16:08,047 --> 02:16:11,323

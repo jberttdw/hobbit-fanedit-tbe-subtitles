@@ -15,7 +15,7 @@ Kijk uit.
 Pas op, broeder.
 
 5
-01:10:15,935 --> 01:10:17,811
+01:10:15,935 --> 01:10:17,779
 Dit is geen onweersbui.
 
 6
@@ -27,13 +27,12 @@ Het is een gevecht.
 Kijk...
 
 8
-01:10:27,447 --> 01:10:29,448
+01:10:27,447 --> 01:10:29,415
 Zegen mij.
 
 9
 01:10:29,615 --> 01:10:32,409
-De legendes zijn echt.
-Reuzen.
+De legendes zijn echt. Reuzen.
 
 10
 01:10:32,785 --> 01:10:35,162

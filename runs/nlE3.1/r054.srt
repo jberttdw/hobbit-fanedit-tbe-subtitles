@@ -281,8 +281,7 @@ Horen jullie me?
 
 66
 02:03:30,934 --> 02:03:33,102
-Ik weet welke kant
-we op moeten.
+Ik weet welke kant we op moeten.
 
 67
 02:05:41,440 --> 02:05:44,066
@@ -350,8 +349,7 @@ Hier...
 
 82
 02:06:49,382 --> 02:06:51,717
-Het prikt.
-Het prikt.
+Het prikt. Het prikt.
 
 83
 02:06:57,682 --> 02:06:58,974

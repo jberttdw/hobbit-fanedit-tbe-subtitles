@@ -186,8 +186,7 @@ Nu.
 
 44
 01:52:21,946 --> 01:52:23,708
-Dwalin,
-en Balin.
+Dwalin, en Balin.
 
 45
 01:52:24,088 --> 01:52:27,214
@@ -240,8 +239,7 @@ een reizend circus?
 
 56
 01:53:00,329 --> 01:53:02,371
-Nu.
-Vooruit.
+Nu. Vooruit.
 
 57
 01:53:05,626 --> 01:53:09,550
@@ -259,8 +257,7 @@ Helemaal vergeten.
 
 60
 01:53:21,130 --> 01:53:25,130
-O ja, en Nori, Bofur,
-Bifur...
+O ja, en Nori, Bofur, Bifur...
 
 61
 01:53:26,980 --> 01:53:28,648

@@ -30,8 +30,7 @@ keren terug naar de Berg.
 
 8
 03:05:54,057 --> 03:05:56,434
-Ja.
-Dit nieuws zal rondgaan.
+Ja. Dit nieuws zal rondgaan.
 
 9
 03:05:56,684 --> 03:06:00,605

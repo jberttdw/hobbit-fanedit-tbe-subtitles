@@ -77,11 +77,11 @@ Een vuile leugen.
 De Arkensteen ligt in de Berg.
 
 20
-03:34:56,378 --> 03:34:57,554
+03:34:56,378 --> 03:34:57,657
 Het is een truc.
 
 21
-03:34:57,755 --> 03:34:59,381
+03:34:57,858 --> 03:34:59,381
 Het is geen truc.
 
 22
@@ -93,7 +93,7 @@ De Steen is echt.
 Ik heb 'm aan ze gegeven.
 
 24
-03:35:13,187 --> 03:35:14,021
+03:35:13,187 --> 03:35:14,621
 Jij?
 
 25
@@ -115,12 +115,12 @@ Ik ben misschien een inbreker,
 maar wel een eerlijke.
 
 29
-03:35:30,579 --> 03:35:32,498
+03:35:30,479 --> 03:35:32,914
 Ik wil afstand doen
 van mijn vergoeding.
 
 30
-03:35:32,998 --> 03:35:34,792
+03:35:33,115 --> 03:35:34,792
 Je vergoeding?
 
 31
@@ -167,7 +167,7 @@ Hou je mond...
 over trouw.
 
 41
-03:36:10,786 --> 03:36:12,408
+03:36:10,786 --> 03:36:12,608
 Gooi hem naar beneden.
 
 42
@@ -204,8 +204,7 @@ als Koning onder de Berg...
 
 49
 03:36:49,443 --> 03:36:52,244
-Thorin,
-zoon van Thraín.
+Thorin, zoon van Thraín.
 
 50
 03:36:58,673 --> 03:37:01,378

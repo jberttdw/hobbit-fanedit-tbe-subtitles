@@ -16,8 +16,7 @@ Verdwijn.
 
 5
 03:20:50,593 --> 03:20:52,845
-Voordat onze pijlen
-vliegen.
+Voordat onze pijlen vliegen.
 
 6
 03:21:10,863 --> 03:21:12,156

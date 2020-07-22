@@ -202,7 +202,7 @@ Zo ver mogelijk hier vandaan.
 
 47
 03:32:03,177 --> 03:32:04,355
--Ik ga niet weg.
+Ik ga niet weg.
 
 48
 03:32:04,556 --> 03:32:07,389

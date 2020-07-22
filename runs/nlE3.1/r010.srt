@@ -34,7 +34,7 @@ is wat je zelf meebrengt.
 8
 00:57:05,526 --> 00:57:08,779
 Denk je dat de elfen onze tocht
-hun zegen geven ?
+hun zegen geven?
 
 9
 00:57:09,864 --> 00:57:12,250
@@ -85,11 +85,11 @@ Ik moet heer Elrond spreken.
 
 19
 00:58:42,248 --> 00:58:43,623
-Niet hier ?
+Niet hier?
 
 20
 00:58:44,917 --> 00:58:46,401
-Waar is hij dan ?
+Waar is hij dan?
 
 21
 00:59:00,141 --> 00:59:01,641
@@ -106,7 +106,7 @@ Mijn vriend.
 
 24
 00:59:33,132 --> 00:59:34,726
-Waar was je ?
+Waar was je?
 
 25
 00:59:34,926 --> 00:59:38,178

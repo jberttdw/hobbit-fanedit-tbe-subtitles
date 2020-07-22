@@ -93,13 +93,13 @@ Ik kom iets opeisen dat van mij is.
 
 23
 03:16:55,425 --> 03:16:58,886
-<i>In de Berg liggen edelstenen</i>
-<i>die ik begeer.</i>
+<i>In de Berg liggen edelstenen
+die ik begeer.</i>
 
 24
 03:16:59,679 --> 03:17:02,765
-<i>Witte edelstenen</i>
-<i>van puur sterrenlicht.</i>
+<i>Witte edelstenen
+van puur sterrenlicht.</i>
 
 25
 03:17:03,516 --> 03:17:05,893

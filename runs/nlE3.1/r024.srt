@@ -66,8 +66,7 @@ Wat is dat?
 
 16
 01:15:31,787 --> 01:15:34,080
-Wakker worden.
-Sta recht.
+Wakker worden. Sta recht.
 
 17
 01:15:57,771 --> 01:15:59,063

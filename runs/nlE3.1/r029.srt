@@ -5,8 +5,7 @@ Niet genoeg vlees.
 
 2
 01:21:39,542 --> 01:21:42,753
-Hou je kop.
-Haal z'n vel eraf.
+Hou je kop. Haal z'n vel eraf.
 
 3
 01:21:44,172 --> 01:21:46,507
@@ -96,8 +95,7 @@ Maar hobbitses is nieuw voor ons.
 
 23
 01:23:44,626 --> 01:23:47,554
-Is het zacht?
-Is het sappig?
+Is het zacht? Is het sappig?
 
 24
 01:23:47,754 --> 01:23:51,308
@@ -196,8 +194,7 @@ We doen er nog een.
 
 46
 01:24:56,990 --> 01:25:00,377
-Ja, nog een.
-Nog een. Vraag ons.
+Ja, nog een. Nog een. Vraag ons.
 
 47
 01:25:00,577 --> 01:25:02,244
@@ -205,8 +202,7 @@ Nee, geen raadsels meer.
 
 48
 01:25:03,997 --> 01:25:06,800
-Maak hem af.
-Maak hem nu af.
+Maak hem af. Maak hem nu af.
 
 49
 01:25:07,000 --> 01:25:08,375
@@ -247,8 +243,7 @@ vertel jij me hoe ik hieruit kom, ja?
 
 58
 01:25:43,995 --> 01:25:47,048
-En als het verliest?
-Wat dan?
+En als het verliest? Wat dan?
 
 59
 01:25:47,248 --> 01:25:50,667
@@ -274,8 +269,7 @@ Balings eerst.
 
 64
 01:26:19,656 --> 01:26:22,459
-<i>Eerst kauwen ze,
-dan stampen ze.</i>
+<i>Eerst kauwen ze, dan stampen ze.</i>
 
 65
 01:26:22,659 --> 01:26:24,243

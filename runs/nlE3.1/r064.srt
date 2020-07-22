@@ -28,137 +28,129 @@ is die toevallig te huur?
 Waarom zou ik jullie helpen?
 
 8
-02:21:01,234 --> 02:21:03,068
-Die laarzen hebben
-hun beste tijd gehad.
+02:21:01,234 --> 02:21:05,196
+Die laarzen hebben hun
+beste tijd gehad. Net als die jas.
 
 9
-02:21:03,653 --> 02:21:05,196
-Net als die jas.
+02:21:06,281 --> 02:21:10,784
+En je hebt vast wel wat hongerige
+monden te vullen. Hoeveel kroost?
 
 10
-02:21:06,281 --> 02:21:08,940
-En je hebt vast wel wat
-hongerige monden te vullen.
-
-11
-02:21:09,367 --> 02:21:10,784
-Hoeveel kroost?
-
-12
-02:21:11,703 --> 02:21:13,329
+02:21:11,703 --> 02:21:13,554
 Een jongen en twee meisjes.
 
-13
+11
 02:21:14,331 --> 02:21:16,874
 En je vrouw is vast een schoonheid.
 
-14
+12
 02:21:18,168 --> 02:21:19,251
 Ja.
 
-15
+13
 02:21:19,711 --> 02:21:21,465
 Dat was ze.
 
-16
+14
 02:21:24,007 --> 02:21:25,508
 Sorry, ik wilde niet...
 
-17
+15
 02:21:25,759 --> 02:21:28,593
 Kom op, genoeg met die beleefdheden.
 
-18
+16
 02:21:29,304 --> 02:21:31,889
 Waarom zo'n haast?
 -Wat gaat jou dat aan?
 
-19
+17
 02:21:32,224 --> 02:21:34,428
 Ik wil weten wie jullie zijn...
 
-20
+18
 02:21:34,960 --> 02:21:36,610
 en wat jullie hier komen doen.
 
-21
+19
 02:21:36,811 --> 02:21:39,313
 Wij zijn kooplieden
 uit de Blauwe Bergen...
 
-22
+20
 02:21:39,689 --> 02:21:42,983
 die op familiebezoek gaan
 in de IJzerheuvels.
 
-23
+21
 02:21:44,361 --> 02:21:46,320
 Kooplieden, zeg je?
 
-24
+22
 02:21:46,571 --> 02:21:50,115
 We hebben voedsel nodig
 voorraden, wapens.
 
-25
+23
 02:21:50,367 --> 02:21:51,634
 Kun je ons helpen?
 
-26
-02:21:56,039 --> 02:21:58,332
+24
+02:21:56,039 --> 02:21:58,480
 Ik weet waar deze vaten
- vandaan komen.
+vandaan komen.
 
-27
+25
 02:21:59,084 --> 02:22:00,334
 En?
 
-28
+26
 02:22:00,585 --> 02:22:03,003
 Ik weet niet wat je bij de elfen deed...
 
-29
-02:22:03,547 --> 02:22:05,256
+27
+02:22:03,547 --> 02:22:05,849
 maar het is niet goed afgelopen.
 
-30
+28
 02:22:06,925 --> 02:22:10,311
 Niemand komt Meerstad in
 zonder toestemming van de Meester.
 
-31
+29
 02:22:10,512 --> 02:22:13,222
 Al zijn rijkdom komt van de handel
 met het Bosrijk.
 
-32
+30
 02:22:13,473 --> 02:22:16,667
 Hij zal koning Thranduil
 zeker niet willen tarten.
 
-33
+31
 02:22:18,186 --> 02:22:19,444
 Bied hem nog meer.
 
-34
+32
 02:22:22,065 --> 02:22:25,300
 Ik wed dat je de stad ook wel
 ongezien kan binnenkomen.
 
-35
+33
 02:22:25,777 --> 02:22:26,960
 Ja...
 
-36
+34
 02:22:28,196 --> 02:22:29,446
 Maar dan...
 
-37
+35
 02:22:30,657 --> 02:22:32,032
 heb je een smokkelaar nodig.
 
-38
+36
 02:22:32,284 --> 02:22:34,201
 We betalen het dubbele.
 

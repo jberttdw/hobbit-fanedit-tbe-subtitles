@@ -49,6 +49,5 @@ Mooi...
 
 12
 02:58:27,256 --> 02:58:29,674
-Dan kun
-je ze zien sterven.
+Dan kun je ze zien sterven.
 

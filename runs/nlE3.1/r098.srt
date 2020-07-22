@@ -47,8 +47,7 @@ moet blij zijn.
 
 12
 03:13:30,473 --> 03:13:32,892
-Ze moeten
-dankbaar zijn.
+Ze moeten dankbaar zijn.
 
 13
 03:13:38,204 --> 03:13:39,459

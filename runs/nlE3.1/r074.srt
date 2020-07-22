@@ -225,8 +225,7 @@ Raadselmaker.
 
 55
 02:53:01,759 --> 02:53:05,005
-Mooie namen.
-Ga door.
+Mooie namen. Ga door.
 
 56
 02:53:05,337 --> 02:53:06,517
@@ -323,6 +322,5 @@ Dat een groep huichelachtige dwergen...
 
 78
 02:54:17,909 --> 02:54:22,037
-terug zou kruipen
-naar de Berg?
+terug zou kruipen naar de Berg?
 
