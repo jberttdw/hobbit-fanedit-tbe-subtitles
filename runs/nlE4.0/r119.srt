@@ -1,0 +1,263 @@
+﻿1
+03:47:33,553 --> 03:47:35,388
+Terugtrekken.
+
+2
+03:48:04,041 --> 03:48:07,295
+Sinds wanneer laten we
+onze mensen in de steek?
+
+3
+03:48:07,846 --> 03:48:09,096
+Thorin...
+
+4
+03:48:09,297 --> 03:48:11,416
+ze sterven voor ons daarbuiten.
+
+5
+03:48:17,054 --> 03:48:20,308
+Er zijn zalen onder de zalen
+in deze Berg.
+
+6
+03:48:22,435 --> 03:48:24,562
+Die kunnen we versterken.
+
+7
+03:48:25,855 --> 03:48:28,900
+Veilig maken. Ja.
+
+8
+03:48:30,568 --> 03:48:31,569
+Ja...
+
+9
+03:48:32,778 --> 03:48:34,028
+Dat is het.
+
+10
+03:48:34,739 --> 03:48:37,530
+We moeten het goud
+onder de grond verstoppen.
+
+11
+03:48:37,730 --> 03:48:40,774
+Hoor je me niet?
+Daín is omsingeld.
+
+12
+03:48:40,974 --> 03:48:42,684
+Ze worden afgeslacht, Thorin.
+
+13
+03:48:45,249 --> 03:48:46,709
+Oorlog kost veel levens.
+
+14
+03:48:47,960 --> 03:48:49,545
+Een enkel leven is niets waard.
+
+15
+03:48:51,672 --> 03:48:53,703
+Maar een schat als deze...
+
+16
+03:48:54,374 --> 03:48:56,802
+is niet in levens uit te drukken.
+
+17
+03:48:59,889 --> 03:49:01,390
+Hij is...
+
+18
+03:49:01,641 --> 03:49:04,143
+al dat vergoten bloed waard.
+
+19
+03:49:05,811 --> 03:49:08,231
+Jij zit hier in die grote zalen...
+
+20
+03:49:08,481 --> 03:49:10,942
+met een kroon op je hoofd...
+
+21
+03:49:11,692 --> 03:49:14,779
+en toch ben je minder
+dan je ooit bent geweest.
+
+22
+03:49:16,614 --> 03:49:18,533
+Spreek niet tegen me...
+
+23
+03:49:20,201 --> 03:49:22,548
+alsof ik een miezerige
+dwergenvorst ben.
+
+24
+03:49:24,121 --> 03:49:27,792
+Alsof ik nog steeds...
+
+25
+03:49:30,795 --> 03:49:32,296
+Thorin...
+
+26
+03:49:33,005 --> 03:49:34,966
+Eikenschild ben.
+
+27
+03:49:36,504 --> 03:49:39,470
+Ik ben je koning.
+-Je was altijd al mijn koning.
+
+28
+03:49:39,887 --> 03:49:41,764
+Eens wist je dat ook.
+
+29
+03:49:43,099 --> 03:49:45,685
+Je ziet niet wat er
+van je geworden is.
+
+30
+03:49:49,146 --> 03:49:50,356
+Weg...
+
+31
+03:49:53,109 --> 03:49:54,402
+Ga weg.
+
+32
+03:49:56,904 --> 03:49:58,739
+Voordat ik je dood.
+
+33
+03:50:13,296 --> 03:50:17,599
+<i>Jij zit hier
+met een kroon op je hoofd.</i>
+
+34
+03:50:17,800 --> 03:50:19,844
+<i>En toch ben je minder
+dan je ooit bent geweest.</i>
+
+35
+03:50:20,094 --> 03:50:24,098
+<i>Een schat als deze is niet
+in levens uit te drukken.</i>
+
+36
+03:50:24,348 --> 03:50:26,350
+<i>Die schat is besmet.</i>
+
+37
+03:50:26,601 --> 03:50:28,978
+<i>De blinde ambitie
+van een dwergvorst.</i>
+
+38
+03:50:29,228 --> 03:50:30,479
+<i>Ben ik niet de koning?</i>
+
+39
+03:50:30,730 --> 03:50:32,064
+<i>Dit goud...</i>
+
+40
+03:50:32,315 --> 03:50:33,649
+<i>is van ons.</i>
+
+41
+03:50:33,899 --> 03:50:35,401
+<i>Alleen van ons.</i>
+
+42
+03:50:36,485 --> 03:50:39,030
+<i>Ik doe geen afstand...</i>
+
+43
+03:50:39,947 --> 03:50:42,199
+<i>van ook maar één munt.</i>
+
+44
+03:50:42,450 --> 03:50:44,243
+<i>Gedreven door zijn hebzucht.</i>
+
+45
+03:50:44,493 --> 03:50:46,996
+<i>Alsof ik een miezerige
+dwergvorst ben.</i>
+
+46
+03:50:47,246 --> 03:50:49,332
+<i>Thorin Eikenschild.</i>
+
+47
+03:50:49,582 --> 03:50:53,085
+<i>Een ziekte die je grootvader
+krankzinnig maakte.</i>
+
+48
+03:50:53,336 --> 03:50:54,962
+<i>Dit is Thorin...</i>
+
+49
+03:50:55,212 --> 03:50:57,889
+<i>zoon van Thraín, zoon van Thrór.</i>
+
+50
+03:50:58,090 --> 03:51:00,350
+<i>Ik ben niet mijn grootvader.</i>
+
+51
+03:51:00,551 --> 03:51:02,519
+<i>Jij bent de erfgenaam van Durins Troon.</i>
+
+52
+03:51:02,720 --> 03:51:04,646
+<i>Ze sterven daar.</i>
+
+53
+03:51:04,847 --> 03:51:06,106
+<i>Herover Erebor.</i>
+
+54
+03:51:06,307 --> 03:51:07,774
+<i>Daín is omsingeld.</i>
+
+55
+03:51:07,975 --> 03:51:08,976
+<i>Stervende.</i>
+
+56
+03:51:09,177 --> 03:51:10,277
+<i>Omsingeld.</i>
+
+57
+03:51:10,478 --> 03:51:11,528
+<i>Stervende.</i>
+
+58
+03:51:11,729 --> 03:51:14,565
+<i>Herover je thuisland.</i>
+
+59
+03:51:15,149 --> 03:51:17,318
+<i>U bent veranderd, Thorin.</i>
+
+60
+03:51:17,568 --> 03:51:19,195
+<i>Ik ben niet mijn grootvader.</i>
+
+61
+03:51:19,445 --> 03:51:22,490
+<i>Is deze schat meer waard
+dan uw eer?</i>
+
+62
+03:51:22,740 --> 03:51:24,867
+<i>Ik ben niet mijn grootvader.</i>
+
