@@ -1,0 +1,9 @@
+﻿1
+01:47:50,876 --> 01:47:52,502
+Er is een huis.
+
+2
+01:47:54,338 --> 01:47:58,216
+Niet ver van hier,
+daar kunnen we misschien schuilen.
+

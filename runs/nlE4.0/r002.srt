@@ -1,0 +1,28 @@
+﻿1
+00:01:54,100 --> 00:01:58,186
+<i>Het begon...
+Het begon zoals je zou verwachten.</i>
+
+2
+00:01:59,731 --> 00:02:04,609
+<i>In een hol onder de grond
+woonde een hobbit.</i>
+
+3
+00:02:06,487 --> 00:02:11,825
+<i>Geen naar, vies, nat hol,
+met wormen en een muffe lucht.</i>
+
+4
+00:02:12,201 --> 00:02:14,036
+<i>Dit was een hobbithol.</i>
+
+5
+00:02:14,412 --> 00:02:19,041
+<i>En dat betekent lekker eten,
+een warme haard...</i>
+
+6
+00:02:20,209 --> 00:02:22,961
+<i>en het gerief van thuis.</i>
+

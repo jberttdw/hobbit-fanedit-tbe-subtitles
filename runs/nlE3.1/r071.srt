@@ -1,0 +1,46 @@
+﻿1
+02:34:56,477 --> 02:34:58,102
+Wat is dit?
+
+2
+02:34:58,354 --> 02:35:00,035
+Dit was ooit de stad Dal.
+
+3
+02:35:01,649 --> 02:35:03,316
+Nu is het een ruïne.
+
+4
+02:35:04,068 --> 02:35:06,277
+De Woestenij van Smaug.
+
+5
+02:35:06,529 --> 02:35:08,446
+Het is bijna middag.
+
+6
+02:35:08,697 --> 02:35:12,033
+We moeten de deur vinden
+voor zonsondergang.
+
+7
+02:35:12,284 --> 02:35:14,227
+Wacht. Is dit de uitkijkpost?
+
+8
+02:35:14,485 --> 02:35:15,995
+Gandalf zou hierheen komen.
+
+9
+02:35:16,247 --> 02:35:17,872
+Zie je hem?
+
+10
+02:35:18,541 --> 02:35:20,833
+We hebben geen tijd om te wachten.
+
+11
+02:35:21,126 --> 02:35:23,477
+We moeten 't alleen doen.
+Kom mee.
+

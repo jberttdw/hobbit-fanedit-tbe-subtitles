@@ -1,0 +1,86 @@
+﻿1
+01:11:26,149 --> 01:11:28,775
+Waar is Bilbo?
+Waar is de hobbit?
+
+2
+01:11:30,236 --> 01:11:31,736
+Daar...
+
+3
+01:11:34,240 --> 01:11:35,866
+Help 'm.
+
+4
+01:11:37,410 --> 01:11:39,411
+Pak m'n hand.
+-Bilbo...
+
+5
+01:11:41,289 --> 01:11:42,664
+Pak beet.
+
+6
+01:11:44,000 --> 01:11:46,835
+Ik heb je.
+-Hou vast.
+
+7
+01:11:59,807 --> 01:12:01,558
+Kom maar.
+
+8
+01:12:04,645 --> 01:12:06,855
+Waren we bijna onze inbreker kwijt.
+
+9
+01:12:07,565 --> 01:12:10,108
+Hij is al de weg kwijt
+sinds zijn vertrek.
+
+10
+01:12:10,860 --> 01:12:14,821
+Hij had niet mee moeten gaan.
+Hij hoort niet bij ons.
+
+11
+01:12:16,699 --> 01:12:18,074
+Dwalin...
+
+12
+01:12:24,498 --> 01:12:27,167
+Het ziet er veilig uit.
+-Doorzoek alles.
+
+13
+01:12:27,501 --> 01:12:30,045
+Grotten zijn zelden onbewoond.
+
+14
+01:12:33,633 --> 01:12:35,967
+Er is hier niets.
+
+15
+01:12:37,678 --> 01:12:42,307
+Goed, we gaan een vuurtje maken.
+-Nee, geen vuur. Niet hier.
+
+16
+01:12:42,975 --> 01:12:46,853
+Ga slapen.
+We vertrekken bij zonsopgang.
+
+17
+01:12:47,563 --> 01:12:51,066
+We moeten hier wachten
+tot Gandalf er is.
+
+18
+01:12:51,442 --> 01:12:54,412
+Dat was het plan.
+-Plannen veranderen.
+
+19
+01:12:54,612 --> 01:12:57,572
+Bofur, eerste wacht.
+

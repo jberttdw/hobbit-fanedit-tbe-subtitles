@@ -1,0 +1,16 @@
+﻿1
+04:04:04,719 --> 04:04:06,429
+Haal Fíli en Kíli terug.
+
+2
+04:04:06,679 --> 04:04:08,180
+Thorin, weet je het zeker?
+
+3
+04:04:08,431 --> 04:04:09,515
+Doe het.
+
+4
+04:04:11,350 --> 04:04:13,060
+Dan kunnen we blijven strijden.
+
