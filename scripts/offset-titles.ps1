@@ -5,8 +5,11 @@ param (
     [string] $offsetsFile,
     [parameter(Mandatory=$true)]
     [string] $outputDir,
-    # Optional identifiers of the runs which should be modified. If not specified, all runs will by offset
-    [array] $runs
+    # Optional identifiers of the runs which should be modified. If not specified, all runs will be offset
+    [array] $runs,
+    # This switch will negate the offsets, i.e. instead of shifting something forward it will shift it backward.
+    # Handy to convert TBE x.x subtitles back to original timing of the source movies, then shift those to different edition timing.
+    [switch] $Reverse
 )
 
 Add-PathVariable -Target Process "C:\Program Files\Subtitle Edit\"
@@ -35,24 +38,14 @@ foreach ($runInfo in $offsets) {
         Write-Warning "Subtitle run '$runFile' file not found"
         continue;
     }
-    #$convertCommand = "SubtitleEdit.exe /convert $runFileName srt /outputfolder:$outputDir /offset:$($runInfo.Offset)"
-    #Invoke-Expression -Command $convertCommand
+    if ($Reverse) {
+        if ($runInfo.Diff.StartsWith("-")) {
+            $runInfo.Diff = $runInfo.Diff.Substring(1)
+        } else {
+            $runInfo.Diff = "-" + $runInfo.Diff
+        }
+    }
     $convertCommandArgs = "/convert", $runFileName, "srt", "/outputfolder:$outputDir", "/offset:$($runInfo.Diff)"
     Write-Host $convertCommandArgs
-    #$convertor = Start-Process -FilePath "C:\Program Files\Subtitle Edit\SubtitleEdit.exe" -ArgumentList $convertCommandArgs -NoNewWindow -PassThru
-    #$convertor.WaitForExit()
     Start-Process -FilePath "C:\Program Files\Subtitle Edit\SubtitleEdit.exe" -ArgumentList $convertCommandArgs -NoNewWindow -Wait
 }
-
-#$runs = Get-ChildItem -Path (Get-Location) -Filter "r*.srt" | ForEach-Object {
-#    if ($_.Name.Contains("_")) {
-#        $tempCnt = [int] ($_.Name.Substring(1, $_.Name.LastIndexOf("_") - 1));
-#    } else {
-#        $tempCnt = [int] ($_.Name.Substring(1, $_.Name.LastIndexOf(".") - 1));
-#    }
-#    Add-Member -InputObject $_ -Type NoteProperty -Name "Counter" -Value $tempCnt -PassThru
-#}
-#
-## Note about sorting: incrementing counters might cause conflicts when renaming file 1 to file 2 and file 2 exists, so we start renaming from the end
-#$runs | Sort-Object -Descending -Property Name | ? { $_.Counter -ge $startOffset } `
-#      | % { Move-Item -Path $_.FullName -Destination (Join-Path $_.DirectoryName ("r{0:d3}{1}" -f ($_.Counter + $amount),($_.Name.Substring(4))) ) }
