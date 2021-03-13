@@ -77,9 +77,11 @@ Function Remove-Captions {
         } elseif ($subtitle.Text -ne $text) {
             # Text has been modified, replace subtitle by an updated copy
             $alteredSubtitle = $subtitle.PsObject.Copy()
-            $alteredSubtitle.Text = $text
+            # Make sure to trim, a caption on the first line would leave that line empty, breaking the SRT
+            $alteredSubtitle.Text = $text.Trim()
             $output.Add($alteredSubtitle) > $null
         } else {
+            # No changes, copy subtitle
             $output.Add($subtitle) > $null
         }
     }
