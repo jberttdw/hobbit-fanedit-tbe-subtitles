@@ -59,8 +59,8 @@ public struct RunInfo {
     public RunInfo(int run, int film, bool extended, string canBeEmpty, string start, string end) {
         _run = run; _film = film; _extended = extended;
          _canBeEmpty = Boolean.Parse(canBeEmpty);
-        _start = DateTime.ParseExact(start, "hh:mm:ss,ff", CultureInfo.InvariantCulture);
-        _end = DateTime.ParseExact(end, "hh:mm:ss,ff", CultureInfo.InvariantCulture);
+        _start = DateTime.ParseExact(start, "hh:mm:ss,fff", CultureInfo.InvariantCulture);
+        _end = DateTime.ParseExact(end, "hh:mm:ss,fff", CultureInfo.InvariantCulture);
         _sourceFile = null;
     }
 
